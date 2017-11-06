@@ -22,7 +22,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
   line-height: 1;
-  font-family: helvetica, arial, sans;
+  font-family: raleway, helvetica, arial, sans;
 }
 blockquote, q {
   quotes: none;
@@ -53,27 +53,29 @@ a img {
 .header {
   background-color: #000;
   color: #fff;
+  opacity: 0.8;
+  position: fixed;
   width: 100%;
+  z-index: 25;
 }
 .header-logo {
   background-color: #000;
   box-sizing: border-box;
   display: block;
-  height: 14vh;
-  padding-top:1vh;
+  height: 12vh;
   position:relative;
   text-align: center;
-  width: 14vh;
+  width: 12vh;
 }
 .header-logo:hover, .header-logo:active {
-  opacity: 0.9;
+  opacity: 0.6;
 }
 .header-logo img {
-  width: 13vh;
+  width: 14vh;
 }
 .header-nav {
   float: right;
-  padding: 5.5vh 60px 0 0;
+  padding: 5vh 60px 0 0;
 }
 .header-nav > li {
   display: inline-block;
@@ -116,10 +118,6 @@ a img {
   height: 100vh;
   padding-top: 10vh;
 }
-.hero-home {
-  background-image: url(/images/dientes-edu.jpg);
-  background-position: center top;
-}
 .hero-content {
   color: #fff;
   position: relative;
@@ -130,6 +128,86 @@ a img {
 }
 .hero-content h1 {
   color: rgba(255, 255, 255, 0.8);
+  font-size: 9vw;
+  margin-bottom: 0.4em;
+}
+.hero-content h2 {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 2vw;
+  font-style: italic;
+  margin-bottom: 2em;
+}
+.hero-content .social-link {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #557c83;
+}
+.hero-content .social-link:hover {
+  opacity: 50%;
+}
+.hero-home {
+  background-image: url(/images/dientes-edu.jpg);
+  background-position: center center;
+}
+/*ABOUT US STYLES*/
+.about {
+  background-color: #fff;
+  background-size: cover;
+  box-sizing: border-box;
+  height: 100vh;
+  padding-left: 10vh;
+  padding-top: 10vh;
+}
+.about:before {
+  content: "";
+}
+.about-image {
+  background-color: #fff;
+  box-sizing: border-box;
+  display: block;
+  height: 12vh;
+  position:relative;
+  text-align: center;
+  width: 12vh;
+}
+.about-image img {
+  width: 50vh;
+}
+.about-text {
+  float: right;
+  padding: 1vh 60px 0 0;
+  width: 40%;
+}
+.about-text h1 {
+  color: rgba(0, 0, 0, 0.8);
   font-size: 7vw;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.4em;
+}
+
+/*SOCIAL LINKS*/
+.social-link {
+  background: rgba(150, 150, 150, 0.5);
+  border-radius: 99px;
+  box-sizing: border-box;
+  color: #fff;
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: bold;
+  height: 2.5em;
+  line-height: 1;
+  margin-bottom: 0.5em;
+  padding-top: 0.85em;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  width: 2.5em;
+}
+.social-link:hover, .social-link:active {
+  opacity: 0.7;
+}
+.social-list {
+  list-style: none;
+  padding: 0;
+}
+.social-list > li {
+  display: inline-block;
 }
