@@ -106,6 +106,7 @@ a img {
 }
 .footer h3 {
   color: #fff;
+  font-style: italic;
   padding-top: 1.5em;
   text-transform: lowercase;
 }
@@ -148,39 +149,48 @@ a img {
   background-image: url(/images/dientes-edu.jpg);
   background-position: center center;
 }
+
 /*ABOUT US STYLES*/
-.about {
+.about-home {
   background-color: #fff;
   background-size: cover;
   box-sizing: border-box;
   height: 100vh;
-  padding-left: 10vh;
+  margin-top: 10vh;
+  padding-left: 10vw;
   padding-top: 10vh;
-}
-.about:before {
-  content: "";
+  position: relative;
+  width: 100%;
 }
 .about-image {
   background-color: #fff;
   box-sizing: border-box;
   display: block;
-  height: 12vh;
-  position:relative;
+  position: relative;
   text-align: center;
-  width: 12vh;
+  width: 40%;
 }
 .about-image img {
-  width: 50vh;
+  width: 20vh;
 }
 .about-text {
   float: right;
-  padding: 1vh 60px 0 0;
-  width: 40%;
+  padding: 5vh 60px 0 0;
+  width: 60%;
 }
 .about-text h1 {
   color: rgba(0, 0, 0, 0.8);
   font-size: 7vw;
   margin-bottom: 0.4em;
+}
+
+/*CONTACT HOME STYLES*/
+.contact-home {
+  background-image: url(/images/contact-us.jpg);
+  background-position: center center;
+}
+.contact-home h1, .contact-home h2 {
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /*SOCIAL LINKS*/
