@@ -21,8 +21,8 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 body {
-  line-height: 1;
-  font-family: raleway, helvetica, arial, sans;
+  font-family: helvetica, arial, sans;
+  line-height: 1.5;
 }
 blockquote, q {
   quotes: none;
@@ -48,7 +48,16 @@ a img {
 /* END RESET*/
 
 /*GLOBAL STYLES */
-
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.content-container {
+  flex: 1 1 auto;
+  padding-top: 12vh;
+  width: 100%;
+}
 /*HEADER STYLES */
 .header {
   background-color: #000;
@@ -113,11 +122,10 @@ a img {
 
 /*HERO STYLES*/
 .full-hero {
-  background-color: #c7dbfc;
+  background-color: #fff;
   background-size: cover;
   box-sizing: border-box;
-  height: 100vh;
-  padding-top: 10vh;
+  height: 90vh;
 }
 .hero-content {
   color: #fff;
@@ -151,43 +159,42 @@ a img {
 }
 
 /*ABOUT US STYLES*/
-.about-home {
+.home-callout {
+  align-items: center;
   background-color: #fff;
-  background-size: cover;
   box-sizing: border-box;
-  height: 100vh;
-  margin-top: 10vh;
-  padding-left: 10vw;
-  padding-top: 10vh;
-  position: relative;
-  width: 100%;
+  display: flex;
+  align-items: center;
+  height: 90vh;
+  padding: 7vh 0;
 }
-.about-image {
-  background-color: #fff;
+.callout-copy {
   box-sizing: border-box;
-  display: block;
-  position: relative;
+  flex: 1 1 50%;
+  font-size: 0.8rem;
+  padding: 5vh 3vw;
+}
+.callout-image {
+  box-sizing: border-box;
   text-align: center;
-  width: 40%;
+  flex: 1 1 50%;
+  height: inherit;
+  padding: 10vh 3vw;
 }
-.about-image img {
-  width: 20vh;
+.callout-image img{
+  max-height: 100%;
+  max-width: 100%;
 }
-.about-text {
-  float: right;
-  padding: 5vh 60px 0 0;
-  width: 60%;
-}
-.about-text h1 {
+.callout-title {
   color: rgba(0, 0, 0, 0.8);
   font-size: 7vw;
-  margin-bottom: 0.4em;
+  text-align: center;
 }
 
 /*CONTACT HOME STYLES*/
 .contact-home {
   background-image: url(/images/contact-us.jpg);
-  background-position: center center;
+  background-position: bottom center;
 }
 .contact-home h1, .contact-home h2 {
   color: rgba(0, 0, 0, 0.9);
