@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Trail Running at the End of the World - Dientes de Navarino
+title: Trail Running At The End Of The World - Dientes De Navarino
 postHero: /images/dientes-edu.jpg
 author: sóijen
+description: 
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 Our first post on sóijen! And what better way to inaugurate our new blog then to write about our latest adventure at the end of the world.
