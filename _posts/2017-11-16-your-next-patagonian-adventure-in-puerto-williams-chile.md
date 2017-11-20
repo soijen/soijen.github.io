@@ -3,6 +3,7 @@ layout: post
 title: Your Next Patagonian Adventure in Puerto Williams, Chile
 postHero: /images/contact-us.jpg
 author: sóijen
+description: 
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 If you want to experience the end of the world – surrounded by the southernmost channels and fjords before Antarctic waters, backpacking or trail running the remote trails, or simply escaping the craziness of everyday life – Puerto Williams is your next destination.
