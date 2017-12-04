@@ -61,7 +61,7 @@ h1 {
   font-weight: bold;
 }
 h2, h4 {
-  color: #999;
+  color: #777;
   font-weight: bold;
 }
 .content-container {
@@ -157,7 +157,6 @@ textarea {
 .post .img-caption {
   font-size: 0.8em;
   font-style: italic;
-  text-transform: lowercase;
 }
 .post .image {
   background-position: center;
@@ -238,7 +237,6 @@ textarea {
   align-items: center;
   background-color: #fff;
   box-sizing: border-box;
-  color: #000;
   display: flex;
   flex-direction: column;
   height: 18vh;
@@ -265,7 +263,7 @@ textarea {
   margin-left: 2em;
 }
 .header-nav a {
-  color: #000;
+  color: #666;
   font-size: 0.9rem;
   font-weight: bold;
   text-decoration: none;
@@ -278,10 +276,10 @@ textarea {
   color: #00b6ff;
 }
 .header-nav > li:last-child a:hover {
-  color: #000;
+  color: #666;
 }
 .header-nav a, .drop-trigger {
-  color: #000;
+  color: #666;
 }
 .nav-links a, .drop-trigger, .show-mobile-menu {
   font-size: 0.8rem;
@@ -399,22 +397,30 @@ textarea {
 }
 .hero-content {
   color: #fff;
+  padding-left: 2vh;
   position: relative;
   text-align: center;
   text-transform: lowercase;
-  top: 50%;
+  top: 25%;
   transform: translate(0, -50%);
 }
+.hero-content a {
+  color: #fff;
+  text-decoration: none;
+}
+.hero-content a:hover, .hero-content a:active {
+  color: #00b6ff;
+}
 .hero-content h1 {
-  color: rgba(255, 255, 255, 0.8);
-  font-size: 9vw;
+  font-size: 8vh;
+  font-weight: bold;
+  letter-spacing: 0.1em;
   margin-bottom: 0.4em;
 }
 .hero-content h2 {
-  color: rgba(255, 255, 255, 0.8);
-  font-size: 2vw;
-  font-style: italic;
-  margin-bottom: 2em;
+  color: #fff;
+  font-size: 4vh;
+  margin-top: 3vh;
 }
 .hero-about {
   background-image: url(/images/about-us-square.jpg);
@@ -426,6 +432,10 @@ textarea {
 }
 .hero-home {
   background-image: url(/images/dientes-edu.jpg);
+  background-position: center center;
+}
+.hero-home2 {
+  background-image: url(/images/contact.jpg);
   background-position: center center;
 }
 .hero-posts {
@@ -446,18 +456,25 @@ textarea {
 .callout-copy {
   box-sizing: border-box;
   flex: 1 1 auto;
-  font-size: 0.8rem;
-  line-height: 2;
+  font-size: 1.3rem;
+  line-height: 3;
+  padding: 5vh 0;
   text-align: center;
 }
+.callout-copy p {
+  padding-bottom: 2vh;
+}
 .callout-copy h3 {
-  font-size: 1rem;
+  font-size: 1.4rem;
   font-style: italic;
 }
 .callout-title {
+  color:#666;
   flex: 1 1 auto;
-  font-size: 5vw;
+  font-size: 4vw;
+  letter-spacing: 0.1em;
   text-align: center;
+  text-transform: lowercase;
   padding-bottom: 1.5vh;
 }
 
@@ -558,7 +575,7 @@ textarea {
   }
   .header-nav > li {
     display: block;
-    margin-top: 1em;
+    margin-top: 1.5em;
   }
   .header-nav li ~ li {
     border: 0;

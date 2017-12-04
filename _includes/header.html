@@ -10,15 +10,14 @@
       <li><a href="/about-us">About Us</a></li>
       <li><a href="/contact">Contact</a></li>
       <li class="dropdown">
-        <a class="drop-trigger" href="/blog">Blog</a>
+        <a class="drop-trigger" href="/adventures">Adventures</a>
         <ul class="drop-menu">
-          <li>Recent Posts</li>
+          <li></li>
           {% for post in site.posts limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
         </ul>
       </li>
-      <li><a href="/patagonia-unexplored">patagonia unexplored</a></li>
     </ul>
   </nav>
 </header>
