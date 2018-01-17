@@ -14,21 +14,63 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: sóijen | patagonia [un]explored
-email: hola@sóijen.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+email: info@soijen.com
+description:
+  en: The English Soijen Site
+  es: Pagina Web en Español
+index:
+  en:
+  es: inicio.html
+lang: ["En", "Es"]
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.soijen.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: soijen_
-permalink: /:year/:month/:title.html
+permalink: /:title/
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
+
+include: ["_pages"]
+
+defaults:
+  #languages
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"
+      baseurl: ""
+  -
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+      baseurl: "/es/"
+
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/"
+    about:
+      name: "About"
+      url: "/about/"
+    contact:
+      name: "Contact"
+      url: "/contact/"
+  es:
+      home:
+        name: "Inicio"
+        url: "/inicio/"
+      about:
+        name: "Sobre Nosotros"
+        url: "/sobre-nosotros/"
+      contact:
+        name: "Contacto"
+        url: "/Contacto/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -48,20 +48,26 @@ a img {
 /* END RESET*/
 
 /*GLOBAL STYLES */
+a {
+  text-decoration: none;
+}
 body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 h1,h2,h3,h4,h5,h6 {
+  color: #666;
   font-family: 'Raleway', helvetica, sans;
   font-weight: 100;
 }
 h1 {
-  font-weight: bold;
+  letter-spacing: 0.2em;
+  margin-bottom: 1rem;
+  text-align: center;
+  text-transform: capitalize;
 }
-h2, h4 {
-  color: #777;
+h1, h2, h4 {
   font-weight: bold;
 }
 .content-container {
@@ -82,8 +88,8 @@ textarea {
   box-sizing: border-box;
   display: block;
   font-family: inherit;
-  padding: 1vh 1vh;
   margin: 4vh 0;
+  padding: 1vh 1vh;
   text-align: left;
   width: 100%;
 }
@@ -109,18 +115,15 @@ textarea {
 .page a {
   color: #00b6ff;
   font-weight: bold;
-  text-decoration: none;
-  text-transform: lowercase;
 }
 .page a:hover, .page a:active {
   color: #000;
 }
 .page h1 {
   font-size: 3em;
-  margin-bottom: 1em;
-  text-align: center;
 }
 .page h2 {
+  font-size: 1.5em;
   margin: 2em 0 1em;
 }
 .page h4 {
@@ -161,8 +164,8 @@ textarea {
 .post .image {
   background-position: center;
   background-size: cover;
-  width: 100%;
   margin-bottom: 0.5em;
+  width: 100%;
 }
 .post .post-header {
   margin-bottom: 2.5em;
@@ -170,13 +173,13 @@ textarea {
   text-transform: capitalize;
 }
 .post-aside {
+  border: 3px dashed #00b6ff;
+  border-radius: 4px;
+  box-sizing: border-box;
   float: right;
   font-size: 0.8em;
   margin: 0 0 2em 2em;
   padding: 1em 2em;
-  border: 3px dashed #00b6ff;
-  border-radius: 4px;
-  box-sizing: border-box;
   width: 15vw;
 }
 .post-aside ul {
@@ -188,7 +191,6 @@ textarea {
 .post-aside a {
   color: #000;
   font-weight: bold;
-  text-decoration: none;
   text-transform: capitalize;
 }
 .post-aside a:hover, .page a:active {
@@ -209,14 +211,14 @@ textarea {
 }
 .post-footer {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
-  font-style: italic;
   font-size: 0.8em;
+  font-style: italic;
   margin-top: 3em;
   padding-top: 2em;
 }
 .post .bullets {
-  padding: 0 2em;
   margin-bottom: 1em;
+  padding: 0 2em;
 }
 .post .bullets li {
   list-style: none;
@@ -266,8 +268,6 @@ textarea {
   color: #666;
   font-size: 0.9rem;
   font-weight: bold;
-  text-decoration: none;
-  text-transform: capitalize;
 }
 .header-nav a:hover, .header-nav a:active {
   color: #00b6ff;
@@ -281,11 +281,19 @@ textarea {
 .header-nav a, .drop-trigger {
   color: #666;
 }
+.en:lang(en), .es:lang(es) {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #666;
+    border-bottom: 4px dotted rgba(1, 1, 1, 0.3);
+}
+.langselect li {
+    display: inline-block;
+    padding: 1px;
+}
 .nav-links a, .drop-trigger, .show-mobile-menu {
   font-size: 0.8rem;
   font-weight: bold;
-  text-decoration: none;
-  text-transform: uppercase;
 }
 
 /* DROPDOWN STYLES */
@@ -379,10 +387,10 @@ textarea {
   color: #fff;
 }
 .top-shortcut {
+  bottom: 5vh;
   color: #00b6ff;
   position: fixed;
   right: 7vh;
-  bottom: 5vh;
 }
 .top-shortcut a:active, .top-shortcut a:hover {
 
@@ -406,36 +414,31 @@ textarea {
 }
 .hero-content a {
   color: #fff;
-  text-decoration: none;
 }
 .hero-content a:hover, .hero-content a:active {
   color: #00b6ff;
 }
 .hero-content h1 {
-  font-size: 8vh;
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  margin-bottom: 0.4em;
+  font-size: 2rem;
 }
 .hero-content h2 {
   color: #fff;
-  font-size: 4vh;
-  margin-top: 3vh;
+  font-size: 1.4rem;
 }
 .hero-about {
   background-image: url(/images/about-us-square.jpg);
   background-position: 40% 35%;
 }
 .hero-contact {
-  background-image: url(/images/contact.jpg);
+  background-image: url(/images/dientes/j-paso-snow.jpg);
   background-position: 40% 40%;
 }
 .hero-home {
-  background-image: url(/images/dientes-edu.jpg);
+  background-image: url(/images/dientes/dientes-edu.jpg);
   background-position: center center;
 }
 .hero-home2 {
-  background-image: url(/images/contact.jpg);
+  background-image: url(/images/dientes/j-paso-snow.jpg);
   background-position: center center;
 }
 .hero-posts {
@@ -456,26 +459,21 @@ textarea {
 .callout-copy {
   box-sizing: border-box;
   flex: 1 1 auto;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   line-height: 3;
   padding: 5vh 0;
   text-align: center;
 }
 .callout-copy p {
-  padding-bottom: 2vh;
+  padding-bottom: 1vh;
 }
 .callout-copy h3 {
   font-size: 1.4rem;
   font-style: italic;
 }
 .callout-title {
-  color:#666;
   flex: 1 1 auto;
-  font-size: 4vw;
-  letter-spacing: 0.1em;
-  text-align: center;
-  text-transform: lowercase;
-  padding-bottom: 1.5vh;
+  font-size: 2rem;
 }
 
 /*SOCIAL LINKS*/
@@ -492,7 +490,6 @@ textarea {
   margin-bottom: 0.5em;
   padding-top: 0.85em;
   text-align: center;
-  text-decoration: none;
   vertical-align: middle;
   width: 2.5em;
 }
@@ -542,8 +539,8 @@ textarea {
     padding: 0;
   }
   .header-logo {
-    padding-top: 1em;
     padding-left: 2em;
+    padding-top: 1em;
     position: relative;
     text-align: left;
   }
@@ -607,9 +604,9 @@ textarea {
     left: 0;
     padding-right: 2em;
     position: absolute;
+    text-align: center;
     top: 2em;
     width: 100%;
-    text-align: center;
     z-index: 10;
   }
   /* HOME STYLES */

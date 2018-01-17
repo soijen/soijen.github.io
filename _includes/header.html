@@ -6,18 +6,32 @@
     <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
     <label for="mobile-menu" class="show-mobile-menu"><i class="fa fa-bars"></i></label>
     <ul class="header-nav">
-      <li><a href="/">Home</a></li>
-      <li><a href="/about-us">About Us</a></li>
-      <li><a href="/contact">Contact</a></li>
+      {% for menu in site.t[page.lang] %}
+        <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+      {% endfor %}
       <li class="dropdown">
-        <a class="drop-trigger" href="/adventures">Adventures</a>
+        {% if page.lang == 'en' %}
+          <a class="drop-trigger" href="/blog/">Blog</a>
+        {% endif %}
+        {% if page.lang == 'es' %}
+          <a class="drop-trigger" href="/es/blog/">Blog</a>
+        {% endif %}
         <ul class="drop-menu">
           <li></li>
-          {% for post in site.posts limit:5 %}
+          {% assign posts=site.posts | where:"lang", page.lang %}
+          {% for post in posts limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
         </ul>
       </li>
+      <li>
+        {% if page.lang == 'en' %}
+          <a href="/patagonia-unexplored/">patagonia [un]explored</a></li>
+        {% endif %}
+        {% if page.lang == 'es' %}
+          <a href="/es/patagonia-unexplored/">patagonia [un]explored</a></li>
+        {% endif %}
+      <li><span class="langselect">{% include langselect.html %}</span></li>
     </ul>
   </nav>
 </header>

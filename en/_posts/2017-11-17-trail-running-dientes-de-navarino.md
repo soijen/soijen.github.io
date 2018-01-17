@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Trail Running At The End Of The World - Dientes De Navarino
-postHero: /images/dientes/e-dientes.jpg
 author: sóijen
 description:
-permalink:
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
+ref: trail-running-dientes
+permalink: /trail-running-dientes-de-navarino/
+postHero: /images/dientes/dientes-edu.jpg
 ---
 Our first post on sóijen! And what better way to inaugurate our new blog then to write about our latest adventure at the end of the world.
 
@@ -79,13 +79,13 @@ The last leg of the circuit was the most challenging. Tired legs (and paws) and 
 </figure>
 
 <h2>Recommendations</h2>
-<ol>
+<ul class="post-stats bullets">
   <li>Register your trekking plans before you leave with the Carabineros (police) located in Puerto Williams.</li>
   <li>Purchase a trekking map in town (~4000 CLP). We got ours from Turismo Aventura Shila.</li>
   <li>Download the GPS waypoints to your watch/GPS device. The map is not enough. Also study up on the route description published by the Ministerio de Bienes Nacionales.</li>
   <li>Plan your trip in the late spring/summer to maximize the daylight hours, especially if you plan to do the trek in one push. During our trip we had sunlight between 4:30 AM -  10:30 PM.</li>
   <li>Trekking poles a must! Much of the route involves ascents/descents in rocky terrain.</li>
   <li>Gaiters are helpful, especially for the extremely muddy areas (ie the second half of the trek).</li>
-  <li>Don't forget sunblock and sunglasses - even if it is cloudy. Remember there is a hole over the ozone layer in this part of Chile. We forgot these and our faces regretted it afterwards.</li>
-  <li>There is plenty of water on route so carrying a liter at a time should be more than enough.</li>
-</ol>
+  <li>Don't forget sunblock and sunglasses - even if it is cloudy.</li>
+  <li>There is plenty of water on route so carrying a liter at a time should be more than enough. Purify water when there's beaver activity nearby.</li>
+</ul>

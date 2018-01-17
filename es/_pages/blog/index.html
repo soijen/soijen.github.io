@@ -1,12 +1,15 @@
 ---
 layout: default
-title: sóijen | adventures
-description: Guides for adventures in Patagonia.
+title: sóijen | blog
+description: Blog of our adventures in Patagonia.
+ref: blog
+permalink: "/es/blog/"
 ---
 <div class="page blog-index">
-  <h1>Adventures</h1>
+  <h1>Blog</h1>
     <div class="blog-previews">
-      {% for post in site.posts %}
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in posts %}
       <div class="blog-posts">
         <div class="posts-image" style="background-image:url({{ post.postHero }})"></div>
         <header class="post-header">
@@ -19,6 +22,6 @@ description: Guides for adventures in Patagonia.
         {{ post.excerpt }}
         <a href="{{ post.url }}">read more...</a>
       </div>
-      {% endfor %}
+    {% endfor %}
     </div>
 </div>

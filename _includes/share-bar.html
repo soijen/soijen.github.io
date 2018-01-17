@@ -1,5 +1,10 @@
 <div class="share-bar social-list">
+  {% if page.lang == 'en' %}
   <span class="post-byline">share this post on </span>
+  {% endif %}
+  {% if page.lang == 'es' %}
+    <span class="post-byline">compartir con </span>
+  {% endif %}
   <li>
     <a href="mailto:?subject={{ page.title }}&amp;body=Check out this site {{ site.url }}{{ site.baseurl }}{{ page.url }}"
             title="Share via Email" class="social-link">
