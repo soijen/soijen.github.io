@@ -16,12 +16,9 @@
 title: sóijen | patagonia [un]explored
 email: info@soijen.com
 description:
-  en: The English Soijen Site
-  es: Pagina Web en Español
-index:
-  en:
-  es: inicio.html
-lang: ["En", "Es"]
+  en: At Sóijen we are outdoor adventurers who connect fellow explorers to untapped regions of Patagonia.
+  es: En Sóijen somos aventureros de actividades al aire libre, quienes conectamos otros exploradores con la regiones inexploradas de la Patagonia.
+lang: ["Eng", "Esp"]
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.soijen.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: soijen_
@@ -29,9 +26,6 @@ permalink: /:title/
 
 # Build settings
 markdown: kramdown
-#theme: minima
-#plugins:
-#  - jekyll-feed
 
 include: ["_pages"]
 
@@ -39,19 +33,20 @@ defaults:
   #languages
   -
     scope:
-      path: ""
+      path: "en"
     values:
-      lang: "en"
+      lang: "eng"
       baseurl: ""
   -
     scope:
       path: "es"
     values:
-      lang: "es"
+      lang: "esp"
       baseurl: "/es/"
 
+#menu translations
 t:
-  en:
+  eng:
     home:
       name: "Home"
       url: "/"
@@ -61,7 +56,7 @@ t:
     contact:
       name: "Contact"
       url: "/contact/"
-  es:
+  esp:
       home:
         name: "Inicio"
         url: "/inicio/"

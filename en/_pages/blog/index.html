@@ -11,12 +11,12 @@ permalink: "/blog/"
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
       <div class="blog-posts">
-        <div class="posts-image" style="background-image:url({{ post.postHero }})"></div>
+        <a href="{{ post.url }}"><div class="posts-image" style="background-image:url({{ post.postHero }})"></div></a>
         <header class="post-header">
           <h2>{{ post.title }}</h2>
           <div class="post-byline">
             by {{ post.author }}
-            <span> | {{ post.date | date: '%B %d, %Y' }}</span>
+            <span> | {% include date.html date=post.date %} {{ day }} {{ month }} {{ year }}</span>
           </div>
         </header>
         {{ post.excerpt }}

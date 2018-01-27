@@ -10,10 +10,10 @@
         <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
       {% endfor %}
       <li class="dropdown">
-        {% if page.lang == 'en' %}
+        {% if page.lang == 'eng' %}
           <a class="drop-trigger" href="/blog/">Blog</a>
         {% endif %}
-        {% if page.lang == 'es' %}
+        {% if page.lang == 'esp' %}
           <a class="drop-trigger" href="/es/blog/">Blog</a>
         {% endif %}
         <ul class="drop-menu">
@@ -25,10 +25,10 @@
         </ul>
       </li>
       <li>
-        {% if page.lang == 'en' %}
+        {% if page.lang == 'eng' %}
           <a href="/patagonia-unexplored/">patagonia [un]explored</a></li>
         {% endif %}
-        {% if page.lang == 'es' %}
+        {% if page.lang == 'esp' %}
           <a href="/es/patagonia-unexplored/">patagonia [un]explored</a></li>
         {% endif %}
       <li><span class="langselect">{% include langselect.html %}</span></li>

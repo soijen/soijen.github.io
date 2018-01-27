@@ -179,6 +179,7 @@ textarea {
   float: right;
   font-size: 0.8em;
   margin: 0 0 2em 2em;
+  overflow-x: hidden;
   padding: 1em 2em;
   width: 15vw;
 }
@@ -215,6 +216,10 @@ textarea {
   font-style: italic;
   margin-top: 3em;
   padding-top: 2em;
+}
+.post-nav {
+  margin-top: 4em;
+  text-align: center;
 }
 .post .bullets {
   margin-bottom: 1em;
@@ -281,7 +286,7 @@ textarea {
 .header-nav a, .drop-trigger {
   color: #666;
 }
-.en:lang(en), .es:lang(es) {
+.eng:lang(eng), .esp:lang(esp) {
     font-weight: bold;
     font-size: 1.1em;
     color: #666;
@@ -430,15 +435,15 @@ textarea {
   background-position: 40% 35%;
 }
 .hero-contact {
-  background-image: url(/images/dientes/j-paso-snow.jpg);
+  background-image: url(/images/isla-navarino/dientes/j-paso-snow.jpg);
   background-position: 40% 40%;
 }
 .hero-home {
-  background-image: url(/images/dientes/dientes-edu.jpg);
+  background-image: url(/images/isla-navarino/dientes/dientes-edu.jpg);
   background-position: center center;
 }
 .hero-home2 {
-  background-image: url(/images/dientes/j-paso-snow.jpg);
+  background-image: url(/images/isla-navarino/dientes/j-paso-snow.jpg);
   background-position: center center;
 }
 .hero-posts {
@@ -465,7 +470,7 @@ textarea {
   text-align: center;
 }
 .callout-copy p {
-  padding-bottom: 1vh;
+  padding-bottom: 1.5vh;
 }
 .callout-copy h3 {
   font-size: 1.4rem;
@@ -474,6 +479,7 @@ textarea {
 .callout-title {
   flex: 1 1 auto;
   font-size: 2rem;
+  text-align: center;
 }
 
 /*SOCIAL LINKS*/
@@ -521,6 +527,16 @@ textarea {
   color: #000;
   margin-left: 1em;
   padding-top: 0.75em;
+}
+
+@media (max-width: 975px) {
+  .post-aside {
+    display: none;
+  }
+  .header-nav .dropdown:hover .drop-menu,
+  .header-nav .drop-trigger:after, .top-shortcut {
+    display: none;
+  }
 }
 
 @media (max-width: 800px) {
@@ -586,10 +602,6 @@ textarea {
   }
 
   /* HIDE DROPDOWN IN THE NAV MENU */
-  .header-nav .dropdown:hover .drop-menu,
-  .header-nav .drop-trigger:after, .top-shortcut {
-    display: none;
-  }
   .header-nav .drop-trigger {
     padding-right: 0;
   }
@@ -614,9 +626,6 @@ textarea {
     padding: 5vh 9vw;
   }
   /* BLOG STYLES */
-  .post-aside {
-    display: none;
-  }
   .post-byline {
     display: block;
     margin-bottom: 1em;
