@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corriendo al sur del mundo - Los Dientes De Navarino
+title: Corriendo al Sur del Mundo - Los Dientes De Navarino
 author: sóijen
 description: Dientes de Navarino - Nuestra aventura en el sendero más austral del mundo, junto a recomendaciones para terminar el circuito en un día.
 ref: trail-running-dientes-de-navarino

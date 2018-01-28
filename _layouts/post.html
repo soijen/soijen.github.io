@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+{% include twitter-card.html %}
+{% include openGraph.html %}
 
 <div class="post">
   <div class="full-hero hero-posts" style="background-image:url({{ page.postHero }})"></div>
-
   <article class="page">
     <header class="post-header">
       <h1>{{ page.title }}</h2>
@@ -35,7 +36,7 @@ layout: default
             previous
             {% endif %}
             {% if page.lang == 'esp' %}
-            anterior 
+            anterior
             {% endif %}
           </a>
         {% endif %}
@@ -67,6 +68,5 @@ layout: default
       {% endif %}
     {% endfor %}
     </div>
-
   </article>
 </div>

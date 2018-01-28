@@ -59,13 +59,13 @@ t:
   esp:
       home:
         name: "Inicio"
-        url: "/inicio/"
+        url: "/es/"
       about:
         name: "Sobre Nosotros"
-        url: "/sobre-nosotros/"
+        url: "/es/about/"
       contact:
         name: "Contacto"
-        url: "/Contacto/"
+        url: "/es/contact/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

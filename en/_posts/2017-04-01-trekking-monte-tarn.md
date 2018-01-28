@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monte Tarn - The Trek That Keeps Us Coming Back
+title: Monte Tarn - The Trek that Keeps Us Coming Back
 author: sóijen
 description: This iconic trek south of Punta Arenas will give you incredible views over the Strait of Magellan and the Brunswick Peninsula.
 ref: trek-tarn

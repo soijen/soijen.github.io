@@ -67,7 +67,7 @@ h1 {
   text-align: center;
   text-transform: capitalize;
 }
-h1, h2, h4 {
+h1, h2, h3, h4 {
   font-weight: bold;
 }
 .content-container {
@@ -410,7 +410,6 @@ textarea {
 }
 .hero-content {
   color: #fff;
-  padding-left: 2vh;
   position: relative;
   text-align: center;
   text-transform: lowercase;
@@ -425,6 +424,7 @@ textarea {
 }
 .hero-content h1 {
   font-size: 2rem;
+  color: #505050;
 }
 .hero-content h2 {
   color: #fff;
@@ -435,8 +435,8 @@ textarea {
   background-position: 40% 35%;
 }
 .hero-contact {
-  background-image: url(/images/isla-navarino/dientes/j-paso-snow.jpg);
-  background-position: 40% 40%;
+  background-image: url(/images/sophia/benitez.jpg);
+  background-position: center center;
 }
 .hero-home {
   background-image: url(/images/isla-navarino/dientes/dientes-edu.jpg);
@@ -448,6 +448,19 @@ textarea {
 }
 .hero-posts {
   background-position: center center;
+}
+.videoWrapper {
+  overflow: hidden;
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.videoWrapper iframe {
+  width: 75%;
+  height: 75%;
+  position: absolute;
+  top: 0;
+  left: 12.5%;
 }
 
 /* CALLOUT STYLES */

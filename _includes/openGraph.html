@@ -1,0 +1,15 @@
+{% if page.lang == 'eng' %}
+  <meta property="og:locale" content="en_US">
+{% endif %}
+{% if page.lang == 'esp' %}
+  <meta property="og:locale" content="es_CL">
+{% endif %}
+<meta property="og:type" content="article">
+<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}{{ page.postHero }}" />
+<meta property="og:site_name" content="Sóijen">
+<meta property="article:publisher" content="https://www.facebook.com/soijen" />
+<meta property="article:author" content="https://www.facebook.com/soijen" />
+<meta property="article:published_time" content="{{ page.date }}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">

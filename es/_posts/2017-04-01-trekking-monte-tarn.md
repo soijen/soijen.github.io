@@ -7,7 +7,7 @@ ref: trek-tarn
 permalink: es/trekking-monte-tarn/
 postHero: /images/monte-tarn/e-2013-summit.jpg
 ---
-Monte Tarn (825 metros de altura) se encuentra a 70 km al sur de la ciudad de Punta Arenas, un poco mas allá del final de la ruta 9. El sendero hacia la cima ha sido nuestro favorito desde que vivimos en Punta Arenas en el año 2013 (mira de cerca nuestro logo). Mucho ha cambiado desde esa fecha. La ruta se amplio hasta casi el inicio de la caminata. Ahora el sendero se encuentra mas señalizado, incluso hay una bandera en la cima. Aunque ya no se siente tan salvaje como antes, la increibles vistas al Estrecho de Magallanes y la Península de Brunswick son difíciles de resistir.
+Monte Tarn (825 metros de altura) se encuentra a 70 km al sur de la ciudad de Punta Arenas, un poco mas allá del final de la ruta 9. El sendero hacia la cima ha sido nuestro favorito desde que vivimos en Punta Arenas en el año 2013 (mira de cerca nuestro logo). Mucho ha cambiado desde esa fecha. La ruta se amplió hasta casi el inicio de la caminata, ahora el sendero se encuentra más señalizado e incluso hay una bandera en la cima. Aunque ya no se siente tan salvaje como antes, las increíbles vistas al Estrecho de Magallanes y la Península de Brunswick son difíciles de resistir.
 
 <h2>Descripción</h2>
 <ul class="post-stats bullets">
@@ -19,7 +19,7 @@ Monte Tarn (825 metros de altura) se encuentra a 70 km al sur de la ciudad de Pu
 </ul>
 
 <h2>Nuestra Experiencia</h2>
-El 21 de Diciembre del año 2016, el incendio forestal de San Juan fue contenido y Carabineros abrió la ruta hacia el sur, decidimos inmediatamente tomar esa oportunidad e ir en busca de la cima del Monte Tarn. Que mejor manera de disfrutar del solticio de verano. Comenzamos nuestra caminata  por la costa del Estrecho de Magallanes con un cielo azul. El ascenso lo realizamos muy rápido ya que el clima se notaba nos esperaba con lluvia, agua nieve, granizo a medida que nos internábamos en el montaña. El frio y el viento se volvieron insostenibles  a medida que llegabamos a la cima. Estábamos tan cerca, pero no queriamos tomar esa riesgo. A solo 30 minutos de la cima decidimos regresar. La cima de la montaña estaba totalmente cubierta por nubes de tormenta. Monte Tarn ganó esta vez pero volveremos por más aventuras.
+El 21 de Diciembre del año 2016, el incendio forestal de San Juan fue contenido y Carabineros abrió la ruta hacia el sur, decidimos inmediatamente tomar esa oportunidad e ir en busca de la cima del Monte Tarn. Que mejor manera de disfrutar del solticio de verano. Comenzamos nuestra caminata  por la costa del Estrecho de Magallanes con un cielo azul. El ascenso lo realizamos muy rápido ya que el tiempo cambiaba entre sol, lluvia, agua nieve y granizo. El frio y el viento se volvieron insostenibles a medida que llegabamos a la cima. Estábamos tan cerca, pero con estas condiciones no queríamos arriesgarnos. A solo 30 minutos de la cima decidimos regresar. La cima de la montaña estaba totalmente cubierta por nubes de tormenta. Monte Tarn ganó esta vez pero volveremos por más aventuras.
 
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/road.jpg"

@@ -7,7 +7,7 @@ ref: visit-puerto-williams
 permalink: es/visit-puerto-williams/
 postHero: /images/isla-navarino/pw/sea.jpg
 ---
-Imagina estar mas allá del fin del mundo, rodeado de los canales y montañas mas australes, antes de llegar a las aguas antárticas. Ahora piensa estar caminando por los remotos senderos de esta lugar con tu mochila, ubicar tu carpa y beber del agua más pura del mundo. Si todavía no te convences te invitamos a escapar de tu rutina diaria y visitar Puerto Williams en la Isla de Navarino tu sifuiente aventura en la Patagonia.
+Imagina estar mas allá del fin del mundo, rodeado de los canales y montañas mas australes, antes de llegar a las aguas antárticas. Ahora piensa estar caminando por los remotos senderos de esta lugar con tu mochila, ubicar tu carpa y beber del agua más pura del mundo. Si todavía no te convences te invitamos a escapar de tu rutina diaria y visitar Puerto Williams en la Isla de Navarino tu siguiente aventura en la Patagonia.
 
 <h2>¿Dónde está Puerto Williams?</h2>
 
@@ -37,7 +37,7 @@ Si no tienes mucho tiempo puedes tomar <a href="http://dapairline.com/" target="
 
 <h2>La ciudad de Puerto Williams</h2>
 
-En Puerto Williams puedes encontrar de todo en una reducida escala, pero con muy pocas opciones. El comercio local abre alrededor de las 1o de la mañana hasta las 12 y luego desde las 4 de la tarde hasta las 7. La mayoria de los locales aceptan dólares y tarjetas de créditos. Recuerda además llevar tu bolsa reutilizable, no hay bolsas plasticas en esta localidad.
+En Puerto Williams puedes encontrar de todo en una reducida escala, pero con muy pocas opciones. El comercio local abre alrededor de las 10 de la mañana hasta las 12 y luego desde las 4 de la tarde hasta las 7. La mayoria de los locales aceptan dólares y tarjetas de créditos. Recuerda además llevar tu bolsa reutilizable, no hay bolsas plasticas en esta localidad.
 
 Puerto Williams se puede recorrer caminando en medio día, pero si quieres recorrer más puedes arrendar autos o bicicletas.
 
@@ -48,12 +48,12 @@ Definitivamente debes visitar el centro de información turística para encontra
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/touristinfo.jpg"
       alt="Tourist Info">
-     <figcaption class="img-caption">Información turística in Puerto Williams</figcaption>
+     <figcaption class="img-caption">Información turística en Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/road.jpg"
       alt="Puerto Williams groceries">
-     <figcaption class="img-caption">Supermercado in Puerto Williams</figcaption>
+     <figcaption class="img-caption">Supermercado en Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/dientes-mirador.jpg"
@@ -68,9 +68,9 @@ Definitivamente debes visitar el centro de información turística para encontra
 
 <h2>¿Qué se puede hacer?</h2>
 <ul class="post-stats bullets">
-<li><strong>Circuito de Dientes de Navarino:</strong> En modo mochilero acampando unos 3 a 5 días.  El circuito es de 50 km, que no debes dejar de hacer. Mas información en nuestra previa <a href="/es/trail-running-dientes-de-navarino/">publicación</a>.</li>
+<li><strong>Circuito de Dientes de Navarino:</strong> En modo mochilero acampando unos 3 a 5 días.  El circuito es de 50 km, que no debes dejar de hacer. Más información en nuestra previa <a href="/es/trail-running-dientes-de-navarino/">publicación</a>.</li>
 <li><strong>Circuito Lago Windhond:</strong> Sendero al hermoso Lago Windhond. (Puedes combinar este sendero con el circuito de Dientes de Navarino).</li>
-<li><strong>Pedaleo a Puerto Eugenia:</strong> 48 km ida y vuelta al final del camino de la isla hacia el Este. Toma alrededor de medio día y el viaje es bordeando el Canal Beagle. Mas información en nuestra previa <a href="/es/bike-isla-navarino/">publicación</a>.</li>
+<li><strong>Pedaleo a Puerto Eugenia:</strong> 48 km ida y vuelta al final del camino de la isla hacia el Este. Toma alrededor de medio día y el viaje es bordeando el Canal Beagle. Más información en nuestra previa <a href="/es/bike-isla-navarino/">publicación</a>.</li>
 <li><strong>Pedaleo hacia  Puerto Navarino:</strong> 108 km ida y vuelta hacia el final del camino hacia el Oeste, toma alrededor de un día. La ruta bordea el Canal Beagle y pasa por las bahías Róbalo, Virginia y Mejillones.</li>
 <li><strong>Visita la villa mas austral del mundo, Puerto Toro:</strong>  Puedes obtener un lugar gratis en el ferry Yagan cada último fin de semana del mes. Visita Puerto Toro por un par de horas y luego regresa a la ciudad de Puerto Williams en el mismo ferry. Para los más aventureros pueden regresar mochileando hacia Puerto Williams. Hasta ahora no sabemos si existen senderos pero esa es la aventura o no.</li>
 <li><strong>Visita el Parque Etnobotánico Omora:</strong> para aprender sobre la flora y fauna de la región junto a sus bosques en miniatura. </li>

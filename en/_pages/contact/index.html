@@ -1,7 +1,7 @@
 ---
 layout: default
 title: sóijen | contact
-description: Our contact information
+description: How to reach us
 ref: contact
 permalink: "/contact/"
 ---
@@ -17,11 +17,6 @@ permalink: "/contact/"
   <div class="callout-copy">
     <h3>Questions? Collaborations?</h3>
     <p>Send us a message using the form below or contact info<i class="fa fa-at"></i>soijen.com.</p>
-    <form method="POST" action="http://formspree.io/jess@soijen.com">
-      <input type="email" name="email" placeholder="Your email" class="input-form">
-      <textarea name="message" placeholder="Your message" class="input-form"></textarea>
-      <button type="submit" class="submit-button">send</button>
-      <input type="hidden" name="_next" value="/thanks" />
-    </form>
+    {% include contactForm.html %}
   </div>
 </div>

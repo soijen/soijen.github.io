@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puerto Williams, Chile - the Hub for Your Next Patagonia Adventure
+title: Puerto Williams, Chile - The Hub for Your Next Patagonia Adventure
 author: sóijen
 description: Puerto Williams - the Chilean town at the end of the world. Information to start your next adventure in Patagonia here.
 ref: visit-puerto-williams
