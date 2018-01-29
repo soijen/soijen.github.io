@@ -36,13 +36,13 @@ defaults:
       path: "en"
     values:
       lang: "eng"
-      baseurl: ""
+      baseurl: "/soijen"
   -
     scope:
       path: "es"
     values:
       lang: "esp"
-      baseurl: "/es/"
+      baseurl: "/soijen/es/"
 
 #menu translations
 t:

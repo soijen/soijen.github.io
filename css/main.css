@@ -437,7 +437,7 @@ textarea {
   background-position: center center;
 }
 .hero-home {
-  background-image: url({{ site.url }}/images/isla-navarino/dientes/dientes-edu.jpg);
+  background-image: url({{ site.baseurl }}/images/isla-navarino/dientes/dientes-edu.jpg);
   background-position: center center;
 }
 .hero-home2 {
