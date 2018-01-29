@@ -1,4 +1,6 @@
 <head>
+  {% include twitter-card.html %}
+  {% include openGraph.html %}
   {% if page.title %}
     <title>{{ page.title }}</title>
   {% else %}
@@ -17,4 +19,5 @@
   <link rel="stylesheet"
         href="/fonts/font-awesome-4.7.0/css/font-awesome.css">
   <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 </head>

@@ -1,6 +1,19 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@{{ site.twitter_username }}" />
-<meta name="twitter:title" content="{{ page.title }}" />
-<meta name="twitter:description" content="{{ page.description }}" />
-<meta name="twitter:url" content="{{ page.url }}" />
-<meta name="twitter:image" content="{{ page.postHero }}" />
+<meta name="twitter:creator" content="@{{ site.twitter_username }}" />
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+{% if page.postHero %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.postHero }}">
+{% endif %}
