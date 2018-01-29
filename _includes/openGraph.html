@@ -7,6 +7,7 @@
 {% endif %}
 
 <meta content="{{ site.title }}" property="og:site_name">
+
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
 {% else %}
@@ -22,7 +23,7 @@
 {% if page.description %}
   <meta content="{{ page.description }}" property="og:description">
 {% else %}
-  <meta content="{{ site.description }}" property="og:description">
+  <meta content="{{ description }}" property="og:description">
 {% endif %}
 
 {% if page.url %}

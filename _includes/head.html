@@ -1,9 +1,8 @@
 <head>
-
   {% if page.title %}
     <title>{{ page.title }}</title>
   {% else %}
-    <title>sóijen | patagonia [un]explored</title>
+    <title>{{ site.title }}</title>
   {% endif %}
   {% if page.description %}
     <meta name="description" content="{{ page.description }}">
@@ -19,5 +18,6 @@
         href="/fonts/font-awesome-4.7.0/css/font-awesome.css">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-  
+  {% include twitter-card.html %}
+  {% include openGraph.html %}
 </head>
