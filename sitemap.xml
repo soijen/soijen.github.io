@@ -9,10 +9,10 @@ sitemap:
   {% for post in site.posts %}
     {% if post.sitemap.exclude == "yes" %}{% else %}
       <url>
-        <loc>{{site.url}}{{ post.permalink }}</loc>
+        <loc>{{site.url}}{{ post.url }}</loc>
         {% assign versions=site.posts | where:"ref", post.ref %}
         {% for version in versions %}
-          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.url}}{{ version.permalink }}" />
+          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.url}}{{ version.url }}" />
         {% endfor %}
         <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
         <changefreq>weekly</changefreq>
@@ -22,10 +22,10 @@ sitemap:
   {% for page in site.pages %}
     {% if page.sitemap.exclude == "yes" %}{% else %}
       <url>
-        <loc>{{site.url}}{{ page.permalink }}</loc>
+        <loc>{{site.url}}{{ page.url }}</loc>
         {% assign versions=site.pages | where:"ref", page.ref %}
         {% for version in versions %}
-          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.url}}{{ version.permalink }}" />
+          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.url}}{{ version.url }}" />
         {% endfor %}
         <changefreq>weekly</changefreq>
       </url>
