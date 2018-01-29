@@ -5,7 +5,7 @@ author: sóijen
 description: Exploring Isla Navarino on bike to the eastern terminus of the road - Puerto Eugenia. A great half day adventure from Puerto Williams.
 ref: bike-isla-navarino
 permalink: /bike-isla-navarino/
-postHero: /images/isla-navarino/bici/j-map.jpg
+postHero: {{ site.baseurl }}/images/isla-navarino/bici/j-map.jpg
 ---
 After finishing the Dientes de Navarino circuit, we had a couple days to spare on Isla Navarino for another fun adventure: What lies at the end of the road here at the southern end of the world? We decided to bike as far east as possible on the island to Puerto Eugenia. We chose the eastern terminus of the road because (1) the ride is quite a bit shorter than to the west and (2) if you continue east past road’s end, you will eventually reach Puerto Toro, a fishing village currently only accessible by boat. Completing the trek around the east side of the island to Puerto Toro someday sounds like an awesome adventure, and we figured we could scout out part of the route for the future.
 
