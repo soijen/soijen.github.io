@@ -287,10 +287,8 @@ textarea {
   color: #666;
 }
 .eng:lang(eng), .esp:lang(esp) {
-    font-weight: bold;
-    font-size: 1.1em;
-    color: #666;
-    border-bottom: 4px dotted rgba(1, 1, 1, 0.3);
+  font-size: 0rem;
+  visibility: hidden;
 }
 .langselect li {
     display: inline-block;
