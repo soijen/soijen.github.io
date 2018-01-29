@@ -20,7 +20,7 @@ description:
   es: En Sóijen somos aventureros de actividades al aire libre, quienes conectamos otros exploradores con la regiones inexploradas de la Patagonia.
 lang: ["Eng", "Esp"]
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://soijen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://soijen.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: soijen_
 permalink: /:title/
 
@@ -36,13 +36,13 @@ defaults:
       path: "en"
     values:
       lang: "eng"
-      baseurl: "/soijen"
+      baseurl: ""
   -
     scope:
       path: "es"
     values:
       lang: "esp"
-      baseurl: "/soijen/es/"
+      baseurl: "/es/"
 
 #menu translations
 t:
