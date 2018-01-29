@@ -5,7 +5,7 @@ author: sóijen
 description: Dientes de Navarino - the southernmost trail in the world and must-do in Patagonia. Our experience and recommendations to complete the circuit in one day.
 ref: trail-running-dientes-de-navarino
 permalink: /trail-running-dientes-de-navarino/
-postHero: {{ site.baseurl }}/images/isla-navarino/dientes/dientes-edu.jpg
+postHero: /images/isla-navarino/dientes/dientes-edu.jpg
 ---
 Our first post on sóijen! And what better way to inaugurate our new blog then to write about our latest adventure at the end of the world.
 

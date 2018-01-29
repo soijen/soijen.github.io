@@ -429,19 +429,19 @@ textarea {
   font-size: 1.4rem;
 }
 .hero-about {
-  background-image: url({{ site.baseurl }}/images/about-us-square.jpg);
+  background-image: url(/images/about-us-square.jpg);
   background-position: 40% 35%;
 }
 .hero-contact {
-  background-image: url({{ site.baseurl }}/images/sophia/benitez.jpg);
+  background-image: url(/images/sophia/benitez.jpg);
   background-position: center center;
 }
 .hero-home {
-  background-image: url({{ site.baseurl }}/images/isla-navarino/dientes/dientes-edu.jpg);
+  background-image: url(/images/isla-navarino/dientes/dientes-edu.jpg);
   background-position: center center;
 }
 .hero-home2 {
-  background-image: url({{ site.baseurl }}/images/isla-navarino/dientes/j-paso-snow.jpg);
+  background-image: url(/images/isla-navarino/dientes/j-paso-snow.jpg);
   background-position: center center;
 }
 .hero-posts {

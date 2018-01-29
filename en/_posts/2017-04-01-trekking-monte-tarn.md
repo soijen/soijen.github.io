@@ -5,7 +5,7 @@ author: sóijen
 description: This iconic trek south of Punta Arenas will give you incredible views over the Strait of Magellan and the Brunswick Peninsula.
 ref: trek-tarn
 permalink: /trekking-monte-tarn/
-postHero: {{ site.baseurl }}/images/monte-tarn/e-2013-summit.jpg
+postHero: /images/monte-tarn/e-2013-summit.jpg
 ---
 Monte Tarn (825 m) lies about 70 km south of Punta Arenas, at the southern terminus of Route 9. The trek to the summit has been a favorite of ours ever since we were living in Punta Arenas in 2013 (take a closer look at our logo!). A lot has changed since then. They’ve extended the road further south, and it now ends just shy of the trailhead. There are significantly more trail markers. There’s even a flag at the summit. Although it doesn’t feel as wild as it had been, the incredible views of the Strait of Magellan and Brunswick Peninsula are hard to resist.
 

@@ -5,7 +5,7 @@ author: sóijen
 description: Puerto Williams - the Chilean town at the end of the world. Information to start your next adventure in Patagonia here.
 ref: visit-puerto-williams
 permalink: /visit-puerto-williams/
-postHero: {{ site.baseurl }}/images/isla-navarino/pw/sea.jpg
+postHero: /images/isla-navarino/pw/sea.jpg
 ---
 If you want to experience the end of the world – surrounded by the southernmost channels and fjords before Antarctic waters, backpacking or trail running the remote trails, or simply escaping the craziness of everyday life – Puerto Williams is your next destination.
 
