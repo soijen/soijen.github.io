@@ -6,6 +6,9 @@ description: This iconic trek south of Punta Arenas will give you incredible vie
 ref: trek-tarn
 permalink: /trekking-monte-tarn/
 postHero: /images/monte-tarn/e-2013-summit.jpg
+latitude: -53.755607
+longitude: -70.971891
+zoom: 8
 ---
 Monte Tarn (825 m) lies about 70 km south of Punta Arenas, at the southern terminus of Route 9. The trek to the summit has been a favorite of ours ever since we were living in Punta Arenas in 2013 (take a closer look at our logo!). A lot has changed since then. They’ve extended the road further south, and it now ends just shy of the trailhead. There are significantly more trail markers. There’s even a flag at the summit. Although it doesn’t feel as wild as it had been, the incredible views of the Strait of Magellan and Brunswick Peninsula are hard to resist.
 
@@ -13,7 +16,7 @@ Monte Tarn (825 m) lies about 70 km south of Punta Arenas, at the southern termi
 <ul class="post-stats bullets">
   <li><strong>Trek Name:</strong> Monte Tarn</li>
   <li><strong>Total Distance:</strong> ~14 km out and back</li>
-  <li><strong>Location:</strong> Southern Terminus of Route 9</li>
+  <li><strong>Location:</strong> Southern Terminus of Route 9 (see <a href="#map">map</a> below)</li>
   <li><strong>Closest City:</strong> Punta Arenas, Chile</li>
   <li><strong>Duration:</strong> ~5 hours (hiking)</li>
 </ul>

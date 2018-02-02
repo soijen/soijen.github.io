@@ -6,6 +6,9 @@ description: Explorando la Isla Navarino en bicicleta para llegar al término de
 ref: bike-isla-navarino
 permalink: es/bike-isla-navarino/
 postHero: /images/isla-navarino/bici/j-map.jpg
+latitude: -54.932215
+longitude: -67.315517
+zoom: 8
 ---
 Después de terminar el circuito de los Dientes de Navarino, nos quedaron algunos días para visitar la isla en busca de más aventuras. ¿Qué hay al final del camino aquí al final del mundo? Decidimos viajar en bicicleta, lo más lejos posible, en dirección este hacia Puerto Eugenia. Elegimos el camino hacia el este debido a (1) la ruta es más corta que en dirección oeste y (2) si alguien desea continuar el sendero de la ruta hacia el este, eventualmente debería llegar a Puerto Toro, una villa de pescadores, solamente accesible vía marítima. Quizás algún día podríamos completar ese trayecto para llegar a Puerto Toro, suena una muy entretenida aventura y por ahora podremos realizar una parte de este trayecto.
 
@@ -13,7 +16,7 @@ Después de terminar el circuito de los Dientes de Navarino, nos quedaron alguno
 <ul class="post-stats bullets">
   <li><strong>Viaje:</strong> En bici hacia Puerto Eugenia (el fin del camino hacia el este de la Isla Navarino)</li>
   <li><strong>Distancia Total:</strong> 46 km ida y vuelta</li>
-  <li><strong>Ubicación:</strong> Isla Navarino, Chile</li>
+  <li><strong>Ubicación:</strong> Isla Navarino, Chile (el <a href="#map">mapa</a> abajo)</li>
   <li><strong>Ciudad más cercana:</strong> Puerto Williams</li>
   <li><strong>Duración:</strong> 4.5 hours</li>
 </ul>

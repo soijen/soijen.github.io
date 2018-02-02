@@ -6,6 +6,9 @@ description: Este icónico sendero al sur de Punta Arenas tiene las mejores vist
 ref: trek-tarn
 permalink: es/trekking-monte-tarn/
 postHero: /images/monte-tarn/e-2013-summit.jpg
+latitude: -53.755607
+longitude: -70.971891
+zoom: 8
 ---
 Monte Tarn (825 metros de altura) se encuentra a 70 km al sur de la ciudad de Punta Arenas, un poco mas allá del final de la ruta 9. El sendero hacia la cima ha sido nuestro favorito desde que vivimos en Punta Arenas en el año 2013 (mira de cerca nuestro logo). Mucho ha cambiado desde esa fecha. La ruta se amplió hasta casi el inicio de la caminata, ahora el sendero se encuentra más señalizado e incluso hay una bandera en la cima. Aunque ya no se siente tan salvaje como antes, las increíbles vistas al Estrecho de Magallanes y la Península de Brunswick son difíciles de resistir.
 
@@ -13,7 +16,7 @@ Monte Tarn (825 metros de altura) se encuentra a 70 km al sur de la ciudad de Pu
 <ul class="post-stats bullets">
   <li><strong>Circuito:</strong> Monte Tarn</li>
   <li><strong>Distancia Total:</strong> ~14 km ida y vuelta</li>
-  <li><strong>Ubicación:</strong> Fin de la carretera ruta 9 sur, Península de Brunswick, Chile</li>
+  <li><strong>Ubicación:</strong> Fin de la carretera ruta 9 sur, Península de Brunswick, Chile (el <a href="#map">mapa</a> abajo)</li>
   <li><strong>Ciudad cercana:</strong> Punta Arenas, Chile</li>
   <li><strong>Duración:</strong> ~5 horas (caminata)</li>
 </ul>

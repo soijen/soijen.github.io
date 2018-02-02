@@ -6,12 +6,15 @@ description: Puerto Williams - el pueblo Chileno al fin del mundo. Encuentra aqu
 ref: visit-puerto-williams
 permalink: es/visit-puerto-williams/
 postHero: /images/isla-navarino/pw/sea.jpg
+latitude: -54.935491
+longitude: -67.605799
+zoom: 6
 ---
 Imagina estar mas allá del fin del mundo, rodeado de los canales y montañas mas australes, antes de llegar a las aguas antárticas. Ahora piensa estar caminando por los remotos senderos de esta lugar con tu mochila, ubicar tu carpa y beber del agua más pura del mundo. Si todavía no te convences te invitamos a escapar de tu rutina diaria y visitar Puerto Williams en la Isla de Navarino tu siguiente aventura en la Patagonia.
 
 <h2>¿Dónde está Puerto Williams?</h2>
 
-Pon tu dedo en un mapa y muévelo al sur de suramerica, detente justo antes del Cabo de Hornos. Encontrarás una isla llamada Navarino, que la separa de Tierra del Fuego el Canal Beagle. En la costa norte de la isla se encuentra la localidad de Puerto Williams.
+Pon tu dedo en un <a href="#map">mapa</a> y muévelo al sur de suramerica, detente justo antes del Cabo de Hornos. Encontrarás una isla llamada Navarino, que la separa de Tierra del Fuego el Canal Beagle. En la costa norte de la isla se encuentra la localidad de Puerto Williams.
 
 La isla de Navarino fue el hogar para el pueblo Yagán o Yamana. Ellos fueron cazadores y nómades quienes en sus canoas surcaron los canales y fiordos australes. Durante los años cincuenta el gobierno de Chile estableció la localidad de Puerto Williams con una población de la Armada de Chile y sus familias. En la actualidad la localidad cuenta con alredor de 2874 habitantes. (Cifra proyectada Instituto Nacional de Estadísticas de Chile)
 

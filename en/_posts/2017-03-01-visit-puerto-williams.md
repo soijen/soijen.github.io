@@ -6,12 +6,15 @@ description: Puerto Williams - the Chilean town at the end of the world. Informa
 ref: visit-puerto-williams
 permalink: /visit-puerto-williams/
 postHero: /images/isla-navarino/pw/sea.jpg
+latitude: -54.935491
+longitude: -67.605799
+zoom: 6
 ---
 If you want to experience the end of the world – surrounded by the southernmost channels and fjords before Antarctic waters, backpacking or trail running the remote trails, or simply escaping the craziness of everyday life – Puerto Williams is your next destination.
 
 <h2>Background</h2>
 
-Put your finger on a map and move it to the south of South America. Stop! Right there before Cape Horn. There is an island called “Navarino”. On the southern side of the Beagle Channel, you can find the Chilean town of Puerto Williams.
+Put your finger on a <a href="#map">map</a> and move it to the south of South America. Stop! Right there before Cape Horn. There is an island called “Navarino”. On the southern side of the Beagle Channel, you can find the Chilean town of Puerto Williams.
 
 Isla Navarino was the home of the native people “Yagán” or “Yamana”. They were hunters and nomads who sailed in small canoes over channels and fjords. During the 50’s the Chilean government established the town of Puerto Williams with a population of the Chilean Navy and their families. Now Puerto Williams has a population of around 2874 habitants.
 

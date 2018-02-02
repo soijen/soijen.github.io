@@ -147,6 +147,11 @@ textarea {
   height: 50vh;
   margin-bottom: 1.5em;
 }
+.google-map {
+  background-position: center;
+  text-align: center;
+  height:50vh;;
+}
 .post {
   width: 100%;
 }

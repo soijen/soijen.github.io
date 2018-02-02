@@ -23,6 +23,7 @@ lang: ["Eng", "Esp"]
 url: "https://soijen.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: soijen_
 permalink: /:title/
+google_maps_api_key: AIzaSyDA1P82F6tKVJNiiP-tI9dOFrzPcfzX4eE
 
 # Build settings
 markdown: kramdown

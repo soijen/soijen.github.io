@@ -6,6 +6,9 @@ description: Dientes de Navarino - the southernmost trail in the world and must-
 ref: trail-running-dientes-de-navarino
 permalink: /trail-running-dientes-de-navarino/
 postHero: /images/isla-navarino/dientes/dientes-edu.jpg
+latitude: -54.9402407
+longitude: -67.6217304
+zoom: 8
 ---
 Our first post on sóijen! And what better way to inaugurate our new blog then to write about our latest adventure at the end of the world.
 
@@ -13,7 +16,7 @@ Our first post on sóijen! And what better way to inaugurate our new blog then t
 <ul class="post-stats bullets">
   <li><strong>Trek:</strong> Los Dientes de Navarino circuit</li>
   <li><strong>Total Distance:</strong> 50 km (42 km trails, 8 km dirt road)</li>
-  <li><strong>Location:</strong> Isla Navarino, Chile</li>
+  <li><strong>Location:</strong> Isla Navarino, Chile (see <a href="#map">map</a> below)</li>
   <li><strong>Closest City:</strong> Puerto Williams</li>
   <li><strong>Duration:</strong> (?)</li>
 </ul>

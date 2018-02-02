@@ -1,0 +1,17 @@
+{% if page.latitude %}
+  <a name="map"><div id="map" class="google-map"></div></a>
+  <script>
+    function initMap() {
+      var location = {lat: {{page.latitude}}, lng: {{page.longitude}}};
+      var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: {{page.zoom}},
+        center: location
+      });
+      var marker = new google.maps.Marker({
+        position: location,
+        map: map
+      });
+    }
+  </script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_api_key }}&amp;callback=initMap"></script>
+{% endif %}

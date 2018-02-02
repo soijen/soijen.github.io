@@ -6,6 +6,9 @@ description: Dientes de Navarino - Nuestra aventura en el sendero más austral d
 ref: trail-running-dientes-de-navarino
 permalink: es/trail-running-dientes-de-navarino/
 postHero: /images/isla-navarino/dientes/dientes-edu.jpg
+latitude: -54.9402407
+longitude: -67.6217304
+zoom: 8
 ---
 Nuestra primera publicación en sóijen y que mejor manera de comenzar con nuestra última aventura en el fin del mundo en los Dientes de Navarino.
 
@@ -13,7 +16,7 @@ Nuestra primera publicación en sóijen y que mejor manera de comenzar con nuest
 <ul class="post-stats bullets">
   <li><strong>Circuito:</strong> Los Dientes de Navarino</li>
   <li><strong>Distancia Total:</strong> 50 km (42 km sendero, 8 km camino de tierra)</li>
-  <li><strong>Ubicación:</strong> Isla Navarino, Chile</li>
+  <li><strong>Ubicación:</strong> Isla Navarino, Chile (el <a href="#map">mapa</a> abajo)</li>
   <li><strong>Ciudad más Cercana:</strong> Puerto Williams</li>
   <li><strong>Duración:</strong> (?)</li>
 </ul>
