@@ -1,8 +1,8 @@
 <aside class="post-aside">
-  {% if page.lang == 'eng' %}
+  {% if page.lang == 'en' %}
   <h4>RECENT POSTS</h4>
   {% endif %}
-  {% if page.lang == 'esp' %}
+  {% if page.lang == 'es' %}
   <h4>PUBLICACIÓNES RECIENTES</h4>
   {% endif %}
   {% assign posts=site.posts | where:"lang", page.lang %}

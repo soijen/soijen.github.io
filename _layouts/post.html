@@ -8,10 +8,10 @@ layout: default
     <header class="post-header">
       <h1>{{ page.title }}</h2>
       <div class="post-byline">
-        {% if page.lang == 'eng' %}
+        {% if page.lang == 'en' %}
         by
         {% endif %}
-        {% if page.lang == 'esp' %}
+        {% if page.lang == 'es' %}
         por
         {% endif %}
          {{ page.author }}
@@ -31,10 +31,10 @@ layout: default
         {% if prev %}
           <i class="fa fa-arrow-left" aria-hidden="true"></i>
           <a href="{{ post.url }}">
-            {% if page.lang == 'eng' %}
+            {% if page.lang == 'en' %}
             previous
             {% endif %}
-            {% if page.lang == 'esp' %}
+            {% if page.lang == 'es' %}
             anterior
             {% endif %}
           </a>
@@ -50,10 +50,10 @@ layout: default
       {% if post.lang == page.lang %}
         {% if next %}
           <a href="{{ post.url }}">
-            {% if page.lang == 'eng' %}
+            {% if page.lang == 'en' %}
             next
             {% endif %}
-            {% if page.lang == 'esp' %}
+            {% if page.lang == 'es' %}
             siguente
             {% endif %}
           </a>

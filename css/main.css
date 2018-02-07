@@ -291,7 +291,7 @@ textarea {
 .header-nav a, .drop-trigger {
   color: #666;
 }
-.eng:lang(eng), .esp:lang(esp) {
+.en:lang(en), .es:lang(es) {
   font-size: 0rem;
   visibility: hidden;
 }

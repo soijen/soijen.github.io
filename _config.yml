@@ -18,7 +18,7 @@ email: info@soijen.com
 description:
   en: At Sóijen we are outdoor adventurers who connect fellow explorers to untapped regions of Patagonia.
   es: En Sóijen somos aventureros de actividades al aire libre, quienes conectamos otros exploradores con la regiones inexploradas de la Patagonia.
-lang: ["Eng", "Esp"]
+lang: ["en", "es"]
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://soijen.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: soijen_
@@ -36,18 +36,18 @@ defaults:
     scope:
       path: "en"
     values:
-      lang: "eng"
+      lang: "en"
       baseurl: ""
   -
     scope:
       path: "es"
     values:
-      lang: "esp"
+      lang: "es"
       baseurl: "/es/"
 
 #menu translations
 t:
-  eng:
+  en:
     home:
       name: "Home"
       url: "/"
@@ -57,7 +57,7 @@ t:
     contact:
       name: "Contact"
       url: "/contact/"
-  esp:
+  es:
       home:
         name: "Inicio"
         url: "/es/"
