@@ -30,6 +30,11 @@ markdown: kramdown
 
 include: ["_pages"]
 
+#old website redirects
+collections:
+  redirects:
+    output: true
+
 defaults:
   #languages
   -
@@ -44,6 +49,11 @@ defaults:
     values:
       lang: "es"
       baseurl: "/es/"
+  -
+    scope:
+      type: "redirects"
+    values:
+      layout: "redirect"
 
 #menu translations
 t:
