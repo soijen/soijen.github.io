@@ -34,6 +34,8 @@ include: ["_pages"]
 collections:
   redirects:
     output: true
+  region:
+    output: true
 
 defaults:
   #languages
@@ -54,7 +56,6 @@ defaults:
       type: "redirects"
     values:
       layout: "redirect"
-
 #menu translations
 t:
   en:

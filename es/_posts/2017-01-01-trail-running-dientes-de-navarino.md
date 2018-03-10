@@ -6,6 +6,8 @@ description: Dientes de Navarino - Nuestra aventura en el sendero más austral d
 ref: trail-running-dientes-de-navarino
 permalink: es/trail-running-dientes-de-navarino/
 postHero: /images/isla-navarino/dientes/dientes-edu.jpg
+region: Puerto-Williams
+tags: trail-running
 latitude: -54.9402407
 longitude: -67.6217304
 zoom: 8

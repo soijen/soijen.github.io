@@ -6,6 +6,8 @@ description: Este icónico sendero al sur de Punta Arenas tiene las mejores vist
 ref: trek-tarn
 permalink: es/trekking-monte-tarn/
 postHero: /images/monte-tarn/e-2013-summit.jpg
+region: Punta-Arenas
+tags: trekking
 latitude: -53.755607
 longitude: -70.971891
 zoom: 8

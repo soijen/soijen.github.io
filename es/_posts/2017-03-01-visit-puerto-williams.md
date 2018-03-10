@@ -6,6 +6,7 @@ description: Puerto Williams - el pueblo Chileno al fin del mundo. Encuentra aqu
 ref: visit-puerto-williams
 permalink: es/visit-puerto-williams/
 postHero: /images/isla-navarino/pw/sea.jpg
+region: Puerto-Williams
 latitude: -54.935491
 longitude: -67.605799
 zoom: 6

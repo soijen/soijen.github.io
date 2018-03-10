@@ -1,10 +1,38 @@
 ---
 layout: default
 title: patagonia [un]explored
-description: Información sobre circuitos de trekking en la Patagonia
+description: Guía para las actividades no tan conocidas al aire libre en la Patagonia.
 permalink: "/es/patagonia-unexplored/"
 ref: patagonia-unexplored
 ---
 <div class="page blog-index">
-  <h1>viene pronto!</h1>
+  <h1>Patagonia [un]explored</h1>
+  <div class="patagonia-map-container">
+    <p>Elige una región en el mapa para comenzar:</p>
+    {% include patagonia-map.html %}
+    <a href="#PN">[Puerto Natales Region]</a>
+    <a href="#PW">[Puerto Williams Region]</a>
+    <a href="#PA">[Punta Arenas Region]</a>
+    <a href="#TDF">[Tierra del Fuego Region]</a>
+  </div>
+  <div class="region-posts">
+    <h2 class="region-header"><a name="PN"><i class="fa fa-anchor" aria-hidden="true"></i></a></h2>
+    <h2 class="region-header">Región de Puerto Natales</h2>
+    <p>Viene pronto...</p>
+  </div>
+  <div class="region-posts">
+    <h2 class="region-header"><a name="PW"><i class="fa fa-anchor" aria-hidden="true"></i></a></h2>
+    <h2 class="region-header">Región de Puerto Williams</h2>
+    {% include region-PW.html %}
+  </div>
+  <div class="region-posts">
+    <h2 class="region-header"><a name="PA"><i class="fa fa-anchor" aria-hidden="true"></i></a></h2>
+    <h2 class="region-header">Región de Punta Arenas</h2>
+    {% include region-PA.html %}
+  </div>
+  <div class="region-posts">
+    <h2 class="region-header"><a name="TDF"><i class="fa fa-anchor" aria-hidden="true"></i></a></h2>
+    <h2 class="region-header">Región de Tierra del Fuego</h2>
+    {% include region-TDF.html %}
+  </div>
 </div>

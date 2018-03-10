@@ -6,6 +6,7 @@ description: Explorando la Isla Navarino en bicicleta para llegar al término de
 ref: bike-isla-navarino
 permalink: es/bike-isla-navarino/
 postHero: /images/isla-navarino/bici/j-map.jpg
+region: Puerto-Williams
 latitude: -54.932215
 longitude: -67.315517
 zoom: 8

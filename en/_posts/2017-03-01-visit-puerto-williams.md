@@ -6,6 +6,8 @@ description: Puerto Williams - the Chilean town at the end of the world. Informa
 ref: visit-puerto-williams
 permalink: /visit-puerto-williams/
 postHero: /images/isla-navarino/pw/sea.jpg
+region: Puerto-Williams
+tags: 
 latitude: -54.935491
 longitude: -67.605799
 zoom: 6

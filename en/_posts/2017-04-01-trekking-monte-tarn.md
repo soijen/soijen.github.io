@@ -6,6 +6,9 @@ description: This iconic trek south of Punta Arenas will give you incredible vie
 ref: trek-tarn
 permalink: /trekking-monte-tarn/
 postHero: /images/monte-tarn/e-2013-summit.jpg
+region: Punta-Arenas
+tags:
+- trekking
 latitude: -53.755607
 longitude: -70.971891
 zoom: 8
