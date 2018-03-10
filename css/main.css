@@ -275,6 +275,9 @@ textarea {
 .patagonia-map-container {
   text-align: center;
 }
+.patagonia-map-container a {
+  font-size: 0.8em;
+}
 /* HEADER STYLES */
 .header {
   align-items: center;
@@ -468,6 +471,9 @@ textarea {
     padding: .4em .5em;
     margin-top: 3em;
     opacity: 0.8;
+}
+.action-button a:hover, .action-button a:active {
+  opacity: 0.6;
 }
 .hero-about {
   background-image: url(/images/about-us-square.jpg);
