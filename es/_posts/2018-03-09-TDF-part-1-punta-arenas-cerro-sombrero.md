@@ -53,4 +53,4 @@ A nuestra llegada a Tierra del Fuego, nos encontramos con una fila muy larga de 
 
 Después de un viaje corto en pavimiento, llegamos a Cerro Sombrero, nuestro hogar por la noche.
 
-Vuelve al <a href="/es/tierra-del-fuego-van-overview/">resumen</a>.
+{% include youtubePlayer.html id="INnX38uyyWQ" %}

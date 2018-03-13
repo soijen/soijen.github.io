@@ -53,4 +53,4 @@ Arriving to Tierra del Fuego there was a never-ending line of cars waiting to ma
 
 A short drive later on smooth paved road, we arrived to Cerro Sombrero, our home for the night.
 
-Back to the <a href="/tierra-del-fuego-van-overview/">overview</a>.
+{% include youtubePlayer.html id="INnX38uyyWQ" %}
