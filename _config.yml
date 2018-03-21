@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: sóijen | patagonia [un]explored
 email: info@soijen.com
-description:
-  en: At Sóijen we are outdoor adventurers who connect fellow explorers to untapped regions of Patagonia.
-  es: En Sóijen somos aventureros de actividades al aire libre, quienes conectamos otros exploradores con las regiones inexploradas de la Patagonia.
+description: At Sóijen we are outdoor adventurers who connect fellow explorers to untapped regions of Patagonia.
 lang: ["en", "es"]
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://soijen.com" # the base hostname & protocol for your site, e.g. http://example.com
