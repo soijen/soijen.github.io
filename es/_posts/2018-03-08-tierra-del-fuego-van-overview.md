@@ -1,16 +1,16 @@
 ---
-layout: post
 title: Tierra del Fuego, Chile en Van - un Resumen
-author: sóijen
 description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego.
-ref: tierra-del-fuego-van-overview
+author: Sóijen
+layout: post
+latitude: -53.8671117
+longitude: -69.2972139
 permalink: /es/tierra-del-fuego-van-overview/
 postHero: /images/tierra-del-fuego/van-mountains.jpg
+ref: tierra-del-fuego-van-overview
 region: Tierra-del-Fuego
 tags:
 - van-life
-latitude: -53.8671117
-longitude: -69.2972139
 zoom: 6
 ---
 En el año 1994 el gobierno de Chile comenzó la construcción de la ruta hacia Yendegaia. Cuando la ruta Y-85 esté completa unirá las pampas de Tierra del Fuego con la bahía de Yendegaia en el Canal Beagle, de esta forma la nueva ruta permitirá una conexión terrestre y marítima a través de Chile hacia su último destino, la Isla de Navarino. Debido a las extremas condiciones y lo duro del terreno el progreso ha sido lento. En el mes de diciembre del año 2017 nosotros manejamos hacia el sur de la Isla con la idea de explorar los nuevos caminos construidos de la ruta Y-85.
@@ -21,7 +21,7 @@ En el año 1994 el gobierno de Chile comenzó la construcción de la ruta hacia 
 Nuestra jornada por tierra durante 8 días en la Isla de Tierra del Fuego, se encuentra dividida en 6 partes:
 <ul class="post-stats bullets">
   <li><a href="/es/TDF-part-1-punta-arenas-cerro-sombrero/">Parte 1 - Punta Arenas a Cerro Sombrero</a></li>
-  <li>Parte 2 - Cerro Sombrero a Cameron (pronto)</li>
+  <li><a href="/es/TDF-part-2-cerro-sombrero-cameron/">Parte 2 - Cerro Sombrero a Cameron</a></li>
   <li>Parte 3 - Cameron a Pampa Guanaco (pronto)</li>
   <li>Parte 4 - Pampa Guanaco a Caleta Maria (pronto)</li>
   <li>Parte 5 - Cameron to Porvenir (pronto)</li>

@@ -1,12 +1,14 @@
 ---
-layout: default
 title: sóijen | blog
 description: Blog of our adventures in Patagonia
+layout: default
+permalink: /blog/
 ref: blog
-permalink: "/blog/"
 ---
-<div class="page blog-index">
+<div class="page">
   <h1>Blog</h1>
+  <h2>Our recent experiences in Patagonia</h2>
+  <div class="blog-previews">
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
       <div class="blog-posts">
@@ -19,7 +21,10 @@ permalink: "/blog/"
           </div>
         </header>
         {{ post.excerpt }}
-        <a href="{{ post.url }}">read more...</a>
+        <div class="action-button">
+          <a href="{{ post.url }}">read more...</a>
+        </div>
       </div>
     {% endfor %}
+  </div>
 </div>

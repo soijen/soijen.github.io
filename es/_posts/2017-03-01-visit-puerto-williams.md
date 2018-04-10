@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Puerto Williams, Chile - La Base de tu Próxima Aventura en la Patagonia
-author: sóijen
 description: Puerto Williams - el pueblo Chileno al fin del mundo. Encuentra aquí información para empezar tu próxima aventura en la Patagonia.
-ref: visit-puerto-williams
-permalink: es/visit-puerto-williams/
-postHero: /images/isla-navarino/pw/sea.jpg
-region: Puerto-Williams
+author: Sóijen
+layout: post
 latitude: -54.935491
 longitude: -67.605799
+permalink: /es/visit-puerto-williams/
+postHero: /images/isla-navarino/pw/sea.jpg
+ref: visit-puerto-williams
+region: Puerto-Williams
+tags:
 zoom: 6
 ---
 Imagina estar mas allá del fin del mundo, rodeado de los canales y montañas mas australes, antes de llegar a las aguas antárticas. Ahora piensa estar caminando por los remotos senderos de esta lugar con tu mochila, ubicar tu carpa y beber del agua más pura del mundo. Si todavía no te convences te invitamos a escapar de tu rutina diaria y visitar Puerto Williams en la Isla de Navarino tu siguiente aventura en la Patagonia.
@@ -21,7 +22,7 @@ La isla de Navarino fue el hogar para el pueblo Yagán o Yamana. Ellos fueron ca
 
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/cemetery.jpg"
-      alt="Yagán cemetery">
+      alt="Cementerio Yagán al oeste de Puerto Williams">
      <figcaption class="img-caption">Cementerio Yagán al oeste de Puerto Williams</figcaption>
 </figure>
 
@@ -35,7 +36,7 @@ Si no tienes mucho tiempo puedes tomar <a href="http://dapairline.com/" target="
 
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/plane.jpg"
-      alt="Puerto Williams by Air">
+      alt="Puerto Williams desde el aire">
      <figcaption class="img-caption">Puerto Williams desde el aire</figcaption>
 </figure>
 
@@ -51,22 +52,22 @@ Definitivamente debes visitar el centro de información turística para encontra
 
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/touristinfo.jpg"
-      alt="Tourist Info">
+      alt="Información turística en Puerto Williams">
      <figcaption class="img-caption">Información turística en Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/road.jpg"
-      alt="Puerto Williams groceries">
+      alt="Supermercado en Puerto Williams">
      <figcaption class="img-caption">Supermercado en Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/dientes-mirador.jpg"
-      alt="View of the Dientes">
+      alt="Vista del Cerro La Bandera, Dientes de Navarino, y otras montañas alrededor">
      <figcaption class="img-caption">Vista del Cerro La Bandera, Dientes de Navarino, y otras montañas alrededor</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/mirador.jpg"
-      alt="Puerto Williams Lookout">
+      alt="Mirador sobre el Canal Beagle">
      <figcaption class="img-caption">Mirador sobre el Canal Beagle</figcaption>
 </figure>
 
@@ -90,11 +91,11 @@ Definitivamente debes visitar el centro de información turística para encontra
 
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/water.jpg"
-      alt="River">
+      alt="Agua pura Isla Navarino">
      <figcaption class="img-caption">Bebiendo del agua más pura del mundo</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/pw/cerro-bandera.jpg"
-      alt="Cerro La Bandera trailhead">
+      alt="Comienzo del sendero a Cerro La Bandera">
      <figcaption class="img-caption">Comienzo del sendero a Cerro la Bandera y el circuito de Dientes de Navarino</figcaption>
 </figure>

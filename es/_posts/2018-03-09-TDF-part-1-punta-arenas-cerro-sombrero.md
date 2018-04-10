@@ -1,16 +1,16 @@
 ---
-layout: post
 title: Tierra del Fuego, Chile Parte 1 - Punta Arenas a Cerro Sombrero
-author: sóijen
 description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta entre Punta Arenas y Cerro Sombrero.
-ref: TDF-part-1-punta-arenas-cerro-sombrero
+author: Sóijen
+layout: post
+latitude: -52.7646632
+longitude: -69.2949891
 permalink: /es/TDF-part-1-punta-arenas-cerro-sombrero/
 postHero: /images/tierra-del-fuego/map-tierra-del-fuego.jpg
+ref: TDF-part-1-punta-arenas-cerro-sombrero
 region: Tierra-del-Fuego
 tags:
 - van-life
-latitude: -52.7646632
-longitude: -69.2949891
 zoom: 6
 ---
 En el primer tramo de <a href="/es/tierra-del-fuego-van-overview/"> nuestra jornada por tierra durante los 8 días en Tierra del Fuego</a>, entramos a la Isla por Punta Delgada - un cruce corto por ferry en el sector más angosto del Estrecho de Magallanes.
@@ -29,7 +29,7 @@ Al empezar nuestra jornada, nosotros decidimos el cruce desde Punta Delgada, ya 
 
 <h2>Estancia San Gregorio</h2>
 
-Las dos horas de conducción desde Punta Arenas hasta el terminal del Ferry de Punta delgada se realizan sobre pavimento y sin mayor dificultad (considerar manejar a baja velocidad si hay viento en la ruta). En la ruta vas a a encontrar la Estancia San Gregorio, un monumento nacional, que en sus tiempos fue una de las estancias más grandes de la región con sus grandes y características casas patronales. Este es un buen lugar para visitar y estirar las piernas, ya que se encuentra a orilla del camino (hay dos grandes buques varados en la playa).
+Las dos horas de conducción desde Punta Arenas hasta el terminal del Ferry de Punta Delgada se realizan sobre pavimento y sin mayor dificultad (considerar manejar a baja velocidad si hay viento en la ruta). En la ruta vas a a encontrar la Estancia San Gregorio, un monumento nacional, que en sus tiempos fue una de las estancias más grandes de la región con sus grandes y características casas patronales. Este es un buen lugar para visitar y estirar las piernas, ya que se encuentra a orilla del camino (hay dos grandes buques varados en la playa).
 
 <figure class="figure">
   <img class="image" src="/images/tierra-del-fuego/san-gregorio.jpg"
@@ -45,7 +45,7 @@ Llegamos a Punta Delgada alrededor de las 20:30 horas y estacionamos nuestra van
 
 <figure class="figure">
   <img class="image" src="/images/tierra-del-fuego/primera-angostura.jpg"
-      alt="Ferry Primera Angostura">
+      alt="Cruce Primera Angostura en la atardecer">
      <figcaption class="img-caption">Cruce Primera Angostura en la atardecer</figcaption>
 </figure>
 

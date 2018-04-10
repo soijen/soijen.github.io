@@ -1,15 +1,15 @@
 ---
-layout: post
 title: Corriendo al Sur del Mundo - Los Dientes De Navarino
-author: sóijen
 description: Dientes de Navarino - Nuestra aventura en el sendero más austral del mundo, junto a recomendaciones para terminar el circuito en un día.
-ref: trail-running-dientes-de-navarino
-permalink: es/trail-running-dientes-de-navarino/
-postHero: /images/isla-navarino/dientes/dientes-edu.jpg
-region: Puerto-Williams
-tags: trail-running
+author: Sóijen
+layout: post
 latitude: -54.9402407
 longitude: -67.6217304
+permalink: /es/trail-running-dientes-de-navarino/
+postHero: /images/isla-navarino/dientes/dientes-edu.jpg
+ref: trail-running-dientes-de-navarino
+region: Puerto-Williams
+tags: trail-running
 zoom: 8
 ---
 Nuestra primera publicación en sóijen y que mejor manera de comenzar con nuestra última aventura en el fin del mundo en los Dientes de Navarino.
@@ -46,47 +46,47 @@ La última parte del circuito fue la más complicada. Piernas cansadas (y patas)
 
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/e-jumping.jpg"
-      alt="Dientes de Navarino trek - trail running">
+      alt="Circuito Dientes de Navarino - trail running">
      <figcaption class="img-caption">Mucha agua en la ruta</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/j-paso-snow.jpg"
-      alt="Paso de los Dientes - trekking Dientes de Navarino">
+      alt="Paso de los Dientes - circuito Dientes de Navarino">
      <figcaption class="img-caption">Llegando a Paso de los Dientes - el clima cambió rápido</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/snow-gif.gif"
-      alt="Dog playing Dientes de Navarino">
+      alt="Perro jugando Dientes de Navarino">
      <figcaption class="img-caption">Una sorpresa en las montañas</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/j-n-running.jpg"
-      alt="Trail running with dog - Dientes de Navarino">
+      alt="Correr en las montañas con un perro - Dientes de Navarino">
      <figcaption class="img-caption">Cielos azules de nuevo, corriendo con nuestro nuevo amigo por Laguna El Martillo</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/turba-gif.gif"
-      alt="Muddy trails in Dientes de Navarino trek">
+      alt="Mucho barro en el circuito Dientes de Navarino">
      <figcaption class="img-caption">Casi perdiendo una zapatilla en el barro</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/j-n-virginia.jpg"
-      alt="Paso Virginia - Dientes de Navarino circuit">
+      alt="Paso Virginia - circuito Dientes de Navarino">
      <figcaption class="img-caption">La cima del Paso Virginia - el lugar más alto del circuito</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/n-e-virginia.jpg"
-      alt="Route finding Paso Virginia - Dientes de Navarino circuit">
+      alt="Paso Virginia - circuito Dientes de Navarino">
      <figcaption class="img-caption">Buscando la ruta más segura para bajar Paso Virginia</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/j-n-sitting.jpg"
-      alt="Paso Virginia - Dientes de Navarino circuit">
+      alt="Paso Virginia - circuito Dientes de Navarino">
      <figcaption class="img-caption">Descanso corto antes de bajar Paso Virginia</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/dientes/j-e-n-running.jpg"
-      alt="Trail running with dog - Dientes de Navarino">
+      alt="Correr en las montañas con un perro - Dientes de Navarino">
      <figcaption class="img-caption">El equipo soñado</figcaption>
 </figure>
 

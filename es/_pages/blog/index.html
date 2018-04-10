@@ -1,15 +1,16 @@
 ---
-layout: default
 title: sóijen | blog
 description: Blog sobre nuestras aventuras en la Patagonia
+layout: default
+permalink: /es/blog/
 ref: blog
-permalink: "/es/blog/"
 ---
-<div class="page blog-index">
+<div class="page">
   <h1>Blog</h1>
-    <div class="blog-previews">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in posts %}
+  <h2>Nuestras experiencias recientes en Patagonia</h2>
+  <div class="blog-previews">
+    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts %}
       <div class="blog-posts">
         <a href="{{ post.url }}"><div class="posts-image" style="background-image:url({{ post.postHero }})"></div></a>
         <header class="post-header">
@@ -20,8 +21,10 @@ permalink: "/es/blog/"
           </div>
         </header>
         {{ post.excerpt }}
-        <a href="{{ post.url }}">leer más...</a>
+        <div class="action-button">
+          <a href="{{ post.url }}">leer más...</a>
+        </div>
       </div>
     {% endfor %}
-    </div>
+  </div>
 </div>

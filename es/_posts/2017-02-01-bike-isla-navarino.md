@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Donde Termina el Camino - Explorando Isla Navarino en Bici
-author: sóijen
 description: Explorando la Isla Navarino en bicicleta para llegar al término del camino, hacia el este - Puerto Eugenia. Una buena aventura de medio día en Puerto Williams.
-ref: bike-isla-navarino
-permalink: es/bike-isla-navarino/
-postHero: /images/isla-navarino/bici/j-map.jpg
-region: Puerto-Williams
+author: Sóijen
+layout: post
 latitude: -54.932215
 longitude: -67.315517
+permalink: /es/bike-isla-navarino/
+postHero: /images/isla-navarino/bici/j-map.jpg
+ref: bike-isla-navarino
+region: Puerto-Williams
+tags: bike
 zoom: 8
 ---
 Después de terminar el circuito de los Dientes de Navarino, nos quedaron algunos días para visitar la isla en busca de más aventuras. ¿Qué hay al final del camino aquí al final del mundo? Decidimos viajar en bicicleta, lo más lejos posible, en dirección este hacia Puerto Eugenia. Elegimos el camino hacia el este debido a (1) la ruta es más corta que en dirección oeste y (2) si alguien desea continuar el sendero de la ruta hacia el este, eventualmente debería llegar a Puerto Toro, una villa de pescadores, solamente accesible vía marítima. Quizás algún día podríamos completar ese trayecto para llegar a Puerto Toro, suena una muy entretenida aventura y por ahora podremos realizar una parte de este trayecto.
@@ -30,22 +31,22 @@ Nos dirigimos afuera de la ciudad en un atípico día caluroso. La ruta continu�
 
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/bici/j-bici.jpg"
-      alt="Biking Isla Navarino">
+      alt="Isla Navarino en bici">
      <figcaption class="img-caption">Camino de tierra con vista hacia Tierra del Fuego durante todo el trayecto</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/bici/j-bridge.jpg"
-      alt="Biking Isla Navarino">
+      alt="Isla Navarino en bici">
      <figcaption class="img-caption">Pasando una de las pocas villas en el camino</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/bici/e-bici.jpg"
-      alt="Biking Isla Navarino">
+      alt="Isla Navarino en bici">
      <figcaption class="img-caption">Piernas cansadas por el circuito Dientes de Navarino</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/bici/j-dogs.jpg"
-      alt="Dogs in Puerto Eugenia">
+      alt="Puerto Eugenia, Isla Navarino">
      <figcaption class="img-caption">Siendo escoltados por amigos locales al final del camino</figcaption>
 </figure>
 <figure class="figure">
@@ -60,12 +61,12 @@ Nos dirigimos afuera de la ciudad en un atípico día caluroso. La ruta continu�
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/bici/stairs.jpg"
-      alt="Stairs in Puerto Williams">
+      alt="Puerto Williams">
      <figcaption class="img-caption">Regresando a Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/isla-navarino/bici/j-pwlookout.jpg"
-      alt="Puerto Williams lookout">
+      alt="Puerto Williams mirador">
      <figcaption class="img-caption">Llegando de vuelta al mirador en Puerto Williams</figcaption>
 </figure>
 

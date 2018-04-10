@@ -17,7 +17,10 @@
           <a class="drop-trigger" href="/es/blog/">Blog</a>
         {% endif %}
         <ul class="drop-menu">
-          <li></li>
+          <li>
+            {% if page.lang == 'en' %}Recent Posts{% endif %}
+            {% if page.lang == 'es' %}Publicaciones Reciente{% endif %}
+          </li>
           {% assign posts=site.posts | where:"lang", page.lang %}
           {% for post in posts limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>

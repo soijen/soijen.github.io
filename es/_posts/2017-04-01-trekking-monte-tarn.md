@@ -1,15 +1,15 @@
 ---
-layout: post
 title: Monte Tarn - La Montaña que Nos Hace Regresar
-author: sóijen
 description: Este icónico sendero al sur de Punta Arenas tiene las mejores vistas al Estrecho de Magallanes y la Península de Brunswick.
-ref: trek-tarn
-permalink: es/trekking-monte-tarn/
-postHero: /images/monte-tarn/e-2013-summit.jpg
-region: Punta-Arenas
-tags: trekking
+author: Sóijen
+layout: post
 latitude: -53.755607
 longitude: -70.971891
+permalink: es/trekking-monte-tarn/
+postHero: /images/monte-tarn/e-2013-summit.jpg
+ref: trek-tarn
+region: Punta-Arenas
+tags: trekking
 zoom: 8
 ---
 Monte Tarn (825 metros de altura) se encuentra a 70 km al sur de la ciudad de Punta Arenas, un poco mas allá del final de la ruta 9. El sendero hacia la cima ha sido nuestro favorito desde que vivimos en Punta Arenas en el año 2013 (mira de cerca nuestro logo). Mucho ha cambiado desde esa fecha. La ruta se amplió hasta casi el inicio de la caminata, ahora el sendero se encuentra más señalizado e incluso hay una bandera en la cima. Aunque ya no se siente tan salvaje como antes, las increíbles vistas al Estrecho de Magallanes y la Península de Brunswick son difíciles de resistir.
@@ -28,22 +28,22 @@ El 21 de Diciembre del año 2016, el incendio forestal de San Juan fue contenido
 
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/road.jpg"
-      alt="Road to Monte Tarn">
+      alt="Manejando al sur de la ruta 9, Monte Tarn al fondo">
      <figcaption class="img-caption">Manejando al sur de la ruta 9, Monte Tarn al fondo</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/fire.jpg"
-      alt="forest fire patagonia">
+      alt="Vegetación destruida por el fuego">
      <figcaption class="img-caption">Vegetación destruida por el fuego</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/j-estrecho.jpg"
-      alt="Running on the Strait of Magellan">
+      alt="Corriendo junto al Estrecho de Magallanes">
      <figcaption class="img-caption">Corriendo junto al Estrecho de Magallanes</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/monte-tarn.jpg"
-      alt="Trekking Monte Tarn">
+      alt="Nuestro objetivo en la distancia la cima del Monte Tarn">
      <figcaption class="img-caption">Nuestro objetivo en la distancia la cima del Monte Tarn</figcaption>
 </figure>
 <figure class="figure">
@@ -53,27 +53,27 @@ El 21 de Diciembre del año 2016, el incendio forestal de San Juan fue contenido
 </figure>
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/j-h-e-storm.jpg"
-      alt="Monte Tarn summer snow storm">
+      alt="Monte Tarn tormenta de nieve">
      <figcaption class="img-caption">La nieve continuaba a medida que ascendiamos</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/storm-descent.jpg"
-      alt="Monte Tarn trekking in storm">
+      alt="Monte Tarn tormenta de nieve">
      <figcaption class="img-caption">Nuestro regreso al no poder llegar a la cima</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/j-2013-snow.jpg"
-      alt="In dientes">
+      alt="Monte Tarne cumbre">
      <figcaption class="img-caption">Fotos del 2013 cuando llegamos a la cima: fin de octubre cuando todavía había nieve en la cima</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/j-2013-mountains.jpg"
-      alt="Mountains Patagonia">
+      alt="Montañas de la Península de Brunswick">
      <figcaption class="img-caption">Montañas de la Península de Brunswick</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/images/monte-tarn/j-2013-summit.jpg"
-      alt="Trekking Monte Tarn">
+      alt="La cima de Monte Tarn">
      <figcaption class="img-caption">La cima de Monte Tarn</figcaption>
 </figure>
 
