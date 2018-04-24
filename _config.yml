@@ -2,7 +2,6 @@ title: sóijen | patagonia [un]explored
 email: info@soijen.com
 description: At Sóijen we are outdoor adventurers who connect fellow explorers to untapped regions of Patagonia.
 lang: ["en", "es"]
-#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://soijen.com"
 twitter_username: soijen_
 permalink: /:title/

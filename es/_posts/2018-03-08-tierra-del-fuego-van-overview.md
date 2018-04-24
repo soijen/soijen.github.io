@@ -22,7 +22,7 @@ Nuestra jornada por tierra durante 8 días en la Isla de Tierra del Fuego, se en
 <ul class="post-stats bullets">
   <li><a href="/es/TDF-part-1-punta-arenas-cerro-sombrero/">Parte 1 - Punta Arenas a Cerro Sombrero</a></li>
   <li><a href="/es/TDF-part-2-cerro-sombrero-cameron/">Parte 2 - Cerro Sombrero a Cameron</a></li>
-  <li>Parte 3 - Cameron a Pampa Guanaco (pronto)</li>
+  <li><a href="/es/TDF-part-3-cameron-pampa-guanaco/">Parte 3 - Cameron a Pampa Guanaco</a></li>
   <li>Parte 4 - Pampa Guanaco a Caleta Maria (pronto)</li>
   <li>Parte 5 - Cameron to Porvenir (pronto)</li>
   <li>Parte 6 - Porvenir a Punta Arenas (pronto)</li>

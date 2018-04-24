@@ -764,7 +764,11 @@ textarea {
     padding-right: 3vh;
   }
 }
-
+@media (max-width: 800px) {
+  .hero-posts {
+    height: 45vh;
+  }
+}
 @media (max-width: 400px) {
   .full-hero {
       padding: 8vh 5vh;
