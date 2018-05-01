@@ -25,7 +25,7 @@ Nuestra primera publicación en sóijen y que mejor manera de comenzar con nuest
 
 La duración está descrita con un signo de interrogación debido a que el tiempo depende del tipo de experiencia que ustedes estan buscando. El circuito normal se desarrolla entre 3 a 5 dias en un viaje con mochilas y paradas para acampar. Nuestro estilo fue con mochilas super livianas terminando el circuito en menos de un día.
 
-{% include youtubePlayer.html id="DiRtfEN9dm0" %}
+{% include youtubePlayer.html id="OnRUcMTAdvc" %}
 
 <h2>Los Desafíos</h2>
 <ol>
