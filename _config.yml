@@ -5,6 +5,8 @@ lang: ["en", "es"]
 url: "https://soijen.com"
 twitter_username: soijen_
 permalink: /:title/
+google_analytics_key: UA-110515448-1
+google_site_verification: EEQMidAdFg7D-e5XOsBLr9_yrpphwc6Yt7Oy0HUMq7g
 google_maps_api_key: AIzaSyDA1P82F6tKVJNiiP-tI9dOFrzPcfzX4eE
 
 # Build settings
