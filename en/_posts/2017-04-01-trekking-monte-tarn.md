@@ -6,7 +6,7 @@ layout: post
 latitude: -53.755607
 longitude: -70.971891
 permalink: /trekking-monte-tarn/
-postHero: /images/monte-tarn/e-2013-summit.jpg
+postHero: /assets/images/monte-tarn/e-2013-summit.jpg
 ref: trek-tarn
 region: Punta-Arenas
 tags:
@@ -28,52 +28,52 @@ Monte Tarn (825 m) lies about 70 km south of Punta Arenas, at the southern termi
 On December 21st, 2016 the forest fire in San Juan finally stopped and the Carabineros reopened the road south, so we jumped on the opportunity to give Monte Tarn a try. What better way to spend the summer solstice. We started the trek along the Strait of Magellan with blue skies. We ascended quickly as the weather started to change halfway up the mountain – rain, then sleet, then big, fluffy snowflakes. The wind gusts and cold became unbearable as we approached the summit ridge. So close, but just not worth the risk. About 30 minutes from the summit we decided to turn back. The top of the mountain was shrouded in stormy clouds. Monte Tarn won this time but we will be back for future adventures.
 
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/road.jpg"
+  <img class="image" src="/assets/images/monte-tarn/road.jpg"
       alt="Road to Monte Tarn">
      <figcaption class="img-caption">Road to the trailhead</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/fire.jpg"
+  <img class="image" src="/assets/images/monte-tarn/fire.jpg"
       alt="forest fire patagonia">
      <figcaption class="img-caption">Remnants of the recent forest fires in San Juan, en route to Monte Tarn</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/j-estrecho.jpg"
+  <img class="image" src="/assets/images/monte-tarn/j-estrecho.jpg"
       alt="Running on the Strait of Magellan">
      <figcaption class="img-caption">Running along the Strait of Magellan, approach to Monte Tarn</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/monte-tarn.jpg"
+  <img class="image" src="/assets/images/monte-tarn/monte-tarn.jpg"
       alt="Trekking Monte Tarn">
      <figcaption class="img-caption">Beginning the ascent with our summit goal in the distance</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/j-h-e-estrecho.jpg"
+  <img class="image" src="/assets/images/monte-tarn/j-h-e-estrecho.jpg"
       alt="Trekking Monte Tarn with Magellan Strait">
      <figcaption class="img-caption">The uphill trek as the weather starts to change</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/j-h-e-storm.jpg"
+  <img class="image" src="/assets/images/monte-tarn/j-h-e-storm.jpg"
       alt="Monte Tarn summer snow storm">
      <figcaption class="img-caption">Full blown snow as we continue our ascent</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/storm-descent.jpg"
+  <img class="image" src="/assets/images/monte-tarn/storm-descent.jpg"
       alt="Monte Tarn trekking in storm">
      <figcaption class="img-caption">Our retreat back down the mountain. Hearbreaking to be so close to the summit!</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/j-2013-snow.jpg"
+  <img class="image" src="/assets/images/monte-tarn/j-2013-snow.jpg"
       alt="In dientes">
      <figcaption class="img-caption">Photos from our 2013 trek when we actually made it to the summit. This was late October, still with a lot of snow near the top.</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/j-2013-mountains.jpg"
+  <img class="image" src="/assets/images/monte-tarn/j-2013-mountains.jpg"
       alt="Mountains Patagonia">
      <figcaption class="img-caption">Mountains as far as the eyes can see</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/monte-tarn/j-2013-summit.jpg"
+  <img class="image" src="/assets/images/monte-tarn/j-2013-summit.jpg"
       alt="Trekking Monte Tarn">
      <figcaption class="img-caption">Summit of Monte Tarn</figcaption>
 </figure>

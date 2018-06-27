@@ -6,7 +6,7 @@ layout: post
 latitude: -54.932215
 longitude: -67.315517
 permalink: /es/bike-isla-navarino/
-postHero: /images/isla-navarino/bici/j-map.jpg
+postHero: /assets/images/isla-navarino/bici/j-map.jpg
 ref: bike-isla-navarino
 region: Puerto-Williams
 tags: bike
@@ -30,42 +30,42 @@ Lo primero que tuvimos que hacer fue arrendar bicicletas con Turismo Shila (ubic
 Nos dirigimos afuera de la ciudad en un atípico día caluroso. La ruta continuó sobre camino de tierra a lo largo de la costa del Canal Beagle hacia el este. El camino tiene subidas y bajadas con increíbles vistas hacia Tierra del Fuego durante todo el viaje. Vimos señales en el camino indicando que Puerto Eugenia se encontraba a 19 km pero nuestro GPS nos indicó 23 km.
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-bici.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-bici.jpg"
       alt="Isla Navarino en bici">
      <figcaption class="img-caption">Camino de tierra con vista hacia Tierra del Fuego durante todo el trayecto</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-bridge.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-bridge.jpg"
       alt="Isla Navarino en bici">
      <figcaption class="img-caption">Pasando una de las pocas villas en el camino</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/e-bici.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/e-bici.jpg"
       alt="Isla Navarino en bici">
      <figcaption class="img-caption">Piernas cansadas por el circuito Dientes de Navarino</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-dogs.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-dogs.jpg"
       alt="Puerto Eugenia, Isla Navarino">
      <figcaption class="img-caption">Siendo escoltados por amigos locales al final del camino</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/backpack.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/backpack.jpg"
       alt="Puerto Eugenia, Isla Navarino">
      <figcaption class="img-caption">El fin del camino en Puerto Eugenia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-birds.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-birds.jpg"
       alt="Fauna Isla Navarino">
      <figcaption class="img-caption">Muchas oportunidades para la observación de aves</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/stairs.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/stairs.jpg"
       alt="Puerto Williams">
      <figcaption class="img-caption">Regresando a Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-pwlookout.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-pwlookout.jpg"
       alt="Puerto Williams mirador">
      <figcaption class="img-caption">Llegando de vuelta al mirador en Puerto Williams</figcaption>
 </figure>

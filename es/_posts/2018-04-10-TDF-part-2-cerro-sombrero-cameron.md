@@ -6,7 +6,7 @@ layout: post
 latitude: -52.7646632
 longitude: -69.2949891
 permalink: /es/TDF-part-2-cerro-sombrero-cameron/
-postHero: /images/tierra-del-fuego/cs-sunset.jpg
+postHero: /assets/images/tierra-del-fuego/cs-sunset.jpg
 ref: TDF-part-2-cerro-sombrero-cameron
 region: Tierra-del-Fuego
 tags:
@@ -29,12 +29,12 @@ En la mañana siguiente después de una larga ducha de agua caliente, algunos ma
 Continuamos nuestro camino hacia Cameron, conduciendo por extensas llanuras, donde solo se veían cercos. Después de alrededor de una hora de viajes llegamos a Onaisin, donde termina el camino de pavimento y se da inicio a la ruta Y-85, la real aventura estaba por comenzar.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cs-tourist-info.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cs-tourist-info.jpg"
       alt="Información turística, Cerro Sombrero, con baños y duchas públicos">
      <figcaption class="img-caption">Información turística, Cerro Sombrero, con baños y duchas públicos</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cs-enap.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cs-enap.jpg"
       alt="Estación de servicio en Cerro Sombrero">
      <figcaption class="img-caption">Estación de servicio en Cerro Sombrero</figcaption>
 </figure>
@@ -48,12 +48,12 @@ Un año atrás tuvimos la oportunidad de conocer al Pingüino de Magallanes cerc
 Nos despedimos de los pingüinos y decidimos preparar nuestro almuerzo en el estacionamiento del parque. Al terminar nuestro café, decidimos continuar nuestro viaje a lo largo de la costa de Bahía Inútil en dirección hacia Cameron, nuestra puerta de entrada a la región de Timaukel en Tierra del Fuego.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/pinguinos.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/pinguinos.jpg"
       alt="Parque Pinguino Rey">
      <figcaption class="img-caption">Parque Pingüino Rey</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/pinguinos-edu.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/pinguinos-edu.jpg"
       alt="Área de observación en Parque Pinguino Rey">
      <figcaption class="img-caption">Área de observación en Parque Pingüino Rey</figcaption>
 </figure>

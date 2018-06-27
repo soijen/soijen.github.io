@@ -6,7 +6,7 @@ layout: post
 latitude: -53.8671117
 longitude: -69.2972139
 permalink: /tierra-del-fuego-van-overview/
-postHero: /images/tierra-del-fuego/van-mountains.jpg
+postHero: /assets/images/tierra-del-fuego/van-mountains.jpg
 ref: tierra-del-fuego-van-overview
 region: Tierra-del-Fuego
 tags:

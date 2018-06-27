@@ -6,7 +6,7 @@ layout: post
 latitude: -54.476871
 longitude: -68.969569
 permalink: /TDF-part-4-pampa-guanaco-caleta-maria/
-postHero: /images/tierra-del-fuego/south/fin-del-camino.jpg
+postHero: /assets/images/tierra-del-fuego/south/fin-del-camino.jpg
 ref: TDF-part-4-pampa-guanaco-caleta-maria
 region: Tierra-del-Fuego
 tags:
@@ -29,12 +29,12 @@ We were so intrigued by this mountain that the next day we woke up early to see 
 After two nights camping at Lago Blanco we decided to continue on. Overall we would highly recommend this isolated spot. We only met one other family camping with us during one of the nights of our stay. Just keep in mind this is NOT a calm, tranquil lake - the waves are huge, wind always roaring, and the water ice cold (yup, we jumped in to test it out).
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/castor.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/castor.jpg"
       alt="Damage from beavers near Lago Blanco">
      <figcaption class="img-caption">Damage from beavers near Lago Blanco</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/sunset-lblanco.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/sunset-lblanco.jpg"
       alt="Camping on the shores of Lago Blanco">
      <figcaption class="img-caption">Camping on the shores of Lago Blanco</figcaption>
 </figure>
@@ -49,32 +49,32 @@ We made our first ascent in the mountains, arriving to a lookout point over Lago
 The route descends, then continues along a beautiful valley, and ascends again to climb a second mountain range. As we pushed uphill we wondered - <em>what's this route like in the winter?</em> Now we really understood the hard and slow work of the Chilean Military Corps in building these remote mountain roads to connect the isolated south of the country. With a final descent we approached the famous Lago Fagnano.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/road.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/road.jpg"
       alt="Route Y-85 towards Lago Fagnano">
      <figcaption class="img-caption">Route Y-85 towards Lago Fagnano</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/first-mountains.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/first-mountains.jpg"
       alt="Y-85 arriving to Parque Karukinka">
      <figcaption class="img-caption">Y-85 arriving to Parque Karukinka</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/karukinka.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/karukinka.jpg"
       alt="Route Y-85 towards Lago Fagnano">
      <figcaption class="img-caption">Route Y-85 towards Lago Fagnano</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/winding-road.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/winding-road.jpg"
       alt="Climbing route Y-85 in the mountains">
      <figcaption class="img-caption">Climbing route Y-85 in the mountains</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/road-mountains.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/road-mountains.jpg"
       alt="An incredible view of the mountains in the south of Tierra del Fuego from route Y-85">
      <figcaption class="img-caption">An incredible view of the mountains in the south of Tierra del Fuego from route Y-85</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/water.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/water.jpg"
       alt="Filling up on water on route Y-85">
      <figcaption class="img-caption">Filling up on water on route Y-85</figcaption>
 </figure>
@@ -85,17 +85,17 @@ Lago Fagnano is a long and narrow lake shared by Chile and Argentina. We couldn'
 Another thing you'll find at Lago Fagnano is a sign where the road forks: Caleta María 12km away and Yendegaia distance TBD. The Military Corps is still working on completing the route to Yendegaia, a military post which lies on the shores of the Beagle Canal on the southern end of Tierra del Fuego. For now we will take the route to the right and will follow the Azopardo River, which connects Lago Fagnano to Caleta María, where it empties into the Strait of Magellan.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/ruta-yendegaia.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/ruta-yendegaia.jpg"
       alt="The unfinished route to Yendegaia">
      <figcaption class="img-caption">The unfinished route to Yendegaia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/fagnano-van.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/fagnano-van.jpg"
       alt="A great place to rest on the shores of Lago Fagnano">
      <figcaption class="img-caption">A great place to rest on the shores of Lago Fagnano</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/picnic.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/picnic.jpg"
       alt="Lunch at Lago Fagnano">
      <figcaption class="img-caption">Lunch at Lago Fagnano</figcaption>
 </figure>
@@ -108,27 +108,27 @@ After braving the winds to prepare a coffee at the end of the road, we decided t
 It's finally time to head back north. Porvenir will be our last destination on our journey across Tierra del Fuego, Chile.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/caleta-maria-van1.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-van1.jpg"
       alt="Finally arriving to the end of the road, Caleta Maria">
      <figcaption class="img-caption">Finally arriving to the end of the road, Caleta Maria</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/caleta-maria-van2.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-van2.jpg"
       alt="Caleta Maria - Fin del camino">
      <figcaption class="img-caption">Caleta Maria - end of the road</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/caleta-maria-house.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-house.jpg"
       alt="Caleta Maria - Fin del camino">
      <figcaption class="img-caption">Caleta Maria - end of the road</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/caleta-maria.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria.jpg"
       alt="Incredible landscape at Caleta Maria">
      <figcaption class="img-caption">Incredible landscape at Caleta Maria</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/trek.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/trek.jpg"
       alt="Trekking between Caleta Maria and Lago Fagnano">
      <figcaption class="img-caption">Trekking between Caleta Maria and Lago Fagnano</figcaption>
 </figure>

@@ -6,7 +6,7 @@ layout: post
 latitude: -54.935491
 longitude: -67.605799
 permalink: /visit-puerto-williams/
-postHero: /images/isla-navarino/pw/sea.jpg
+postHero: /assets/images/isla-navarino/pw/sea.jpg
 ref: visit-puerto-williams
 region: Puerto-Williams
 tags:
@@ -21,7 +21,7 @@ Put your finger on a <a href="#map">map</a> and move it to the south of South Am
 Isla Navarino was the home of the native people “Yagán” or “Yamana”. They were hunters and nomads who sailed in small canoes over channels and fjords. During the 50’s the Chilean government established the town of Puerto Williams with a population of the Chilean Navy and their families. Now Puerto Williams has a population of around 2874 habitants.
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/cemetery.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/cemetery.jpg"
       alt="Yagán cemetery">
      <figcaption class="img-caption">The Yagán cemetery, west of Puerto Williams</figcaption>
 </figure>
@@ -35,7 +35,7 @@ If you have time I definitely suggest the trip by sea. From Punta Arenas sail in
 If you don’t have time you can take an <a href="http://dapairline.com/" target="_blank">airplane</a> from Punta Arenas. On a clear day, you have great views of the surrounding mountains, channels, and glaciers during the flight. The flight time is around 40 minutes, but it is weather dependent and can sometimes take an hour and a half. You can walk to the town from the airport (5K) or you can take a shuttle (2000 CLP).
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/plane.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/plane.jpg"
       alt="Puerto Williams by Air">
      <figcaption class="img-caption">Puerto Williams from the plane</figcaption>
 </figure>
@@ -51,22 +51,22 @@ The internet is not the best but you can go to the Martin Gusinde Museum, where 
 Definitely, visit the Tourist Information booth downtown to find maps and more information about local activities.
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/touristinfo.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/touristinfo.jpg"
       alt="Tourist Info">
      <figcaption class="img-caption">Tourist information in Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/road.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/road.jpg"
       alt="Puerto Williams groceries">
      <figcaption class="img-caption">Grocery store in Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/dientes-mirador.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/dientes-mirador.jpg"
       alt="View of the Dientes">
      <figcaption class="img-caption">Views of Cerro La Bandera, Dientes de Navarino, and other peaks from around town</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/mirador.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/mirador.jpg"
       alt="Puerto Williams Lookout">
      <figcaption class="img-caption">Lookout over the Beagle channel</figcaption>
 </figure>
@@ -90,12 +90,12 @@ Definitely, visit the Tourist Information booth downtown to find maps and more i
 </ul>
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/water.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/water.jpg"
       alt="River">
      <figcaption class="img-caption">Drinking the world's purest water</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/cerro-bandera.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/cerro-bandera.jpg"
       alt="Cerro La Bandera trailhead">
      <figcaption class="img-caption">Cerro La Bandera and Dientes de Navarino trailhead right at the outskirts of town</figcaption>
 </figure>

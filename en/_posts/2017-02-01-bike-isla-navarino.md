@@ -6,7 +6,7 @@ layout: post
 latitude: -54.932215
 longitude: -67.315517
 permalink: /bike-isla-navarino/
-postHero: /images/isla-navarino/bici/j-map.jpg
+postHero: /assets/images/isla-navarino/bici/j-map.jpg
 ref: bike-isla-navarino
 region: Puerto-Williams
 tags:
@@ -31,42 +31,42 @@ First of all, renting mountain bikes at Turismo Shila (at O’Higgins and Prat) 
 We headed out of town around noon on an uncharacteristically warm day. The route follows the dirt road along the Beagle Channel to the east. The road is hilly, and there are incredible views across the channel to Tierra del Fuego the whole trip. We saw road signs that Puerto Eugenia is 19 km away but on our GPS it was actually 23 km.
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-bici.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-bici.jpg"
       alt="Biking Isla Navarino">
      <figcaption class="img-caption">Dirt road all the way with views of Tierra del Fuego</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-bridge.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-bridge.jpg"
       alt="Biking Isla Navarino">
      <figcaption class="img-caption">Passing one of the few small villages along the way</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/e-bici.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/e-bici.jpg"
       alt="Biking Isla Navarino">
      <figcaption class="img-caption">Our tired legs from the Dientes trek made these hills tough</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-dogs.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-dogs.jpg"
       alt="Dogs in Puerto Eugenia">
      <figcaption class="img-caption">Locals escorting us on the final stretch of road to Puerto Eugenia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/backpack.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/backpack.jpg"
       alt="Puerto Eugenia, Isla Navarino">
      <figcaption class="img-caption">The end of the road in Puerto Eugenia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-birds.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-birds.jpg"
       alt="Fauna Isla Navarino">
      <figcaption class="img-caption">Great bird watching along the way</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/stairs.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/stairs.jpg"
       alt="Stairs in Puerto Williams">
      <figcaption class="img-caption">Arriving back to Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/bici/j-pwlookout.jpg"
+  <img class="image" src="/assets/images/isla-navarino/bici/j-pwlookout.jpg"
       alt="Biking Isla Navarino">
      <figcaption class="img-caption">Arriving again to the Puerto Williams lookout</figcaption>
 </figure>

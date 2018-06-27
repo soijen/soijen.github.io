@@ -6,7 +6,7 @@ layout: post
 latitude: -54.476871
 longitude: -68.969569
 permalink: /es/TDF-part-4-pampa-guanaco-caleta-maria/
-postHero: /images/tierra-del-fuego/south/fin-del-camino.jpg
+postHero: /assets/images/tierra-del-fuego/south/fin-del-camino.jpg
 ref: TDF-part-4-pampa-guanaco-caleta-maria
 region: Tierra-del-Fuego
 tags:
@@ -29,12 +29,12 @@ Sentimos tanta curiosidad por la cima de este cerro de 800m que decidimos seguir
 Después de dos noches en este lugar, decidimos seguir nuestro viaje hacia Caleta María. Nos encantó mucho estar en aquí, tan apartados y lejos de todo, sólo encontramos a una familia acampando en nuestra estadía. Eso sí no hay que  imaginar un lago calmo, las olas son grandes y el agua como siempre helada (si decidimos saltar al agua).
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/castor.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/castor.jpg"
       alt="Sectores destrozados por castores cerca de Lago Blanco">
      <figcaption class="img-caption">Sectores destrozados por castores cerca de Lago Blanco</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/sunset-lblanco.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/sunset-lblanco.jpg"
       alt="Lago Blanco">
      <figcaption class="img-caption">Camping a la orilla de Lago Blanco</figcaption>
 </figure>
@@ -49,32 +49,32 @@ Como la ruta corre por las montañas comenzamos el primer ascenso para llegar al
 La ruta continua por este hermoso valle para subir de nuevo y llegar a la cima del segundo cordón montañoso. Es aquí donde nos imaginamos ¿Cómo sería manejar esta ruta en invierno? Y a la vez el duro trabajo que está realizando el Cuerpo Militar del Trabajo al crear conectividad en estos puntos tan remotos en la Patagonia. Es tiempo de bajar de esta montaña y aproximarse al famoso Lago Fagnano.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/road.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/road.jpg"
       alt="La ruta Y-85 hacia Lago Fagnano">
      <figcaption class="img-caption">La ruta Y-85 hacia Lago Fagnano</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/first-mountains.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/first-mountains.jpg"
       alt="Y-85 llegando a Parque Karukinka">
      <figcaption class="img-caption">Y-85 llegando a Parque Karukinka</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/karukinka.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/karukinka.jpg"
       alt="La ruta Y-85 hacia Lago Fagnano">
      <figcaption class="img-caption">La ruta Y-85 hacia Lago Fagnano</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/winding-road.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/winding-road.jpg"
       alt="Subiendo la ruta Y-85 por las montañas">
      <figcaption class="img-caption">Subiendo la ruta Y-85 por las montañas</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/road-mountains.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/road-mountains.jpg"
       alt="Una vista increíble de las montañas al sur de Tierra del Fuego en la ruta Y-85">
      <figcaption class="img-caption">Una vista increíble de las montañas al sur de Tierra del Fuego en la ruta Y-85</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/water.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/water.jpg"
       alt="Tomando agua en la ruta Y-85">
      <figcaption class="img-caption">Tomando agua en la ruta Y-85</figcaption>
 </figure>
@@ -84,17 +84,17 @@ El Lago Fagnano es un lago compartido entre Chile y Argentina. Detenernos en ese
 Lago Fagnano además significaba encontrarse con este letrero. Esperamos que la distancia a Yendagia sea escrita muy pronto, mientras tanto decidimos ir a Caleta María, distante unos 10 km bordeando el río Azopardo, el cual conecta el Lago Fagnano con el Estrecho de Magallanes.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/ruta-yendegaia.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/ruta-yendegaia.jpg"
       alt="La ruta hacia Yendegaia">
      <figcaption class="img-caption">La ruta hacia Yendegaia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/fagnano-van.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/fagnano-van.jpg"
       alt="Un buen lugar para descansar a la orilla de Lago Fagnano">
      <figcaption class="img-caption">Un buen lugar para descansar a la orilla de Lago Fagnano</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/picnic.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/picnic.jpg"
       alt="Almorzando en Lago Fagnano">
      <figcaption class="img-caption">Almorzando en Lago Fagnano</figcaption>
 </figure>
@@ -107,27 +107,27 @@ Después de un café en esta parte del mundo decidimos regresar a Lago Fagnano p
 Es tiempo de comenzar nuestro viaje de regreso, donde Porvenir será nuestro último destino en esta travesía por Tierra del Fuego, Chile.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/caleta-maria-van1.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-van1.jpg"
       alt="Finalmente llegando al fin del camino, Caleta Maria">
      <figcaption class="img-caption">Finalmente llegando al fin del camino, Caleta Maria</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/caleta-maria-van2.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-van2.jpg"
       alt="Caleta Maria - Fin del camino">
      <figcaption class="img-caption">Caleta Maria - Fin del camino</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/caleta-maria-house.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-house.jpg"
       alt="Caleta Maria - Fin del camino">
      <figcaption class="img-caption">Caleta Maria - Fin del camino</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/caleta-maria.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria.jpg"
       alt="Un paisaje increíble en Caleta Maria">
      <figcaption class="img-caption">Un paisaje increíble en Caleta Maria</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/south/trek.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/south/trek.jpg"
       alt="Trekking entre Caleta Maria y Lago Fagnano">
      <figcaption class="img-caption">Trekking entre Caleta Maria y Lago Fagnano</figcaption>
 </figure>

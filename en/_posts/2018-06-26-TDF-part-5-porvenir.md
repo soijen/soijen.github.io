@@ -6,7 +6,7 @@ layout: post
 latitude: -53.292407
 longitude: -70.367031
 permalink: /TDF-part-5-porvenir/
-postHero: /images/tierra-del-fuego/obejas.jpg
+postHero: /assets/images/tierra-del-fuego/obeja-xing.jpg
 ref: TDF-part-5-porvenir
 region: Tierra-del-Fuego
 tags:
@@ -24,12 +24,12 @@ At Onaisin we said goodbye to our beloved Y-85 to take the coastal Y-71 to Porve
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: By far during our trip route Y-71 was the most complicated to drive. Y-71 is a windy dirt road that hugs the northern coast of Bahía Inútil. At times the road is very narrow and has lots of potholes.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/road-tdf.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/road-tdf.jpg"
       alt="The route to Porvenir">
      <figcaption class="img-caption">The route to Porvenir</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/obeja-xing.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/obeja-xing.jpg"
       alt="Sheep crossing on route Y-71 to Porvenir">
      <figcaption class="img-caption">Sheep crossing on route Y-71 to Porvenir</figcaption>
 </figure>
@@ -45,12 +45,12 @@ We had a tough time finding a last minute place to stay in Porvenir since there 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: Keep in mind that the town functions on a distinct schedule, some shops close at lunch and open later in the day.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cafe-porvenir.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cafe-porvenir.jpg"
       alt="Café Sabores del Fuego in Porvenir">
      <figcaption class="img-caption">Café Sabores del Fuego in Porvenir</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/postre-porvenir.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/postre-porvenir.jpg"
       alt="Café Sabores del Fuego in Porvenir">
      <figcaption class="img-caption">Café Sabores del Fuego in Porvenir</figcaption>
 </figure>
@@ -62,7 +62,7 @@ As we mentioned in our first post of this series, there are 2 ways to travel by 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: To cross from Porvenir to Punta Arenas, usually you need to reserve a spot on the ferry in advanced (for vehicles). But you can ask the agency that day if there is space. One ferry leaves per day. The terminal is in Bahía Chilota, 5km from Porvenir. Cash only. For more information about prices and timetables see <a href="http://www.tabsa.cl/" target="_blank">Transbordadora Austral Boom</a>. Ferry crossings may be cancelled due to strong winds.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cruce-puq.png"
+  <img class="image" src="/assets/images/tierra-del-fuego/cruce-puq.png"
       alt="Crossing to Punta Arenas">
      <figcaption class="img-caption">Crossing to Punta Arenas</figcaption>
 </figure>

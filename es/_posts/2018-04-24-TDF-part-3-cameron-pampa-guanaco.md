@@ -6,7 +6,7 @@ layout: post
 latitude: -54.046149
 longitude: -68.805629
 permalink: /es/TDF-part-3-cameron-pampa-guanaco/
-postHero: /images/tierra-del-fuego/cameron-coast.jpg
+postHero: /assets/images/tierra-del-fuego/cameron-coast.jpg
 ref: TDF-part-3-cameron-pampa-guanaco
 region: Tierra-del-Fuego
 tags:
@@ -31,27 +31,27 @@ Nosotros llegamos a Russfin para llenar nuestro estanque y nos enteramos que no 
 Casi llegando a Pampa Guanaco, el paisaje comienza a cambiar. La pampa comienza a ser reemplazada por arbustos y estos por árboles, una muy buena señal de bienvenida.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/bienvenido-timaukel.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/bienvenido-timaukel.jpg"
       alt="Bienvenido a Timaukel">
      <figcaption class="img-caption">Bienvenido a Timaukel</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cameron-center.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cameron-center.jpg"
       alt="Centro de Cameron">
      <figcaption class="img-caption">Baños públicos en el centro de Cameron</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/obejas.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/obejas.jpg"
       alt="Ovejas Tierra del Fuego">
      <figcaption class="img-caption">Ovejas en una de las tantas estancias a lo largo del camino.</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cameron-camp.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cameron-camp.jpg"
       alt="La vida en un Van Cameron Chile">
      <figcaption class="img-caption">Un buen lugar para pasar la noche.</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/russfin.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/russfin.jpg"
       alt="Parador Russfin ">
      <figcaption class="img-caption">Parador Russfin estación de combustible</figcaption>
 </figure>

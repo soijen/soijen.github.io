@@ -6,7 +6,7 @@ layout: post
 latitude: -54.935491
 longitude: -67.605799
 permalink: /es/visit-puerto-williams/
-postHero: /images/isla-navarino/pw/sea.jpg
+postHero: /assets/images/isla-navarino/pw/sea.jpg
 ref: visit-puerto-williams
 region: Puerto-Williams
 tags:
@@ -21,7 +21,7 @@ Pon tu dedo en un <a href="#map">mapa</a> y muévelo al sur de suramerica, deten
 La isla de Navarino fue el hogar para el pueblo Yagán o Yamana. Ellos fueron cazadores y nómades quienes en sus canoas surcaron los canales y fiordos australes. Durante los años cincuenta el gobierno de Chile estableció la localidad de Puerto Williams con una población de la Armada de Chile y sus familias. En la actualidad la localidad cuenta con alredor de 2874 habitantes. (Cifra proyectada Instituto Nacional de Estadísticas de Chile)
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/cemetery.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/cemetery.jpg"
       alt="Cementerio Yagán al oeste de Puerto Williams">
      <figcaption class="img-caption">Cementerio Yagán al oeste de Puerto Williams</figcaption>
 </figure>
@@ -35,7 +35,7 @@ Si tienes tiempo, recomiendo el viaje por mar. Desde Punta Arenas se puede embar
 Si no tienes mucho tiempo puedes tomar <a href="http://dapairline.com/" target="_blank">un avion</a> desde el aeropuerto de Punta Arenas. En un día sin nubes puedes obtener espectaculares vistas de las montañas y glaciares durante el vuelo. El tiempo de viaje es de alrededor de 40 minutos, pero todo depende de las condiciones metereológicas ya que el mismo vuelo puede tomar 1 hora y 30 minutos. Al llegar a Puerto Williams puedes caminar a la localidad (5K) o puedes tomar un pequeño bus por 2000 pesos chilenos.
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/plane.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/plane.jpg"
       alt="Puerto Williams desde el aire">
      <figcaption class="img-caption">Puerto Williams desde el aire</figcaption>
 </figure>
@@ -51,22 +51,22 @@ El internet no es el mejor pero lo puedes obtener cuando visites el Museo Martí
 Definitivamente debes visitar el centro de información turística para encontrar mapas e información sobre actividades locales.
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/touristinfo.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/touristinfo.jpg"
       alt="Información turística en Puerto Williams">
      <figcaption class="img-caption">Información turística en Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/road.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/road.jpg"
       alt="Supermercado en Puerto Williams">
      <figcaption class="img-caption">Supermercado en Puerto Williams</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/dientes-mirador.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/dientes-mirador.jpg"
       alt="Vista del Cerro La Bandera, Dientes de Navarino, y otras montañas alrededor">
      <figcaption class="img-caption">Vista del Cerro La Bandera, Dientes de Navarino, y otras montañas alrededor</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/mirador.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/mirador.jpg"
       alt="Mirador sobre el Canal Beagle">
      <figcaption class="img-caption">Mirador sobre el Canal Beagle</figcaption>
 </figure>
@@ -90,12 +90,12 @@ Definitivamente debes visitar el centro de información turística para encontra
 </ul>
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/water.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/water.jpg"
       alt="Agua pura Isla Navarino">
      <figcaption class="img-caption">Bebiendo del agua más pura del mundo</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/pw/cerro-bandera.jpg"
+  <img class="image" src="/assets/images/isla-navarino/pw/cerro-bandera.jpg"
       alt="Comienzo del sendero a Cerro La Bandera">
      <figcaption class="img-caption">Comienzo del sendero a Cerro la Bandera y el circuito de Dientes de Navarino</figcaption>
 </figure>

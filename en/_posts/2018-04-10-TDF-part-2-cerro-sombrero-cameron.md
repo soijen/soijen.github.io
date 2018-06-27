@@ -6,7 +6,7 @@ layout: post
 latitude: -53.628219
 longitude: -69.622287
 permalink: /TDF-part-2-cerro-sombrero-cameron/
-postHero: /images/tierra-del-fuego/cs-sunset.jpg
+postHero: /assets/images/tierra-del-fuego/cs-sunset.jpg
 ref: TDF-part-2-cerro-sombrero-cameron
 region: Tierra-del-Fuego
 tags:
@@ -27,12 +27,12 @@ The next morning after a long hot shower, some maps from the tourist center, and
 We drove towards Cameron across the flat pampas. After about an hour we reached Onaisin, the end of the paved road, and the beginning of Route Y-85. Let the real adventure begin.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cs-tourist-info.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cs-tourist-info.jpg"
       alt="Cerro Sombrero tourist info">
      <figcaption class="img-caption">Cerro Sombrero tourist info, with public bathrooms and showers</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cs-enap.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cs-enap.jpg"
       alt="Cerro Sombrero gas station">
      <figcaption class="img-caption">Old school gas station in Cerro Sombrero</figcaption>
 </figure>
@@ -44,12 +44,12 @@ A couple minutes down Y-85 and we reached our next destination of the day: Parqu
 We said <em>chao</em> to the penguins, we threw together a quick lunch in the parking lot. After a much needed coffee we continued driving along Bahía Inútil to the small town of Cameron, our gateway to the Timaukel region of Tierra del Fuego.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/pinguinos.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/pinguinos.jpg"
       alt="King penguins at Parque Pinguino Rey">
      <figcaption class="img-caption">King penguins at Parque Pingüino Rey</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/pinguinos-edu.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/pinguinos-edu.jpg"
       alt="King penguins at Parque Pinguino Rey">
      <figcaption class="img-caption">King penguin viewing platform at Parque Pingüino Rey</figcaption>
 </figure>

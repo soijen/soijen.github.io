@@ -6,7 +6,7 @@ layout: post
 latitude: -52.7646632
 longitude: -69.2949891
 permalink: /TDF-part-1-punta-arenas-cerro-sombrero/
-postHero: /images/tierra-del-fuego/map-tierra-del-fuego.jpg
+postHero: /assets/images/tierra-del-fuego/map-tierra-del-fuego.jpg
 ref: TDF-part-1-punta-arenas-cerro-sombrero
 region: Tierra-del-Fuego
 tags:
@@ -32,7 +32,7 @@ To start our journey we chose the latter because the more frequent ferry crossin
 The 2-hour drive from Punta Arenas to the ferry terminal at Punta Delgada is 100% on paved roads and mostly uneventful (drive carefully when there are strong winds on the route). You do pass Estancia San Gregorio - a now historical site of the first established ranch in Patagonia, and representative of the colonization of the region in the 1800s. A good place to stop for a photo and to stretch your legs (there are also two large shipwrecks in front).
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/san-gregorio.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/san-gregorio.jpg"
       alt="Estancia San Gregorio">
      <figcaption class="img-caption">Estancia San Gregorio</figcaption>
 </figure>
@@ -44,7 +44,7 @@ We arrived to Punta Delgada around 8:30 PM and parked our van in line for the fe
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: There are bathrooms, showers and a small convenience store at the Punta Delgada ferry terminal.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/primera-angostura.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/primera-angostura.jpg"
       alt="Ferry Primera Angostura">
      <figcaption class="img-caption">Ferry crossing of Primera Angostura at sunset</figcaption>
 </figure>

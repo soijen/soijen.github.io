@@ -6,7 +6,7 @@ layout: post
 latitude: -54.9402407
 longitude: -67.6217304
 permalink: /trail-running-dientes-de-navarino/
-postHero: /images/isla-navarino/dientes/dientes-edu.jpg
+postHero: /assets/images/isla-navarino/dientes/dientes-edu.jpg
 ref: trail-running-dientes-de-navarino
 region: Puerto-Williams
 tags:
@@ -49,47 +49,47 @@ The one time we felt real fear on the trail was when we reached Paso Virginia, t
 The last leg of the circuit was the most challenging. Tired legs (and paws) and tired minds, and an almost nonexistent trail. Again with Navarino's help we eventually made it back to the road, and the final 8 km leg back to Plaza de la Vírgen. We arrived at 10:30 PM, just as darkness hit. And as we walked through the streets of Puerto Williams, Navarino vanished just as suddenly as he appeared in our lives.
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/e-jumping.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/e-jumping.jpg"
       alt="Dientes de Navarino trek - trail running">
      <figcaption class="img-caption">Plenty of water en route</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-paso-snow.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-paso-snow.jpg"
       alt="Paso de los Dientes - trekking Dientes de Navarino">
      <figcaption class="img-caption">Approach to Paso de los Dientes - weather changed quickly</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/snow-gif.gif"
+  <img class="image" src="/assets/images/isla-navarino/dientes/snow-gif.gif"
       alt="Dog playing Dientes de Navarino">
      <figcaption class="img-caption">A surprise in the mountains</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-n-running.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-n-running.jpg"
       alt="Trail running with dog - Dientes de Navarino">
      <figcaption class="img-caption">Beautiful blue skies again, running with our new friend along Laguna Martillo</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/turba-gif.gif"
+  <img class="image" src="/assets/images/isla-navarino/dientes/turba-gif.gif"
       alt="Muddy trails in Dientes de Navarino trek">
      <figcaption class="img-caption">Almost losing a shoe in the mud</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-n-virginia.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-n-virginia.jpg"
       alt="Paso Virginia - Dientes de Navarino circuit">
      <figcaption class="img-caption">Reaching the highest elevation of the circuit - Paso Virginia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/n-e-virginia.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/n-e-virginia.jpg"
       alt="Route finding Paso Virginia - Dientes de Navarino circuit">
      <figcaption class="img-caption">Trying to find the trail down Paso Virginia - it's steep!</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-n-sitting.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-n-sitting.jpg"
       alt="Paso Virginia - Dientes de Navarino circuit">
      <figcaption class="img-caption">Short break before descent - Paso Virginia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-e-n-running.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-e-n-running.jpg"
       alt="Trail running with dog - Dientes de Navarino">
      <figcaption class="img-caption">The dream team</figcaption>
 </figure>

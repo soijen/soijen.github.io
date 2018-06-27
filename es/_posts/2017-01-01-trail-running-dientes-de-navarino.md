@@ -6,7 +6,7 @@ layout: post
 latitude: -54.9402407
 longitude: -67.6217304
 permalink: /es/trail-running-dientes-de-navarino/
-postHero: /images/isla-navarino/dientes/dientes-edu.jpg
+postHero: /assets/images/isla-navarino/dientes/dientes-edu.jpg
 ref: trail-running-dientes-de-navarino
 region: Puerto-Williams
 tags: trail-running
@@ -47,47 +47,47 @@ La única vez que sentimos miedo en el sendero, fue cuando llegamos al Paso Virg
 La última parte del circuito fue la más complicada. Piernas cansadas (y patas), mentes agotadas y un no existente sendero desafiaron lo mejor de nosotros. Nuevamente nuestro ángel del sendero nos ayudó a seguir una huella para poder llegar al camino de tierra y recorrer los últimos kilometros de regreso a la Plaza de la Vírgen. Llegamos a las 10:30 de la noche justo cuando se estaba oscureciendo. Y mientras caminamos por las calles de Puerto Williams, Navarino desaparecia de la misma manera como apareció en nuestras vidas 40 kilómetros atrás.
 
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/e-jumping.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/e-jumping.jpg"
       alt="Circuito Dientes de Navarino - trail running">
      <figcaption class="img-caption">Mucha agua en la ruta</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-paso-snow.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-paso-snow.jpg"
       alt="Paso de los Dientes - circuito Dientes de Navarino">
      <figcaption class="img-caption">Llegando a Paso de los Dientes - el clima cambió rápido</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/snow-gif.gif"
+  <img class="image" src="/assets/images/isla-navarino/dientes/snow-gif.gif"
       alt="Perro jugando Dientes de Navarino">
      <figcaption class="img-caption">Una sorpresa en las montañas</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-n-running.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-n-running.jpg"
       alt="Correr en las montañas con un perro - Dientes de Navarino">
      <figcaption class="img-caption">Cielos azules de nuevo, corriendo con nuestro nuevo amigo por Laguna El Martillo</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/turba-gif.gif"
+  <img class="image" src="/assets/images/isla-navarino/dientes/turba-gif.gif"
       alt="Mucho barro en el circuito Dientes de Navarino">
      <figcaption class="img-caption">Casi perdiendo una zapatilla en el barro</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-n-virginia.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-n-virginia.jpg"
       alt="Paso Virginia - circuito Dientes de Navarino">
      <figcaption class="img-caption">La cima del Paso Virginia - el lugar más alto del circuito</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/n-e-virginia.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/n-e-virginia.jpg"
       alt="Paso Virginia - circuito Dientes de Navarino">
      <figcaption class="img-caption">Buscando la ruta más segura para bajar Paso Virginia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-n-sitting.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-n-sitting.jpg"
       alt="Paso Virginia - circuito Dientes de Navarino">
      <figcaption class="img-caption">Descanso corto antes de bajar Paso Virginia</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/isla-navarino/dientes/j-e-n-running.jpg"
+  <img class="image" src="/assets/images/isla-navarino/dientes/j-e-n-running.jpg"
       alt="Correr en las montañas con un perro - Dientes de Navarino">
      <figcaption class="img-caption">El equipo soñado</figcaption>
 </figure>

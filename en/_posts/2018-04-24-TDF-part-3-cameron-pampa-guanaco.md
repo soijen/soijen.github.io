@@ -6,7 +6,7 @@ layout: post
 latitude: -54.046149
 longitude: -68.805629
 permalink: /TDF-part-3-cameron-pampa-guanaco/
-postHero: /images/tierra-del-fuego/cameron-coast.jpg
+postHero: /assets/images/tierra-del-fuego/cameron-coast.jpg
 ref: TDF-part-3-cameron-pampa-guanaco
 region: Tierra-del-Fuego
 tags:
@@ -31,27 +31,27 @@ We arrived to Russfin to fill our tank only to discover they had run out of dies
 In the final leg of the journey to Pampa Guanaco, the landscape begins to change. The flat and barren pampas are slowly replaced by small shrubs and then trees, a welcome sight.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/bienvenido-timaukel.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/bienvenido-timaukel.jpg"
       alt="Welcome to Timaukel">
      <figcaption class="img-caption">Welcome to Timaukel</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cameron-center.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cameron-center.jpg"
       alt="Cameron downtown">
      <figcaption class="img-caption">Cameron center with public bathrooms</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/obejas.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/obejas.jpg"
       alt="Sheep in Tierra del Fuego">
      <figcaption class="img-caption">Sheep at one of the many Estancias we passed along the road.</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cameron-camp.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cameron-camp.jpg"
       alt="Van life near Cameron Chile">
      <figcaption class="img-caption">Pretty decent place to spend the night.</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/russfin.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/russfin.jpg"
       alt="Parador Russfin ">
      <figcaption class="img-caption">Parador Russfin gas station</figcaption>
 </figure>

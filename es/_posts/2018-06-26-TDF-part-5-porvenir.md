@@ -6,7 +6,7 @@ layout: post
 latitude: -53.292407
 longitude: -70.367031
 permalink: /es/TDF-part-5-porvenir/
-postHero: /images/tierra-del-fuego/obejas.jpg
+postHero: /assets/images/tierra-del-fuego/obeja-xing.jpg
 ref: TDF-part-5-porvenir
 region: Tierra-del-Fuego
 tags:
@@ -24,12 +24,12 @@ A nuestra llegada al cruce de Onaisin nos despedimos de nuestra querida ruta Y-8
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Dato: La Ruta Y-71 fue lejos lo más complicado para manejar en nuestro viaje. Este camino de tierra recorre el norte de Bahía Inútil, tiene muchas curvas, el camino se hace angosto en algunas partes y presenta muchos hoyos.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/road-tdf.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/road-tdf.jpg"
       alt="La ruta a Porvenir">
      <figcaption class="img-caption">La ruta a Porvenir</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/obeja-xing.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/obeja-xing.jpg"
       alt="Ovejas en la ruta Y-71 a Porvenir">
      <figcaption class="img-caption">Ovejas en la ruta Y-71 a Porvenir</figcaption>
 </figure>
@@ -44,12 +44,12 @@ Nos costó encontrar un lugar para hospedarnos en último minuto ya que no hay m
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Dato: Toma en cuenta que la ciudad funciona con sus horarios propios, algunos locales cierran durante la hora de almuerzo y abren tarde.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cafe-porvenir.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/cafe-porvenir.jpg"
       alt="Café Sabores del Fuego en Porvenir">
      <figcaption class="img-caption">Café Sabores del Fuego en Porvenir</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/postre-porvenir.jpg"
+  <img class="image" src="/assets/images/tierra-del-fuego/postre-porvenir.jpg"
       alt="Café Sabores del Fuego en Porvenir">
      <figcaption class="img-caption">Café Sabores del Fuego en Porvenir</figcaption>
 </figure>
@@ -61,7 +61,7 @@ Como mencionamos en nuestra primera publicación, existen 2 cruces por vía mar�
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Dato: Para el cruce Porvenir - Punta Arenas, normalmente los pasajes se reservan con anterioridad. Pero se puede preguntar en la agencia en la costanera para ver si queda espacio para el próximo ferry. Un ferry sale cada día. Para el embarque se debe manejar hacia el terminal en Bahía Chilota distante a 5 km de Porvenir y pagar en efectivo. Para más información ver la página web de <a href="http://www.tabsa.cl/" target="_blank">Transbordadora Austral Broom</a>. Considera que el clima en la Patagonia afecta a todos, algunas veces se cancela este cruce por fuertes vientos.
 
 <figure class="figure">
-  <img class="image" src="/images/tierra-del-fuego/cruce-puq.png"
+  <img class="image" src="/assets/images/tierra-del-fuego/cruce-puq.png"
       alt="Cruce a Punta Arenas">
      <figcaption class="img-caption">Cruce a Punta Arenas</figcaption>
 </figure>
