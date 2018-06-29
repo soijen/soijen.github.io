@@ -45,7 +45,7 @@ Continuamos nuestro camino hacia Cameron, conduciendo por extensas llanuras, don
 
 <h2>Parque Pingüino Rey</h2>
 
-Unos minutos después de continuar nuestro viaje hacia el sur de la ruta Y-85, nosotros llegamos a nuestro siguiente destino del día: El Parque Pingüino Rey.
+Unos minutos después de continuar nuestro viaje hacia el sur de la ruta Y-85, llegamos a nuestro siguiente destino del día: El Parque Pingüino Rey.
 
 Un año atrás tuvimos la oportunidad de conocer al Pingüino de Magallanes cerca de Punta Arenas y ahora estábamos muy contentos de ver en esta ocasión a la segunda especia más grande de pingüinos, el Pingüino Rey. Después de caminar entre cientos de estas aves en Isla Magdalena, nuestra experiencia en el Parque Pingüino Rey fue un poco decepcionante. Quizás imaginábamos volver a estar rodeados por pingüinos como aquella vez, pero ahora nos encontrábamos en un área de observación donde a la distancia se pueden ver alrededor de 20 pingüinos descansando cerca de la playa. Aunque es mejor para esta especie que la visita al parque sea de esta forma, el precio se siente un poco alto.
 
