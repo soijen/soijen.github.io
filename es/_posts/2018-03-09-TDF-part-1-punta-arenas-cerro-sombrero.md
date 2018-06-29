@@ -17,7 +17,7 @@ zoom: '6'
 published: true
 date: '2018-06-29 16:33 -0400'
 ---
-Acompáñanos en esta aventura En el primer tramo de <a href="/es/tierra-del-fuego-van-overview/"> por tierra durante los 8 días en la Isla Tierra del Fuego</a>. En esta primera parte les contaremos sobre nuestra llegada a la Isla por Punta Delgada, junto a un cruce por ferry en el sector más angosto del Estrecho de Magallanes.
+Acompáñanos en esta aventura, en el primer tramo <a href="/es/tierra-del-fuego-van-overview/"> por tierra durante los 8 días en la Isla Tierra del Fuego</a>. Durante esta primera parte les contaremos sobre nuestra llegada a la Isla por Punta Delgada, cruzando vía ferry por sector más angosto del Estrecho de Magallanes.
 
 <h2>Acceso por Ferry</h2>
 
