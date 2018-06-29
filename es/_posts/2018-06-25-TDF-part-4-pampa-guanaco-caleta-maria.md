@@ -90,8 +90,8 @@ Lago Fagnano además significaba encontrarse con ese letrero incompleto. Esperam
 
 <figure class="figure">
   <img class="image" src="/assets/images/tierra-del-fuego/south/ruta-yendegaia.jpg"
-      alt="La ruta hacia Yendegaia">
-     <figcaption class="img-caption">La ruta hacia Yendegaia</figcaption>
+      alt="El letrero incompleto de la ruta hacia Yendegaia">
+     <figcaption class="img-caption">El letrero incompleto de la ruta hacia Yendegaia</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/tierra-del-fuego/south/fagnano-van.jpg"
