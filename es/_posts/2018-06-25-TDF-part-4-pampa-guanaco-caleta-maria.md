@@ -19,7 +19,7 @@ zoom: '6'
 published: true
 date: '2018-06-29 16:48 -0400'
 ---
-Estamos llegando casi al final de la ruta. Acompáños durante la cuarta parte en nuestra <a href="/es/tierra-del-fuego-van-overview/">jornada por tierra durante los 8 días en Tierra del Fuego</a>.  En este viaje desde Pampa Guanaco hasta Caleta María, es tiempo de conocer las montañas al fin del camino en Tierra del Fuego. Si todavía no has leído nuestra aventura anterior, puedes leer la <a href="/es/TDF-part-3-cameron-pampa-guanaco/">parte 3</a> de estas series.
+Estamos llegando casi al final de la ruta. Acompáñanos durante la cuarta parte en nuestra <a href="/es/tierra-del-fuego-van-overview/">jornada por tierra durante los 8 días en Tierra del Fuego</a>.  En este viaje desde Pampa Guanaco hasta Caleta María, es tiempo de conocer las montañas al fin del camino en Tierra del Fuego. Si todavía no has leído nuestra aventura anterior, puedes leer la <a href="/es/TDF-part-3-cameron-pampa-guanaco/">parte 3</a> de estas series.
 
 <h2>Pampa Guanaco</h2>
 Un retén de carabinero da la bienvenida a este lugar cercano a la frontera con Argentina. Al llegar se debe registra su paso y cuantos días tomará su visita. Una vez registrados se pueden seguir dos caminos: la ruta hacia Lago Fagnano o la ruta hacia Lago Blanco.
