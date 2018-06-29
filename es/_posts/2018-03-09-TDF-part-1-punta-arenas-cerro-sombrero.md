@@ -1,19 +1,23 @@
 ---
-title: Tierra del Fuego, Chile Parte 1 - Punta Arenas a Cerro Sombrero
-description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta entre Punta Arenas y Cerro Sombrero.
-author: Sóijen
 layout: post
-latitude: -52.7646632
-longitude: -69.2949891
+author: Sóijen
+title: 'Tierra del Fuego, Chile Parte 1 - Punta Arenas a Cerro Sombrero'
+description: >-
+  Guía logística para organizar tu viaje por tierra, en el lado Chileno de
+  Tierra del Fuego. Detalles sobre la ruta entre Punta Arenas y Cerro Sombrero.
+latitude: '-52.7646632'
+longitude: '-69.2949891'
 permalink: /es/TDF-part-1-punta-arenas-cerro-sombrero/
 postHero: /assets/images/tierra-del-fuego/map-tierra-del-fuego.jpg
 ref: TDF-part-1-punta-arenas-cerro-sombrero
 region: Tierra-del-Fuego
 tags:
-- van-life
-zoom: 6
+  - van-life
+zoom: '6'
+published: true
+date: '2018-06-29 16:33 -0400'
 ---
-En el primer tramo de <a href="/es/tierra-del-fuego-van-overview/"> nuestra jornada por tierra durante los 8 días en Tierra del Fuego</a>, entramos a la Isla por Punta Delgada - un cruce corto por ferry en el sector más angosto del Estrecho de Magallanes.
+Acompáñanos en esta aventura En el primer tramo de <a href="/es/tierra-del-fuego-van-overview/"> por tierra durante los 8 días en la Isla Tierra del Fuego</a>. En esta primera parte les contaremos sobre nuestra llegada a la Isla por Punta Delgada, junto a un cruce por ferry en el sector más angosto del Estrecho de Magallanes.
 
 <h2>Acceso por Ferry</h2>
 
@@ -29,7 +33,7 @@ Al empezar nuestra jornada, nosotros decidimos el cruce desde Punta Delgada, ya 
 
 <h2>Estancia San Gregorio</h2>
 
-Las dos horas de conducción desde Punta Arenas hasta el terminal del Ferry de Punta Delgada se realizan sobre pavimento y sin mayor dificultad (considerar manejar a baja velocidad si hay viento en la ruta). En la ruta vas a a encontrar la Estancia San Gregorio, un monumento nacional, que en sus tiempos fue una de las estancias más grandes de la región con sus grandes y características casas patronales. Este es un buen lugar para visitar y estirar las piernas, ya que se encuentra a orilla del camino (hay dos grandes buques varados en la playa).
+Las dos horas de conducción desde Punta Arenas hasta el terminal del Ferry de Punta Delgada se realizan sobre pavimento y sin mayor dificultad (considerar manejar a baja velocidad si hay viento en la ruta). En la ruta vas a encontrar la Estancia San Gregorio, un monumento nacional, que en sus tiempos fue una de las estancias más grandes de la región con sus grandes y características casas patronales. Este es un buen lugar para visitar y estirar las piernas, ya que se encuentra a orilla del camino (hay dos grandes buques varados en la playa).
 
 <figure class="figure">
   <img class="image" src="/assets/images/tierra-del-fuego/san-gregorio.jpg"
