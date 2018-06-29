@@ -113,26 +113,26 @@ Es tiempo de comenzar nuestro viaje de regreso, donde Porvenir será nuestro úl
 
 <figure class="figure">
   <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-van1.jpg"
-      alt="Finalmente llegando al fin del camino, Caleta Maria">
-     <figcaption class="img-caption">Finalmente llegando al fin del camino, Caleta Maria</figcaption>
+      alt="Finalmente llegando al fin del camino, Caleta María">
+     <figcaption class="img-caption">Finalmente llegando al fin del camino, Caleta María</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-van2.jpg"
-      alt="Caleta Maria - Fin del camino">
-     <figcaption class="img-caption">Caleta Maria - Fin del camino</figcaption>
+      alt="Caleta María - Fin del camino">
+     <figcaption class="img-caption">Caleta María - Fin del camino</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria-house.jpg"
-      alt="Caleta Maria - Fin del camino">
-     <figcaption class="img-caption">Caleta Maria - Fin del camino</figcaption>
+      alt="Caleta María - Fin del camino">
+     <figcaption class="img-caption">Caleta María - Fin del camino</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/tierra-del-fuego/south/caleta-maria.jpg"
-      alt="Un paisaje increíble en Caleta Maria">
-     <figcaption class="img-caption">Un paisaje increíble en Caleta Maria</figcaption>
+      alt="Un paisaje increíble en Caleta María">
+     <figcaption class="img-caption">Un paisaje increíble en Caleta María</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/tierra-del-fuego/south/trek.jpg"
-      alt="Trekking entre Caleta Maria y Lago Fagnano">
-     <figcaption class="img-caption">Trekking entre Caleta Maria y Lago Fagnano</figcaption>
+      alt="Trekking entre Caleta María y Lago Fagnano">
+     <figcaption class="img-caption">Trekking entre Caleta María y Lago Fagnano</figcaption>
 </figure>
