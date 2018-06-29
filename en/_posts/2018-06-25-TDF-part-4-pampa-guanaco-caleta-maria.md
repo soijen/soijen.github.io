@@ -12,6 +12,7 @@ region: Tierra-del-Fuego
 tags:
 - van-life
 - trekking
+- camping
 zoom: 6
 ---
 In the fourth leg of our <a href="/tierra-del-fuego-van-overview/">8-day overland trip of Tierra del Fuego</a>, we explore the newly constructed sections of Y-85 and follow to road's end. Join us for our journey from Pampa Guanaco to Caleta María. If you haven't already, read <a href="/TDF-part-3-cameron-pampa-guanaco/">Part 3</a> of this series.

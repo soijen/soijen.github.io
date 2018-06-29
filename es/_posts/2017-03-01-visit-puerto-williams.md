@@ -10,6 +10,7 @@ postHero: /assets/images/isla-navarino/pw/sea.jpg
 ref: visit-puerto-williams
 region: Puerto-Williams
 tags:
+- culture
 zoom: 6
 ---
 Imagina estar mas allá del fin del mundo, rodeado de los canales y montañas mas australes, antes de llegar a las aguas antárticas. Ahora piensa estar caminando por los remotos senderos de esta lugar con tu mochila, ubicar tu carpa y beber del agua más pura del mundo. Si todavía no te convences te invitamos a escapar de tu rutina diaria y visitar Puerto Williams en la Isla de Navarino tu siguiente aventura en la Patagonia.

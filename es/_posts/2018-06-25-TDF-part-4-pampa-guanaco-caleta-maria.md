@@ -12,6 +12,7 @@ region: Tierra-del-Fuego
 tags:
 - van-life
 - trekking
+- camping
 zoom: 6
 ---
 Durante la cuarta parte en nuestra <a href="/es/tierra-del-fuego-van-overview/">jornada por tierra durante los 8 días en Tierra del Fuego</a>, estamos llegando casi al final de la ruta. Acompáñanos en este viaje desde Pampa Guanaco hasta Caleta María. Es tiempo de conocer las montañas al fin del camino en Tierra del Fuego. Si todavía no has leído la <a href="/es/TDF-part-3-cameron-pampa-guanaco/">parte 3</a> de estas series.

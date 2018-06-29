@@ -11,7 +11,6 @@ ref: trail-running-dientes-de-navarino
 region: Puerto-Williams
 tags:
 - trail-running
-- ultra
 zoom: 8
 ---
 Our first post on sóijen! And what better way to inaugurate our new blog then to write about our latest adventure at the end of the world.

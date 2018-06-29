@@ -534,6 +534,7 @@ textarea {
   border-radius: 4px;
   box-sizing: border-box;
   float: right;
+  clear: both;
   font-size: 0.8em;
   margin: 0 0 2em 2em;
   overflow-x: hidden;
@@ -612,6 +613,27 @@ textarea {
   font-size: 0.8em;
 }
 
+/* TAG STYLES */
+.tag-posts {
+  margin-bottom: 10em;
+}
+.by-tag .post-tags {
+  font-size: 0.75em;
+  font-style: italic;
+}
+.by-tag ~ .by-tag {
+  margin-top: 2em;
+  padding-top: 2em;
+}
+.site-tag a {
+    display: inline-block;
+}
+.tag-cloud {
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+/* MOBILE STYLES */
 @media (max-width: 1800px) {
   .columns {
     padding-top: 5vh;

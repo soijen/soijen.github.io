@@ -1,0 +1,11 @@
+<aside class="post-aside">
+  {% if page.lang == 'en' %}
+    <h4>BROWSE BY TAG</h4>
+    {% include tagCloudEn.html %}
+  {% endif %}
+
+  {% if page.lang == 'es' %}
+    <h4>BUSCAR POR ETIQUETA</h4>
+    {% include tagCloudEs.html %}
+  {% endif %}
+</aside>

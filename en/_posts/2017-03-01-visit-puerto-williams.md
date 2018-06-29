@@ -10,6 +10,7 @@ postHero: /assets/images/isla-navarino/pw/sea.jpg
 ref: visit-puerto-williams
 region: Puerto-Williams
 tags:
+- culture
 zoom: 6
 ---
 If you want to experience the end of the world – surrounded by the southernmost channels and fjords before Antarctic waters, backpacking or trail running the remote trails, or simply escaping the craziness of everyday life – Puerto Williams is your next destination.

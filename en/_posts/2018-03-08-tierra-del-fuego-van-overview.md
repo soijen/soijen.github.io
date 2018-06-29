@@ -11,6 +11,7 @@ ref: tierra-del-fuego-van-overview
 region: Tierra-del-Fuego
 tags:
 - van-life
+- culture
 zoom: 6
 ---
 In 1994 the government of Chile began construction on the route to Yendegaia. Route Y-85 when completed will link the pampas of Tierra del Fuego to Yendegaia Bay on the Beagle Channel, with the ultimate goal of providing a terrestrial and ferry connection through Chile to Navarino Island. Due to tough terrain and extreme conditions the progress has been slow. In December 2017 we drove south with the goal to explore the newly constructed portions of Route Y-85, as far as we could go. What a way to inaugurate our new van-home, right?

@@ -11,6 +11,7 @@ ref: tierra-del-fuego-van-overview
 region: Tierra-del-Fuego
 tags:
 - van-life
+- culture
 zoom: 6
 ---
 En el año 1994 el gobierno de Chile comenzó la construcción de la ruta hacia Yendegaia. Cuando la ruta Y-85 esté completa unirá las pampas de Tierra del Fuego con la bahía de Yendegaia en el Canal Beagle, de esta forma la nueva ruta permitirá una conexión terrestre y marítima a través de Chile hacia su último destino, la Isla de Navarino. Debido a las extremas condiciones y lo duro del terreno el progreso ha sido lento. En el mes de diciembre del año 2017 nosotros manejamos hacia el sur de la Isla con la idea de explorar los nuevos caminos construidos de la ruta Y-85.

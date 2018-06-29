@@ -1,19 +1,19 @@
 <footer class="footer">
   <div class="footer-text">
+    <div class="social-list">
+      {% if page.lang == 'en' %}
+        find us on
+      {% endif %}
+      {% if page.lang == 'es' %}
+        búscanos en
+      {% endif %}
+      {% include social-links.html %}
+    </div>
     {% if page.lang == 'en' %}
       made with <i class="fa fa-coffee" aria-hidden="true"></i> by Jess Young <i class="fa fa-copyright"></i> 2018<br>
     {% endif %}
     {% if page.lang == 'es' %}
       hecho con <i class="fa fa-coffee" aria-hidden="true"></i> por Jess Young <i class="fa fa-copyright"></i> 2018<br>
     {% endif %}
-      <span class="social-list">
-        {% if page.lang == 'en' %}
-          find us on
-        {% endif %}
-        {% if page.lang == 'es' %}
-          búscanos en
-        {% endif %}
-        {% include social-links.html %}
-      </span>
   </div>
 </footer>
