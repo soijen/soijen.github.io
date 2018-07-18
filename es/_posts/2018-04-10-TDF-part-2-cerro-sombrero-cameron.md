@@ -1,26 +1,35 @@
 ---
-title: Tierra del Fuego, Chile Parte 2 - Cerro Sombrero a Cameron
-description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta entre Cerro Sombrero y Cameron.
-author: Sóijen
 layout: post
-latitude: -52.7646632
-longitude: -69.2949891
+author: Sóijen
+title: 'Tierra del Fuego, Chile Parte 2 - Cerro Sombrero a Cameron'
+description: >-
+  Guía logística para organizar tu viaje por tierra, en el lado Chileno de
+  Tierra del Fuego. Detalles sobre la ruta entre Cerro Sombrero y Cameron.
+latitude: '-52.7646632'
+longitude: '-69.2949891'
 permalink: /es/TDF-part-2-cerro-sombrero-cameron/
 postHero: /assets/images/tierra-del-fuego/cs-sunset.jpg
 ref: TDF-part-2-cerro-sombrero-cameron
 region: Tierra-del-Fuego
 tags:
+<<<<<<< HEAD
 - road-trip
 zoom: 6
+=======
+  - van-life
+zoom: '6'
+published: true
+date: '2018-06-29 16:43 -0400'
+>>>>>>> cef169d837908c7b5e27b03f95eab9ffce235209
 ---
-En el segundo tramo de <a href="/es/tierra-del-fuego-van-overview/"> nuestra jornada por tierra durante los 8 días en Tierra del Fuego</a>, te vamos a contar porque Cerro Sombrero es la parada perfecta antes de viajar hacia el sur de la isla. Si todavía no lo has hecho, lee la <a href="/es/TDF-part-1-punta-arenas-cerro-sombrero/">Parte 1</a> de esta serie.
+En el segundo tramo de <a href="/es/tierra-del-fuego-van-overview/"> nuestra jornada por tierra durante los 8 días en Tierra del Fuego</a>, te vamos a contar porque Cerro Sombrero es la parada perfecta antes de viajar hacia el sur de la isla. Si todavía no has leído nuestra aventura anterior, puedes leer la <a href="/es/TDF-part-1-punta-arenas-cerro-sombrero/">Parte 1</a> de esta serie.
 
 <h2>Cerro Sombrero</h2>
 
 Después de manejar por un corto tramo de pavimento desde el terminal del Ferry de Primera Angostura, llegamos a Cerro Sombrero, nuestro hogar por la noche. Mientras buscábamos un lugar para estacionar la van, alcanzamos el final de un colorido atardecer. Una pequeña área de camping, un poco descuidada, con mesas de picnic y lugar para hacer fuego fue el lugar perfecto para nosotros.
 
 Cerro Sombrero fue establecido en los años 50 por ENAP (Empresa Nacional del Petróleo).
-Debemos reconocer que nuestra expectativa por esta villa de 700 habitantes no era muy alta. Pero estábamos completamente equivocados. Aparte del camping gratis cerca del río, Cerro Sombrero es el paraíso para los que viajan con su hogar en una van. Este lugar tiene baños y duchas públicas muy limpias y gratis, junto a conexión a internet via wifi , la cuál es muy rápida, y lo mejor de todo también es gratis. Sin lugar a dudas una primera noche de primer nivel para nuestra viaje en la ruta.
+Debemos reconocer que nuestra expectativa por esta villa de 700 habitantes no era muy alta. Pero estábamos completamente equivocados. Aparte del camping gratis cerca del río, Cerro Sombrero es el paraíso para los que viajan con su hogar en una van. Este lugar tiene baños y duchas públicas muy limpias y gratis, junto a conexión a internet via wifi, la cuál es muy rápida y también es gratis. Sin lugar a dudas una primera noche de primer nivel para nuestra viaje en la ruta.
 
 En la mañana siguiente después de una larga ducha de agua caliente, algunos mapas con información muy útil (de la recién construida oficina de turismo), junto al estanque de combustible lleno, nos encontrábamos listos para continuar nuestro viaje. No olvides visitar el supermercado en la ciudad, donde puedes obtener las últimas provisiones ya que será el último que verás por un largo tiempo.
 
@@ -41,7 +50,7 @@ Continuamos nuestro camino hacia Cameron, conduciendo por extensas llanuras, don
 
 <h2>Parque Pingüino Rey</h2>
 
-Unos minutos después de continuar nuestro viaje hacia el sur de la ruta Y-85, nosotros llegamos a nuestro siguiente destino del día: El Parque Pingüino Rey.
+Unos minutos después de continuar nuestro viaje hacia el sur de la ruta Y-85, llegamos a nuestro siguiente destino del día: El Parque Pingüino Rey.
 
 Un año atrás tuvimos la oportunidad de conocer al Pingüino de Magallanes cerca de Punta Arenas y ahora estábamos muy contentos de ver en esta ocasión a la segunda especia más grande de pingüinos, el Pingüino Rey. Después de caminar entre cientos de estas aves en Isla Magdalena, nuestra experiencia en el Parque Pingüino Rey fue un poco decepcionante. Quizás imaginábamos volver a estar rodeados por pingüinos como aquella vez, pero ahora nos encontrábamos en un área de observación donde a la distancia se pueden ver alrededor de 20 pingüinos descansando cerca de la playa. Aunque es mejor para esta especie que la visita al parque sea de esta forma, el precio se siente un poco alto.
 
