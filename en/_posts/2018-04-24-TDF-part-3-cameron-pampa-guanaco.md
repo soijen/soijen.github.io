@@ -10,7 +10,7 @@ postHero: /assets/images/tierra-del-fuego/cameron-coast.jpg
 ref: TDF-part-3-cameron-pampa-guanaco
 region: Tierra-del-Fuego
 tags:
-- van-life
+- road-trip
 zoom: 6
 ---
 In the third leg of our <a href="/tierra-del-fuego-van-overview/">8-day overland trip of Tierra del Fuego</a>, we will introduce you to the isolated region of Timaukel. If you haven't already, read <a href="/TDF-part-2-cerro-sombrero-cameron/">Part 2</a> of this series.
@@ -21,7 +21,7 @@ The small hamlet of Cameron is located slightly after the intersection of route 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: Take advantage of the public restrooms in the main square with a large utility sink to wash up some pots and plates from lunch. We were told there is a minimarket somewhere in town, but couldn't actually find it (likely it was closed for the Christmas holidays).
 
 <h2>A Note on Sleeping Arrangements in Tierra del Fuego</h2>
-In general we found it tough to find a secluded place to sleep north of Pampa Guanaco, because the majority of the roads are bordered by fences marking the beginning of private estancias (ranches). We had the most luck finding places to sleep along the coastal roads.
+In general we found it tough to find a secluded place to sleep north of Pampa Guanaco, because the majority of the roads are bordered by fences marking the beginning of private estancias (ranches). We had the most luck finding places to sleep/camp along the coastal roads.
 
 <h2> Russfin </h2>
 Y-85 south of Cameron is in good condition, and the drive was pretty smooth and uneventful. Approximately halfway between Cameron and Pampa Guanaco you'll want to pass by the sawmill of Russfin. Most importantly this is your last stop for gas (in Chile) as you make your way to the south of the island. They also offer basic car maintenance and lodging options. Check out their <a href="https://www.paradorrussfin.cl/" target="_blank">website</a> (spanish only) for hours and more information.

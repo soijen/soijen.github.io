@@ -10,7 +10,7 @@ postHero: /assets/images/tierra-del-fuego/obeja-xing.jpg
 ref: TDF-part-5-porvenir
 region: Tierra-del-Fuego
 tags:
-- van-life
+- road-trip
 zoom: 6
 ---
 In the final leg of our <a href="/tierra-del-fuego-van-overview/">8-day overland trip of Tierra del Fuego</a>, we return to Punta Arenas from Lago Fagnano, but before that we need to explore Porvenir. It's time to head back north! If you haven't already, read <a href="/TDF-part-4-pampa-guanaco-caleta-maria/">part 4</a> of this series.

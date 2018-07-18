@@ -10,10 +10,10 @@
       {% include social-links.html %}
     </div>
     {% if page.lang == 'en' %}
-      made with <i class="fa fa-coffee" aria-hidden="true"></i> by Jess Young <i class="fa fa-copyright"></i> 2018<br>
+      made with <i class="fa fa-coffee" aria-hidden="true"></i> by Jess Young <i class="fa fa-copyright"></i> {{ site.time | date: '%Y' }}<br>
     {% endif %}
     {% if page.lang == 'es' %}
-      hecho con <i class="fa fa-coffee" aria-hidden="true"></i> por Jess Young <i class="fa fa-copyright"></i> 2018<br>
+      hecho con <i class="fa fa-coffee" aria-hidden="true"></i> por Jess Young <i class="fa fa-copyright"></i> {{ site.time | date: '%Y' }}<br>
     {% endif %}
   </div>
 </footer>

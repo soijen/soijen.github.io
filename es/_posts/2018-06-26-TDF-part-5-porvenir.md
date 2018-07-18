@@ -10,7 +10,7 @@ postHero: /assets/images/tierra-del-fuego/obeja-xing.jpg
 ref: TDF-part-5-porvenir
 region: Tierra-del-Fuego
 tags:
-- van-life
+- road-trip
 zoom: 6
 ---
 Durante la quintera parte en nuestra <a href="/es/tierra-del-fuego-van-overview/">jornada por tierra durante los 8 días en tierra del Fuego</a>, regresamos a Punta Arenas, desde el Lago Fagnano, pero antes necesitamos explorar Porvenir. Es hora de tomar rumbo norte, estamos ansiosos por saber si en Russfin tienen combustible para continuar hacia Porvenir. Si todavía no has leído la <a href="/es/TDF-part-4-pampa-guanaco-caleta-maria/">parte 4</a> de estas series.

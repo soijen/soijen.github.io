@@ -9,7 +9,7 @@ permalink: /es/bike-isla-navarino/
 postHero: /assets/images/isla-navarino/bici/j-map.jpg
 ref: bike-isla-navarino
 region: Puerto-Williams
-tags: bike
+tags: on-bike
 zoom: 8
 ---
 Después de terminar el circuito de los Dientes de Navarino, nos quedaron algunos días para visitar la isla en busca de más aventuras. ¿Qué hay al final del camino aquí al final del mundo? Decidimos viajar en bicicleta, lo más lejos posible, en dirección este hacia Puerto Eugenia. Elegimos el camino hacia el este debido a (1) la ruta es más corta que en dirección oeste y (2) si alguien desea continuar el sendero de la ruta hacia el este, eventualmente debería llegar a Puerto Toro, una villa de pescadores, solamente accesible vía marítima. Quizás algún día podríamos completar ese trayecto para llegar a Puerto Toro, suena una muy entretenida aventura y por ahora podremos realizar una parte de este trayecto.

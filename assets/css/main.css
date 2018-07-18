@@ -469,6 +469,7 @@ textarea {
 }
 .page h1 {
   font-size: 3em;
+  padding-bottom: 1em;
   text-align: center;
 }
 .page h2 {
@@ -631,6 +632,9 @@ textarea {
 .tag-cloud {
   margin-bottom: 1em;
   text-align: center;
+}
+.page > .tag-cloud {
+  margin-bottom: 5em;
 }
 
 /* MOBILE STYLES */

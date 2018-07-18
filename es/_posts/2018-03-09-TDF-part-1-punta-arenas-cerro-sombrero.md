@@ -10,7 +10,7 @@ postHero: /assets/images/tierra-del-fuego/map-tierra-del-fuego.jpg
 ref: TDF-part-1-punta-arenas-cerro-sombrero
 region: Tierra-del-Fuego
 tags:
-- van-life
+- road-trip
 zoom: 6
 ---
 En el primer tramo de <a href="/es/tierra-del-fuego-van-overview/"> nuestra jornada por tierra durante los 8 días en Tierra del Fuego</a>, entramos a la Isla por Punta Delgada - un cruce corto por ferry en el sector más angosto del Estrecho de Magallanes.

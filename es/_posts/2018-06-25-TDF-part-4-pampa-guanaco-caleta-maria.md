@@ -10,7 +10,7 @@ postHero: /assets/images/tierra-del-fuego/south/fin-del-camino.jpg
 ref: TDF-part-4-pampa-guanaco-caleta-maria
 region: Tierra-del-Fuego
 tags:
-- van-life
+- road-trip
 - trekking
 - camping
 zoom: 6
