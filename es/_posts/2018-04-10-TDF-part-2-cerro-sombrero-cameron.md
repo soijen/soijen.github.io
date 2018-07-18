@@ -12,15 +12,8 @@ postHero: /assets/images/tierra-del-fuego/cs-sunset.jpg
 ref: TDF-part-2-cerro-sombrero-cameron
 region: Tierra-del-Fuego
 tags:
-<<<<<<< HEAD
 - road-trip
 zoom: 6
-=======
-  - van-life
-zoom: '6'
-published: true
-date: '2018-06-29 16:43 -0400'
->>>>>>> cef169d837908c7b5e27b03f95eab9ffce235209
 ---
 En el segundo tramo de <a href="/es/tierra-del-fuego-van-overview/"> nuestra jornada por tierra durante los 8 días en Tierra del Fuego</a>, te vamos a contar porque Cerro Sombrero es la parada perfecta antes de viajar hacia el sur de la isla. Si todavía no has leído nuestra aventura anterior, puedes leer la <a href="/es/TDF-part-1-punta-arenas-cerro-sombrero/">Parte 1</a> de esta serie.
 

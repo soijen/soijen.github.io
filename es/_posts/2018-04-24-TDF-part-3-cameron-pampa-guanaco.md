@@ -12,15 +12,8 @@ postHero: /assets/images/tierra-del-fuego/cameron-coast.jpg
 ref: TDF-part-3-cameron-pampa-guanaco
 region: Tierra-del-Fuego
 tags:
-<<<<<<< HEAD
 - road-trip
 zoom: 6
-=======
-  - van-life
-zoom: '6'
-published: true
-date: '2018-06-29 16:46 -0400'
->>>>>>> cef169d837908c7b5e27b03f95eab9ffce235209
 ---
 Durante la tercera parte en nuestra <a href="/es/tierra-del-fuego-van-overview/">jornada por tierra durante los 8 días en tierra del Fuego</a>, vamos a dar a conocer la remota región de Timaukel. Si todavía no has leído nuestra aventura anterior, puedes leer la <a href="/es/TDF-part-2-cerro-sombrero-cameron/">parte 2</a> de estas series.
 

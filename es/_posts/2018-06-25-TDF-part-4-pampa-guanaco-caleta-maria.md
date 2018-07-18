@@ -12,19 +12,10 @@ postHero: /assets/images/tierra-del-fuego/south/fin-del-camino.jpg
 ref: TDF-part-4-pampa-guanaco-caleta-maria
 region: Tierra-del-Fuego
 tags:
-<<<<<<< HEAD
 - road-trip
 - trekking
 - camping
 zoom: 6
-=======
-  - camping
-  - trekking
-  - van-life
-zoom: '6'
-published: true
-date: '2018-06-29 16:48 -0400'
->>>>>>> cef169d837908c7b5e27b03f95eab9ffce235209
 ---
 Estamos llegando casi al final de la ruta. Acompáñanos durante la cuarta parte en nuestra <a href="/es/tierra-del-fuego-van-overview/">jornada por tierra durante los 8 días en Tierra del Fuego</a>.  En este viaje desde Pampa Guanaco hasta Caleta María, es tiempo de conocer las montañas al fin del camino en Tierra del Fuego. Si todavía no has leído nuestra aventura anterior, puedes leer la <a href="/es/TDF-part-3-cameron-pampa-guanaco/">parte 3</a> de estas series.
 
