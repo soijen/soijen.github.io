@@ -27,6 +27,8 @@ To start our journey we chose the latter because the more frequent ferry crossin
 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: The Punta Delgada ferry is cash only, ticket purchased onboard. No reservation required. For more information about prices and timetables see <a href="http://www.tabsa.cl/" target="_blank">Transbordadora Austral Boom</a>. Ferry crossings may be cancelled due to strong winds.
 
+{% include youtubePlayer.html id="INnX38uyyWQ" %}
+
 <h2>Estancia San Gregorio</h2>
 
 The 2-hour drive from Punta Arenas to the ferry terminal at Punta Delgada is 100% on paved roads and mostly uneventful (drive carefully when there are strong winds on the route). You do pass Estancia San Gregorio - a now historical site of the first established ranch in Patagonia, and representative of the colonization of the region in the 1800s. A good place to stop for a photo and to stretch your legs (there are also two large shipwrecks in front).
@@ -52,5 +54,3 @@ We arrived to Punta Delgada around 8:30 PM and parked our van in line for the fe
 Arriving to Tierra del Fuego there was a never-ending line of cars waiting to make the traverse back to Punta Delgada. It was a couple days before Christmas and this is the only way for Argentines to reach the mainland by car. Not something we had considered, but lesson learned: definitely keep in mind holidays when organizing your trip.
 
 A short drive later on smooth paved road, we arrived to Cerro Sombrero, our home for the night.
-
-{% include youtubePlayer.html id="INnX38uyyWQ" %}

@@ -29,6 +29,8 @@ Al empezar nuestra jornada, nosotros decidimos el cruce desde Punta Delgada, ya 
 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Dato:  El ferry de Punta delgada no necesita reserva, se paga solo en efectivo (pesos chilenos o argentinos). Para más información ver la página web de <a href="http://www.tabsa.cl/" target="_blank">Transbordadora Austral Broom</a>. Considera que el clima en la Patagonia afecta a todos, algunas veces se cancela este cruce por fuertes vientos.
 
+{% include youtubePlayer.html id="INnX38uyyWQ" %}
+
 <h2>Estancia San Gregorio</h2>
 
 Las dos horas de conducción desde Punta Arenas hasta el terminal del Ferry de Punta Delgada se realizan sobre pavimento y sin mayor dificultad (considerar manejar a baja velocidad si hay viento en la ruta). En la ruta vas a encontrar la Estancia San Gregorio, un monumento nacional, que en sus tiempos fue una de las estancias más grandes de la región con sus grandes y características casas patronales. Este es un buen lugar para visitar y estirar las piernas, ya que se encuentra a orilla del camino (hay dos grandes buques varados en la playa).
@@ -54,5 +56,3 @@ Llegamos a Punta Delgada alrededor de las 20:30 horas y estacionamos nuestra van
 A nuestra llegada a Tierra del Fuego, nos encontramos con una fila muy larga de autos y camiones esperando cruzar hacia Punta Delgada. El cruce lo hicimos un día viernes antes de Navidad y esta vía es la única forma para llegar al continente. Esto no lo consideramos pero la lección fue aprendida. Recomendamos tener en mente las festividades cuando organices tu viaje.
 
 Después de un viaje corto en pavimiento, llegamos a Cerro Sombrero, nuestro hogar por la noche.
-
-{% include youtubePlayer.html id="INnX38uyyWQ" %}

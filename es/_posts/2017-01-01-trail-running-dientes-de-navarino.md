@@ -25,14 +25,14 @@ Nuestra primera publicación en sóijen y que mejor manera de comenzar con nuest
 
 La duración está descrita con un signo de interrogación debido a que el tiempo depende del tipo de experiencia que ustedes estan buscando. El circuito normal se desarrolla entre 3 a 5 dias en un viaje con mochilas y paradas para acampar. Nuestro estilo fue con mochilas super livianas terminando el circuito en menos de un día.
 
-{% include youtubePlayer.html id="OnRUcMTAdvc" %}
-
 <h2>Los Desafíos</h2>
 <ol>
   <li><strong>Buscar la Ruta:</strong> El sendero tiene 38 señales, en algunos casos están indicadas por rocas que resultan difíciles de seguir.</li>
   <li><strong>Barro:</strong> La famosa turba Patagónica, especialmente en la segunda mitad del circuito.</li>
   <li><strong>Clima:</strong> Esto es Patagonia. Tu puedes experimentar las cuatro estaciones durante todo el día.</li>
 </ol>
+
+{% include youtubePlayer.html id="DiRtfEN9dm0" %}
 
 <h2>Nuestra Experiencia</h2>
 

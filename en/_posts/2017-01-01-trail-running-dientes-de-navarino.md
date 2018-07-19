@@ -26,14 +26,14 @@ Our first post on sóijen! And what better way to inaugurate our new blog then t
 
 The duration is a best described by a question mark because it depends on what type of experience you are looking for. The trek is traditionally done as a 3-5 day backpacking trip. Our style was to go ultralight and complete it in one day.
 
-{% include youtubePlayer.html id="OnRUcMTAdvc" %}
-
 <h2>The Challenges</h2>
 <ol>
   <li><strong>Route Finding:</strong> The trail has 38 official markers and is otherwise indicated only by cairns, which can be difficult to follow due to the rocky terrain.</li>
   <li><strong>Mud:</strong> Infamous Patagonian turba (peat), especially in the second half of the circuit.</li>
   <li><strong>Weather:</strong> This is Patagonia. You can experience all four seasons in one day.</li>
 </ol>
+
+{% include youtubePlayer.html id="DiRtfEN9dm0" %}
 
 <h2>Our Experience</h2>
 
