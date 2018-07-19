@@ -53,6 +53,8 @@ Llegamos a Punta Delgada alrededor de las 20:30 horas y estacionamos nuestra van
      <figcaption class="img-caption">Cruce Primera Angostura en la atardecer</figcaption>
 </figure>
 
-A nuestra llegada a Tierra del Fuego, nos encontramos con una fila muy larga de autos y camiones esperando cruzar hacia Punta Delgada. El cruce lo hicimos un día viernes antes de Navidad y esta vía es la única forma para llegar al continente. Esto no lo consideramos pero la lección fue aprendida. Recomendamos tener en mente las festividades cuando organices tu viaje.
+<h2>Bahía Azúl</h2>
+
+A nuestra llegada a Tierra del Fuego por Bahía Azúl, nos encontramos con una fila muy larga de autos y camiones esperando cruzar hacia Punta Delgada. El cruce lo hicimos un día viernes antes de Navidad y esta vía es la única forma para llegar al continente. Esto no lo consideramos pero la lección fue aprendida. Recomendamos tener en mente las festividades cuando organices tu viaje.
 
 Después de un viaje corto en pavimiento, llegamos a Cerro Sombrero, nuestro hogar por la noche.

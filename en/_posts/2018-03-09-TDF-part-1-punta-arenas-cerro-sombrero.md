@@ -51,6 +51,8 @@ We arrived to Punta Delgada around 8:30 PM and parked our van in line for the fe
      <figcaption class="img-caption">Ferry crossing of Primera Angostura at sunset</figcaption>
 </figure>
 
-Arriving to Tierra del Fuego there was a never-ending line of cars waiting to make the traverse back to Punta Delgada. It was a couple days before Christmas and this is the only way for Argentines to reach the mainland by car. Not something we had considered, but lesson learned: definitely keep in mind holidays when organizing your trip.
+<h2>Bahía Azúl</h2>
+
+Arriving to Tierra del Fuego at Bahía Azúl, there was a never-ending line of cars waiting to make the traverse back to Punta Delgada. It was a couple days before Christmas and this is the only way for Argentines to reach the mainland by car. Not something we had considered, but lesson learned: definitely keep in mind holidays when organizing your trip.
 
 A short drive later on smooth paved road, we arrived to Cerro Sombrero, our home for the night.

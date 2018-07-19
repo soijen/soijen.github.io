@@ -65,6 +65,7 @@ h1,h2,h3,h4,h5,h6 {
   color: #555;
   font-family: 'Raleway', helvetica, sans;
   font-weight: bold;
+  padding-bottom: 0.5em;
 }
 h1 {
   letter-spacing: 0.2em;
@@ -75,23 +76,35 @@ h2 {
 }
 p {
   color: #222;
-  padding-bottom: 1.5em;
+  padding-bottom: 1em;
   text-align: justify;
+}
+img {
+  background-position: center;
+  background-size: cover;
+  padding-top: 3em;
+  text-align: center;
+  width: 100%;
+}
+ul {
+  margin-bottom: 1em;
+  padding: 0 2em;
+}
+li {
+  list-style: none;
+}
+li:before {
+  content: "\f101";
+  font-family: FontAwesome;
+  margin-right: 1em;
 }
 .anchor {
   opacity: 0;
 }
-.bullets {
-  margin-bottom: 1em;
-  padding: 0 2em;
-}
-.bullets li {
-  list-style: none;
-}
-.bullets li:before {
-  content: "\f101";
-  font-family: FontAwesome;
-  margin-right: 1em;
+.img-caption {
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: center;
 }
 .content-container {
   flex: 1 1 auto;
@@ -172,7 +185,7 @@ textarea {
   display: flex;
   flex-direction: column;
   height: 18vh;
-  margin: 2vh 0 3vh;
+  margin: 0 0 5vh;
   width: 100%;
 }
 .header-logo {
@@ -184,6 +197,7 @@ textarea {
 }
 .header-logo img {
   height: 10vh;
+  width: auto;
 }
 .header-nav {
   flex: 0 1 auto;
@@ -193,6 +207,9 @@ textarea {
 .header-nav > li {
   display: inline-block;
   margin-left: 2em;
+}
+.header-nav > li:before {
+    content: none;
 }
 .header-nav a {
   color: #555;
@@ -215,9 +232,15 @@ textarea {
   font-size: 0rem;
   visibility: hidden;
 }
+.langselect ul {
+  padding: 0;
+}
 .langselect li {
     display: inline-block;
     padding: 1px;
+}
+.langselect li:before {
+  content: none;
 }
 .nav-links a, .drop-trigger, .show-mobile-menu {
   font-size: 0.8rem;
@@ -227,6 +250,9 @@ textarea {
 /* DROPDOWN STYLES */
 .dropdown {
   position: relative;
+}
+.dropdown li:before {
+  content: none;
 }
 .dropdown:hover .drop-menu {
   display: block;
@@ -307,7 +333,7 @@ textarea {
 /* FOOTER STYLES */
 .footer {
   background-color: #222;
-  padding: 2vh 0;
+  padding: 3vh 0;
   text-align: center;
 }
 .footer-text {
@@ -442,6 +468,9 @@ textarea {
 .social-list li {
   display: inline-block;
 }
+.social-list li:before {
+  content: none;
+}
 .fixed-social {
   position: fixed;
   top: 40vh;
@@ -475,7 +504,8 @@ textarea {
 }
 .page h2 {
   font-size: 1.5em;
-  margin: 2em 0 1em;
+  letter-spacing: 0.1em;
+  margin: 2em 0 0 0;
   text-align: center;
 }
 .page h4 {
@@ -491,7 +521,6 @@ textarea {
 .blog-posts .post-header {
   font-size: 1.5rem;
   margin-bottom: 1.5em;
-  text-transform: capitalize;
 }
 .blog-posts .posts-image {
   background-position: center;
@@ -499,7 +528,12 @@ textarea {
   height: 50vh;
   margin-bottom: 1.5em;
 }
-
+.blog-title-list {
+  padding: 0;
+}
+.blog-title-list li:before{
+  content: none;
+}
 /* POST STYLES */
 .google-map {
   background-position: center;
@@ -507,29 +541,35 @@ textarea {
   height: 50vh;
   margin-top: 5vh;
 }
+.portrait-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1.5em;
+  width: 50%;
+}
+.portrait-photo .caption {
+  padding-top: 1em;
+}
 .post {
   width: 100%;
 }
-.post p {
-  margin-bottom: 1em;
+.post li {
+  line-height: 2;
+  margin: 0;
 }
-.post .figure {
-  margin: 1.5em 0;
-  text-align: center;
-}
-.post .img-caption {
-  font-size: 0.8em;
+.post .quote {
+  letter-spacing: 0.1em;
+  line-height: 2;
+  font-size: 1.3rem;
   font-style: italic;
-}
-.post .image {
-  background-position: center;
-  background-size: cover;
-  margin-bottom: 0.5em;
-  width: 100%;
+  margin: 2em 2em 1em 2em;
+  text-align: justify;
 }
 .post .post-header {
   margin-bottom: 2.5em;
   text-align: center;
+  text-transform: capitalize;
 }
 .post-aside {
   border: 3px dashed #057D9F;
@@ -548,6 +588,10 @@ textarea {
 }
 .post-aside li {
   margin-bottom: 1em;
+}
+.post image {
+  padding: 0;
+  margin: 0;
 }
 .post-aside a {
   color: #555;
@@ -569,6 +613,7 @@ textarea {
 }
 .post-content {
   font-size: 1.1rem;
+  line-height: 2;
 }
 .post-footer {
   border-top: 1px solid rgba(34, 34, 34, 0.3);
@@ -581,12 +626,6 @@ textarea {
   margin-top: 4em;
   text-align: center;
 }
-.post-stats li {
-  line-height: 2;
-  list-style: none;
-  margin: 0;
-}
-
 
 /* PATAGONIA UNEXPLORED STYLES */
 .region-posts {
@@ -682,7 +721,7 @@ textarea {
   }
   .header-logo {
     padding-left: 2em;
-    padding-top: 1em;
+    padding-top: 0;
     position: relative;
     text-align: left;
   }
@@ -695,7 +734,7 @@ textarea {
     float: right;
     font-size: 1.3em;
     margin-top: 0;
-    padding: 2em 3em 1.5em 1.5em;
+    padding: 3em 3em 1.5em 1.5em;
     position: relative;
   }
   .header-nav {
@@ -739,10 +778,10 @@ textarea {
     content: "x";
     font-weight: bold;
     left: 0;
-    padding-right: 2em;
+    padding-right: 3em;
     position: absolute;
     text-align: center;
-    top: 2em;
+    top: 3em;
     width: 100%;
     z-index: 10;
   }
@@ -794,6 +833,17 @@ textarea {
 @media (max-width: 800px) {
   .hero-posts {
     height: 45vh;
+  }
+}
+@media (max-width: 500px) {
+  ul {
+      padding: 0;
+  }
+  .post .quote {
+    letter-spacing: 0.05em;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
   }
 }
 @media (max-width: 400px) {

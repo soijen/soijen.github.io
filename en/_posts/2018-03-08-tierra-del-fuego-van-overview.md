@@ -10,7 +10,7 @@ postHero: /assets/images/tierra-del-fuego/van-mountains.jpg
 ref: tierra-del-fuego-van-overview
 region: Tierra-del-Fuego
 tags:
-- van-life
+- road-trip
 - culture
 zoom: 6
 ---
