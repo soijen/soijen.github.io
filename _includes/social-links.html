@@ -1,20 +1,32 @@
 <li>
-  <a href="http://instagram.com/soijen_" target="_blank" title="Check us out on Instagram" class="social-link">
+  <a href="http://instagram.com/{{ site.instagram_username }}" target="_blank" title="Check us out on Instagram" class="social-link">
     <i class="fa fa-instagram"></i>
   </a>
 </li>
 <li>
-  <a href="http://twitter.com/soijen_" target="_blank" title="Check us out on Twitter" class="social-link">
+  <a href="http://twitter.com/{{ site.twitter_username }}" target="_blank" title="Check us out on Twitter" class="social-link">
     <i class="fa fa-twitter"></i>
   </a>
 </li>
 <li>
-  <a href="http://facebook.com/soijen" target="_blank" title="Check us out on Facebook" class="social-link">
+  <a href="http://facebook.com/{{ site.facebook_username }}" target="_blank" title="Check us out on Facebook" class="social-link">
     <i class="fa fa-facebook"></i>
   </a>
 </li>
 <li>
-  <a href="https://www.youtube.com/channel/UC_9UZ_vZjIx3mfZ1P6r9w6g" target="_blank" title="Check us out on Youtube" class="social-link">
+  <a href="https://www.youtube.com/channel/{{ site.youtube_username }}" target="_blank" title="Check us out on Youtube" class="social-link">
     <i class="fa fa-youtube"></i>
   </a>
+</li>
+<li>
+  {% if page.lang == 'en' %}
+    <a href="/feed.xml" target="_blank" title="Subscribe to RSS" class="social-link">
+      <i class="fa fa-rss"></i>
+    </a>
+  {% endif %}
+  {% if page.lang == 'es' %}
+    <a href="/es/feed.xml" target="_blank" title="Subscribe to RSS" class="social-link">
+      <i class="fa fa-rss"></i>
+    </a>
+  {% endif %}
 </li>

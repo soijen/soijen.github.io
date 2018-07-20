@@ -17,7 +17,12 @@
         href="/assets/fonts/font-awesome-4.7.0/css/font-awesome.css">
   <link rel="stylesheet" href="/assets/css/main.css?v=3.0">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-
+  {% if page.lang == 'en' %}
+    <link href='{{ site.url }}/feed.xml' rel='alternate' type='application/atom+xml'>
+  {% endif %}
+  {% if page.lang == 'es' %}
+    <link href='{{ site.url }}/feed.xml' rel='alternate' type='application/atom+xml'>
+  {% endif %}
   <!-- External Integrations -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:100" rel="stylesheet">
   <meta name="google-site-verification" content="{{  site.google_site_verification }}" />
