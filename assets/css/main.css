@@ -487,8 +487,10 @@ textarea {
   background: #fff;
   border: 0.04em solid #222;
   color: #222;
-  margin-left: 1em;
   padding-top: 0.75em;
+}
+.share-bar li ~ li {
+  margin-left: 1em;
 }
 
 /* PAGE STYLES */
@@ -604,6 +606,7 @@ textarea {
 .post-byline {
   font-size: 0.9rem;
   font-style: italic;
+  margin-right: 2em;
 }
 .post-content,
 .post-footer {
@@ -673,12 +676,11 @@ textarea {
   margin-bottom: 1em;
 }
 .page > .tag-cloud {
-  margin-bottom: 5em;
+  margin: 1em auto 5em auto;
   border: 3px dashed #066C6C;
   border-radius: 4px;
   box-sizing: border-box;
   padding: 1em;
-  margin-bottom: 5em;
   max-width: 50vh;
   text-align: center;
 }
@@ -796,6 +798,7 @@ textarea {
   .post-byline {
     display: block;
     margin-bottom: 1em;
+    margin-right: 0;
   }
   .page h1 {
     font-size: 2em;
@@ -823,7 +826,7 @@ textarea {
     font-size: 3em;
   }
   .full-hero h1, .full-hero h2 {
-    letter-spacing: 0.05em;
+    letter-spacing: 0.25em;
   }
   .large-col {
     padding-right: 0;
