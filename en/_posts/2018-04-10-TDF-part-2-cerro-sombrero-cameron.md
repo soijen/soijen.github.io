@@ -20,22 +20,20 @@ After a short drive on paved road from the Primera Angostura ferry terminal, we 
 
 Cerro Sombrero was established in the 1950s by ENAP - the National Petroleum Company of Chile. We had very little expectations for this small town of 700 habitants. Wow, were we wrong. Not only does Cerro Sombrero have a free primitive camping area down by the river, but the town is a van-life haven with public bathrooms and showers (very clean) and fast wifi (all free!). The tourist information center is brand new. What a luxurious first night on the road.
 
+<img src="/assets/images/tierra-del-fuego/cs-tourist-info.jpg"
+      alt="Cerro Sombrero tourist info">
+<div class="img-caption">Cerro Sombrero tourist info, with public bathrooms and showers</div>
+<img src="/assets/images/tierra-del-fuego/cs-enap.jpg"
+      alt="Cerro Sombrero gas station">
+<div class="img-caption">Old school gas station in Cerro Sombrero</div>
+
 The next morning after a long hot shower, some maps from the tourist center, and a full tank of gas, we were ready to hit the road. We didn't check it out but there’s also a supermarket in town, the last you may see for a while.
 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: There are only a handful of places to get gas on the Chilean side of Tierra del Fuego - Cerro Sombrero, Cullen, Porvenir, and Russfin. Fill up wherever you get the chance and we would recommend keeping an extra container as well (we had an extra 20L).
 
 We drove towards Cameron across the flat pampas. After about an hour we reached Onaisin, the end of the paved road, and the beginning of Route Y-85. Let the real adventure begin.
 
-<figure class="figure">
-  <img class="image" src="/assets/images/tierra-del-fuego/cs-tourist-info.jpg"
-      alt="Cerro Sombrero tourist info">
-     <figcaption class="img-caption">Cerro Sombrero tourist info, with public bathrooms and showers</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/tierra-del-fuego/cs-enap.jpg"
-      alt="Cerro Sombrero gas station">
-     <figcaption class="img-caption">Old school gas station in Cerro Sombrero</figcaption>
-</figure>
+{% include youtubePlayer.html id="pRWIFVjeKYM" %}
 
 <h2>Parque Pingüino Rey</h2>
 
