@@ -62,7 +62,7 @@ As we mentioned in our first post of this series, there are 2 ways to travel by 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: To cross from Porvenir to Punta Arenas, usually you need to reserve a spot on the ferry in advanced (for vehicles). But you can ask the agency that day if there is space. One ferry leaves per day. The terminal is in Bahía Chilota, 5km from Porvenir. Cash only. For more information about prices and timetables see <a href="http://www.tabsa.cl/" target="_blank">Transbordadora Austral Boom</a>. Ferry crossings may be cancelled due to strong winds.
 
 <figure class="figure">
-  <img class="image" src="/assets/images/tierra-del-fuego/cruce-puq.png"
+  <img class="image" src="/assets/images/tierra-del-fuego/cruce-puq.jpg"
       alt="Crossing to Punta Arenas">
      <figcaption class="img-caption">Crossing to Punta Arenas</figcaption>
 </figure>

@@ -6,7 +6,7 @@ layout: post
 latitude: -53.755607
 longitude: -70.971891
 permalink: /trekking-monte-tarn/
-postHero: /assets/images/monte-tarn/e-2013-summit.jpg
+postHero: /assets/images/monte-tarn/j-2013-summit.jpg
 ref: trek-tarn
 region: Punta-Arenas
 tags:
@@ -73,7 +73,7 @@ On December 21st, 2016 the forest fire in San Juan finally stopped and the Carab
      <figcaption class="img-caption">Mountains as far as the eyes can see</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/monte-tarn/j-2013-summit.jpg"
+  <img class="image" src="/assets/images/monte-tarn/e-2013-summit.jpg"
       alt="Trekking Monte Tarn">
      <figcaption class="img-caption">Summit of Monte Tarn</figcaption>
 </figure>

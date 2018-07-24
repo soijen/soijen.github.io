@@ -65,7 +65,7 @@ Como mencionamos en nuestra primera publicación, existen 2 cruces por vía mar�
 Después de 2 horas y media de navegar por el Estrecho de Magallanes, llegamos al sector de Tres Puentes en la costa norte de Punta Arenas. Con esto dábamos por terminada esta aventura por tierra en el lado chileno de la Isla de Tierra del Fuego.
 
 <figure class="figure">
-  <img class="image" src="/assets/images/tierra-del-fuego/cruce-puq.png"
+  <img class="image" src="/assets/images/tierra-del-fuego/cruce-puq.jpg"
       alt="Cruce a Punta Arenas">
      <figcaption class="img-caption">Cruce a Punta Arenas</figcaption>
 </figure>

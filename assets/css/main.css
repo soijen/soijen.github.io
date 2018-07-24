@@ -160,12 +160,17 @@ textarea {
   color: #fff;
   cursor: pointer;
   font-size: 1rem;
+  font-weight: bold;
   font-family: inherit;
   padding: .4em .5em;
   opacity: 0.8;
 }
 .submit-button:active, .submit-button:hover {
   opacity: 1;
+}
+#mc_embed_signup {
+  margin-top:2em;
+  width:100%;
 }
 .videoWrapper {
   overflow: hidden;

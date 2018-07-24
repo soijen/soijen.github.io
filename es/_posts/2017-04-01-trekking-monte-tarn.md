@@ -6,7 +6,7 @@ layout: post
 latitude: -53.755607
 longitude: -70.971891
 permalink: es/trekking-monte-tarn/
-postHero: /assets/images/monte-tarn/e-2013-summit.jpg
+postHero: /assets/images/monte-tarn/j-2013-summit.jpg
 ref: trek-tarn
 region: Punta-Arenas
 tags: trekking
@@ -72,7 +72,7 @@ El 21 de Diciembre del año 2016, el incendio forestal de San Juan fue contenido
      <figcaption class="img-caption">Montañas de la Península de Brunswick</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/monte-tarn/j-2013-summit.jpg"
+  <img class="image" src="/assets/images/monte-tarn/e-2013-summit.jpg"
       alt="La cima de Monte Tarn">
      <figcaption class="img-caption">La cima de Monte Tarn</figcaption>
 </figure>
