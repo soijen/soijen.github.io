@@ -334,7 +334,7 @@ textarea {
 
 /* MOBILE MENU */
 .mobile-menu-check,
-.show-mobile-menu {
+.show-mobile-menu, .mobile-only a {
   display: none;
 }
 
@@ -745,6 +745,9 @@ textarea {
     font-size: 3.25vw;
   }
   /* MOBILE MENU */
+  .mobile-only a {
+    display: inline-block;
+  }
   .show-mobile-menu {
     display: block;
     float: right;
