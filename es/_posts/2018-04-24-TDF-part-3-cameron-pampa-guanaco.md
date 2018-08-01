@@ -2,12 +2,10 @@
 layout: post
 author: Sóijen
 title: 'Tierra del Fuego, Chile Parte 3 - Cameron a Pampa Guanaco'
-description: >-
-  Guía logística para organizar tu viaje por tierra, en el lado Chileno de
-  Tierra del Fuego. Detalles sobre la ruta entre Cameron y Pampa Guanaco.
+description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta entre Cameron y Pampa Guanaco.
 latitude: '-54.046149'
 longitude: '-68.805629'
-permalink: /es/TDF-part-3-cameron-pampa-guanaco/
+permalink: /es/tierra-del-fuego-part-3-cameron-pampa-guanaco/
 postHero: /assets/images/tierra-del-fuego/cameron-coast.jpg
 ref: TDF-part-3-cameron-pampa-guanaco
 region: Tierra-del-Fuego
@@ -24,6 +22,8 @@ El pequeño pueblo de Cameron se encuentra ubicado unos pocos metros después de
 
 <h2>Lugares para Pasar la Noche en Tierra del Fuego</h2>
 En general nos costó encontrar un lugar para pasar la noche al norte de Pampa Guanaco, debido a que la mayoría de los caminos son cercados por las estancias para el pastoreo de las ovejas. Tuvimos mejor suerte buscando lugares hacia el sur de Cameron por el camino costero.
+
+{% include youtubePlayer.html id="keiHK6aTqMQ" %}
 
 <h2> Russfin </h2>
 La ruta Y-85 al sur de Cameron se encuentra en muy buenas condiciones apesar de ser un camino de tierrra, la conducción fue muy tranquila y sin problemas. Aproximadamente a mitad del camino entre Cameron y Pampa Guanaco se encuentra el aserradero y posada Russfin. Este lugar es muy importante ya que es la última opción para obtener bencina o petróleo en Chile, considerando que tu destino final es el sur de la isla. En Russfin se puede encontrar un poco de ayuda para algunos problemas mecánicos en ruta y alojamientos. Puedes visitar su  <a href="https://www.paradorrussfin.cl/" target="_blank">página web</a> (solo en Español) para mayor información.

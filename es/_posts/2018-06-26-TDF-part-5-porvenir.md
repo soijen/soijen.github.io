@@ -2,12 +2,10 @@
 layout: post
 author: Sóijen
 title: 'Tierra del Fuego, Chile Parte 5 - Porvenir'
-description: >-
-  Guía logística para organizar tu viaje por tierra, en el lado Chileno de
-  Tierra del Fuego. Detalles sobre la ruta a Porvenir.
+description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta a Porvenir.
 latitude: '-53.292407'
 longitude: '-70.367031'
-permalink: /es/TDF-part-5-porvenir/
+permalink: /es/tierra-del-fuego-part-5-porvenir/
 postHero: /assets/images/tierra-del-fuego/obeja-xing.jpg
 ref: TDF-part-5-porvenir
 region: Tierra-del-Fuego

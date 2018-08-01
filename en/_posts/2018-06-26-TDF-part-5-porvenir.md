@@ -1,11 +1,11 @@
 ---
 title: Tierra del Fuego, Chile Part 5 - Porvenir
-description: Logistical guide for planning your overland trip to the Chilean side of Tierra del Fuego. Details of the route to Porvenir.
+description: Logistical guide for planning your road trip to the Chilean side of Tierra del Fuego. Details of the route to Porvenir.
 author: Sóijen
 layout: post
 latitude: -53.292407
 longitude: -70.367031
-permalink: /TDF-part-5-porvenir/
+permalink: /tierra-del-fuego-part-5-porvenir/
 postHero: /assets/images/tierra-del-fuego/obeja-xing.jpg
 ref: TDF-part-5-porvenir
 region: Tierra-del-Fuego
@@ -13,7 +13,7 @@ tags:
 - road-trip
 zoom: 6
 ---
-In the final leg of our <a href="/tierra-del-fuego-van-overview/">8-day overland trip of Tierra del Fuego</a>, we return to Punta Arenas from Lago Fagnano, but before that we need to explore Porvenir. It's time to head back north! If you haven't already, read <a href="/TDF-part-4-pampa-guanaco-caleta-maria/">part 4</a> of this series.
+In the final leg of our <a href="/tierra-del-fuego-van-overview/">8-day road trip of Tierra del Fuego</a>, we return to Punta Arenas from Lago Fagnano, but before that we need to explore Porvenir. It's time to head back north! If you haven't already, read <a href="/TDF-part-4-pampa-guanaco-caleta-maria/">part 4</a> of this series.
 
 After one of the most memorable experiences exploring the south of Tierra del Fuego, it was time to start our return to the north and to the continent. Strong winds and rain, normal for the region, made us nervous about the road conditions back through the mountains. We decided to take advantage of a good weather window to drive north before conditions changed again. Despite our reservations, the road was actually in good shape. But new worries arose as we watched the fuel gauge on our van dip closer and closer to empty. Hopefully Russfin would have diesel this time, so we can make it back to Porvenir.
 

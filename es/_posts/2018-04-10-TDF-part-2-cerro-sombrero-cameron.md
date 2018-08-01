@@ -2,12 +2,10 @@
 layout: post
 author: Sóijen
 title: 'Tierra del Fuego, Chile Parte 2 - Cerro Sombrero a Cameron'
-description: >-
-  Guía logística para organizar tu viaje por tierra, en el lado Chileno de
-  Tierra del Fuego. Detalles sobre la ruta entre Cerro Sombrero y Cameron.
+description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta entre Cerro Sombrero y Cameron.
 latitude: '-52.7646632'
 longitude: '-69.2949891'
-permalink: /es/TDF-part-2-cerro-sombrero-cameron/
+permalink: /es/tierra-del-fuego-part-2-cerro-sombrero-cameron/
 postHero: /assets/images/tierra-del-fuego/cs-sunset.jpg
 ref: TDF-part-2-cerro-sombrero-cameron
 region: Tierra-del-Fuego

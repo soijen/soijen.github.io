@@ -2,12 +2,10 @@
 layout: post
 author: Sóijen
 title: 'Tierra del Fuego, Chile Parte 1 - Punta Arenas a Cerro Sombrero'
-description: >-
-  Guía logística para organizar tu viaje por tierra, en el lado Chileno de
-  Tierra del Fuego. Detalles sobre la ruta entre Punta Arenas y Cerro Sombrero.
+description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta entre Punta Arenas y Cerro Sombrero.
 latitude: '-52.7646632'
 longitude: '-69.2949891'
-permalink: /es/TDF-part-1-punta-arenas-cerro-sombrero/
+permalink: /es/tierra-del-fuego-part-1-punta-arenas-cerro-sombrero/
 postHero: /assets/images/tierra-del-fuego/map-tierra-del-fuego.jpg
 ref: TDF-part-1-punta-arenas-cerro-sombrero
 region: Tierra-del-Fuego

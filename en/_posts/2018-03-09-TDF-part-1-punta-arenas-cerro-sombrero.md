@@ -1,11 +1,11 @@
 ---
 title: Tierra del Fuego, Chile Part 1 - Punta Arenas to Cerro Sombrero
-description: Logistical guide for planning your overland trip to the Chilean side of Tierra del Fuego. Details of the route between Punta Arenas and Cerro Sombrero.
+description: Logistical guide for planning your road trip to the Chilean side of Tierra del Fuego. Details of the route between Punta Arenas and Cerro Sombrero.
 author: Sóijen
 layout: post
 latitude: -52.7646632
 longitude: -69.2949891
-permalink: /TDF-part-1-punta-arenas-cerro-sombrero/
+permalink: /tierra-del-fuego-part-1-punta-arenas-cerro-sombrero/
 postHero: /assets/images/tierra-del-fuego/map-tierra-del-fuego.jpg
 ref: TDF-part-1-punta-arenas-cerro-sombrero
 region: Tierra-del-Fuego
@@ -13,7 +13,7 @@ tags:
 - road-trip
 zoom: 6
 ---
-In the first leg of our <a href="/tierra-del-fuego-van-overview/">8-day overland trip of Tierra del Fuego</a>, we entered the island via Punta Delgada - a short ferry crossing at the narrowest part of the Strait of Magellan.
+In the first leg of our <a href="/tierra-del-fuego-van-overview/">8-day road trip of Tierra del Fuego</a>, we entered the island via Punta Delgada - a short ferry crossing at the narrowest part of the Strait of Magellan.
 
 <h2>Ferry Access</h2>
 

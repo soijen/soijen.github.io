@@ -2,12 +2,10 @@
 layout: post
 author: Sóijen
 title: 'Tierra del Fuego, Chile Parte 4 - Pampa Guanaco a Caleta María'
-description: >-
-  Guía logística para organizar tu viaje por tierra, en el lado Chileno de
-  Tierra del Fuego. Detalles sobre la ruta entre Pampa Guanaco y Caleta María.
+description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta entre Pampa Guanaco y Caleta María.
 latitude: '-54.476871'
 longitude: '-68.969569'
-permalink: /es/TDF-part-4-pampa-guanaco-caleta-maria/
+permalink: /es/tierra-del-fuego-part-4-pampa-guanaco-caleta-maria/
 postHero: /assets/images/tierra-del-fuego/south/fin-del-camino.jpg
 ref: TDF-part-4-pampa-guanaco-caleta-maria
 region: Tierra-del-Fuego

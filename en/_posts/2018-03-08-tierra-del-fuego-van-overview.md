@@ -1,6 +1,6 @@
 ---
 title: Tierra del Fuego, Chile by Van - An Overview
-description: Logistical guide for planning your overland trip to the Chilean side of Tierra del Fuego.
+description: Logistical guide for planning your road trip to the Chilean side of Tierra del Fuego.
 author: Sóijen
 layout: post
 latitude: -53.8671117
@@ -18,7 +18,7 @@ In 1994 the government of Chile began construction on the route to Yendegaia. Ro
 
 <h2>The Route</h2>
 
-We’ve divided our 8-day overland journey through Tierra del Fuego into 5 posts:
+We’ve divided our 8-day road journey through Tierra del Fuego into 5 posts:
 <ul class="post-stats bullets">
   <li><a href="/TDF-part-1-punta-arenas-cerro-sombrero/">Part 1 - Punta Arenas to Cerro Sombrero</a></li>
   <li><a href="/TDF-part-2-cerro-sombrero-cameron/">Part 2 - Cerro Sombrero to Cameron</a></li>

@@ -1,11 +1,11 @@
 ---
 title: Tierra del Fuego, Chile Part 2 - Cerro Sombrero to Cameron
-description: Logistical guide for planning your overland trip to the Chilean side of Tierra del Fuego. Details of the route between Cerro Sombrero and Cameron.
+description: Logistical guide for planning your road trip to the Chilean side of Tierra del Fuego. Details of the route between Cerro Sombrero and Cameron.
 author: Sóijen
 layout: post
 latitude: -53.628219
 longitude: -69.622287
-permalink: /TDF-part-2-cerro-sombrero-cameron/
+permalink: /tierra-del-fuego-part-2-cerro-sombrero-cameron/
 postHero: /assets/images/tierra-del-fuego/cs-sunset.jpg
 ref: TDF-part-2-cerro-sombrero-cameron
 region: Tierra-del-Fuego
@@ -13,7 +13,7 @@ tags:
 - road-trip
 zoom: 6
 ---
-In the second leg of our <a href="/tierra-del-fuego-van-overview/">8-day overland trip of Tierra del Fuego</a>, we tell you why Cerro Sombrero is the perfect place to stop before heading towards the unknown in the south of the island. If you haven't already, read <a href="/TDF-part-1-punta-arenas-cerro-sombrero/">Part 1</a> of this series.
+In the second leg of our <a href="/tierra-del-fuego-van-overview/">8-day road trip of Tierra del Fuego</a>, we tell you why Cerro Sombrero is the perfect place to stop before heading towards the unknown in the south of the island. If you haven't already, read <a href="/TDF-part-1-punta-arenas-cerro-sombrero/">Part 1</a> of this series.
 
 <h2>Cerro Sombrero</h2>
 After a short drive on paved road from the Primera Angostura ferry terminal, we arrived to the village of Cerro Sombrero, our home for the night. We caught the end of a fiery sunset as we searched for a place to park the van. Luckily from our vantage point we saw a slightly overgrown camping area with picnic tables. We'll take it.
