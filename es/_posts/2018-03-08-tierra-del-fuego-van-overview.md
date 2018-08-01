@@ -21,11 +21,11 @@ En el año 1994 el gobierno de Chile comenzó la construcción de la ruta hacia 
 
 Nuestra jornada por tierra durante 8 días en la Isla de Tierra del Fuego, se encuentra dividida en 5 partes:
 <ul class="post-stats bullets">
-  <li><a href="/es/TDF-part-1-punta-arenas-cerro-sombrero/">Parte 1 - Punta Arenas a Cerro Sombrero</a></li>
-  <li><a href="/es/TDF-part-2-cerro-sombrero-cameron/">Parte 2 - Cerro Sombrero a Cameron</a></li>
-  <li><a href="/es/TDF-part-3-cameron-pampa-guanaco/">Parte 3 - Cameron a Pampa Guanaco</a></li>
-  <li><a href="/es/TDF-part-4-pampa-guanaco-caleta-maria/">Parte 4 - Pampa Guanaco a Caleta Maria</a></li>
-  <li><a href="/es/TDF-part-5-porvenir/">Parte 5 - Porvenir</a></li>
+  <li><a href="/es/tierra-del-fuego-part-1-punta-arenas-cerro-sombrero/">Parte 1 - Punta Arenas a Cerro Sombrero</a></li>
+  <li><a href="/es/tierra-del-fuego-part-2-cerro-sombrero-cameron/">Parte 2 - Cerro Sombrero a Cameron</a></li>
+  <li><a href="/es/tierra-del-fuego-part-3-cameron-pampa-guanaco/">Parte 3 - Cameron a Pampa Guanaco</a></li>
+  <li><a href="/es/tierra-del-fuego-part-4-pampa-guanaco-caleta-maria/">Parte 4 - Pampa Guanaco a Caleta Maria</a></li>
+  <li><a href="/es/tierra-del-fuego-part-5-porvenir/">Parte 5 - Porvenir</a></li>
 </ul>
 
 Pero primero conozcamos un poco de Tierra del Fuego.

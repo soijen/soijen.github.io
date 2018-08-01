@@ -20,11 +20,11 @@ In 1994 the government of Chile began construction on the route to Yendegaia. Ro
 
 We’ve divided our 8-day road journey through Tierra del Fuego into 5 posts:
 <ul class="post-stats bullets">
-  <li><a href="/TDF-part-1-punta-arenas-cerro-sombrero/">Part 1 - Punta Arenas to Cerro Sombrero</a></li>
-  <li><a href="/TDF-part-2-cerro-sombrero-cameron/">Part 2 - Cerro Sombrero to Cameron</a></li>
-  <li><a href="/TDF-part-3-cameron-pampa-guanaco/">Part 3 - Cameron to Pampa Guanaco</a></li>
-  <li><a href="/TDF-part-4-pampa-guanaco-caleta-maria/">Part 4 - Pampa Guanaco to Caleta Maria</a></li>
-  <li><a href="/TDF-part-5-porvenir/">Part 5 - Porvenir</a></li>
+  <li><a href="/tierra-del-fuego-part-1-punta-arenas-cerro-sombrero/">Part 1 - Punta Arenas to Cerro Sombrero</a></li>
+  <li><a href="/tierra-del-fuego-part-2-cerro-sombrero-cameron/">Part 2 - Cerro Sombrero to Cameron</a></li>
+  <li><a href="/tierra-del-fuego-part-3-cameron-pampa-guanaco/">Part 3 - Cameron to Pampa Guanaco</a></li>
+  <li><a href="/tierra-del-fuego-part-4-pampa-guanaco-caleta-maria/">Part 4 - Pampa Guanaco to Caleta Maria</a></li>
+  <li><a href="/tierra-del-fuego-part-5-porvenir/">Part 5 - Porvenir</a></li>
 </ul>
 
 But first a little background about Tierra del Fuego.
