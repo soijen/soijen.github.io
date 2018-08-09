@@ -22,6 +22,8 @@ Un retén de carabinero da la bienvenida a este lugar cercano a la frontera con 
 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Dato: Es importante recordar que ya no hay más opciones de combustible. En caso que Russfin no tenga combustible, los carabineros nos indicaron que se puede cruzar hacia Río Grande en el lado Argentino, para buscar otra opción para combustible.
 
+{% include youtubePlayer.html id="QTKhxJ5zHmE" %}
+
 <h2>Lago Blanco</h2>
 Optamos por esta ruta a solo 10 km de Pampa Guanaco para buscar un lugar donde pasar la noche junto con explorar un poco el área. Después de un camino con algunos sectores destrozados por el paso de los castores llegamos al borde del lago. El lago en si es grande con una pequeña isla al medio, en su lado sur se puede tener una buena vista de las montañas que vamos a encontrar después en nuestro camino hacia Lago Fagnano. Existen sitios primitivos de camping hacia el sur del lago, elegimos uno cercano a la orilla con una vista al cerro Cuchilla. Si miras detenidamente el cerro, la cima calza perfectamente con su nombre.
 

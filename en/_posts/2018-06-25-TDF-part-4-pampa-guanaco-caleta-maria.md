@@ -22,6 +22,8 @@ Pampa Guanaco is a small settlement located at the intersection of Y-85 and Y-76
 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: It's very important to remember there are no more places to get gas in the south of Chile. If you were unsuccessful at filling your tank in Russfin, the police at Pampa Guanaco told us another option would be to cross the border to Río Grande, Argentina.
 
+{% include youtubePlayer.html id="QTKhxJ5zHmE" %}
+
 <h2>Lago Blanco</h2>
 We decided to take the 10km detour from Pampa Guanaco towards Lago Blanco, to explore the area a bit and find a place to spend the night. The road to Lago Blanco was bumpy at times. We passed clearings in the forest where the native trees had been destroyed by beavers, an invasive species in the region. After a windy downhill we arrived to the shores of Lago Blanco. Lago Blanco is a huge lake, famous for fishing, with a small island in the middle and lined by mountains to the south. There are primitive campsites along the shore towards the south. Despite the strong winds we chose a spot close to the shore, with an impressing view of Cerro Cuchilla (Knife Hill). The shape of the summit fits perfectly with its name.
 
