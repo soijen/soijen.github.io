@@ -19,20 +19,18 @@ Después de una de las mejores experiencias a orillas del espectacular Lago Fagn
 
 En nuestro regreso solo nos detuvimos en el retén de Pampa Guanaco para avisar de nuestra salida y desear felices fiestas (habíamos celebrado navidad en el Lago Fagnano). Luego continuamos hacia Russfin donde cruzamos los dedos y luego de un par de minutos nos confirmaron que tenian combustible. Un gran alivio ya que llenamos nuestro estanque y podríamos visitar más lugares y llegar a Porvenir.
 
+<img src="/assets/images/tierra-del-fuego/road-tdf.jpg"
+  alt="La ruta a Porvenir">
+<div class="img-caption">La ruta a Porvenir</div>
+<img src="/assets/images/tierra-del-fuego/obeja-xing.jpg"
+  alt="Ovejas en la ruta Y-71 a Porvenir">
+<div class="img-caption">Ovejas en la ruta Y-71 a Porvenir</div>
+
 A nuestra llegada al cruce de Onaisin nos despedimos de nuestra querida ruta Y-85 para tomar la ruta Y-71 hacia Porvenir. Tuvimos algo de tráfico en la ruta, movimiento de ovejas de un lugar a otro, algo normal para esta región. Los estancieros suelen mover su ganado de un campo a otro y estos caminos son las vías principales, recomendamos detener el vehículo ya que las ovejas van a pasar por los lados del vehículo.
 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Dato: La Ruta Y-71 fue lejos lo más complicado para manejar en nuestro viaje. Este camino de tierra recorre el norte de Bahía Inútil, tiene muchas curvas, el camino se hace angosto en algunas partes y presenta muchos hoyos.
 
-<figure class="figure">
-  <img class="image" src="/assets/images/tierra-del-fuego/road-tdf.jpg"
-      alt="La ruta a Porvenir">
-     <figcaption class="img-caption">La ruta a Porvenir</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/tierra-del-fuego/obeja-xing.jpg"
-      alt="Ovejas en la ruta Y-71 a Porvenir">
-     <figcaption class="img-caption">Ovejas en la ruta Y-71 a Porvenir</figcaption>
-</figure>
+{% include youtubePlayer.html id="HQpnKM-xuxQ" %}
 
 <h2>Porvenir</h2>
 Porvenir es la ciudad más grande del lado Chileno de Tierra del Fuego y capital de la provincia del mismo nombre, fue fundada el año 1894 como consecuencia del auge minero en esos tiempos. Al año 2002 contaba con una población de 5.927 habitantes.

@@ -19,20 +19,18 @@ After one of the most memorable experiences exploring the south of Tierra del Fu
 
 We made a brief stop in Pampa Guanaco to let the police know we had made it back. Then we continued on to Russfin with fingers crossed. After a couple minutes they confirmed - YES they have diesel! What a huge relief. We filled our tanks and kept moving north.
 
+<img src="/assets/images/tierra-del-fuego/road-tdf.jpg"
+  alt="The route to Porvenir">
+<div class="img-caption">The route to Porvenir</div>
+<img src="/assets/images/tierra-del-fuego/obeja-xing.jpg"
+  alt="Sheep crossing on route Y-71 to Porvenir">
+<div class="img-caption">Sheep crossing on route Y-71 to Porvenir</div>
+
 At Onaisin we said goodbye to our beloved Y-85 to take the coastal Y-71 to Porvenir. There was a bit of traffic en route - a herd of sheep. The ranchers were using the main road to move their sheep from one field to another, pretty normal for the region.
 
 <i class="fa fa-info-circle" style="color:#FFB300"></i> Tip: By far during our trip route Y-71 was the most complicated to drive. Y-71 is a windy dirt road that hugs the northern coast of Bahía Inútil. At times the road is very narrow and has lots of potholes.
 
-<figure class="figure">
-  <img class="image" src="/assets/images/tierra-del-fuego/road-tdf.jpg"
-      alt="The route to Porvenir">
-     <figcaption class="img-caption">The route to Porvenir</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/tierra-del-fuego/obeja-xing.jpg"
-      alt="Sheep crossing on route Y-71 to Porvenir">
-     <figcaption class="img-caption">Sheep crossing on route Y-71 to Porvenir</figcaption>
-</figure>
+{% include youtubePlayer.html id="HQpnKM-xuxQ" %}
 
 <h2>Porvenir</h2>
 
