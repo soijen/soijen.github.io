@@ -27,7 +27,7 @@ Pampa Guanaco is a small settlement located at the intersection of Y-85 and Y-76
 <h2>Lago Blanco</h2>
 We decided to take the 10km detour from Pampa Guanaco towards Lago Blanco, to explore the area a bit and find a place to spend the night. The road to Lago Blanco was bumpy at times. We passed clearings in the forest where the native trees had been destroyed by beavers, an invasive species in the region. After a windy downhill we arrived to the shores of Lago Blanco. Lago Blanco is a huge lake, famous for fishing, with a small island in the middle and lined by mountains to the south. There are primitive campsites along the shore towards the south. Despite the strong winds we chose a spot close to the shore, with an impressing view of Cerro Cuchilla (Knife Hill). The shape of the summit fits perfectly with its name.
 
-We were so intrigued by this mountain that the next day we woke up early to see if we could reach the 800m summit of Cerro Cuchilla. More on that in a future post.
+We were so intrigued by this mountain that the next day we woke up early to see if we could reach the 800m summit of Cerro Cuchilla. More on that <a href="/lago-blanco-cerro-cuchilla/">here</a>.
 
 After two nights camping at Lago Blanco we decided to continue on. Overall we would highly recommend this isolated spot. We only met one other family camping with us during one of the nights of our stay. Just keep in mind this is NOT a calm, tranquil lake - the waves are huge, wind always roaring, and the water ice cold (yup, we jumped in to test it out).
 
