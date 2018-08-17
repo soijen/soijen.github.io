@@ -7,7 +7,7 @@ latitude: -54.065829
 longitude: -68.957875
 kml: /assets/kml/2017_12_23_cerro-cuchilla.kml
 permalink: /lago-blanco-cerro-cuchilla-tierra-del-fuego/
-postHero: /assets/images/tierra-del-fuego/south/sunset-lblanco.jpg
+postHero: /assets/images/tierra-del-fuego/lago-blanco/lago-blanco-van.jpg
 ref: lago-blanco-cerro-cuchilla-tierra-del-fuego
 region: Tierra-del-Fuego
 tags:
@@ -35,3 +35,18 @@ The trail begins on the south side of the primitive camping area on the eastern 
 Eventually you reach a clearing where many trees have been toppled from a forest fire. Take a break here as it is basically straight up and completely exposed the rest of the way to the summit. Also take extreme caution because winds can be strong and weather can change abruptly.
 
 {% include youtubePlayer.html id="EqAzpP9Zq60" %}
+
+<img src="/assets/images/tierra-del-fuego/lago-blanco/lago-blanco-trek.jpg" alt="Trekking Lago Blanco to Cerro Cuchilla">
+<div class="img-caption">First part of trek follows the shores of Lago Blanco</div>
+<img src="/assets/images/tierra-del-fuego/lago-blanco/trees-cerro-cuchilla.jpg" alt="Ascent to Cerro Cuchilla">
+<div class="img-caption">Hard to follow trail through the forest</div>
+<img src="/assets/images/tierra-del-fuego/lago-blanco/cerro-cuchilla-near-summit.jpg" alt="Near summit Cerro Cuchilla">
+<div class="img-caption">Approaching the summit of Cerro Cuchilla</div>
+<img src="/assets/images/tierra-del-fuego/lago-blanco/summit-cerro-cuchilla.jpg" alt="Summit Cerro Cuchilla">
+<div class="img-caption">Summit of Cerro Cuchilla</div>
+<img src="/assets/images/tierra-del-fuego/lago-blanco/summit-cerro-cuchilla-lago.jpg" alt="Summit Cerro Cuchilla">
+<div class="img-caption">Summit of Cerro Cuchilla with mountains of southern Tierra del Fuego in the distance</div>
+<img src="/assets/images/tierra-del-fuego/lago-blanco/cerro-cuchilla-descent.jpg" alt="Descending Cerro Cuchilla">
+<div class="img-caption">Rapid descent from the summit</div>
+<img src="/assets/images/tierra-del-fuego/lago-blanco/lago-blanco-cerro-cuchilla.jpg" alt="Descending Cerro Cuchilla with Lago Blanco in distance">
+<div class="img-caption">Incredible views of Lago Blanco</div>

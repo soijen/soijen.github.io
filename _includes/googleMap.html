@@ -3,7 +3,7 @@
   <script>
     function initMap() {
       var location = {lat: {{page.latitude}}, lng: {{page.longitude}}};
-      var pageKmlFile = '{{page.kml}}'
+      var pageKmlFile = '{{site.url}}{{page.kml}}'
       var map = new google.maps.Map(document.getElementById('map'), {
         zoom: {{page.zoom}},
         center: location
@@ -14,6 +14,7 @@
       });
       var trekLayer = new google.maps.KmlLayer({
         url: pageKmlFile,
+        preserveViewport: false,
         map: map
       });
     }
