@@ -19,7 +19,7 @@ zoom: 8
 Fjords, glaciars, snow-capped peaks - you can find the best of Patagonia in the remote and seldom-visited Reserva Nacional Alacalufes. Accessible only by boat, we partnered with our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjord Expeditions</a> to explore Paso del Trueno - a wild and undeveloped route along the Canal de las Montañas.
 
 <h2>Background</h2>
-- <strong>Trek:</strong> Paso del Trueno - Camp Kiara to Bahia los Hurios
+- <strong>Trek:</strong> Paso del Trueno - Camp Kiara to Bahía los Hurios
 - <strong>Total Distance:</strong> 10.5 km
 - <strong>Location:</strong> Reserva Nacional Alacalufes, Chile (see <a href="#map">map</a> below)
 - <strong>Closest City:</strong> Puerto Natales, Chile
@@ -28,7 +28,7 @@ Fjords, glaciars, snow-capped peaks - you can find the best of Patagonia in the 
 
 Our adventure began about 2 hours (by boat) west of Puerto Natales, in a small campground facing the Sarmiento Mountains. Our goal for the day was to run south until we reached Bahía los Hurios, where the floating refuge "Explorador" (our home for the next few days) is docked.
 
-There's no existing trail. We followed our guide Hector up and down the hills and valleys, and through a couple complicated river crossings. The terrain was tough, at times rocky, steep or very wet and spongy. Incredible open views of the fjord and surrounding mountains throughout. 
+There's no existing trail. We followed our friend and guide Hector up and down the hills and valleys, and through a couple complicated river crossings. The terrain was tough, at times rocky, steep or very wet and spongy. Incredible open views of the fjord and surrounding mountains throughout. 
 
 After almost 3 hours of running and scrambling we reached a lookout over Bahía los Hurios - our refuge was in sight!
 
