@@ -28,7 +28,7 @@ This mountain isn't particularly tall (800m) but definitely aptly named. The las
 - <strong>Location:</strong> Timaukel region, Tierra del Fuego, Chile (see <a href="#map">map</a> below)
 - <strong>Closest City:</strong> Pampa Guanaco, Chile
 
-<h2>Trail Description</h2>
+<h2>Route Description</h2>
 
 The trail begins on the south side of the primitive camping area on the eastern shore of Lago Blanco. It begins as an easy to follow path along the lake. Eventually the trail along the shore ends as the sandy coast is replaced with jagged rocks and small cliffs. At this point we turned left into the forest and kept ascending, sometimes following animal paths and sometimes bushwacking through the forest.
 
