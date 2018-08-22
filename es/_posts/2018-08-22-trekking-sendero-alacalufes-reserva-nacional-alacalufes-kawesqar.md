@@ -3,8 +3,8 @@ title: Trekking el Sendero de los Alacalufes en la Reserva Nacional Alacalufes (
 description: Recorriendo los pasos del pueblo Kawésqar en la Reserva Nacional Alacalufes junto a nuestros amigos de Patagonian Fjord Expeditions.
 author: Sóijen
 layout: post
-latitude: -51.881986
-longitude: -73.252107
+latitude: -51.883851
+longitude: -73.260804
 kml: /assets/kml/2018_01_03_sendero-alacalufes.kml
 permalink: /es/trekking-sendero-alacalufes-reserva-nacional-alacalufes-kawesqar/
 postHero: /assets/images/puerto-natales/fiordo-montanas/sendero-alacalufes-cover.jpg
