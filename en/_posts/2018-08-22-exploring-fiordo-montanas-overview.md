@@ -17,7 +17,7 @@ tags:
 zoom: 10
 ---
 
-The dramatic landscape of Fiordo de las Montañas was carved by the retreating glaciars of the Southern Patagonian Ice Field. This fjord is also part of the Reserva Nacional Alacalufes (future Parque Nacional Kawésqar), one of the largest protected areas in Chilean Patagonia. It is located to the west of Puerto Natales, and it is a rarely visited area in the region. In January 2018 our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjords Expeditions</a> invited us to discover this remote and inhospitable place.
+The dramatic landscape of Fiordo de las Montañas was carved by the retreating glaciers of the Southern Patagonian Ice Field. This fjord is also part of the Reserva Nacional Alacalufes (future Parque Nacional Kawésqar), one of the largest protected areas in Chilean Patagonia. It is located to the west of Puerto Natales, and it is a rarely visited area in the region. In January 2018 our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjords Expeditions</a> invited us to discover this remote and inhospitable place.
 
 <h2>Description</h2>
 

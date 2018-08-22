@@ -14,7 +14,7 @@ tags:
 - on-boat
 zoom: 10
 ---
-Of all the glaciars that call Fiordo de las Montañas their home, Glaciar Bernal is definitely one of our favorites. It is located about 20 minutes by boat from the floating refuge of our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjords Expeditions</a>. We were happy to test out the newly inaugurated short trail leading to panoramic viewpoints of the glaciar.
+Of all the glaciers that call Fiordo de las Montañas their home, Glaciar Bernal is definitely one of our favorites. It is located about 20 minutes by boat from the floating refuge of our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjords Expeditions</a>. We were happy to test out the newly inaugurated short trail leading to panoramic viewpoints of the glaciar.
 
 <h2>Background</h2>
 - <strong>Trek:</strong> Out-and-back to Glaciar Bernal

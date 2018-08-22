@@ -16,7 +16,7 @@ tags:
 - camping
 zoom: 8
 ---
-Fjords, glaciars, snow-capped peaks - you can find the best of Patagonia in the remote and seldom-visited Reserva Nacional Alacalufes. Accessible only by boat, we partnered with our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjord Expeditions</a> to explore Paso del Trueno - a wild and undeveloped route along the fiordo de las Montañas.
+Fjords, glaciers, snow-capped peaks - you can find the best of Patagonia in the remote and seldom-visited Reserva Nacional Alacalufes. Accessible only by boat, we partnered with our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjord Expeditions</a> to explore Paso del Trueno - a wild and undeveloped route along the fiordo de las Montañas.
 
 <h2>Background</h2>
 - <strong>Trek:</strong> Paso del Trueno - Camp Kiara to Bahía los Hurios

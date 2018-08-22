@@ -3,8 +3,8 @@ title: Trekking the Alacalufes Portage Trail in Reserva Nacional Alacalufes (Kaw
 description: Following the steps of the Kawésqar indigenous people as we trek the Alacalufes Portage Trails, together with our friends at Patagonian Fjord Expeditions.
 author: Sóijen
 layout: post
-latitude: -51.888103
-longitude: -73.274240
+latitude: -51.881986
+longitude: -73.252107
 kml: /assets/kml/2018_01_03_sendero-alacalufes.kml
 permalink: /trekking-sendero-alacalufes-reserva-nacional-alacalufes-kawesqar/
 postHero: /assets/images/puerto-natales/fiordo-montanas/sendero-alacalufes-cover.jpg
