@@ -11,7 +11,6 @@ postHero: /assets/images/tierra-del-fuego/lago-blanco/lago-blanco-van.jpg
 ref: lago-blanco-cerro-cuchilla-tierra-del-fuego
 region: Tierra-del-Fuego
 tags:
-- road-trip
 - trail-running
 - trekking
 - camping

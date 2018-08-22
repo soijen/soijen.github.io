@@ -15,7 +15,6 @@ tags:
 - trekking
 - camping
 zoom: 8
-published: true
 ---
 
 Fiordos, glaciares, montañas cubiertas con nieve,  tú puedes encontrar lo mejor de la Patagonia en una remota visita a la Reserva Nacional Alacalufes. El acceso es solamente vía marítima, en nuestro caso viajamos por una invitación de nuestros amigos de <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjord Expeditions</a> para explorar el trekking del Paso del Trueno, un sendero que corre a lo largo del Fiordo de las Montañas.
