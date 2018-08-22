@@ -1,10 +1,10 @@
 ---
 title: Explorando los Montes Nordenskjold en Tierra del Fuego
-description: An exploratory off-trail trek in the Nordenskjold Mountains, between Caleta Maria and Lago Fagnano in Tierra del Fuego, Chile.
+description: Una aventura fuera del recorrido en los Montes Nordenskjold, en la ruta entre Caleta María y Lago Fagnano en Tierra del Fuego, Chile.
 author: Sóijen
 layout: post
-latitude: -54.488780
-longitude: -68.907113
+latitude: -54.505333
+longitude: -68.881687
 kml: /assets/kml/2017_12_25_montes-nordenskjold.kml
 permalink: /es/exploring-montes-nordenskjold-tierra-del-fuego/
 postHero: /assets/images/tierra-del-fuego/south/nordenskjold/e-running-nordenskjold-cover.jpg
@@ -14,18 +14,18 @@ tags:
 - trail-running
 - trekking
 zoom: 8
-published: false
 ---
-Southern Tierra del Fuego - on the Chile side - is largely untouched and with very little infrastructure. Not having options of developed trails, we decided to park our van where possible and make an impromptu trek up some of the mountains right off of the main road.
+El sur de Tierra del Fuego - en el lado Chileno - no es muy conocido y posede muy poca infrastructura. Sin opciones normales de sendero, nosotros decidimos estacionar nuestra van en un lugar que encontramos y realizar un ascenso a las montañas que se ubicaban al lado del camino.
 
 <h2>Descripción</h2>
-- <strong>Ruta:</strong> Ida y vuelta, off-trail desde Ruta Y-85 y subiendo los Montes Nordenskjold.
+- <strong>Ruta:</strong> Ida y vuelta, fuera del recorrido, desde Ruta Y-85 subiendo los Montes Nordenskjold.
 - <strong>Distancia Total:</strong> 10 km
 - <strong>Ubicación:</strong> Tierra del Fuego entre Lago Fagnano y Caleta María (ver <a href="#map">mapa</a> abajo)
 - <strong>Ciudad más Cercana:</strong> Pampa Guanaco, Chile
 
-<h2>Route Description</h2>
-We parked at a small pull-off next to a stream, on the south side of the road between Caleta María and Lago Fagnano. There's no formal path but we followed guanaco trails when we could through the spongy turba and low vegetation. As we ascended from the valley there were a couple of stream/river crossings. Although most were manageable, one required we hike upstream to find a safe place to cross. The small bushes and trees dropped off pretty quickly and before long we were scaling up a rocky slope, exposed to the elements. The steep ascent was rewarded with panoramic views of Caleta María and the surrounding mountains, as well as some leftover snow to play in.
+<h2>La Ruta</h2>
+
+Estacionamos en un espacio pequeño cerca de un riachuelo, en el lado sur de la ruta entre Caleta María y Lago Fagnano. No existe un sendero formal pero nosotros seguimos rastros de guanacos cuando era posible, por la turba esponjosa y la baja vegetación. Durante nuestro ascenso por el valle, encontramos cruces de rios, la mayoría eran manejables. No obstante uno de ellos nos demandó seguirlo hacía arriba para encontrar un lugar seguro donde cruzarlo. Los arbustos desaparecieron rápidamente para dar paso a laderas rocosas, expuestas a la intemperie. La subida inclinada nos recompensó con vistas panoramicas hacia Caleta María y las montañas a su alrededor, junto a restos de nieve para jugar un poco.
 
 {% include youtubePlayer.html id="vsSJR3m-Tb0" %}
 
