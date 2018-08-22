@@ -3,8 +3,8 @@ title: Explorando los Montes Nordenskjold en Tierra del Fuego
 description: Una aventura fuera del recorrido en los Montes Nordenskjold, en la ruta entre Caleta María y Lago Fagnano en Tierra del Fuego, Chile.
 author: Sóijen
 layout: post
-latitude: -54.505333
-longitude: -68.881687
+latitude: -54.497202
+longitude: -68.880562
 kml: /assets/kml/2017_12_25_montes-nordenskjold.kml
 permalink: /es/exploring-montes-nordenskjold-tierra-del-fuego/
 postHero: /assets/images/tierra-del-fuego/south/nordenskjold/e-running-nordenskjold-cover.jpg
