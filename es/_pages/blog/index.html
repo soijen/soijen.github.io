@@ -7,7 +7,8 @@ ref: blog
 ---
 <div class="page">
   <h1>Blog</h1>
-  <h2>Buscar por publicaciones recientes abajo o <a href="/es/tags/" title="buscar por etiqueta">buscar por etiqueta <i class="fa fa-tag"></i></a>.</h2>
+  <h2>Buscar por publicaciones recientes abajo.</h2>
+  <h2>O <a href="/es/tags/" title="buscar por etiqueta">buscar por etiqueta <i class="fa fa-tag"></i></a>, <a href="/es/patagonia-unexplored/" title="buscar por región">buscar por región <i class="fa fa-map"></i></a>.</h2>
   <div class="blog-previews">
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}

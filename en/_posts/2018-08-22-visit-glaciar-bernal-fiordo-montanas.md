@@ -23,7 +23,7 @@ Of all the glaciers that call Fiordo de las Montañas their home, Glaciar Bernal
 - <strong>Closest City:</strong> Puerto Natales, Chile
 
 <h2>Route Description</h2>
-The trek starts with a short boat ride rrom the floating refuge in Bahía de los Huiros. The trail to the base of the glaciar is new and very easy to follow. During our visit our friend Héctor mentioned the glaciar has been noticeably retreating, and changing the landscape in its wake.
+The trek starts with a short boat ride from the floating refuge in Bahía de los Huiros. The trail to the base of the glaciar is new and very easy to follow. During our visit our friend Héctor mentioned the glaciar has been noticeably retreating, and changing the landscape in its wake.
 
 {% include youtubePlayer.html id="Fzzpk-c9rkM" %}
 

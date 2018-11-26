@@ -1,3 +1,11 @@
+<div class="banner">
+  {% if page.lang == 'en' %}
+    Online store coming soon.
+  {% endif %}
+  {% if page.lang == 'es' %}
+    Tienda online viene pronto.
+  {% endif %}
+</div>
 <header class="header">
   {% if page.lang == 'en' %}
   <a href="/" class="header-logo">
@@ -34,14 +42,15 @@
           {% endfor %}
         </ul>
       </li>
+      <li><span class="langselect">{% include langselect.html %}</span></li>
       <li>
         {% if page.lang == 'en' %}
-          <a href="/patagonia-unexplored/">patagonia [un]explored</a></li>
+          <a class="cart social-link" href="/shop/"><i class="fa fa-shopping-cart"></i></a>
         {% endif %}
         {% if page.lang == 'es' %}
-          <a href="/es/patagonia-unexplored/">patagonia [un]explored</a></li>
+          <a class="cart social-link" href="/es/shop/"><i class="fa fa-shopping-cart"></i></a>
         {% endif %}
-      <li><span class="langselect">{% include langselect.html %}</span></li>
+      </li>
     </ul>
   </nav>
 </header>

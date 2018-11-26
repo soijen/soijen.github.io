@@ -2,8 +2,8 @@
 title: Soijen
 email: info@soijen.com
 description:
-  en: At Soijen we are outdoor adventurers who connect fellow explorers to untapped regions of Patagonia.
-  es: En Sóijen somos aventureros de actividades al aire libre, quienes conectamos otros exploradores con los lugares inexplorados de la Patagonia.
+  en: At Sóijen we promote off-the-beaten-path areas in Patagonia through our unique products & designs.
+  es: En Sóijen promocionamos esos lugares no explorados de la Patagonia, a través de diseños y prodúctos únicos.
 index:
   en:
   es: /es/index.html
@@ -57,26 +57,32 @@ t:
       name: "Home"
       url: "/"
     about:
-      name: "About"
+      name: "Our Story"
       url: "/about/"
     contact:
       name: "Contact"
       url: "/contact/"
+    shop:
+      name: "SHOP"
+      url: "/shop/"
   es:
       home:
         name: "Inicio"
         url: "/es/"
       about:
-        name: "Sobre Nosotros"
+        name: "Nuestra Historia"
         url: "/es/about/"
       contact:
         name: "Contacto"
         url: "/es/contact/"
+      shop:
+        name: "COMPRAR"
+        url: "/es/shop/"
 
 #prose.io settings
 prose:
   rooturl: ''
-  siteurl: 'https://edonoso.com'
+  siteurl: 'https://soijen.com'
   media: '/assets/images'
   ignore:
     - _config.yml
