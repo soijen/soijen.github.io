@@ -470,10 +470,10 @@ textarea {
   height: 50vh;
   margin-bottom: 1.5em;
 }
-.blog-column .posts-image h2 {
+.blog-column .posts-image h3 {
   color: #fff;
   text-shadow: 2px 2px 2px #222;
-  padding-top: 1em;
+  padding: 1em 1vh 1vh;
 }
 .large-col {
   box-sizing: border-box;
@@ -751,6 +751,9 @@ textarea {
     padding-left: 0;
     padding-top: 2em;
   }
+  .blog-column {
+    width: 80vw;
+  }
 }
 @media (max-width: 975px) {
   h1 {
@@ -920,7 +923,7 @@ textarea {
 }
 @media (max-width: 400px) {
   .full-hero h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
   .full-hero h2 {
     font-size: 1.5rem;
