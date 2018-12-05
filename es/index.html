@@ -12,13 +12,27 @@ ref: index
 </div>
 <div class="full-hero hero-home">
   <h1>Patagonia Inexplorada</h1>
-  <div class="action-button"><a href="/shop/">COMPRAR</a></div>
 </div>
 <div class="full-hero">
   <h2 style="text-decoration: underline;">Bienvenido a Sóijen</h2>
   <h3>En Sóijen promocionamos esos lugares no explorados de la Patagonia, a través de diseños y prodúctos únicos.</h3>
   <h3>Inspírate con nosotros para tu próxima aventura.</h3>
   <h2><i class="fa fa-pagelines"></i></h2>
+</div>
+<div class="full-hero">
+  <h2>PUBLICACIONES RECIENTES</h2>
+  <div class="columns">
+    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts limit:3 %}
+    <div class="blog-column">
+      <a href="{{ post.url }}">
+        <div class="posts-image" style="background-image:url({{ post.postHero }})">
+          <h2>{{ post.title }}</h2>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
 </div>
 <div class="full-hero hero-home2">
   <h3>¿Que estás esperando?</h3>
@@ -32,13 +46,13 @@ ref: index
     </div>
     <div class="large-col">
       <h3>Motívate con nuestro video en el trekking más austral del mundo - Los Dientes de Navarino.</h3>
-      <h3>Seleccionado en El Festival de Filmes Trail Running 2018.</h3>
+      <h3>Ganador de Mejor Filme Amateur en El Festival de Filmes Trail Running 2018.</h3>
       <h2><i class="fa fa-chevron-down"></i></h2>
     </div>
   </div>
 </div>
 <div class="videohome">
-  {% include youtubePlayer.html id="OnRUcMTAdvc" %}
+  {% include youtubePlayer.html id="DiRtfEN9dm0" %}
 </div>
 <div class="full-hero">
   <div class="subscribe">

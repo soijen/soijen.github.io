@@ -24,11 +24,12 @@ permalink: /:title/
 # Build settings
 include: ["_pages"]
 
-#old website redirects
 collections:
-  redirects:
+  redirects: #old website redirects
     output: true
   region:
+    output: true
+  products:
     output: true
 
 defaults:

@@ -454,10 +454,26 @@ textarea {
   display: flex;
   flex-direction: row;
   height: auto;
-  padding-top: 10vh;
-  padding-bottom: 10vh;
+  padding: 0;
   text-align: center;
   width: 100%;
+}
+.blog-column {
+  box-sizing: border-box;
+  flex: 1 1 25%;
+  vertical-align: middle;
+  padding: 1vh;
+}
+.blog-column .posts-image {
+  background-position: center;
+  background-size: cover;
+  height: 50vh;
+  margin-bottom: 1.5em;
+}
+.blog-column .posts-image h2 {
+  color: #fff;
+  text-shadow: 2px 2px 2px #222;
+  padding-top: 1em;
 }
 .large-col {
   box-sizing: border-box;
