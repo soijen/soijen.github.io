@@ -412,6 +412,15 @@ textarea {
   font-size: 1.4rem;
   padding-bottom: 1.1rem;
 }
+.hero-donate h2, .hero-home h2 {
+  text-shadow: 1px 1px 2px #222;
+}
+.hero-donate h1, .hero-donate h2 {
+  text-shadow: 1px 1px 2px #000;
+}
+.hero-donate h1, .hero-donate h2, .hero-home h1, .hero-home2 h1, .hero-home h2, .hero-contact h1, .hero-about h1, .hero-blog h1, .hero-blog h2 {
+  color: #fff;
+}
 .hero-about {
   background-image: url(/assets/images/about-us-square.jpg);
   background-position: center 35%;
@@ -426,16 +435,16 @@ textarea {
   background-position: center center;
   height: 75vh;
 }
+.hero-donate {
+  background-image: url(/assets/images/bosque.jpg);
+  background-position: top right;
+  height: 90vh;
+  margin-top: 10vh;
+}
 .hero-home {
   background-image: url(/assets/images/isla-navarino/dientes/dientes-edu.jpg);
   background-position: center center;
   height: 100vh;
-}
-.hero-home h1, .hero-home2 h1, .hero-home h2, .hero-contact h1, .hero-about h1, .hero-blog h1, .hero-blog h2 {
-  color: #fff;
-}
-.hero-home h2 {
-  text-shadow: 1px 1px 2px #222;
 }
 .hero-home2 {
   background-image: url(/assets/images/isla-navarino/dientes/j-paso-snow.jpg);
