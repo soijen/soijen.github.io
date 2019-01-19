@@ -8,7 +8,7 @@ longitude: -67.605799
 permalink: /visit-puerto-williams/
 postHero: /assets/images/isla-navarino/pw/sea.jpg
 ref: visit-puerto-williams
-region: Puerto-Williams
+region: Cabo-Hornos
 tags:
 - culture
 zoom: 6

@@ -9,19 +9,19 @@ kml: /assets/kml/2018_01_02_paso-trueno.kml
 permalink: /running-patagonian-fjords-paso-trueno-fiordo-montanas/
 postHero: /assets/images/puerto-natales/fiordo-montanas/running-paso-trueno.jpg
 ref: running-patagonian-fjords-paso-trueno-fiordo-montanas
-region: Puerto-Natales
+region: Ultima-Esperanza
 tags:
 - trail-running
 - trekking
 - camping
 zoom: 8
 ---
-Fjords, glaciers, snow-capped peaks - you can find the best of Patagonia in the remote and seldom-visited Reserva Nacional Alacalufes. Accessible only by boat, we partnered with our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjord Expeditions</a> to explore Paso del Trueno - a wild and undeveloped route along the fiordo de las Montañas.
+Fjords, glaciers, snow-capped peaks - you can find the best of Patagonia in the remote and seldom-visited Reserva Nacional Kawésqar. Accessible only by boat, we partnered with our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjord Expeditions</a> to explore Paso del Trueno - a wild and undeveloped route along the fiordo de las Montañas.
 
 <h2>Background</h2>
 - <strong>Trek:</strong> Paso del Trueno - Camp Kiara to Bahía los Hurios
 - <strong>Total Distance:</strong> 10.5 km
-- <strong>Location:</strong> Reserva Nacional Alacalufes, Chile (see <a href="#map">map</a> below)
+- <strong>Location:</strong> Reserva Nacional Kawésqar, Chile (see <a href="#map">map</a> below)
 - <strong>Closest City:</strong> Puerto Natales, Chile
 
 <h2>Route Description</h2>

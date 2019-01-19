@@ -9,7 +9,7 @@ kml: /assets/kml/2018_01_02_paso-trueno.kml
 permalink: /es/running-patagonian-fjords-paso-trueno-fiordo-montanas/
 postHero: /assets/images/puerto-natales/fiordo-montanas/running-paso-trueno.jpg
 ref: running-patagonian-fjords-paso-trueno-fiordo-montanas
-region: Puerto-Natales
+region: Ultima-Esperanza
 tags:
 - trail-running
 - trekking
@@ -18,12 +18,12 @@ tags:
 zoom: 8
 ---
 
-Fiordos, glaciares, montañas cubiertas con nieve, tú puedes encontrar lo mejor de la Patagonia en una remota visita a la Reserva Nacional Alacalufes. El acceso es solamente vía marítima, en nuestro caso viajamos por una invitación de nuestros amigos de <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjord Expeditions</a> para explorar el trekking del Paso del Trueno, un sendero que corre a lo largo del Fiordo de las Montañas.
+Fiordos, glaciares, montañas cubiertas con nieve, tú puedes encontrar lo mejor de la Patagonia en una remota visita a la Reserva Nacional Kawésqar. El acceso es solamente vía marítima, en nuestro caso viajamos por una invitación de nuestros amigos de <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjord Expeditions</a> para explorar el trekking del Paso del Trueno, un sendero que corre a lo largo del Fiordo de las Montañas.
 
 <h2>Descripción</h2>
 - <strong>Ruta:</strong> Paso del Trueno - Campamento Kiara a Bahía los Hurios
 - <strong>Distancia Total:</strong> 10.5 km
-- <strong>Ubicación:</strong> Reserva Nacional Alacalufes, Chile (ver <a href="#map">mapa</a> abajo)
+- <strong>Ubicación:</strong> Reserva Nacional Kawésqar, Chile (ver <a href="#map">mapa</a> abajo)
 - <strong>Ciudad más Cercana:</strong> Puerto Natales, Chile
 
 <h2>La Ruta</h2>

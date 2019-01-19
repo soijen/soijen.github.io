@@ -8,7 +8,7 @@ longitude: -67.6217304
 permalink: /trail-running-dientes-de-navarino/
 postHero: /assets/images/isla-navarino/dientes/dientes-edu.jpg
 ref: trail-running-dientes-de-navarino
-region: Puerto-Williams
+region: Cabo-Hornos
 tags:
 - trail-running
 zoom: 8

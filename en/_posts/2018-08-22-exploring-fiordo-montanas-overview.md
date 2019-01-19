@@ -1,6 +1,6 @@
 ---
 title: Exploring Fiordo de las Montañas in Patagonia - An Overview
-description: An overview of our trip to Fiordo de las Montañas (Mountains Fjord) in the Reserva Nacional Alacalufes, together with our friends at Patagonian Fjord Expeditions.
+description: An overview of our trip to Fiordo de las Montañas (Mountains Fjord) in the Reserva Nacional Kawésqar, together with our friends at Patagonian Fjord Expeditions.
 author: Sóijen
 layout: post
 latitude: -51.888103
@@ -8,7 +8,7 @@ longitude: -73.274240
 permalink: /exploring-fiordo-montanas-overview/
 postHero: /assets/images/puerto-natales/fiordo-montanas/explorador-boat-cover.jpg
 ref: exploring-fiordo-montanas-overview
-region: Puerto-Natales
+region: Ultima-Esperanza
 tags:
 - trail-running
 - trekking
@@ -17,7 +17,7 @@ tags:
 zoom: 10
 ---
 
-The dramatic landscape of Fiordo de las Montañas was carved by the retreating glaciers of the Southern Patagonian Ice Field. This fjord is also part of the Reserva Nacional Alacalufes (future Parque Nacional Kawésqar), one of the largest protected areas in Chilean Patagonia. It is located to the west of Puerto Natales, and it is a rarely visited area in the region. In January 2018 our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjords Expeditions</a> invited us to discover this remote and inhospitable place.
+The dramatic landscape of Fiordo de las Montañas was carved by the retreating glaciers of the Southern Patagonian Ice Field. This fjord is also part of the Reserva Nacional Kawésqar, one of the largest protected areas in Chilean Patagonia. It is located to the west of Puerto Natales, and it is a rarely visited area in the region. In January 2018 our friends at <a href="http://www.patagonianfjords.com/" target="_blank">Patagonian Fjords Expeditions</a> invited us to discover this remote and inhospitable place.
 
 <h2>Description</h2>
 
@@ -26,7 +26,7 @@ Our trip began at the docks of Puerto Natales, where we boarded a boat which wou
 Our 3 day exploration of the Fiordo de las Montañas, is divided into 3 posts:
 - <a href="/running-patagonian-fjords-paso-trueno-fiordo-montanas/">Running in the Patagonian Fjords - Paso del Trueno</a>
 - <a href="/visit-glaciar-bernal-fiordo-montanas/">A Visit To Glaciar Bernal In Fiordo De Las Montañas</a>
-- <a href="/trekking-sendero-alacalufes-reserva-nacional-alacalufes-kawesqar/">Trekking the Alacalufes Portage Trail in Reserva Nacional Alacalufes (Kawésqar)</a>
+- <a href="/trekking-sendero-alacalufes-reserva-nacional-alacalufes-kawesqar/">Trekking the Kawésqar Portage Trail in Reserva Nacional Kawésqar</a>
 
 {% include youtubePlayer.html id="SxkwIhztl4c" %}
 

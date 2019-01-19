@@ -8,7 +8,7 @@ longitude: -67.315517
 permalink: /bike-isla-navarino/
 postHero: /assets/images/isla-navarino/bici/j-map.jpg
 ref: bike-isla-navarino
-region: Puerto-Williams
+region: Cabo-Hornos
 tags:
 - on-bike
 zoom: 8

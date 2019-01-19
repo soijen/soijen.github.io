@@ -1,6 +1,6 @@
 ---
 title: A Visit to Glaciar Bernal in Fiordo de las Montañas
-description: A short trek to Glaciar Bernal in the Reserva Nacional Alacalufes, together with our friends at Patagonian Fjord Expeditions.
+description: A short trek to Glaciar Bernal in the Reserva Nacional Kawésqar, together with our friends at Patagonian Fjord Expeditions.
 author: Sóijen
 layout: post
 latitude: -51.868201
@@ -8,7 +8,7 @@ longitude: -73.316845
 permalink: /visit-glaciar-bernal-fiordo-montanas/
 postHero: /assets/images/puerto-natales/fiordo-montanas/glaciar-bernal-cover.jpg
 ref: visit-glaciar-bernal-fiordo-montanas
-region: Puerto-Natales
+region: Ultima-Esperanza
 tags:
 - trekking
 - on-boat
@@ -19,7 +19,7 @@ Of all the glaciers that call Fiordo de las Montañas their home, Glaciar Bernal
 <h2>Background</h2>
 - <strong>Trek:</strong> Out-and-back to Glaciar Bernal
 - <strong>Total Distance:</strong> 1.5 km
-- <strong>Location:</strong> Reserva Nacional Alacalufes, Chile (see <a href="#map">map</a> below)
+- <strong>Location:</strong> Reserva Nacional Kawésqar, Chile (see <a href="#map">map</a> below)
 - <strong>Closest City:</strong> Puerto Natales, Chile
 
 <h2>Route Description</h2>

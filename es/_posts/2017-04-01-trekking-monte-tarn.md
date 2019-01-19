@@ -8,7 +8,7 @@ longitude: -70.971891
 permalink: es/trekking-monte-tarn/
 postHero: /assets/images/monte-tarn/j-2013-summit.jpg
 ref: trek-tarn
-region: Punta-Arenas
+region: Magallanes
 tags: trekking
 zoom: 8
 ---
