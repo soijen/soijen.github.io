@@ -1,0 +1,36 @@
+<nav>
+  <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
+  <label for="mobile-menu" class="show-mobile-menu"><i class="fa fa-bars"></i></label>
+  <ul class="header-nav">
+    {% for menu in site.t[page.lang] %}
+      <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+    {% endfor %}
+    <li class="dropdown">
+      {% if page.lang == 'en' %}
+        <a class="drop-trigger" href="/blog/">Blog</a>
+      {% endif %}
+      {% if page.lang == 'es' %}
+        <a class="drop-trigger" href="/es/blog/">Blog</a>
+      {% endif %}
+      <ul class="drop-menu">
+        <li>
+          {% if page.lang == 'en' %}Recent Posts{% endif %}
+          {% if page.lang == 'es' %}Publicaciones Reciente{% endif %}
+        </li>
+        {% assign posts=site.posts | where:"lang", page.lang %}
+        {% for post in posts limit:5 %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li><span class="langselect">{% include langselect.html %}</span></li>
+    <li>
+      {% if page.lang == 'en' %}
+        <a class="cart social-link" href="/shop/"><i class="fa fa-shopping-cart"></i></a>
+      {% endif %}
+      {% if page.lang == 'es' %}
+        <a class="cart social-link" href="/es/shop/"><i class="fa fa-shopping-cart"></i></a>
+      {% endif %}
+    </li>
+  </ul>
+</nav>
