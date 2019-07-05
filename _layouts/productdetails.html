@@ -1,0 +1,80 @@
+---
+layout: default
+head:
+  gallery.html
+---
+<div class="page">
+  <div class="product-details">
+  <div class="columns gallery">
+    <div class="small-col gallery-thumbs" id="gallery-thumbs">
+      <div class="current">
+        <img src="{{ page.imageThumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image }}"/>
+      </div>
+      <div>
+        <img src="{{ page.image2Thumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image2 }}"/>
+      </div>
+    </div>
+    <div class="large-col gallery-photo" id="gallery-photo">
+      <img src="{{ page.image }}" alt="{{ page.name }}" class="thumbnail"/>
+    </div>
+  </div>
+  <div class="product-description">
+    <div class="full-hero">
+      <h2>{{ page.name }}</h2>
+      <button class="snipcart-add-item"
+        data-item-name="{{ page.name }}"
+        data-item-id="{{ page.sku }}"
+        data-item-image="{{ page.image }}"
+        data-item-url="{{ page.url }}"
+        data-item-price="{{ page.price }}">
+        {{site.t[page.lang].buy}}
+      </button>
+      <div class="columns">
+        <div class="small-col">
+          <p>
+            <strong>
+              {{site.t[page.lang].price}}:
+            </strong>
+            ${{ page.price }} USD
+          </p>
+          <p>
+            <strong>
+              {{site.t[page.lang].dimensions}}:
+            </strong>
+              {% if page.lang == 'en' %}{{ page.dimensions}}{% endif %}
+              {% if page.lang == 'es' %}{{ page.dimensions_es}}{% endif %}
+          </p>
+          <p>
+            <strong>
+              {{site.t[page.lang].materials}}:
+            </strong>
+              {% if page.lang == 'en' %}{{ page.materials}}{% endif %}
+              {% if page.lang == 'es' %}{{ page.materials_es}}{% endif %}
+          </p>
+        </div>
+        <div class="large-col">
+          {{ page.content }}
+        </div>
+      </div>
+    </div>
+    <div class="post-nav">
+      <div class="policy">
+        {% if page.lang == 'en' %}
+        Flat rate shipping: $6 US, $16 Canada and $35 International (USD).</br>
+        Prices do not include duty fees and taxes for shipments outside of the US.</br>
+        30-day returns and exchanges on unused tote bags. All poster sales are final.</br>
+        {% endif %}
+        {% if page.lang == 'es' %}
+        Precio estandar de envio: $6 EEUU, $16 Canadá y $35 Internacional (USD).</br>
+        Los precios no incluyen derechos de aduana y impuestos por compras afuera de los EEUU>.</br>
+        30 días para devoluciones y cambios en bolsas no ocupadas. Ventas de posters son todas finales.</br>
+        {% endif %}
+      </div>
+      {% if page.lang == 'en' %}<a href="/store/" title="Shop Soijen"><i class="fa fa-arrow-left" aria-hidden="true"></i> Return to the store</a>{% endif %}
+      {% if page.lang == 'es' %}<a href="/es/store/" title="Tienda Soijen"><i class="fa fa-arrow-left" aria-hidden="true"></i> Volver a la tienda</a>{% endif %}
+    </div>
+  </div>
+  </div>
+</div>

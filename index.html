@@ -1,6 +1,6 @@
 ---
-title: Soijen
-description: At Sóijen we promote off-the-beaten-path areas in Patagonia through our unique products & designs.
+title: Sóijen
+description: At Sóijen we promote off-the-beaten-path areas in Patagonia through our unique designs.
 lang: en
 layout: default
 ref: index
@@ -11,7 +11,6 @@ ref: index
   </ul>
 </div>
 <div class="full-hero hero-home">
-  <h1>PATAGONIA UNEXPLORED</h1>
 </div>
 <div class="full-hero">
   <h2 style="text-decoration: underline;">WELCOME TO SÓIJEN</h2>
@@ -20,25 +19,19 @@ ref: index
   <h2><i class="fa fa-pagelines"></i></h2>
 </div>
 <div class="full-hero">
-  <h2>RECENT POSTS</h2>
+  <h2>OUR NEW COLLECTION</h2>
   <div class="columns">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts limit:3 %}
-    <div class="blog-column">
-      <a href="{{ post.url }}">
-        <div class="posts-image" style="background-image:url({{ post.postHero }})">
-          <h3>{{ post.title }}</h3>
-        </div>
-      </a>
-    </div>
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% include product.html %}
     {% endfor %}
   </div>
-  <h4><a href="/blog/" title="Blog">see more posts...</a></h4>
+  <h4><a href="/store/" title="Shop Soijen">see more products...</a></h4>
 </div>
 <div class="full-hero hero-home2">
   <h3>What are you waiting for?</h3>
   <h1>START ROAMING</h1>
-  <div class="action-button"><a href="/shop/">The Maps Collection</a></div>
+  <div class="action-button"><a href="/maps-collection/">The Maps Collection</a></div>
 </div>
 <div class="full-hero">
   <div class="columns">
@@ -59,4 +52,20 @@ ref: index
     <h1>Get Inspired. Go Outside. & Give Back.</h1>
     <h2>Together we planted 34 trees in Chile in 2018.</h2>
     <div class="action-button"><a href="/about/#give">Learn more</a></div>
+</div>
+<div class="full-hero">
+  <h2>RECENT POSTS</h2>
+  <div class="columns">
+    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts limit:3 %}
+    <div class="blog-column">
+      <a href="{{ post.url }}">
+        <div class="posts-image" style="background-image:url({{ post.postHero }})">
+          <h3>{{ post.title }}</h3>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  <h4><a href="/blog/" title="Blog">see more posts...</a></h4>
 </div>

@@ -146,8 +146,8 @@ textarea {
   box-sizing: border-box;
   display: block;
   font-family: inherit;
-  margin: 4vh 0;
-  max-width: 900px;
+  margin: 4vh auto;
+  max-width: 600px;
   padding: 1vh 1vh;
   text-align: left;
   width: 100%;
@@ -155,7 +155,7 @@ textarea {
 .input-form:focus {
   border: 2px dashed #057D9F;
 }
-.submit-button {
+.submit-button, .snipcart-add-item {
   background-color: #057D9F;
   border: 5px solid #057D9F;
   border-radius: 5px;
@@ -165,10 +165,11 @@ textarea {
   font-size: 1rem;
   font-weight: bold;
   font-family: inherit;
+  margin-bottom: 2em;
   padding: .4em .5em;
   opacity: 0.8;
 }
-.submit-button:active, .submit-button:hover {
+.submit-button:active, .submit-button:hover, .snipcart-add-item:active, .snipcart-add-item:hover {
   opacity: 1;
 }
 .videoWrapper {
@@ -247,6 +248,8 @@ textarea {
 .header-nav > li:last-child a:hover {
   color: #555;
 }
+.header-nav > li:first-child {
+}
 .header-nav a, .drop-trigger {
   color: #555;
 }
@@ -256,10 +259,12 @@ textarea {
 }
 .langselect ul {
   padding: 0;
+  margin: 0;
 }
 .langselect li {
   display: inline-block;
-  padding: 1px;
+  padding: 0;
+  margin: 0;
   text-decoration: underline;
 }
 .langselect li:before {
@@ -370,7 +375,7 @@ textarea {
   padding-bottom: 1.1rem;
 }
 .full-hero h3 {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   padding-bottom: 1.1rem;
 }
 .hero-donate h2, .hero-home h2 {
@@ -379,7 +384,7 @@ textarea {
 .hero-donate h1, .hero-donate h2 {
   text-shadow: 1px 1px 2px #000;
 }
-.hero-donate h1, .hero-donate h2, .hero-home h1, .hero-home2 h1, .hero-home h2, .hero-contact h1, .hero-about h1, .hero-blog h1, .hero-blog h2 {
+.hero-donate h1, .hero-donate h2, .hero-home h1, .hero-home2 h1, .hero-home h2, .hero-contact h1, .hero-about h1, .hero-blog h1, .hero-blog h2, .hero-wholesale h1 {
   color: #fff;
 }
 .hero-about {
@@ -394,7 +399,7 @@ textarea {
 .hero-contact {
   background-image: url(/assets/images/sophia/benitez.jpg);
   background-position: center center;
-  height: 75vh;
+  height: 71vh;
 }
 .hero-donate {
   background-image: url(/assets/images/bosque.jpg);
@@ -403,18 +408,23 @@ textarea {
   margin-top: 10vh;
 }
 .hero-home {
-  background-image: url(/assets/images/isla-navarino/dientes/dientes-edu.jpg);
-  background-position: center center;
-  height: 100vh;
+  background-image: url(/assets/images/heros/hero-home.jpg);
+  background-position: center;
+  height: 70vh;
 }
 .hero-home2 {
   background-image: url(/assets/images/isla-navarino/dientes/j-paso-snow.jpg);
   background-position: center center;
-  height: 100vh;
+  height: 90vh;
 }
 .hero-posts {
   background-position: center center;
   height: 85vh;
+}
+.hero-wholesale {
+  background-image: url(/assets/images/isla-navarino/dientes/dientes-edu.jpg);
+  background-position: center center;
+  height: 71vh;
 }
 
 /* COLUMNS */
@@ -452,7 +462,6 @@ textarea {
   vertical-align: middle;
 }
 .small-col {
-
   box-sizing: border-box;
   flex: 1 1 auto;
   max-width: 350px;
@@ -461,6 +470,41 @@ textarea {
 .small-col img {
   padding: 0;
   margin: 0;
+}
+.product a {
+  opacity: 1;
+  transition: all 0.5s ease-in-out;
+}
+.product a:hover {
+  opacity: 0.5;
+}
+.gallery-thumbs > div {
+  cursor: pointer;
+}
+.gallery-thumbs img {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 5px transparent;
+  display: inline-block;
+  margin: 0 0 10px;
+  opacity: 0.5;
+  transition: all 0.5s ease-in-out;
+  width: 90%;
+}
+.gallery-thumbs img:hover {
+  opacity: 1;
+}
+.gallery-thumbs .current img {
+  box-shadow: 0 0 0 5px #FFB300;
+  opacity: 1;
+}
+.gallery-photo {
+  position: relative;
+  flex: 1 1 80%;
+}
+.gallery-photo img {
+  width: 100%;
+  padding:0;
+  margin:0;
 }
 
 /*SOCIAL LINKS*/
@@ -539,6 +583,9 @@ textarea {
   color: inherit;
   text-align: center;
 }
+.footer .cart {
+  display: none;
+}
 .equal-col {
   box-sizing: border-box;
   flex: 1 1 100%;
@@ -558,11 +605,13 @@ textarea {
   padding:0;
 }
 .footer .header-nav .dropdown:hover .drop-menu,
-.footer .header-nav .drop-trigger:after, .cart {
+.footer .header-nav .drop-trigger:after {
   display: none;
 }
 .footer .header-nav > li {
   margin: 0;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 #mc_embed_signup {
   display: block;
@@ -620,6 +669,7 @@ textarea {
 .page h4 {
   margin: 1em 0;
 }
+
 
 /* BLOG STYLES */
 .blog-posts ~ .blog-posts {
@@ -736,6 +786,9 @@ textarea {
   margin-top: 4em;
   text-align: center;
 }
+.post-nav .policy {
+  margin-bottom: 1em;
+}
 
 /* BROWSE BY REGION STYLES */
 .region-posts {
@@ -794,10 +847,27 @@ textarea {
 
 /* STORE STYLES */
 .cart {
-  background-color: #FFB300;
+  padding: .25em .5em;
+  border: 2px solid #FFB300;
+  border-radius: 4px;
+}
+.fa-shopping-cart {
+  color: #FFB300;
 }
 /* MOBILE STYLES */
 @media (max-width: 1200px) {
+  .header-logo img {
+    height: 6vh;
+  }
+  .footer .header-logo img {
+    height: 6vh;
+  }
+  .full-hero {
+    padding: 8vh;
+  }
+  .hero-home {
+    height: 50vh;
+  }
   .columns {
     flex-direction: column;
     padding-top: 3vh;
@@ -807,8 +877,35 @@ textarea {
     padding-left: 0;
     padding-top: 2em;
   }
+  .small-col {
+    padding-top: 1vh;
+  }
   .blog-column {
     width: 80vw;
+  }
+  /* GALLERY STYLES */
+  .gallery {
+    flex-direction: column-reverse;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .gallery .gallery-thumbs {
+    flex: 1;
+    height: auto;
+    white-space: nowrap;
+    width: 100vw;
+  }
+  .gallery-thumbs > div {
+    display: inline-block;
+  }
+  .gallery-thumbs img {
+    height: 7vh;
+    margin: 0 10px 0 0;
+    width: auto;
+  }
+  .gallery .gallery-photo {
+    padding-top:0;
+    margin-top:0;
   }
 }
 @media (max-width: 975px) {
@@ -823,10 +920,15 @@ textarea {
     background-color: rgba(255,255,255,0.1);
   }
   .header-nav .dropdown:hover .drop-menu,
-  .header-nav .drop-trigger:after, .post-aside, .top-shortcut {
+  .header-nav .drop-trigger:after, .post-aside, .top-shortcut, .cc-text {
     display: none;
   }
-
+  .page {
+    margin-top: 5vh;
+  }
+  .page h2 {
+    margin-top: 1em;
+  }
   /* HEADER STYLES */
   .header {
     flex-direction: row;
@@ -943,6 +1045,12 @@ textarea {
   .full-hero h1, .full-hero h2 {
     letter-spacing: 0.25em;
   }
+  /* PRODUCT STYLES */
+  .columns {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+  }
+
   /* FOOTER STYLES */
   .footer {
     flex-direction: column;
@@ -979,9 +1087,16 @@ textarea {
   .full-hero h1 {
     letter-spacing: .1em;
   }
+  .full-hero h2 {
+    padding-bottom: 1rem;
+  }
   .full-hero h3 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     letter-spacing: 0;
+  }
+  .hero-home {
+    background-image: url(/assets/images/heros/hero-home-mobile.jpg);
+    height: 60vh;
   }
 }
 @media (max-width: 400px) {
@@ -990,5 +1105,10 @@ textarea {
   }
   .full-hero h2 {
     font-size: 1.5rem;
+  }
+}
+@media (max-width: 350px) {
+  .social-label {
+    display: none;
   }
 }

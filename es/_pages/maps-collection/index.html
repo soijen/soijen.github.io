@@ -1,0 +1,19 @@
+---
+title: Colección Los Mapas | Sóijen
+description: Ver nuestra colección inspirada por los mapas de la Patagonia.
+layout: products
+permalink: /es/maps-collection/
+ref: maps-collection
+---
+<div class="page">
+  <h1>Colección Los Mapas</h1>
+  <h2>Comienza tu siguiente aventura eligiendo algunos de tus mapas favoritos. Echa una mirada a nuestros diseños inspirados en la loca geografía de la Patagonia.</h2>
+  <div class="columns">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category == "maps" %}
+      {% include product.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>

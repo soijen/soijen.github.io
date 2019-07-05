@@ -1,0 +1,9 @@
+---
+title: products
+description: Our products.
+layout: products
+ref: products
+---
+{% for product in site.products %}
+  {% include product.html %}
+{% endfor %}

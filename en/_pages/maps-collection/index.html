@@ -1,0 +1,19 @@
+---
+title: The Maps Collection | Sóijen
+description: Browse our collection inspired by maps of Patagonia.
+layout: products
+permalink: /maps-collection/
+ref: maps-collection
+---
+<div class="page">
+  <h1>The Maps Collection</h1>
+  <h2>What better way to get pumped for your next adventure, than pulling out your maps! Check out our new collection with designs inspired by maps of Patagonia.</h2>
+  <div class="columns">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category == "maps" %}
+      {% include product.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>

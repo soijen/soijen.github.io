@@ -2,7 +2,8 @@
   <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
   <label for="mobile-menu" class="show-mobile-menu"><i class="fa fa-bars"></i></label>
   <ul class="header-nav">
-    {% for menu in site.t[page.lang] %}
+    <li><span class="langselect">{% include langselect.html %}</span></li>
+    {% for menu in site.m[page.lang] %}
       <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
     {% endfor %}
     <li class="dropdown">
@@ -23,14 +24,18 @@
         {% endfor %}
       </ul>
     </li>
-    <li><span class="langselect">{% include langselect.html %}</span></li>
-    <li>
-      {% if page.lang == 'en' %}
-        <a class="cart social-link" href="/shop/"><i class="fa fa-shopping-cart"></i></a>
-      {% endif %}
-      {% if page.lang == 'es' %}
-        <a class="cart social-link" href="/es/shop/"><i class="fa fa-shopping-cart"></i></a>
-      {% endif %}
+    <li class="store-link">
+      <a class="cart snipcart-checkout" href="#"><i class="fa fa-shopping-cart"></i> {{site.t[page.lang].cart}}</a>
+    </li>
+    <li class="store-link">
+        <a href="#" class="snipcart-user-profile"><i class="fa fa-user"> </i>
+          <span class="snipcart-user-email"> {{site.t[page.lang].login}}</span>
+        </a>
+    </li>
+    <li class="store-link">
+        <a href="#" class="snipcart-user-logout">
+          {{site.t[page.lang].logout}}
+        </a>
     </li>
   </ul>
 </nav>

@@ -5,8 +5,8 @@
   {% else %}
     <meta name="description" content="{{ site.description[page.lang] }}">
   {% endif %}
-  <link href="/assets/favicon.ico" rel="icon">
-  <link href="/assets/favicon.ico" rel="apple-touch-icon">
+  <link href="{{site.url}}/assets/favicon.ico" rel="icon">
+  <link href="{{site.url}}/assets/favicon.ico" rel="apple-touch-icon">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet"
@@ -21,4 +21,15 @@
   {% include analytics.html %}
   {% include twitter-card.html %}
   {% include openGraph.html %}
+
+  {% for script in layout.head %}
+    {% include {{ script }} %}
+  {% endfor %}
+
+  <!-- Snipcart -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+  <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="{{ site.snipcart_api_key }}"></script>
+  <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+
+
 </head>

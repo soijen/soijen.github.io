@@ -1,0 +1,16 @@
+---
+title: Tienda | Sóijen
+description: Nuestros productos
+layout: products
+permalink: /es/store/
+ref: store
+---
+<div class="page">
+  <h1>Tienda Sóijen</h1>
+  <div class="columns">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% include product.html %}
+    {% endfor %}
+  </div>
+</div>

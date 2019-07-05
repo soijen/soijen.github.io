@@ -2,10 +2,10 @@
   <div class="equal-col">
     <div class="social-list">
       {% if page.lang == 'en' %}
-        find us on
+        <span class="social-label">find us on</span>
       {% endif %}
       {% if page.lang == 'es' %}
-        búscanos en
+        <span class="social-label">búscanos en</span>
       {% endif %}
       {% include social-links.html %}
     </div>
@@ -22,8 +22,7 @@
       <h3><strong>Contactános</h3></strong>
     {% endif %}
     <p><i class="fa fa-envelope" aria-hidden="true"></i> info<i class="fa fa-at" aria-hidden="true"></i>soijen.com</p>
-    <p>Chile <i class="fa fa-phone" aria-hidden="true"></i> +56 2 2405 4201</p>
-    <p>USA <i class="fa fa-phone" aria-hidden="true"></i> +1 929 277 8831</p>
+    {% include phone.html %}
   </div>
   <div class="equal-col">
     {% if page.lang == 'en' %}
@@ -43,7 +42,7 @@
       hecho con <i class="fa fa-heart" aria-hidden="true"></i> y <i class="fa fa-coffee" aria-hidden="true"></i> en Chile y EEUU
     {% endif %}
     <div class="cc">
-      <br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Soijen</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</br>
+      <br /><div class="cc-text"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Soijen</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</div></br>
       <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
     </div>
   </div>
