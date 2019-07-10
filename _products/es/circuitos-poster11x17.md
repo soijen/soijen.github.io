@@ -1,7 +1,7 @@
 ---
-title: Poster - Circuitos de Trekking
+title: Circuitos de Trekking - Poster
 description: Regresa a las montañas con este poster 11x17 de los circuitos de trekking de la Patagonia austral, impreso en papel 100% reciclado.
-name: Poster - Circuitos de Trekking
+name: Circuitos de Trekking - Poster
 image: \assets\images\products\posters\circuitostrekking11x17\1.jpg
 image2: \assets\images\products\posters\circuitostrekking11x17\2.jpg
 imageThumb: \assets\images\products\posters\circuitostrekking11x17\1.jpg

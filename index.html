@@ -21,10 +21,10 @@ ref: index
 <div class="full-hero">
   <h2>OUR NEW COLLECTION</h2>
   <div class="columns">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% include product.html %}
-    {% endfor %}
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% include product.html %}
+  {% endfor %}
   </div>
   <h4><a href="/store/" title="Shop Soijen">see more products...</a></h4>
 </div>
