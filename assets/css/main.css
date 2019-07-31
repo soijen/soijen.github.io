@@ -559,6 +559,12 @@ textarea {
   margin-left: 1em;
 }
 /* FOOTER STYLES */
+.address {
+  padding-top: 3vh;
+}
+.address p {
+  padding: 0;
+}
 .cc {
   font-size: 0.7em;
 }
