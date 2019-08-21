@@ -1,16 +1,34 @@
 ---
-title: Tienda | Sóijen
+title: Nuestros Productos | Sóijen
 description: Nuestros productos
 layout: products
 permalink: /es/store/
 ref: store
 ---
 <div class="page">
-  <h1>Tienda Sóijen</h1>
+  <h1>Nuestros Productos</h1>
   <div class="columns">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
       {% include product.html %}
     {% endfor %}
+  </div>
+  <h2><i class="fa fa-pagelines"></i></h2>
+  <a name="partners" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <div class="columns">
+    <div class="small-col">
+      <img src="/assets/images/products/instore.jpg" alt="Sóijen in stores">
+    </div>
+    <div class="large-col">
+      <h1>Encuéntranos en Tiendas</h1>
+      <p>Estamos orguillosos de trabajor con negocios locales en la Patagonia. Encuentra nuestros diseños y productos en las tiendas abajo.</p>
+      <h3>Puerto Natales, Chile</h3>
+        <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> <strong>Mandala Andino</strong> Manuel Bulnes 301</p>
+        <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> <strong>Day Zero</strong> Baquedano 955</p>
+      <h3>Punta Arenas, Chile</h3>
+        <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> <strong>Casa La Porfía</strong> Pdte. Federico Errázuriz 928</p>
+      </br>
+      <p>¿Tienes una tienda y quieres ofrecer nuestros productos? <a href="/es/wholesale/" title="Distribuidores">Visita nuestra página para distribuidores</a>.</p>
+    </div>
   </div>
 </div>

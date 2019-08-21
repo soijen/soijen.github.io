@@ -197,7 +197,7 @@ textarea {
   color: #fff;
   background-color: #FFB300;
   box-sizing: border-box;
-  padding: 1vh 0;
+  padding: 1vh 1vh;
   text-align: center;
   z-index: 10;
 }
@@ -422,8 +422,8 @@ textarea {
   height: 85vh;
 }
 .hero-wholesale {
-  background-image: url(/assets/images/isla-navarino/dientes/dientes-edu.jpg);
-  background-position: center center;
+  background-image: url(/assets/images/products/instore.jpg);
+  background-position: 50% 70%;
   height: 71vh;
 }
 

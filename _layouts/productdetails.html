@@ -23,22 +23,22 @@ head:
   <div class="product-description">
     <div class="full-hero">
       <h2>{{ page.name }}</h2>
-      <button class="snipcart-add-item"
+      <!--<button class="snipcart-add-item"
         data-item-name="{{ page.name }}"
         data-item-id="{{ page.sku }}"
         data-item-image="{{ page.image }}"
         data-item-url="{{ page.url }}"
         data-item-price="{{ page.price }}">
         {{site.t[page.lang].buy}}
-      </button>
+      </button>-->
       <div class="columns">
         <div class="small-col">
-          <p>
+          <!--<p>
             <strong>
               {{site.t[page.lang].price}}:
             </strong>
             ${{ page.price }} USD
-          </p>
+          </p>-->
           <p>
             <strong>
               {{site.t[page.lang].dimensions}}:
@@ -60,7 +60,7 @@ head:
       </div>
     </div>
     <div class="post-nav">
-      <div class="policy">
+      <!--<div class="policy">
         {% if page.lang == 'en' %}
         Flat rate shipping: $6 US, $16 Canada and $35 International (USD).</br>
         Prices do not include duty fees and taxes for shipments outside of the US.</br>
@@ -71,9 +71,9 @@ head:
         Los precios no incluyen derechos de aduana e impuestos por compras afuera de los EEUU.</br>
         30 días para devoluciones y cambios en bolsas no ocupadas. Ventas de posters son todas finales.</br>
         {% endif %}
-      </div>
-      {% if page.lang == 'en' %}<a href="/store/" title="Shop Soijen"><i class="fa fa-arrow-left" aria-hidden="true"></i> Return to the store</a>{% endif %}
-      {% if page.lang == 'es' %}<a href="/es/store/" title="Tienda Soijen"><i class="fa fa-arrow-left" aria-hidden="true"></i> Volver a la tienda</a>{% endif %}
+      </div>-->
+      {% if page.lang == 'en' %}<a href="/store/" title="Our Products"><i class="fa fa-arrow-left" aria-hidden="true"></i> Return to our products</a>{% endif %}
+      {% if page.lang == 'es' %}<a href="/es/store/" title="Nuestros Productos"><i class="fa fa-arrow-left" aria-hidden="true"></i> Volver a nuestros productos</a>{% endif %}
     </div>
   </div>
   </div>

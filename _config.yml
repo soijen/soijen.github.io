@@ -79,10 +79,10 @@ m:
       name: "Contact"
       url: "/contact/"
     store:
-      name: "SHOP"
+      name: "Our Products"
       url: "/store/"
     wholesale:
-      name: "Wholesale"
+      name: "Distributors"
       url: "/wholesale/"
   es:
       home:
@@ -95,10 +95,10 @@ m:
         name: "Contacto"
         url: "/es/contact/"
       store:
-        name: "TIENDA"
+        name: "Nuestros Productos"
         url: "/es/store/"
       wholesale:
-        name: "Mayorista"
+        name: "Distribuidores"
         url: "/es/wholesale/"
 t:
   en:
