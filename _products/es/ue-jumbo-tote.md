@@ -16,5 +16,3 @@ category: maps
 ---
 
 Inspírate en tu próxima aventura con la provincia de Última Esperanza con esta bolsa grande hecha con materiales 100% reciclados. Esta bolsa resistente y de gran capacidad es perfecta para una visita a tu feria local.
-
-El 1% de cada compra es donado a iniciativas medioambientales de organizaciones sin fines de lucros en Chile.

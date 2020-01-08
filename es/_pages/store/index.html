@@ -8,10 +8,10 @@ ref: store
 <div class="page">
   <h1>Nuestros Productos</h1>
   <div class="columns">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% include product.html %}
-    {% endfor %}
+      {% assign products=site.products | where:"lang", page.lang %}
+      {% for product in products %}
+        {% include product.html %}
+      {% endfor %}
   </div>
   <h2><i class="fa fa-pagelines"></i></h2>
   <a name="partners" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>

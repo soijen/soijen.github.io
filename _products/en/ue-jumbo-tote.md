@@ -15,5 +15,3 @@ ref: ue-jumbo-tote
 category: maps
 ---
 Get inspired for your next adventure in the province of Última Esperanza with this jumbo tote bag, made 100% of recycled material. This sturdy and spacious bag is perfect for a trip to the farmers market.
-
-1% of each purchase is donated to environmental non-profits and initiatives in Chile.

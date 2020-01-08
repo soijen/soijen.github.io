@@ -21,12 +21,12 @@ ref: index
 <div class="full-hero">
   <h2>OUR NEW COLLECTION</h2>
   <div class="columns">
-  {% assign products=site.products | where:"lang", page.lang %}
-  {% for product in products %}
-    {% include product.html %}
-  {% endfor %}
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products limit:4 %}
+      {% include product.html %}
+    {% endfor %}
   </div>
-  <h4><a href="/store/" title="Shop Soijen">see more products...</a></h4>
+  <h4><a href="/store/" title="All products">see all...</a></h4>
 </div>
 <div class="full-hero hero-home2">
   <h3>What are you waiting for?</h3>
@@ -50,8 +50,8 @@ ref: index
 </div>
 <div class="full-hero hero-donate">
     <h1>Get Inspired. Go Outside. & Give Back.</h1>
-    <h2>Together we planted 34 trees in Chile in 2018.</h2>
-    <div class="action-button"><a href="/about/#give">Learn more</a></div>
+    <h2>Together we are planting trees in Chile & Patagonia.</h2>
+    <div class="action-button"><a href="/about/#green">Learn more</a></div>
 </div>
 <div class="full-hero">
   <h2>RECENT POSTS</h2>

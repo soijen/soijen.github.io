@@ -22,12 +22,12 @@ ref: index
 <div class="full-hero">
   <h2>NUESTRA NUEVA COLECCIÓN</h2>
   <div class="columns">
-  {% assign products=site.products | where:"lang", page.lang %}
-  {% for product in products %}
-    {% include product.html %}
-  {% endfor %}
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products limit:4 %}
+      {% include product.html %}
+    {% endfor %}
   </div>
-  <h4><a href="/es/store/" title="Tienda Soijen">ver más productos...</a></h4>
+  <h4><a href="/es/store/" title="Todos los productos">ver más...</a></h4>
 </div>
 <div class="full-hero hero-home2">
   <h3>¿Que estás esperando?</h3>
@@ -51,8 +51,8 @@ ref: index
 </div>
 <div class="full-hero hero-donate">
     <h1>Inspírate. Disfruta. Y Contribuye.</h1>
-    <h2>Juntos plantamos 34 arboles en Chile en el 2018.</h2>
-    <div class="action-button"><a href="/es/about/#give">Aprende más</a></div>
+    <h2>Juntos estamos plantando arboles en Chile y Patagonia.</h2>
+    <div class="action-button"><a href="/es/about/#green">Aprende más</a></div>
 </div>
 <div class="full-hero">
   <h2>PUBLICACIONES RECIENTES</h2>
