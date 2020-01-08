@@ -14,10 +14,4 @@ slug: pataustral-set-6
 ref: pataustral-set-6
 category: none
 ---
-To mail to friends or keep all for yourself. This set of 6 postcards highlights the best of southern Patagonia, printed on 100% recycled materials with soy based inks. Featuring:
-<ul>Map of the National Parks of southern Patagonia</ul>
-<ul>Explore Magallanes - the region at the end of the world</ul>
-<ul>Torres del Paine - the 8th Wonder of the World</ul>
-<ul>Cape Froward - Patrimonial route on the Strait of Magellan</ul>
-<ul>Dientes de Navarino - the southernmost trek in the world</ul>
-<ul>Sendero de la Paciencia on scenic route Y-85</ul>
+To mail to friends or keep all for yourself. This set of 6 postcards highlights the best of southern Patagonia, printed on 100% recycled materials with soy based inks. Featuring: Map of the National Parks of southern Patagonia, Explore Magallanes - the region at the end of the world, Torres del Paine - the 8th Wonder of the World, Cape Froward - Patrimonial route on the Strait of Magellan, Dientes de Navarino - the southernmost trek in the world, Sendero de la Paciencia on scenic route Y-85.
