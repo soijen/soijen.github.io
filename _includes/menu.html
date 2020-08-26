@@ -16,7 +16,7 @@
       <ul class="drop-menu">
         <li>
           {% if page.lang == 'en' %}Recent Posts{% endif %}
-          {% if page.lang == 'es' %}Publicaciones Reciente{% endif %}
+          {% if page.lang == 'es' %}Publicaciones Recientes{% endif %}
         </li>
         {% assign posts=site.posts | where:"lang", page.lang %}
         {% for post in posts limit:5 %}
