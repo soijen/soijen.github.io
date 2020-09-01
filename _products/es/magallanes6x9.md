@@ -12,6 +12,7 @@ price: 5
 sku: 020002
 slug: mag6x9
 ref: mag6x9
-category: maps
+category:
+- poster
 ---
 Recorre la provincia de Magallanes con este mapa ilustrado 6x9, impreso en papel 100% reciclado con tintas de soya. Destacamos Punta Arenas, Parque Nacional Pali Aike, Isla Magdalena, Cabo Froward y más.

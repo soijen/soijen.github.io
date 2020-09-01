@@ -12,6 +12,8 @@ price: 26
 sku: 010001
 slug: tdf-jumbo-tote
 ref: tdf-jumbo-tote
-category: maps
+category:
+- maps
+- tote
 ---
 Get inspired for your next adventure in the province of Tierra del Fuego with this jumbo tote bag, made 100% of recycled material. This sturdy and spacious bag is perfect for a trip to the farmers market.

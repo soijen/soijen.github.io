@@ -12,6 +12,7 @@ price: 10
 sku: 020001
 slug: circuitos-poster
 ref: circuitos-poster
-category: none
+category:
+- poster
 ---
 Regresa a las montañas con este poster 11x17 de los circuitos de trekking de la Patagonia austral, impreso en papel 100% reciclado con tintas de soya. Destacamos Torres del Paine, Cabo Froward, Dientes de Navarino y el Sendero de la Paciencia en Tierra del Fuego.

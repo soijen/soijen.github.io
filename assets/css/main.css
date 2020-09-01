@@ -798,6 +798,7 @@ textarea {
 .policy {
   margin-bottom: 1em;
   padding-top: 4em;
+  text-align: justify;
 }
 
 /* BROWSE BY REGION STYLES */

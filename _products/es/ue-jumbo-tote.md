@@ -12,7 +12,9 @@ price: 26
 sku: 010002
 slug: ue-jumbo-tote
 ref: ue-jumbo-tote
-category: maps
+category:
+- maps
+- tote
 ---
 
 Inspírate en tu próxima aventura con la provincia de Última Esperanza con esta bolsa grande hecha con materiales 100% reciclados. Esta bolsa resistente y de gran capacidad es perfecta para una visita a tu feria local.

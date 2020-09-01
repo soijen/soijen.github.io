@@ -7,12 +7,34 @@ ref: store
 ---
 <div class="page">
   <h1>Our Products</h1>
-  <div class="columns">
-      {% assign products=site.products | where:"lang", page.lang %}
-      {% for product in products %}
+    <h2>Postcards</h2>
+    <div class="columns">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "postcard" %}
         {% include product.html %}
-      {% endfor %}
-  </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+    <h2>Tote bags</h2>
+    <div class="columns">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "tote" %}
+        {% include product.html %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <h2>Posters</h2>
+    <div class="columns">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "poster" %}
+        {% include product.html %}
+      {% endif %}
+    {% endfor %}
+    </div>
+
   <h2><i class="fa fa-pagelines"></i></h2>
   <a name="partners" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
   <div class="columns">

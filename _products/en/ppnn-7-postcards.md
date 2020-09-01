@@ -12,6 +12,7 @@ price: 6
 sku: 030002
 slug: ppnn-set-7
 ref: pppnn-set-7
-category: none
+category:
+- postcard
 ---
 To mail to friends or keep all for yourself. This set of 7 postcards highlights the National Parks of southern Patagonia (Chile), printed on 100% recycled materials with vegetable based inks. Featuring: Alberto de Agostini, Pali Aike, Torres del Paine, Cabo de Hornos, Kawésqar, Yendegaia, and Bernardo O'Higgins National Parks.

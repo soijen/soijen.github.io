@@ -12,6 +12,8 @@ price: 5
 sku: 020003
 slug: ue6x9
 ref: ue6x9
-category: maps
+category:
+- maps
+- poster
 ---
 Explore the Última Esperanza province of Chile with this 6x9 illustrated map, printed on 100% recycled materials with soy based inks. Featuring Torres del Paine National Park, Bernardo O'Higgins National Park, Milodon's Cave, Puerto Natales and more.

@@ -11,7 +11,7 @@ ref: maps-collection
   <div class="columns">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
-    {% if product.category == "maps" %}
+    {% if product.category contains "maps" %}
       {% include product.html %}
     {% endif %}
   {% endfor %}

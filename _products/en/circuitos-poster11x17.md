@@ -12,6 +12,7 @@ price: 10
 sku: 020001
 slug: circuitos-poster
 ref: circuitos-poster
-category: none
+category:
+- poster
 ---
 Take yourself back to the mountains with this 11x17 poster of trekking circuits in southern Patagonia, printed on 100% recycled materials with soy based inks. Featuring Torres del Paine, Cape Froward, Dientes de Navarino, and Sendero de la Paciencia.
