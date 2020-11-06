@@ -11,9 +11,11 @@ materials: 100% recycled paper, post consumer waste. FSC Certified.
 price: 5
 sku: 020002
 slug: mag6x9
+stock: 1
 ref: mag6x9
 category:
 - maps
 - poster
+- patagonia
 ---
 Explore the Magallanes province of Chile with this 6x9 illustrated map, printed on 100% recycled materials with soy based inks. Featuring Punta Arenas, Pali Aike National Park, Magdalena Island, Cape Froward and more.

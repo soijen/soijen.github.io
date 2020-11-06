@@ -12,6 +12,7 @@ feed:
   es: /es/feed.xml
 lang: ["en", "es"]
 url: "https://soijen.com"
+etsy_username: Soijen
 instagram_username: soijen_
 facebook_username: soijen
 twitter_username: soijen_
@@ -79,11 +80,14 @@ m:
       name: "Contact"
       url: "/contact/"
     store:
-      name: "Our Products"
+      name: "Our Designs"
       url: "/store/"
     wholesale:
       name: "Distributors"
       url: "/wholesale/"
+    online-orders:
+      name: "ONLINE ORDERS"
+      url: "/online-orders/"
   es:
       home:
         name: "Inicio"
@@ -95,11 +99,14 @@ m:
         name: "Contacto"
         url: "/es/contact/"
       store:
-        name: "Nuestros Productos"
+        name: "Nuestros Diseños"
         url: "/es/store/"
       wholesale:
         name: "Distribuidores"
         url: "/es/wholesale/"
+      online-orders:
+        name: "PEDIDOS ONLINE"
+        url: "/es/online-orders/"
 t:
   en:
     cart: Cart

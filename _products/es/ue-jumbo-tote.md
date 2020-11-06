@@ -11,10 +11,12 @@ materials_es: 65% algodón reciclado, 35% poliéster reciclado postconsumo certi
 price: 26
 sku: 010002
 slug: ue-jumbo-tote
+stock: 1
 ref: ue-jumbo-tote
 category:
 - maps
 - tote
+- patagonia
 ---
 
 Inspírate en tu próxima aventura con la provincia de Última Esperanza con esta bolsa grande hecha con materiales 100% reciclados. Esta bolsa resistente y de gran capacidad es perfecta para una visita a tu feria local.

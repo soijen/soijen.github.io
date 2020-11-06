@@ -11,8 +11,10 @@ materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 price: 5
 sku: 020002
 slug: mag6x9
+stock: 1
 ref: mag6x9
 category:
 - poster
+- patagonia
 ---
 Recorre la provincia de Magallanes con este mapa ilustrado 6x9, impreso en papel 100% reciclado con tintas de soya. Destacamos Punta Arenas, Parque Nacional Pali Aike, Isla Magdalena, Cabo Froward y más.

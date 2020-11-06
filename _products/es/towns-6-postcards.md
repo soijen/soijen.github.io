@@ -11,8 +11,10 @@ materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 price: 6
 sku: 030003
 slug: towns-set-7
+stock: 0
 ref: towns-set-7
 category:
 - postcard
+- patagonia
 ---
 Este set de 6 postales destaca los pueblos de la Patagonia Austral (Chile), impreso en papel 100% reciclado con tinta de vegetales. Destacamos: Puerto Natales, Punta Arenas, Cerro Sombrero, Porvenir, Puerto Williams, y Puerto Eden.

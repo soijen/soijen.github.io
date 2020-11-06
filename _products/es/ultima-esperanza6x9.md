@@ -11,9 +11,11 @@ materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 price: 5
 sku: 020003
 slug: ue6x9
+stock: 1
 ref: ue6x9
 category:
 - maps
 - poster
+- patagonia
 ---
 Recorre la provincia de Última Esperanza con este mapa ilustrado 6x9, impreso en papel 100% reciclado con tintas de soya. Destacamos Parque Nacional Torres del Paine, Parque Nacional Bernardo O'Higgins, Cueva del Milodón, Puerto Natales y más.

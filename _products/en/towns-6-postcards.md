@@ -11,8 +11,10 @@ materials: 100% recycled paper, post consumer waste. FSC Certified.
 price: 6
 sku: 030003
 slug: towns-set-6
+stock: 0
 ref: towns-set-6
 category:
 - postcard
+- patagonia
 ---
 This set of 6 postcards highlights 6 iconic towns of southern Patagonia, printed on 100% recycled materials with vegetable based inks. Featuring: Puerto Natales, Punta Arenas, Cerro Sombrero, Porvenir, Puerto Williams, and Puerto Eden.

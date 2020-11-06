@@ -11,9 +11,11 @@ materials: 100% recycled paper, post consumer waste. FSC Certified.
 price: 5
 sku: 020003
 slug: ue6x9
+stock: 1
 ref: ue6x9
 category:
 - maps
 - poster
+- patagonia
 ---
 Explore the Última Esperanza province of Chile with this 6x9 illustrated map, printed on 100% recycled materials with soy based inks. Featuring Torres del Paine National Park, Bernardo O'Higgins National Park, Milodon's Cave, Puerto Natales and more.

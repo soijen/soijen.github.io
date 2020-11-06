@@ -1,6 +1,6 @@
 ---
 title: Sóijen
-description: En Sóijen promocionamos esos lugares no explorados de la Patagonia, a través de diseños y prodúctos únicos.
+description: En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura - ya sea en las montañas de la Patagonia o más allá.
 layout: default
 lang: es
 permalink: /es/
@@ -15,16 +15,17 @@ ref: index
 </div>
 <div class="full-hero">
   <h2 style="text-decoration: underline;">BIENVENIDO A SÓIJEN</h2>
-  <h3>En Sóijen promocionamos esos lugares no explorados de la Patagonia, a través de diseños y prodúctos únicos.</h3>
-  <h3>Inspírate con nosotros para tu próxima aventura.</h3>
+  <h3>En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura - ya sea en las montañas de la Patagonia o más allá.</h3>
   <h2><i class="fa fa-pagelines"></i></h2>
 </div>
 <div class="full-hero">
-  <h2>NUESTRA NUEVA COLECCIÓN</h2>
+  <h2>NUESTROS NUEVOS DISEÑOS</h2>
   <div class="columns">
     {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products limit:4 %}
-      {% include product.html %}
+    {% for product in products %}
+      {% if product.stock != 0 %}
+        {% include product.html %}
+      {% endif %}
     {% endfor %}
   </div>
   <h4><a href="/es/store/" title="Todos los productos">ver más...</a></h4>
@@ -32,7 +33,7 @@ ref: index
 <div class="full-hero hero-home2">
   <h3>¿Que estás esperando?</h3>
   <h1>EMPIEZA TU RECORRIDO</h1>
-  <div class="action-button"><a href="/es/maps-collection/">Nueva Colección: Los Mapas</a></div>
+  <div class="action-button"><a href="/es/maps-collection/">Nueva Colección: La Patagonia</a></div>
 </div>
 <div class="full-hero">
   <div class="columns">

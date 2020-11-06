@@ -11,8 +11,10 @@ materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 price: 6
 sku: 030001
 slug: pataustral-set-6
+stock: 0
 ref: pataustral-set-6
 category:
 - postcard
+- patagonia
 ---
 Para enviar a tus amigos o quedarte con todos. Este set de 6 postales incluye lo mejor de la Patagonia Austral,  impreso en papel 100% reciclado con tintas de vegetales. Destacamos: Mapa de los Parques Nacionales de la Patagonia Austral, Explora Magallanes - la región al fin del mundo, Torres del Paine - la octava maravilla del mundo, Cabo Froward - Ruta patrimonial en el Estrecho de Magallanes, Dientes de Navarino - el trekking más austral del mundo, Sendero de la Paciencia en la ruta escénica Y-85.
