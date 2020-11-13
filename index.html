@@ -19,9 +19,9 @@ ref: index
 </div>
 <div class="full-hero">
   <h2>OUR NEW DESIGNS</h2>
-  <div class="columns">
+  <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
+    {% for product in products limit: 6 %}
       {% if product.stock != 0 %}
         {% include product.html %}
       {% endif %}
@@ -32,7 +32,7 @@ ref: index
 <div class="full-hero hero-home2">
   <h3>What are you waiting for?</h3>
   <h1>START ROAMING</h1>
-  <div class="action-button"><a href="/maps-collection/">New Collection: Patagonia</a></div>
+  <div class="action-button"><a href="/maps-collection/">Patagonia Collection</a></div>
 </div>
 <div class="full-hero">
   <div class="columns">

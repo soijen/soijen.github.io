@@ -1,15 +1,15 @@
 ---
-title: Colección Los Mapas | Sóijen
+title: Colección La Patagonia | Sóijen
 description: Ver nuestra colección inspirada por la Patagonia.
 layout: products
 permalink: /es/maps-collection/
 ref: maps-collection
 ---
 <div class="page">
-  <h1>Colección: La Patagonia</h1>
+  <h1>Colección La Patagonia</h1>
   <h2>Echa una mirada a nuestros diseños inspirados en la loca geografía de la Patagonia.</h2>
   <h2>Postales</h2>
-  <div class="columns">
+  <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
     {% if product.category contains "postcard" %}
@@ -18,7 +18,7 @@ ref: maps-collection
   {% endfor %}
   </div>
   <h2>Bolsas Reutilizables</h2>
-  <div class="columns">
+  <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
     {% if product.category contains "tote" %}
@@ -27,7 +27,7 @@ ref: maps-collection
   {% endfor %}
   </div>
   <h2>Posters</h2>
-  <div class="columns">
+  <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
     {% if product.category contains "poster" %}

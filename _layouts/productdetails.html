@@ -15,6 +15,48 @@ head:
         <img src="{{ page.image2Thumb }}" alt="{{ page.name }}" class="thumbnail"
         data-large-version="{{ page.image2 }}"/>
       </div>
+      {% if page.image3 %}
+      <div>
+        <img src="{{ page.image3Thumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image3 }}"/>
+      </div>
+      {% endif %}
+      {% if page.image4 %}
+      <div>
+        <img src="{{ page.image4Thumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image4 }}"/>
+      </div>
+      {% endif %}
+      {% if page.image5 %}
+      <div>
+        <img src="{{ page.image5Thumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image5 }}"/>
+      </div>
+      {% endif %}
+      {% if page.image6 %}
+      <div>
+        <img src="{{ page.image6Thumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image6 }}"/>
+      </div>
+      {% endif %}
+      {% if page.image7 %}
+      <div>
+        <img src="{{ page.image7Thumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image7 }}"/>
+      </div>
+      {% endif %}
+      {% if page.image8 %}
+      <div>
+        <img src="{{ page.image8Thumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image8 }}"/>
+      </div>
+      {% endif %}
+      {% if page.image9 %}
+      <div>
+        <img src="{{ page.image9Thumb }}" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.image9 }}"/>
+      </div>
+      {% endif %}
     </div>
     <div class="large-col gallery-photo" id="gallery-photo">
       <img src="{{ page.image }}" alt="{{ page.name }}" class="thumbnail"/>
@@ -53,6 +95,7 @@ head:
               {% if page.lang == 'en' %}{{ page.materials}}{% endif %}
               {% if page.lang == 'es' %}{{ page.materials_es}}{% endif %}
           </p>
+          <div class="action-button"><a href="{{ page.etsy }}" title="{{ page.name }}">{{site.t[page.lang].buy}}</a></div>
         </div>
         <div class="large-col">
           {{ page.content }}

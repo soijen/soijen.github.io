@@ -86,8 +86,8 @@ m:
       name: "Distributors"
       url: "/wholesale/"
     online-orders:
-      name: "ONLINE ORDERS"
-      url: "/online-orders/"
+      name: "SHOP"
+      url: "https://www.etsy.com/shop/Soijen"
   es:
       home:
         name: "Inicio"
@@ -105,14 +105,14 @@ m:
         name: "Distribuidores"
         url: "/es/wholesale/"
       online-orders:
-        name: "PEDIDOS ONLINE"
-        url: "/es/online-orders/"
+        name: "TIENDA"
+        url: "https://www.etsy.com/shop/Soijen"
 t:
   en:
     cart: Cart
     login: Login
     logout: Logout
-    buy: Add to cart
+    buy: SHOP NOW
     dimensions: Dimensions
     price: Price
     materials: Materials
@@ -120,7 +120,7 @@ t:
     cart: Carro
     login: Ingresar
     logout: Salir
-    buy: Comprar
+    buy: COMPRA AHORA
     dimensions: Medidas
     price: Precio
     materials: Materiales

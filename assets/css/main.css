@@ -441,11 +441,17 @@ textarea {
   text-align: center;
   width: 100%;
 }
+.product-column {
+  align-items: flex-start;
+}
 .blog-column {
   box-sizing: border-box;
   flex: 1 1 25%;
-  vertical-align: middle;
+  vertical-align: top;
   padding: 1vh;
+}
+.product {
+  vertical-align: top;
 }
 .blog-column .posts-image {
   background-position: center;
@@ -491,7 +497,7 @@ textarea {
   margin: 0 0 10px;
   opacity: 0.5;
   transition: all 0.5s ease-in-out;
-  width: 90%;
+  width: 30%;
 }
 .gallery-thumbs img:hover {
   opacity: 1;
@@ -884,8 +890,8 @@ textarea {
     padding-top: 3vh;
     padding-bottom: 3vh;
   }
-  .columns .productTable {
-
+  .product-column {
+    align-items: center;
   }
   .large-col {
     padding-left: 0;
