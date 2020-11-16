@@ -4,12 +4,14 @@ description: “La Aventura Nos Llama” features a black-and-white illustration
 name: La Aventura Nos Llama - Art Print
 image: \assets\images\products\prints\aventura-llama5x7\1.jpg
 image2: \assets\images\products\prints\aventura-llama5x7\2.jpg
+image3: \assets\images\products\prints\aventura-llama5x7\3.jpg
 imageThumb: \assets\images\products\prints\aventura-llama5x7\1.jpg
 image2Thumb: \assets\images\products\prints\aventura-llama5x7\2.jpg
+image3Thumb: \assets\images\products\prints\aventura-llama5x7\3.jpg
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
-etsy: http://etsy.com/shop/soijen
-price: 5
+etsy: https://www.etsy.com/listing/891018372/la-aventura-nos-llama-art-print-hand
+price: 9.50
 sku: 020007
 slug: aventura-llama5x7
 stock: 1

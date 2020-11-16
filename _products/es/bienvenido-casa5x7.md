@@ -12,8 +12,8 @@ image3Thumb: \assets\images\products\prints\casa5x7\3.jpg
 image4Thumb: \assets\images\products\prints\casa5x7\4.jpg
 dimensions_es: 5" x 7" (127mm x 178mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
-etsy: http://etsy.com/shop/soijen
-price: 5
+etsy: https://www.etsy.com/listing/904938239/bienvenido-a-casa-art-print-hand
+price: 9.50
 sku: 020004
 slug: casa5x7
 stock: 1

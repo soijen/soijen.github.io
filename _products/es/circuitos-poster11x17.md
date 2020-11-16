@@ -9,7 +9,7 @@ image2Thumb: \assets\images\products\posters\circuitostrekking11x17\2.jpg
 dimensions_es: 11" x 17" (280mm x 430mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 etsy: http://etsy.com/shop/soijen
-price: 10
+price: 18
 sku: 020001
 slug: circuitos-poster
 stock: 0

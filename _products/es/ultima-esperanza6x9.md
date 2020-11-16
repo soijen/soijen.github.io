@@ -3,12 +3,12 @@ title: Mapa Última Esperanza - Poster Pequeño
 description: Recorre la provincia de Última Esperanza con este poster pequeño 6x9", impreso en papel 100% reciclado.
 name: Mapa Última Esperanza - Poster Pequeño
 image: \assets\images\products\posters\ue6x9\1.jpg
-image2: \assets\images\products\posters\ue6x9\1.jpg
+image2: \assets\images\products\posters\ue6x9\2.jpg
 imageThumb: \assets\images\products\posters\ue6x9\1.jpg
-image2Thumb: \assets\images\products\posters\ue6x9\1.jpg
+image2Thumb: \assets\images\products\posters\ue6x9\2.jpg
 dimensions_es: 6" x 9" (150mm x 230mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
-etsy: http://etsy.com/shop/soijen
+etsy: https://www.etsy.com/listing/904931843/ultima-esperanza-map-mini-poster
 price: 5
 sku: 020003
 slug: ue6x9

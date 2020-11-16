@@ -4,12 +4,14 @@ description: La ilustración “La Aventura Nos Llama” está compuesta de traz
 name: La Aventura Nos Llama - Impresión Artística
 image: \assets\images\products\prints\aventura-llama5x7\1.jpg
 image2: \assets\images\products\prints\aventura-llama5x7\2.jpg
+image3: \assets\images\products\prints\aventura-llama5x7\3.jpg
 imageThumb: \assets\images\products\prints\aventura-llama5x7\1.jpg
 image2Thumb: \assets\images\products\prints\aventura-llama5x7\2.jpg
+image3Thumb: \assets\images\products\prints\aventura-llama5x7\3.jpg
 dimensions_es: 5" x 7" (127mm x 178mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
-etsy: http://etsy.com/shop/soijen
-price: 5
+etsy: https://www.etsy.com/listing/891018372/la-aventura-nos-llama-art-print-hand
+price: 9.50
 sku: 020007
 slug: aventura-llama5x7
 stock: 1

@@ -6,7 +6,7 @@ image: \assets\images\products\totes\ue-jumbo\2.jpg
 image2: \assets\images\products\totes\ue-jumbo\1.jpg
 imageThumb: \assets\images\products\totes\ue-jumbo\2.jpg
 image2Thumb: \assets\images\products\totes\ue-jumbo\1.jpg
-dimensions: 19" x 16" x 4" with 25" handle (48.2cm x 40.6cm x 10.2cm with 63.5cm handle)
+dimensions: 18" x 16" x 4" with 25" handle (45.7cm x 40.6cm x 10.2cm with 63.5cm handle)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 etsy: https://www.etsy.com/listing/885568610/ultima-esperanza-jumbo-tote-bag
 price: 26
