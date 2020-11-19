@@ -21,6 +21,7 @@ ref: vermont5x7
 category:
 - art-print
 - illustration
+- states
 ---
 La ilustración “Querido Vermont” esta compuesta de trazos de color negro en un fondo blanco que dan la forma del estado de Vermont con sus principales senderos el Long Trail y la sección del Apalachian Trail. La figura está hecha originalmente a mano con tinta, reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
 

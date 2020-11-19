@@ -8,6 +8,17 @@ ref: maps-collection
 <div class="page">
   <h1>Colección La Patagonia</h1>
   <h2>Echa una mirada a nuestros diseños inspirados en la loca geografía de la Patagonia.</h2>
+  <h2>Impresión Artística</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" %}
+      {% if product.category contains "patagonia" %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
   <h2>Postales</h2>
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
@@ -22,7 +33,9 @@ ref: maps-collection
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
     {% if product.category contains "tote" %}
-      {% include product.html %}
+      {% if product.category contains "patagonia" %}
+        {% include product.html %}
+      {% endif %}
     {% endif %}
   {% endfor %}
   </div>

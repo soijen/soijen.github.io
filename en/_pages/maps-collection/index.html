@@ -8,6 +8,17 @@ ref: maps-collection
 <div class="page">
   <h1>The Patagonia Collection</h1>
   <h2>Check out our new collection with designs inspired by maps and icons of Patagonia.</h2>
+  <h2>Art Prints</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" %}
+      {% if product.category contains "patagonia" %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
   <h2>Postcards</h2>
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
@@ -22,7 +33,9 @@ ref: maps-collection
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
     {% if product.category contains "tote" %}
-      {% include product.html %}
+      {% if product.category contains "patagonia" %}
+        {% include product.html %}
+      {% endif %}
     {% endif %}
   {% endfor %}
   </div>

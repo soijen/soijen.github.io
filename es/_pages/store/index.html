@@ -12,6 +12,16 @@ ref: store
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
       {% if product.category contains "art-print" %}
+        {% if product.category contains "patagonia" %}{% else %}
+          {% include product.html %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "art-print" and product.category contains "patagonia" %}
         {% include product.html %}
       {% endif %}
     {% endfor %}
@@ -39,6 +49,16 @@ ref: store
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
       {% if product.category contains "cards" %}
+        {% if product.category contains "states" %}{% else %}
+          {% include product.html %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "cards" and product.category contains "states" %}
         {% include product.html %}
       {% endif %}
     {% endfor %}

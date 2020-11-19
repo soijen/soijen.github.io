@@ -21,6 +21,7 @@ ref: vermont5x7
 category:
 - art-print
 - illustration
+- states
 ---
 “Querido Vermont” features a black-and-white illustration using a line-texture technique in the shape of Vermont, highlighting the two long distance hiking trails that pass through the state: The Long Trail and the Appalachian Trail. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
 

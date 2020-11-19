@@ -22,7 +22,7 @@ ref: index
   <h2>NUESTROS NUEVOS DISEÑOS</h2>
   <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products limit: 6 offset: 9 %}
+    {% for product in products limit: 5 offset: 7 %}
       {% if product.stock != 0 %}
         {% include product.html %}
       {% endif %}
