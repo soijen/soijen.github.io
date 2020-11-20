@@ -1,7 +1,7 @@
 ---
-title: Vamos a la montaña - Art Print
-description: Vamos a la montaña features a black-and-white illustration of a mountain peak created using a line-texture technique. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
-name: Vamos a las montañas - Art Print
+title: Hand Illustrated Mountain | Art Print
+description: The "Vamos a la montaña" (To the mountains we go) art print features a black-and-white illustration of a mountain peak created using a line-texture technique. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
+name: Hand Illustrated Mountain | Art Print
 image: \assets\images\products\prints\montana5x7\1.jpg
 image2: \assets\images\products\prints\montana5x7\2.jpg
 image3: \assets\images\products\prints\montana5x7\3.jpg
@@ -22,6 +22,6 @@ category:
 - art-print
 - illustration
 ---
-“Vamos a la montaña” features a black-and-white illustration of a mountain peak created using a line-texture technique. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
+The "Vamos a la montaña" (To the mountains we go) art print features a black-and-white illustration of a mountain peak created using a line-texture technique. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
 
 This 5x7” (127x178 mm) print fits in standard frames and makes the perfect gift for an outdoor enthusiast or a special addition to decorate your home.

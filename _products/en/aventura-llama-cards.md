@@ -1,7 +1,7 @@
 ---
-title: La Aventura nos Llama - Set of 5 Blank Note Cards
+title: Adventure Dog | Blank Note Card Set | 6 A2 Cards + Envelopes
 description: The “La Aventura Nos Llama” (Adventure is calling) note card collection features a black-and-white illustration of the ultimate adventure-mobile, to inspire you to get on the road and explore. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper.
-name: La Aventura nos Llama - Set of 5 Blank Note Cards
+name: Adventure Dog | Blank Note Card Set | 6 A2 Cards + Envelopes
 image: \assets\images\products\cards\aventurallama\1.jpg
 image2: \assets\images\products\cards\aventurallama\2.jpg
 image3: \assets\images\products\cards\aventurallama\3.jpg
@@ -20,4 +20,4 @@ category:
 - cards
 - illustration
 ---
-The “La Aventura Nos Llama” (Adventure is calling) note card collection features a black-and-white illustration of the ultimate adventure-mobile, to inspire you to get on the road and explore. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set of 5 A2 cards with 5 white envelopes.
+The “La Aventura Nos Llama” (Adventure is calling) note card collection features a black-and-white illustration of the ultimate adventure-mobile, to inspire you to get on the road and explore. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set of 6 A2 cards with 6 white envelopes.

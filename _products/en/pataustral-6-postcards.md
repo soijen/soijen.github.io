@@ -1,7 +1,7 @@
 ---
-title: Trekking Patagonia Austral - Set of 6 Postcards
+title: Trekking Patagonia Austral | Chile | Set of 6 Postcards
 description: To mail to friends or keep all for yourself. This set of 6 postcards highlights the best of southern Patagonia, Chile. Each 4x6" postcard is printed with care on thick, archival, environmentally friendly paper.
-name: Trekking Patagonia Austral - Set of 6 Postcards
+name: Trekking Patagonia Austral | Chile | Set of 6 Postcards
 image: \assets\images\products\postcards\pataustral-set-6\1.jpg
 image2: \assets\images\products\postcards\pataustral-set-6\2.jpg
 image3: \assets\images\products\postcards\pataustral-set-6\3.jpg

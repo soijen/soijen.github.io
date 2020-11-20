@@ -1,7 +1,7 @@
 ---
-title: El Mundo a Pata - Set de 5 Tarjetas de Saludo
+title: El Mundo a Pata - Set de 6 Tarjetas de Saludo
 description: Las tarjetas de saludo “El Mundo a Pata” destacan las aventuras al aire libre de una cachorra. Este set consta de 5 tarjetas, vacías en su interior e impresas en papel de calidad de archivo, amigable con el medio ambiente.
-name: El Mundo a Pata - Set de 5 Tarjetas de Saludo
+name: El Mundo a Pata - Set de 6 Tarjetas de Saludo
 image: \assets\images\products\cards\mundopata\1.jpg
 image2: \assets\images\products\cards\mundopata\2.jpg
 image3: \assets\images\products\cards\mundopata\3.jpg
@@ -22,6 +22,6 @@ category:
 - cards
 - flat-design
 ---
-Las tarjetas de saludo “El Mundo a Pata” destacan las aventuras al aire libre de una cachorra. Estos diseños son perfectos para mantenerse en contacto con la familia o amigos. Este set consta de 5 tarjetas, vacías en su interior e impresas en papel de calidad de archivo, amigable con el medio ambiente. Vienen además con 5 sobres blancos de papel reciclado.
+Las tarjetas de saludo “El Mundo a Pata” destacan las aventuras al aire libre de una cachorra. Estos diseños son perfectos para mantenerse en contacto con la familia o amigos. Este set consta de 6 tarjetas, vacías en su interior e impresas en papel de calidad de archivo, amigable con el medio ambiente. Vienen además con 6 sobres blancos de papel reciclado.
 
 Diseños destacados: Cachorra en raquetas de nieve, cachorra acampando, cachorra remando, cachorra en el sendero con mochila, cachorra en una van.

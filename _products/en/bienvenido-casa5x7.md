@@ -1,7 +1,7 @@
 ---
-title: Bienvenido a casa - Art Print
-description: “Bienvenido a casa” features a black-and-white illustration of a cozy cabin created using a line-texture technique. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
-name: Bienvenido a casa - Art Print
+title: Hand Illustrated Cabin | Art Print
+description: The “Bienvenido a casa” (Welcome Home) art print features a black-and-white illustration of a cozy cabin created using a line-texture technique. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
+name: Hand Illustrated Cabin | Art Print
 image: \assets\images\products\prints\casa5x7\1.jpg
 image2: \assets\images\products\prints\casa5x7\2.jpg
 image3: \assets\images\products\prints\casa5x7\3.jpg
@@ -22,6 +22,6 @@ category:
 - art-print
 - illustration
 ---
-“Bienvenido a casa” features a black-and-white illustration of a cozy cabin created using a line-texture technique. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
+The “Bienvenido a casa” (Welcome Home) art print features a black-and-white illustration of a cozy cabin created using a line-texture technique. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
 
 This 5x7” (127x178 mm) print fits in standard frames and makes the perfect gift or a special addition to decorate your home.

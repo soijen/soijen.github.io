@@ -1,7 +1,7 @@
 ---
-title: Querido Vermont - Set of 5 Blank Note Cards
+title: Hand Illustrated Vermont Long Trail | Blank Note Card Set | 6 A2 Cards + Envelopes
 description: The “Querido Vermont” (Beloved Vermont) note card collection features a black-and-white illustration using a line-texture technique in the shape of Vermont, highlighting the two long distance hiking trails that pass through the state - The Long Trail and the Appalachian Trail. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper.
-name: Querido Vermont - Set of 5 Blank Note Cards
+name: Hand Illustrated Vermont Long Trail | Blank Note Card Set | 6 A2 Cards + Envelopes
 image: \assets\images\products\cards\queridovermont\1.jpg
 image2: \assets\images\products\cards\queridovermont\2.jpg
 image3: \assets\images\products\cards\queridovermont\3.jpg
@@ -21,4 +21,4 @@ category:
 - illustration
 - states
 ---
-The “Querido Vermont” (Beloved Vermont) note card collection features a black-and-white illustration using a line-texture technique in the shape of Vermont, highlighting the two long distance hiking trails that pass through the state: The Long Trail and the Appalachian Trail. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set of 5 A2 cards with 5 white envelopes.
+The “Querido Vermont” (Beloved Vermont) note card collection features a black-and-white illustration using a line-texture technique in the shape of Vermont, highlighting the two long distance hiking trails that pass through the state: The Long Trail and the Appalachian Trail. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set of 6 A2 cards with 6 white envelopes.

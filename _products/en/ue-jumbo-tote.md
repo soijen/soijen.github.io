@@ -1,7 +1,7 @@
 ---
-title: Última Esperanza - Jumbo Tote Bag
+title: Patagonia Jumbo Tote Bag | Ultima Esperanza Map | Chile
 description: Get inspired for your next adventure in the province of Última Esperanza with this jumbo tote bag, made 100% of recycled material.
-name: Última Esperanza - Jumbo Tote Bag
+name: Patagonia Jumbo Tote Bag | Ultima Esperanza Map | Chile
 image: \assets\images\products\totes\ue-jumbo\2.jpg
 image2: \assets\images\products\totes\ue-jumbo\1.jpg
 imageThumb: \assets\images\products\totes\ue-jumbo\2.jpg

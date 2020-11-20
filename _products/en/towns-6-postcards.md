@@ -1,7 +1,7 @@
 ---
-title: Towns of Patagonia Austral - Set of 6 Postcards
+title: Towns of Patagonia Austral | Chile | Set of 6 Postcards
 description: This set of 6 postcards highlights 6 iconic towns of southern Chilean Patagonia. Each 4x6” postcard features minimalist, flat designs of notable landmarks, and is printed with care with thick, archival, environmentally friendly paper.
-name: Towns of Patagonia Austral - Set of 6 Postcards
+name: Towns of Patagonia Austral | Chile | Set of 6 Postcards
 image: \assets\images\products\postcards\towns-set-6\1.jpg
 image2: \assets\images\products\postcards\towns-set-6\2.jpg
 image3: \assets\images\products\postcards\towns-set-6\3.jpg

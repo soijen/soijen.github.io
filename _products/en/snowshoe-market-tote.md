@@ -1,7 +1,7 @@
 ---
-title: El Mundo a Pata - Market Tote Bag - Snowshoeing Pup
+title: Snowshoeing Adventure Dog | Market Tote Bag
 description: This whimsical tote bag, from our "El Mundo a Pata" (The world by paw) collection, features a snowshoeing adventure pup. This sturdy and spacious 10 oz cotton canvas bag is perfect for a trip to the farmer's market with its 6" wide bottom gusset.
-name: El Mundo a Pata - Market Tote Bag - Snowshoeing Pup
+name: Snowshoeing Adventure Dog | Market Tote Bag
 image: \assets\images\products\totes\snowshoe-market\1.jpg
 image2: \assets\images\products\totes\snowshoe-market\1.jpg
 imageThumb: \assets\images\products\totes\snowshoe-market\1.jpg

@@ -4,8 +4,10 @@ description: Vuelve a tus aventuras en la Patagonia con esta impresión de las i
 name: Cuernos del Paine - Impresión Artística
 image: \assets\images\products\prints\cuernospaine5x7\1.jpg
 image2: \assets\images\products\prints\cuernospaine5x7\2.jpg
+image3: \assets\images\products\prints\cuernospaine5x7\3.jpg
 imageThumb: \assets\images\products\prints\cuernospaine5x7\1.jpg
 image2Thumb: \assets\images\products\prints\cuernospaine5x7\2.jpg
+image3Thumb: \assets\images\products\prints\cuernospaine5x7\3.jpg
 dimensions_es: 5" x 7" (127mm x 178mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 etsy: https://www.etsy.com/listing/905155125/cuernos-del-paine-torres-del-paine-art

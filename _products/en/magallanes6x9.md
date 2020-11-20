@@ -1,7 +1,7 @@
 ---
-title: Magallanes Region Map Mini Poster
+title: Magallanes Map Mini Poster | Patagonia Austral | Chile
 description: Explore the Magallanes province of Chile with this 6x9" map mini poster, printed on 100% recycled materials.
-name: Magallanes Region Map Mini Poster
+name: Magallanes Map Mini Poster | Patagonia Austral | Chile
 image: \assets\images\products\posters\mag6x9\1.jpg
 image2: \assets\images\products\posters\mag6x9\2.jpg
 imageThumb: \assets\images\products\posters\mag6x9\1.jpg

@@ -1,7 +1,7 @@
 ---
-title: El Mundo a Pata - Zippered Pouch - Canoeing Pup
+title: Canoeing Adventure Dog | Zippered Pouch
 description: BRAND NEW! And the perfect gift for the holidays! This zippered pouch, from our "El Mundo a Pata" (The world by paw) collection, features a canoeing adventure pup. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need.
-name: El Mundo a Pata - Zippered Pouch - Canoeing Pup
+name: Canoeing Adventure Dog | Zippered Pouch
 image: \assets\images\products\totes\canoe-pouch\1.jpg
 image2: \assets\images\products\totes\canoe-pouch\1.jpg
 imageThumb: \assets\images\products\totes\canoe-pouch\1.jpg

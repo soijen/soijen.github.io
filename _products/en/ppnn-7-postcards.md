@@ -1,7 +1,7 @@
 ---
-title: National Parks Patagonia Austral - Set of 7 Postcards
+title: National Parks of Patagonia Austral | Chile | Set of 7 Illustrated Postcards
 description: This set of 7 illustrated postcards highlights the National Parks of southern Patagonia, Chile. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
-name: National Parks Patagonia Austral - Set of 7 Postcards
+name: National Parks of Patagonia Austral | Chile | Set of 7 Illustrated Postcards
 image: \assets\images\products\postcards\ppnn-set-7\1.jpg
 image2: \assets\images\products\postcards\ppnn-set-7\2.jpg
 image3: \assets\images\products\postcards\ppnn-set-7\3.jpg

@@ -1,7 +1,7 @@
 ---
-title: Querido New Hampshire - Set of 5 Blank Note Cards
+title: Hand Illustrated New Hampshire Appalachian Trail | Blank Note Card Set | 6 A2 Cards + Envelopes
 description: The “Querido New Hampshire” (Beloved New Hampshire) note card collection features a black-and-white illustration using a line-texture technique in the shape of New Hampshire, highlighting the Appalachian Trail. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper.
-name: Querido New Hampshire - Set of 5 Blank Note Cards
+name: Hand Illustrated New Hampshire Appalachian Trail | Blank Note Card Set | 6 A2 Cards + Envelopes
 image: \assets\images\products\cards\queridonewhampshire\1.jpg
 image2: \assets\images\products\cards\queridonewhampshire\2.jpg
 image3: \assets\images\products\cards\queridonewhampshire\3.jpg
@@ -21,4 +21,4 @@ category:
 - illustration
 - states
 ---
-The “Querido New Hampshire” (Beloved New Hampshire) note card collection features a black-and-white illustration using a line-texture technique in the shape of New Hampshire, highlighting the Appalachian Trail. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set of 5 A2 cards with 5 white envelopes.
+The “Querido New Hampshire” (Beloved New Hampshire) note card collection features a black-and-white illustration using a line-texture technique in the shape of New Hampshire, highlighting the Appalachian Trail. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set of 6 A2 cards with 6 white envelopes.

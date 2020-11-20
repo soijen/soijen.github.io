@@ -1,7 +1,7 @@
 ---
-title: Última Esperanza Map Mini Poster
+title: Ultima Esperanza Map Mini Poster | Patagonia Austral | Chile
 description: Explore the Última Esperanza province of Chile with this 6x9" map mini poster, printed on 100% recycled materials.
-name: Última Esperanza Map Mini Poster
+name: Ultima Esperanza Map Mini Poster | Patagonia Austral | Chile
 image: \assets\images\products\posters\ue6x9\1.jpg
 image2: \assets\images\products\posters\ue6x9\2.jpg
 imageThumb: \assets\images\products\posters\ue6x9\1.jpg

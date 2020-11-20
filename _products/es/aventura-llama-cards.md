@@ -1,7 +1,7 @@
 ---
-title: La Aventura nos Llama - Set de 5 Tarjetas de Saludo
+title: La Aventura nos Llama - Set de 6 Tarjetas de Saludo
 description: Las tarjetas de saludo “La Aventura Nos Llama” destacan un diseño de trazos de color negro en un fondo blanco que dan la forma del mejor auto de aventuras, para inspirarte y descubrir nuevas rutas. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: La Aventura nos Llama - Set de 5 Tarjetas de Saludo
+name: La Aventura nos Llama - Set de 6 Tarjetas de Saludo
 image: \assets\images\products\cards\aventurallama\1.jpg
 image2: \assets\images\products\cards\aventurallama\2.jpg
 image3: \assets\images\products\cards\aventurallama\3.jpg
@@ -20,4 +20,4 @@ category:
 - cards
 - illustration
 ---
-Las tarjetas de saludo “La Aventura Nos Llama” destacan un diseño de trazos de color negro en un fondo blanco que dan la forma del mejor auto de aventuras, para inspirarte y descubrir nuevas rutas. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente. Estas tarjetas vacías son perfectas para mantenerse en contacto con la familia o amigos. Este set consiste de 5 tarjetas y 5 sobres blancos de papel reciclado.
+Las tarjetas de saludo “La Aventura Nos Llama” destacan un diseño de trazos de color negro en un fondo blanco que dan la forma del mejor auto de aventuras, para inspirarte y descubrir nuevas rutas. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente. Estas tarjetas vacías son perfectas para mantenerse en contacto con la familia o amigos. Este set consiste de 6 tarjetas y 6 sobres blancos de papel reciclado.

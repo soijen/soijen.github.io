@@ -1,7 +1,7 @@
 ---
-title: Tierra del Fuego - Jumbo Tote Bag
+title: Patagonia Jumbo Tote Bag | Tierra del Fuego | Chile
 description: Get inspired for your next adventure in the province of Tierra del Fuego with this jumbo tote bag, made 100% of recycled material.
-name: Tierra del Fuego - Jumbo Tote Bag
+name: Patagonia Jumbo Tote Bag | Tierra del Fuego | Chile
 image: \assets\images\products\totes\tdf-jumbo\2.jpg
 image2: \assets\images\products\totes\tdf-jumbo\1.jpg
 imageThumb: \assets\images\products\totes\tdf-jumbo\2.jpg

@@ -1,7 +1,7 @@
 ---
-title: Bienvenido a Casa - Set of 5 Blank Note Cards
+title: Hand Illustrated Cabin |  Blank Note Card Set | 6 A2 Cards + Envelopes
 description: The “Bienvenido a casa” (Welcome home) note card collection features a black-and-white illustration of a cozy cabin created using a line-texture technique. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper.
-name: Bienvenido a Casa - Set of 5 Blank Note Cards
+name: Hand Illustrated Cabin |  Blank Note Card Set | 6 A2 Cards + Envelopes
 image: \assets\images\products\cards\bienvenidocasa\1.jpg
 image2: \assets\images\products\cards\bienvenidocasa\2.jpg
 image3: \assets\images\products\cards\bienvenidocasa\3.jpg
@@ -20,4 +20,4 @@ category:
 - cards
 - illustration
 ---
-The “Bienvenido a casa” (Welcome home) note card collection features a black-and-white illustration of a cozy cabin created using a line-texture technique. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set of 5 A2 cards with 5 white envelopes.
+The “Bienvenido a casa” (Welcome home) note card collection features a black-and-white illustration of a cozy cabin created using a line-texture technique. Originally hand drawn with ink and reprinted on archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set of 6 A2 cards with 6 white envelopes.

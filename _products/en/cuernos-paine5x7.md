@@ -1,11 +1,13 @@
 ---
-title: Cuernos del Paine - Art Print
+title: Hand Illustrated Torres del Paine National Park | Art Print | Patagonia Chile | Cuernos del Paine
 description: Take yourself back to your adventures in Patagonia with this print of the iconic mountains in Torres del Paine National Park. This black-and-white illustration was originally hand drawn with ink and reprinted with care on thick, archival, environmentally friendly paper.
-name: Cuernos del Paine - Art Print
+name: Hand Illustrated Torres del Paine National Park | Art Print | Patagonia Chile | Cuernos del Paine
 image: \assets\images\products\prints\cuernospaine5x7\1.jpg
 image2: \assets\images\products\prints\cuernospaine5x7\2.jpg
+image3: \assets\images\products\prints\cuernospaine5x7\3.jpg
 imageThumb: \assets\images\products\prints\cuernospaine5x7\1.jpg
 image2Thumb: \assets\images\products\prints\cuernospaine5x7\2.jpg
+image3Thumb: \assets\images\products\prints\cuernospaine5x7\3.jpg
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 etsy: https://www.etsy.com/listing/905155125/cuernos-del-paine-torres-del-paine-art
