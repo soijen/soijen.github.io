@@ -12,6 +12,7 @@ image3Thumb: \assets\images\products\postcards\towns-set-6\3.jpg
 image4Thumb: \assets\images\products\postcards\towns-set-6\4.jpg
 dimensions_es: 4" x 6" (100mm x 150mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
+featured: 0
 etsy: https://www.etsy.com/listing/904923495/towns-of-patagonia-austral-chile-set-of
 price: 10
 sku: 030003

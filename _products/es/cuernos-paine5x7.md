@@ -10,6 +10,7 @@ image2Thumb: \assets\images\products\prints\cuernospaine5x7\2.jpg
 image3Thumb: \assets\images\products\prints\cuernospaine5x7\3.jpg
 dimensions_es: 5" x 7" (127mm x 178mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
+featured: 1
 etsy: https://www.etsy.com/listing/905155125/cuernos-del-paine-torres-del-paine-art
 price: 9.50
 sku: 020009

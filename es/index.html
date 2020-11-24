@@ -1,6 +1,6 @@
 ---
 title: Sóijen
-description: En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura - ya sea en las montañas de la Patagonia o más allá.
+description: En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura.
 layout: default
 lang: es
 permalink: /es/
@@ -15,26 +15,58 @@ ref: index
 </div>
 <div class="full-hero">
   <h2 style="text-decoration: underline;">BIENVENIDO A SÓIJEN</h2>
-  <h3>En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura - ya sea en las montañas de la Patagonia o más allá.</h3>
+  <h3>En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura, desde la Patagonia a New England y más allá.</h3>
   <h2><i class="fa fa-pagelines"></i></h2>
 </div>
 <div class="full-hero">
   <h2>NUESTROS NUEVOS DISEÑOS</h2>
   <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products limit: 5 offset: 7 %}
-      {% if product.stock != 0 %}
+    {% for product in products %}
+      {% if product.featured != 0 %}
         {% include product.html %}
       {% endif %}
     {% endfor %}
   </div>
   <h4><a href="/es/store/" title="Todos los productos">ver más...</a></h4>
 </div>
-<div class="full-hero hero-home2">
-  <h3>¿Que estás esperando?</h3>
-  <h1>EMPIEZA TU RECORRIDO</h1>
-  <div class="action-button"><a href="/es/maps-collection/">Colección La Patagonia</a></div>
+
+<div class="full-hero hero-collection">
+<h2>Ver por Colección</h2>
+  <div class="columns">
+    <div class="blog-column">
+      <a href="/es/maps-collection#adventure-pup" title="Ver la Colección El Mundo a Pata">
+        <div class ="home-image">
+          <img src="/assets/images/home-collections/adventure-pup.jpg" alt="Colección El Mundo a Pata"/>
+          <div class="image-tag">
+            <h3>El Mundo a Pata</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="blog-column">
+      <a href="/es/maps-collection#line-art" title="Ver la Colección Arte de Rallas">
+        <div class ="home-image">
+          <img src="/assets/images/home-collections/line.jpg" alt="Colección Arte de Rallas"/>
+          <div class="image-tag">
+            <h3>Arte de Rallas</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="blog-column">
+      <a href="/es/maps-collection#patagonia" title="Ver la Colección de la Patagonia">
+        <div class ="home-image">
+          <img src="/assets/images/home-collections/patagonia.jpg" alt="Colección de la Patagonia"/>
+          <div class="image-tag">
+            <h3>La Patagonia</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
 </div>
+
 <div class="full-hero">
   <div class="columns">
     <div class="small-col">

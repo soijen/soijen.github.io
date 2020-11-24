@@ -1,21 +1,109 @@
 ---
-title: The Patagonia Collection | Sóijen
-description: Browse our collection inspired by Patagonia.
+title: Our Collections | Sóijen
+description: Browse our product collections.
 layout: products
 permalink: /maps-collection/
 ref: maps-collection
 ---
 <div class="page">
-  <h1>The Patagonia Collection</h1>
-  <h2>Check out our new collection with designs inspired by maps and icons of Patagonia.</h2>
-  <h2>Art Prints</h2>
+  <h2>
+    <a href="#adventure-pup">[The World by Paw Collection]</a><a href="#line-art">[Line Art Collection]</a><a href="#patagonia">[Patagonia Collection]</a>
+  </h2>
+  <a name="adventure-pup" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <h1>The World by Paw Collection</h1>
+  <h2>Blank Note Cards</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "cards" %}
+      {% if product.category contains "adventure-pup" %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <h2>Tote bags and Pouches</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "tote" %}
+      {% if product.category contains "adventure-pup" %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <h2>Art Prints and Posters</h2>
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
     {% if product.category contains "art-print" %}
-      {% if product.category contains "patagonia" %}
+      {% if product.category contains "adventure-pup" %}
         {% include product.html %}
       {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  <a name="line-art" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <h1>The Line Art Collection</h1>
+  <h2>Art Prints and Posters</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "line-art" %}
+      {% if product.category contains "states" %}{% else %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "line-art" and product.category contains "states" %}
+      {% include product.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <h2>Blank Note Cards</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "cards" and product.category contains "line-art" %}
+      {% if product.category contains "states" %}{% else %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "cards" and product.category contains "line-art" and product.category contains "states" %}
+      {% include product.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  <a name="patagonia" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <h1>The Patagonia Collection</h1>
+  <h2>Art Prints and Posters</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "patagonia" %}
+      {% if product.category contains "flat-design" %}{% else %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "patagonia" and product.category contains "flat-design" %}
+      {% include product.html %}
     {% endif %}
   {% endfor %}
   </div>
@@ -39,13 +127,5 @@ ref: maps-collection
     {% endif %}
   {% endfor %}
   </div>
-  <h2>Posters</h2>
-  <div class="columns product-column">
-  {% assign products=site.products | where:"lang", page.lang %}
-  {% for product in products %}
-    {% if product.category contains "poster" %}
-      {% include product.html %}
-    {% endif %}
-  {% endfor %}
-  </div>
+
 </div>

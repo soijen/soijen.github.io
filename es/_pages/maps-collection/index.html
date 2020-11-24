@@ -1,21 +1,109 @@
 ---
-title: Colección La Patagonia | Sóijen
-description: Ver nuestra colección inspirada por la Patagonia.
+title: Nuestras Colecciónes | Sóijen
+description: Ver nuestras colecciónes.
 layout: products
 permalink: /es/maps-collection/
 ref: maps-collection
 ---
 <div class="page">
-  <h1>Colección La Patagonia</h1>
-  <h2>Echa una mirada a nuestros diseños inspirados en la loca geografía de la Patagonia.</h2>
-  <h2>Impresión Artística</h2>
+  <h2>
+    <a href="#adventure-pup">[Colección El Mundo a Pata]</a><a href="#line-art">[Colección Arte de Rallas]</a><a href="#patagonia">[Coleccíon La Patagonia]</a>
+  </h2>
+  <a name="adventure-pup" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <h1>Colección El Mundo a Pata</h1>
+  <h2>Tarjetas de Saludo</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "cards" %}
+      {% if product.category contains "adventure-pup" %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <h2>Bolsas Reutilizables</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "tote" %}
+      {% if product.category contains "adventure-pup" %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <h2>Impresiones Artísticas y Posters</h2>
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
     {% if product.category contains "art-print" %}
-      {% if product.category contains "patagonia" %}
+      {% if product.category contains "adventure-pup" %}
         {% include product.html %}
       {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  <a name="line-art" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <h1>Colección Arte de Rallas</h1>
+  <h2>Impresiones Artísticas y Posters</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "line-art" %}
+      {% if product.category contains "states" %}{% else %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "line-art" and product.category contains "states" %}
+      {% include product.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <h2>Tarjetas de Saludo</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "cards" and product.category contains "line-art" %}
+      {% if product.category contains "states" %}{% else %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "cards" and product.category contains "line-art" and product.category contains "states" %}
+      {% include product.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  <a name="patagonia" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <h1>Colección de la Patagonia</h1>
+  <h2>Impresiones Artísticas y Posters</h2>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "patagonia" %}
+      {% if product.category contains "flat-design" %}{% else %}
+        {% include product.html %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "patagonia" and product.category contains "flat-design" %}
+      {% include product.html %}
     {% endif %}
   {% endfor %}
   </div>
@@ -36,15 +124,6 @@ ref: maps-collection
       {% if product.category contains "patagonia" %}
         {% include product.html %}
       {% endif %}
-    {% endif %}
-  {% endfor %}
-  </div>
-  <h2>Posters</h2>
-  <div class="columns product-column">
-  {% assign products=site.products | where:"lang", page.lang %}
-  {% for product in products %}
-    {% if product.category contains "poster" %}
-      {% include product.html %}
     {% endif %}
   {% endfor %}
   </div>

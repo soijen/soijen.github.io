@@ -8,6 +8,7 @@ imageThumb: \assets\images\products\posters\ue6x9\1.jpg
 image2Thumb: \assets\images\products\posters\ue6x9\2.jpg
 dimensions: 6" x 9" (150mm x 230mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
+featured: 0
 etsy: https://www.etsy.com/listing/904931843/ultima-esperanza-map-mini-poster
 price: 5
 sku: 020003
@@ -16,7 +17,7 @@ stock: 1
 ref: ue6x9
 category:
 - maps
-- poster
+- art-print
 - patagonia
 - flat-design
 ---

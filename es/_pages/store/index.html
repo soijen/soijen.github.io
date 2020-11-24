@@ -7,11 +7,11 @@ ref: store
 ---
 <div class="page">
   <h1>Nuestros Diseños</h1>
-    <h2>Impresión Artística</h2>
+    <h2>Impresión Artística y Posters</h2>
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
-      {% if product.category contains "art-print" %}
+      {% if product.category contains "art-print" and product.category contains "states" %}
         {% if product.category contains "patagonia" %}{% else %}
           {% include product.html %}
         {% endif %}
@@ -21,8 +21,30 @@ ref: store
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
-      {% if product.category contains "art-print" and product.category contains "patagonia" %}
+      {% if product.category contains "art-print" %}
+        {% if product.category contains "patagonia" %}{% else %}
+          {% if product.category contains "states" %}{% else %}
+            {% include product.html %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "art-print" and product.category contains "patagonia" and product.category contains "illustration" %}
         {% include product.html %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "art-print" and product.category contains "patagonia" %}
+        {% if product.category contains "illustration" %}{% else %}
+        {% include product.html %}
+        {% endif %}
       {% endif %}
     {% endfor %}
     </div>
@@ -35,12 +57,22 @@ ref: store
       {% endif %}
     {% endfor %}
     </div>
-    <h2>Bolsas Reutilizables</h2>
+    <h2>Bolsas Reutilizables y Estuches</h2>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "tote" and product.category contains "adventure-pup" %}
+        {% include product.html %}
+      {% endif %}
+    {% endfor %}
+    </div>
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
       {% if product.category contains "tote" %}
-        {% include product.html %}
+        {% if product.category contains "adventure-pup" %}{% else %}
+          {% include product.html %}
+        {% endif %}
       {% endif %}
     {% endfor %}
     </div>
@@ -50,7 +82,9 @@ ref: store
     {% for product in products %}
       {% if product.category contains "cards" %}
         {% if product.category contains "states" %}{% else %}
-          {% include product.html %}
+          {% if product.category contains "adventure-pup" %}{% else %}
+            {% include product.html %}
+          {% endif %}
         {% endif %}
       {% endif %}
     {% endfor %}
@@ -58,16 +92,15 @@ ref: store
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
-      {% if product.category contains "cards" and product.category contains "states" %}
+      {% if product.category contains "cards" and product.category contains "adventure-pup"%}
         {% include product.html %}
       {% endif %}
     {% endfor %}
     </div>
-    <h2>Posters</h2>
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
-      {% if product.category contains "poster" %}
+      {% if product.category contains "cards" and product.category contains "states" %}
         {% include product.html %}
       {% endif %}
     {% endfor %}

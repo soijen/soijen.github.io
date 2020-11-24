@@ -63,7 +63,7 @@ body {
 }
 h1,h2,h3,h4,h5,h6 {
   color: #555;
-  font-family: 'Raleway', helvetica, sans;
+  font-family: 'Karla', helvetica, sans;
   font-weight: bold;
   padding-bottom: 0.5em;
 }
@@ -395,6 +395,9 @@ textarea {
 .hero-blog {
   background-color: #222;
   height: 40vh;
+}
+.hero-collection {
+  background-color: #E1C699;
 }
 .hero-contact {
   background-image: url(/assets/images/sophia/benitez.jpg);

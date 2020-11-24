@@ -1,6 +1,6 @@
 ---
 title: Sóijen
-description: At Sóijen we create outdoor inspired designs to get you excited for your next adventure - to the wind-swept peaks of Patagonia and beyond.
+description: At Sóijen we create outdoor inspired designs to get you excited for your next adventure.
 lang: en
 layout: default
 ref: index
@@ -14,26 +14,59 @@ ref: index
 </div>
 <div class="full-hero">
   <h2 style="text-decoration: underline;">WELCOME TO SÓIJEN</h2>
-  <h3>At Sóijen we create outdoor inspired designs to get you excited for your next adventure - to the wind-swept peaks of Patagonia and beyond.</h3>
+  <h3>At Sóijen we create outdoor inspired designs to get you excited for your next adventure, from Patagonia to New England and beyond.</h3>
   <h2><i class="fa fa-pagelines"></i></h2>
 </div>
+
 <div class="full-hero">
   <h2>OUR NEW DESIGNS</h2>
   <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products limit: 5 offset: 7 %}
-      {% if product.stock != 0 %}
+    {% for product in products %}
+      {% if product.featured != 0 %}
         {% include product.html %}
       {% endif %}
     {% endfor %}
   </div>
   <h4><a href="/store/" title="All products">see all...</a></h4>
 </div>
-<div class="full-hero hero-home2">
-  <h3>What are you waiting for?</h3>
-  <h1>START ROAMING</h1>
-  <div class="action-button"><a href="/maps-collection/">Patagonia Collection</a></div>
+
+<div class="full-hero hero-collection">
+<h2>Browse by Collection</h2>
+  <div class="columns">
+    <div class="blog-column">
+      <a href="/maps-collection#adventure-pup" title="Browse the Adventure Pup Collection">
+        <div class ="home-image">
+          <img src="/assets/images/home-collections/adventure-pup.jpg" alt="Adventure Pup Collection"/>
+          <div class="image-tag">
+            <h3>The World by Paw</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="blog-column">
+      <a href="/maps-collection#line-art" title="Browse the Line Art Collection">
+        <div class ="home-image">
+          <img src="/assets/images/home-collections/line.jpg" alt="Line Art Collection"/>
+          <div class="image-tag">
+            <h3>Line Art</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="blog-column">
+      <a href="/maps-collection#patagonia" title="Browse the Patagonia Collection">
+        <div class ="home-image">
+          <img src="/assets/images/home-collections/patagonia.jpg" alt="Patagonia Collection"/>
+          <div class="image-tag">
+            <h3>Patagonia</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
 </div>
+
 <div class="full-hero">
   <div class="columns">
     <div class="small-col">
@@ -49,11 +82,13 @@ ref: index
 <div class="videohome">
   {% include youtubePlayer.html id="DiRtfEN9dm0" %}
 </div>
+
 <div class="full-hero hero-donate">
     <h1>Get Inspired. Go Outside. & Give Back.</h1>
     <h2>Together we are planting trees in Chile & Patagonia.</h2>
     <div class="action-button"><a href="/about/#green">Learn more</a></div>
 </div>
+
 <div class="full-hero">
   <h2>RECENT POSTS</h2>
   <div class="columns">

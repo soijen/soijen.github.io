@@ -12,6 +12,7 @@ image3Thumb: \assets\images\products\prints\aventura-llama5x7\3.jpg
 image4Thumb: \assets\images\products\prints\aventura-llama5x7\4.jpg
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
+featured: 0
 etsy: https://www.etsy.com/listing/891018372/la-aventura-nos-llama-art-print-hand
 price: 9.50
 sku: 020007
@@ -21,6 +22,7 @@ ref: aventura-llama5x7
 category:
 - art-print
 - illustration
+- line-art
 ---
 The “La Aventura Nos Llama” (Adventure is calling) art print features a black-and-white illustration of the ultimate adventure-mobile, to inspire you to get on the road and explore. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
 

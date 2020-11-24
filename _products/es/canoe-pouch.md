@@ -8,6 +8,7 @@ imageThumb: \assets\images\products\totes\canoe-pouch\1.jpg
 image2Thumb: \assets\images\products\totes\canoe-pouch\1.jpg
 dimensions_es: 7.5" x 4.25" (19cm x 10.8cm)
 materials_es: 65% algodón reciclado, 35% poliéster reciclado postconsumo certificado
+featured: 0
 etsy: https://www.etsy.com/listing/905321365/el-mundo-a-pata-zippered-pouch-adventure
 price: 15
 sku: 010004
@@ -17,6 +18,7 @@ ref: canoe-pouch
 category:
 - tote
 - flat-design
+- adventure-pup
 ---
 ***AHORA ESTAMOS ACEPTANDO COMPRAS POR ADELANTADO QUE VAN A SER DESPACHADAS LA PRIMERA SEMANA DE DICIEMBRE***
 

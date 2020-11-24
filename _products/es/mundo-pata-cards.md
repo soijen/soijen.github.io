@@ -12,6 +12,7 @@ image3Thumb: \assets\images\products\cards\mundopata\3.jpg
 image4Thumb: \assets\images\products\cards\mundopata\4.jpg
 dimensions_es: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
+featured: 1
 etsy: https://www.etsy.com/listing/905048413/el-mundo-a-pata-blank-note-card-set
 price: 14.50
 sku: 040001
@@ -21,6 +22,7 @@ ref: mundo-pata-cards
 category:
 - cards
 - flat-design
+- adventure-pup
 ---
 Las tarjetas de saludo “El Mundo a Pata” destacan las aventuras al aire libre de una cachorra. Estos diseños son perfectos para mantenerse en contacto con la familia o amigos. Este set consta de 6 tarjetas, vacías en su interior e impresas en papel de calidad de archivo, amigable con el medio ambiente. Vienen además con 6 sobres blancos de papel reciclado.
 

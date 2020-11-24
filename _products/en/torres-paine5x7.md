@@ -10,6 +10,7 @@ image2Thumb: \assets\images\products\prints\torrespaine5x7\2.jpg
 image3Thumb: \assets\images\products\prints\torrespaine5x7\3.jpg
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
+featured: 0
 etsy: https://www.etsy.com/listing/891229178/torres-del-paine-art-print-hand
 price: 9.50
 sku: 020008
