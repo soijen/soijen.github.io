@@ -1,7 +1,7 @@
 ---
-title: Trekking Patagonia Austral - Set de 6 Postales
+title: Trekking Patagonia Austral | Chile | Set de 6 Postales
 description: Para enviar a tus amigos o quedarte con todos. Este set de 6 postales incluye lo mejor de la Patagonia Austral. Impresos con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Trekking Patagonia Austral - Set de 6 Postales
+name: Trekking Patagonia Austral | Chile | Set de 6 Postales
 image: \assets\images\products\postcards\pataustral-set-6\1.jpg
 image2: \assets\images\products\postcards\pataustral-set-6\2.jpg
 image3: \assets\images\products\postcards\pataustral-set-6\3.jpg

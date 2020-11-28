@@ -1,7 +1,7 @@
 ---
-title: Querido Vermont - Impresión Artística
+title: Vermont Long Trail Ilustración a Mano | Impresión Artística
 description: La ilustración “Querido Vermont” esta compuesta de trazos de color negro en un fondo blanco que dan la forma del estado de Vermont con sus principales senderos el Long Trail y la sección del Apalachian Trail. Hecha originalmente a mano con tinta, reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Querido Vermont - Impresión Artística
+name: Vermont Long Trail Ilustración a Mano | Impresión Artística
 image: \assets\images\products\prints\vermont5x7\1.jpg
 image2: \assets\images\products\prints\vermont5x7\2.jpg
 image3: \assets\images\products\prints\vermont5x7\3.jpg

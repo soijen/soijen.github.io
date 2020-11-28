@@ -1,7 +1,7 @@
 ---
-title: Tierra del Fuego - Bolsa Grande
+title: Tierra del Fuego | Bolsa Grande
 description: Inspírate en tu próxima aventura con la provincia de Tierra del Fuego con esta bolsa grande hecha con materiales 100% reciclados.
-name: Tierra del Fuego - Bolsa Grande
+name: Tierra del Fuego | Bolsa Grande
 image: \assets\images\products\totes\tdf-jumbo\2.jpg
 image2: \assets\images\products\totes\tdf-jumbo\1.jpg
 imageThumb: \assets\images\products\totes\tdf-jumbo\2.jpg

@@ -1,7 +1,7 @@
 ---
-title: Bienvenido a Casa - Set de 6 Tarjetas de Saludo
+title: Cabaña Ilustración a Mano | Set de tarjetas de saludo
 description: Las tarjetas de saludo “Bienvenido a casa” destacan un diseño de trazos de color negro en un fondo blanco que dan la forma de una cabaña de las montañas. La técnica ocupada es el dibujo de ilustración lineal. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Bienvenido a Casa - Set de 6 Tarjetas de Saludo
+name: Cabaña Ilustración a Mano | Set de tarjetas de saludo
 image: \assets\images\products\cards\bienvenidocasa\1.jpg
 image2: \assets\images\products\cards\bienvenidocasa\2.jpg
 image3: \assets\images\products\cards\bienvenidocasa\3.jpg

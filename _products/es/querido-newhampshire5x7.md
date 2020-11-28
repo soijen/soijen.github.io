@@ -1,7 +1,7 @@
 ---
-title: Querido New Hampshire - Impresión Artística
+title: New Hampshire Appalachian Trail Ilustración a Mano | Impresión Artística
 description: La ilustración “Querido New Hampshire” esta compuesta de trazos de color negro en un fondo blanco que dan la forma del estado de New Hampshire con la sección del Apalachian Trail. Hecha originalmente a mano con tinta, reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Querido New Hampshire - Impresión Artística
+name: New Hampshire Appalachian Trail Ilustración a Mano | Impresión Artística
 image: \assets\images\products\prints\newhampshire5x7\1.jpg
 image2: \assets\images\products\prints\newhampshire5x7\2.jpg
 image3: \assets\images\products\prints\newhampshire5x7\3.jpg

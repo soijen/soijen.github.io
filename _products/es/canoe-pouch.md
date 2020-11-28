@@ -1,7 +1,7 @@
 ---
-title: El Mundo a Pata - Estuche Pequeño - Cachorra en canoa
+title: Perro en canoa | Estuche con sierre | El Mundo a Pata
 description: NUEVO! Y el regalo perfecto para las fiestas! Este estuche con sierre viene de nuestra colección "El Mundo a Pata" destacando una cachorrita en una canoa. Este estuche resistente es un buen tamaño para lapizes, sobres, y otros recuerdos pequeños.
-name: El Mundo a Pata - Estuche Pequeño - Cachorra en canoa
+name: Perro en canoa | Estuche con sierre | El Mundo a Pata
 image: \assets\images\products\totes\canoe-pouch\1.jpg
 image2: \assets\images\products\totes\canoe-pouch\1.jpg
 imageThumb: \assets\images\products\totes\canoe-pouch\1.jpg

@@ -1,7 +1,7 @@
 ---
-title: Vamos a la Montaña - Set de 6 Tarjetas de Saludo
+title: Montaña Ilustración a Mano | Set de 6 tarjetas de saludo
 description: Las tarjetas de saludo “Vamos a la montaña” destacan un diseño de trazos de color negro en un fondo blanco que dan la forma de una montaña. La técnica ocupada es el dibujo de ilustración lineal. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Vamos a la Montaña - Set de 6 Tarjetas de Saludo
+name: Montaña Ilustración a Mano | Set de 6 tarjetas de saludo
 image: \assets\images\products\cards\vamosmontana\1.jpg
 image2: \assets\images\products\cards\vamosmontana\2.jpg
 image3: \assets\images\products\cards\vamosmontana\3.jpg

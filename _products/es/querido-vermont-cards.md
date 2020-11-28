@@ -1,7 +1,7 @@
 ---
-title: Querido Vermont - Set de 6 Tarjetas de Saludo
+title: Vermont Long Trail Ilustración a Mano | Set de 6 tarjetas de saludo
 description: Las tarjetas de saludo “Querido Vermont” esta compuesta de trazos de color negro en un fondo blanco que dan la forma del estado de Vermont con sus principales senderos el Long Trail y la sección del Apalachian Trail. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Querido Vermont - Set de 6 Tarjetas de Saludo
+name: Vermont Long Trail Ilustración a Mano | Set de 6 tarjetas de saludo
 image: \assets\images\products\cards\queridovermont\1.jpg
 image2: \assets\images\products\cards\queridovermont\2.jpg
 image3: \assets\images\products\cards\queridovermont\3.jpg

@@ -1,7 +1,7 @@
 ---
-title: Querido New Hampshire - Set de 6 Tarjetas de Saludo
+title: New Hampshire Appalachian Trail Ilustración a Mano | Set de 6 tarjetas de saludo
 description: Las tarjetas de saludo “Querido New Hampshire” esta compuesta de trazos de color negro en un fondo blanco con la sección del Apalachian Trail. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Querido New Hampshire - Set de 6 Tarjetas de Saludo
+name: New Hampshire Appalachian Trail Ilustración a Mano | Set de 6 tarjetas de saludo
 image: \assets\images\products\cards\queridonewhampshire\1.jpg
 image2: \assets\images\products\cards\queridonewhampshire\2.jpg
 image3: \assets\images\products\cards\queridonewhampshire\3.jpg

@@ -1,7 +1,7 @@
 ---
-title: El Mundo a Pata - Bolsa Para el Mercado - Cachorra en raquetas de nieve
+title: El Mundo a Pata | Perro en raquetas de nieve | Bolsa Para el Mercado
 description: NUEVO! Y el regalo perfecto para las fiestas! Esta bolsa divertida viene de nuestra colección "El Mundo a Pata" destacando una cachorrita en raquetas de nieve. Esta bolsa resistente y de gran capacidad es perfecta para una visita a tu feria local. Hecha en los EEUU con materiales 100% reciclados.
-name: El Mundo a Pata - Bolsa Para el Mercado - Cachorra en raquetas de nieve
+name: El Mundo a Pata | Perro en raquetas de nieve | Bolsa Para el Mercado
 image: \assets\images\products\totes\snowshoe-market\1.jpg
 image2: \assets\images\products\totes\snowshoe-market\1.jpg
 imageThumb: \assets\images\products\totes\snowshoe-market\1.jpg

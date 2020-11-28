@@ -1,7 +1,7 @@
 ---
-title: Vamos a la montaña - Impresión Artística
+title: Montaña Ilustración a Mano | Impresión Artística
 description: La ilustración “Vamos a la montaña” esta compuesta de trazos de color negro en un fondo blanco que dan la forma de una montaña. Hecha originalmente a mano con tinta, reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Vamos a la montaña - Impresión Artística
+name: Montaña Ilustración a Mano | Impresión Artística
 image: \assets\images\products\prints\montana5x7\1.jpg
 image2: \assets\images\products\prints\montana5x7\2.jpg
 image3: \assets\images\products\prints\montana5x7\3.jpg

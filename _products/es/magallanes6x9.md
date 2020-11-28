@@ -1,7 +1,7 @@
 ---
-title: Mapa Magallanes - Poster Pequeño
+title: Mapa Magallanes Poster Pequeño | Patagonia Austral | Chile
 description: Recorre la provincia de Magallanes con este poster pequeño 6x9", impreso en papel 100% reciclado.
-name: Mapa Magallanes - Poster Pequeño
+name: Mapa Magallanes Poster Pequeño | Patagonia Austral | Chile
 image: \assets\images\products\posters\mag6x9\1.jpg
 image2: \assets\images\products\posters\mag6x9\1.jpg
 imageThumb: \assets\images\products\posters\mag6x9\1.jpg

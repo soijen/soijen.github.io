@@ -1,7 +1,7 @@
 ---
-title: Parques Nacionales Patagonia Austral - Set de 7 Postales
+title: Parques Nacionales de la Patagonia Austral | Chile | Set de 7 Postales Ilustrados
 description: Este set de 7 postales ilustradas destacan los Parques Nacionales de la Patagonia Austral de Chile. Hecho a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Parques Nacionales Patagonia Austral - Set de 7 Postales
+name: Parques Nacionales de la Patagonia Austral | Chile | Set de 7 Postales Ilustrados
 image: \assets\images\products\postcards\ppnn-set-7\1.jpg
 image2: \assets\images\products\postcards\ppnn-set-7\2.jpg
 image3: \assets\images\products\postcards\ppnn-set-7\3.jpg

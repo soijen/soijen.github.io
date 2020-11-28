@@ -1,7 +1,7 @@
 ---
-title: Mapa Última Esperanza - Poster Pequeño
+title: Mapa Última Esperanza Poster Pequeño | Patagonia Austral | Chile
 description: Recorre la provincia de Última Esperanza con este poster pequeño 6x9", impreso en papel 100% reciclado.
-name: Mapa Última Esperanza - Poster Pequeño
+name: Mapa Última Esperanza Poster Pequeño | Patagonia Austral | Chile
 image: \assets\images\products\posters\ue6x9\1.jpg
 image2: \assets\images\products\posters\ue6x9\2.jpg
 imageThumb: \assets\images\products\posters\ue6x9\1.jpg

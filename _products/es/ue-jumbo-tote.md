@@ -1,7 +1,7 @@
 ---
-title: Última Esperanza - Bolsa Grande
+title: Bolsa Grande de Patagonia | Mapa de Última Esperanza | Chile
 description: Inspírate en tu próxima aventura con la provincia de Última Esperanza con esta bolsa grande hecha con materiales 100% reciclados.
-name: Última Esperanza - Bolsa Grande
+name: Bolsa Grande de Patagonia | Mapa de Última Esperanza | Chile
 image: \assets\images\products\totes\ue-jumbo\2.jpg
 image2: \assets\images\products\totes\ue-jumbo\1.jpg
 imageThumb: \assets\images\products\totes\ue-jumbo\2.jpg

@@ -1,7 +1,7 @@
 ---
-title: Bienvenido a casa - Impresión Artística
+title: Cabaña Ilustración a Mano | Impresión Artística
 description: La ilustración “Bienvenido a casa” está compuesta de trazos de color negro en un fondo blanco que dan la forma de una cabaña de las montañas. Hecha originalmente a mano con tinta, reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Bienvenido a casa - Impresión Artística
+name: Cabaña Ilustración a Mano | Impresión Artística
 image: \assets\images\products\prints\casa5x7\1.jpg
 image2: \assets\images\products\prints\casa5x7\2.jpg
 image3: \assets\images\products\prints\casa5x7\3.jpg
