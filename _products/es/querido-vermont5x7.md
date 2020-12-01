@@ -12,7 +12,7 @@ image3Thumb: \assets\images\products\prints\vermont5x7\3.jpg
 image4Thumb: \assets\images\products\prints\vermont5x7\4.jpg
 dimensions_es: 5" x 7" (127mm x 178mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/891016092/querido-vermont-art-print-hand
 price: 9.50
 sku: 020006
