@@ -19,5 +19,6 @@ category:
 - art-print
 - patagonia
 - flat-design
+- maps
 ---
 Recorre la provincia de Magallanes con este poster pequeño 6x9” (150x230 mm), impreso en papel 100% reciclado. Destacamos Punta Arenas, Parque Nacional Pali Aike, Isla Magdalena, Cabo Froward y más.

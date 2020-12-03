@@ -1,7 +1,7 @@
 ---
-title: Pueblos de la Patagonia Austral | Chile | Set de 6 Postales
+title: Ciudades de la Patagonia Austral | Chile | Set de 6 Postales
 description: Este set de 6 postales destaca las principales 6 ciudades y pueblos de la Patagonia Austral de Chile. Impresos con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-name: Pueblos de la Patagonia Austral | Chile | Set de 6 Postales
+name: Ciudades de la Patagonia Austral | Chile | Set de 6 Postales
 image: \assets\images\products\postcards\towns-set-6\1.jpg
 image2: \assets\images\products\postcards\towns-set-6\2.jpg
 image3: \assets\images\products\postcards\towns-set-6\3.jpg
@@ -16,9 +16,9 @@ featured: 0
 etsy: https://www.etsy.com/listing/904923495/towns-of-patagonia-austral-chile-set-of
 price: 10
 sku: 030003
-slug: towns-set-7
+slug: towns-set-6
 stock: 1
-ref: towns-set-7
+ref: towns-set-6
 category:
 - postcard
 - patagonia

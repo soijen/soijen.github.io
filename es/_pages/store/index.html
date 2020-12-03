@@ -41,9 +41,17 @@ ref: store
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
-      {% if product.category contains "art-print" and product.category contains "patagonia" %}
-        {% if product.category contains "illustration" %}{% else %}
+      {% if product.category contains "art-print" and product.category contains "patagonia" and product.category contains "flat-design" and product.category contains "maps" %}
         {% include product.html %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "art-print" and product.category contains "patagonia" and product.category contains "flat-design" %}
+        {% if product.category contains "maps" %}{% else %}
+          {% include product.html %}
         {% endif %}
       {% endif %}
     {% endfor %}

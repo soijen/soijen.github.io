@@ -1,7 +1,7 @@
 ---
-title: Towns of Patagonia Austral | Chile | Set of 6 Postcards
-description: This set of 6 postcards highlights 6 iconic towns of southern Chilean Patagonia. Each 4x6” postcard features minimalist, flat designs of notable landmarks, and is printed with care with thick, archival, environmentally friendly paper.
-name: Towns of Patagonia Austral | Chile | Set of 6 Postcards
+title: Cities of Patagonia Austral | Chile | Set of 6 Postcards
+description: This set of 6 postcards highlights 6 iconic cities and towns of southern Chilean Patagonia. Each 4x6” postcard features minimalist, flat designs of notable landmarks, and is printed with care with thick, archival, environmentally friendly paper.
+name: Cities of Patagonia Austral | Chile | Set of 6 Postcards
 image: \assets\images\products\postcards\towns-set-6\1.jpg
 image2: \assets\images\products\postcards\towns-set-6\2.jpg
 image3: \assets\images\products\postcards\towns-set-6\3.jpg
@@ -24,6 +24,6 @@ category:
 - patagonia
 - flat-design
 ---
-This set of 6 postcards highlights 6 iconic towns of southern Chilean Patagonia. Each 4x6” (100x150 mm) postcard features minimalist, flat designs of notable landmarks, and is printed with care with thick, archival, environmentally friendly paper.
+This set of 6 postcards highlights 6 iconic cities and towns of southern Chilean Patagonia. Each 4x6” (100x150 mm) postcard features minimalist, flat designs of notable landmarks, and is printed with care with thick, archival, environmentally friendly paper.
 
 Featuring: Puerto Natales, Punta Arenas, Cerro Sombrero, Porvenir, Puerto Williams, and Puerto Eden.
