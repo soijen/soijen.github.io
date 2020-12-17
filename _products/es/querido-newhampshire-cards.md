@@ -5,9 +5,11 @@ name: New Hampshire Appalachian Trail Ilustración a Mano | Set de 6 tarjetas de
 image: \assets\images\products\cards\queridonewhampshire\1.jpg
 image2: \assets\images\products\cards\queridonewhampshire\2.jpg
 image3: \assets\images\products\cards\queridonewhampshire\3.jpg
+image4: \assets\images\products\cards\queridonewhampshire\4.jpg
 imageThumb: \assets\images\products\cards\queridonewhampshire\1.jpg
 image2Thumb: \assets\images\products\cards\queridonewhampshire\2.jpg
 image3Thumb: \assets\images\products\cards\queridonewhampshire\3.jpg
+image4Thumb: \assets\images\products\cards\queridonewhampshire\4.jpg
 dimensions_es: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0

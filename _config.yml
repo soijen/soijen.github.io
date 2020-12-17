@@ -82,7 +82,7 @@ m:
       name: "Our Designs"
       url: "/store/"
     wholesale:
-      name: "Distributors"
+      name: "Wholesale Inquiries"
       url: "/wholesale/"
     online-orders:
       name: "SHOP"

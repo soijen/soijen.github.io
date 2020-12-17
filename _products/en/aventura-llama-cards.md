@@ -5,9 +5,11 @@ name: Adventure Dog | Blank Note Card Set | 6 A2 Cards + Envelopes
 image: \assets\images\products\cards\aventurallama\1.jpg
 image2: \assets\images\products\cards\aventurallama\2.jpg
 image3: \assets\images\products\cards\aventurallama\3.jpg
+image4: \assets\images\products\cards\aventurallama\4.jpg
 imageThumb: \assets\images\products\cards\aventurallama\1.jpg
 image2Thumb: \assets\images\products\cards\aventurallama\2.jpg
 image3Thumb: \assets\images\products\cards\aventurallama\3.jpg
+image4Thumb: \assets\images\products\cards\aventurallama\4.jpg
 dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0

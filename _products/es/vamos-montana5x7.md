@@ -6,10 +6,12 @@ image: \assets\images\products\prints\montana5x7\1.jpg
 image2: \assets\images\products\prints\montana5x7\2.jpg
 image3: \assets\images\products\prints\montana5x7\3.jpg
 image4: \assets\images\products\prints\montana5x7\4.jpg
+image5: \assets\images\products\prints\montana5x7\5.jpg
 imageThumb: \assets\images\products\prints\montana5x7\1.jpg
 image2Thumb: \assets\images\products\prints\montana5x7\2.jpg
 image3Thumb: \assets\images\products\prints\montana5x7\3.jpg
 image4Thumb: \assets\images\products\prints\montana5x7\4.jpg
+image5Thumb: \assets\images\products\prints\montana5x7\5.jpg
 dimensions_es: 5" x 7" (127mm x 178mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
