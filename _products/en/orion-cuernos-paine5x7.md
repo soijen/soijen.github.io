@@ -10,7 +10,7 @@ image2Thumb: \assets\images\products\prints\orionpaine5x7\2.jpg
 image3Thumb: \assets\images\products\prints\orionpaine5x7\3.jpg
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/898946762/orion-over-torres-del-paine-national
 price: 11.00
 sku: 020015

@@ -14,7 +14,7 @@ dimensions_es: 11" x 17" (280mm x 430mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/902789382/trekking-circuits-of-southern-patagonia
-price: 24.50
+price: 26.50
 sku: 020001
 slug: circuitos-poster
 stock: 1

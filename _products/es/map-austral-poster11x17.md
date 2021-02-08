@@ -14,7 +14,7 @@ dimensions_es: 11" x 17" (280mm x 430mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 1
 etsy: https://www.etsy.com/listing/916016663/patagonia-austral-poster-chile-thick
-price: 24.50
+price: 26.50
 sku: 020017
 slug: map-austral-poster
 stock: 1

@@ -12,7 +12,7 @@ image3Thumb: \assets\images\products\cards\mundopata\3.jpg
 image4Thumb: \assets\images\products\cards\mundopata\4.jpg
 dimensions_es: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/905048413/el-mundo-a-pata-blank-note-card-set
 price: 14.50
 sku: 040001

@@ -14,7 +14,7 @@ dimensions: 11" x 17" (280mm x 430mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/916693813/cities-of-patagonia-austral-poster-chile
-price: 24.50
+price: 26.50
 sku: 020018
 slug: cities-poster
 stock: 1
