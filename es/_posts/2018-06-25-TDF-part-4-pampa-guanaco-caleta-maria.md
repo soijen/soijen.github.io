@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Sóijen
 title: 'Tierra del Fuego, Chile Parte 4 - Pampa Guanaco a Caleta María'
 description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. Detalles sobre la ruta entre Pampa Guanaco y Caleta María.
 latitude: '-54.476871'

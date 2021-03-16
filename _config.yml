@@ -32,6 +32,8 @@ collections:
     output: true
   products:
     output: true
+  portfolio:
+    output: true
 
 defaults:
   #languages
@@ -66,46 +68,67 @@ defaults:
       type: "redirects"
     values:
       layout: "redirect"
+  -
+    scope:
+      path: "_portfolio/en"
+    values:
+      lang: "en"
+      layout: default
+  -
+    scope:
+      path: "_portfolio/es"
+    values:
+      lang: "es"
+      layout: default
+  -
+    scope:
+      path: "es/_posts"
+    values:
+      layout: post
+      author: Sóijen
+      featured: 0
+  -
+    scope:
+      path: "en/_posts"
+    values:
+      layout: post
+      author: Sóijen
+      featured: 0
+
 #menu translations
 m:
   en:
-    home:
-      name: "Home"
-      url: "/"
+    store:
+      name: "SHOP"
+      url: "/store/"
     about:
       name: "Our Story"
       url: "/about/"
     contact:
       name: "Contact"
       url: "/contact/"
-    store:
-      name: "Our Designs"
-      url: "/store/"
     wholesale:
-      name: "Wholesale Inquiries"
+      name: "Retailers"
       url: "/wholesale/"
-    online-orders:
-      name: "SHOP"
-      url: "https://www.etsy.com/shop/Soijen"
+    #portfolio:
+    #  name: "Portfolio"
+    #  url: "/portfolio/"
   es:
-      home:
-        name: "Inicio"
-        url: "/es/"
+      store:
+        name: "TIENDA"
+        url: "/es/store/"
       about:
         name: "Nuestra Historia"
         url: "/es/about/"
       contact:
         name: "Contacto"
         url: "/es/contact/"
-      store:
-        name: "Nuestros Diseños"
-        url: "/es/store/"
       wholesale:
         name: "Distribuidores"
         url: "/es/wholesale/"
-      online-orders:
-        name: "TIENDA"
-        url: "https://www.etsy.com/shop/Soijen"
+      #portfolio:
+      #  name: "Portafolio"
+      #  url: "/es/portfolio/"
 t:
   en:
     cart: Cart

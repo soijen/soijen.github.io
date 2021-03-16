@@ -1,23 +1,20 @@
 ---
 title: Poster Mapa de Patagonia Austral | Chile
-description: Este poster/mapa 11x17" (280x430mm) incluye lo mejor de la Patagonia Austral, Chile, y está impreso con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
 name: Poster Mapa de Patagonia Austral | Chile
-image: \assets\images\products\posters\mapaustral11x17\1.jpg
-image2: \assets\images\products\posters\mapaustral11x17\2.jpg
-image3: \assets\images\products\posters\mapaustral11x17\3.jpg
-image4: \assets\images\products\posters\mapaustral11x17\4.jpg
-imageThumb: \assets\images\products\posters\mapaustral11x17\1.jpg
-image2Thumb: \assets\images\products\posters\mapaustral11x17\2.jpg
-image3Thumb: \assets\images\products\posters\mapaustral11x17\3.jpg
-image4Thumb: \assets\images\products\posters\mapaustral11x17\4.jpg
-dimensions_es: 11" x 17" (280mm x 430mm)
-materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
+description: Este poster/mapa 11x17" (280x430mm) incluye lo mejor de la Patagonia Austral, Chile, y está impreso con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
+imagePath: \assets\images\products\posters\mapaustral11x17
+image: 1
+image2: 1
+image3: 1
+image4: 1
+dimensions: 11" x 17" (280mm x 430mm)
+materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 1
 etsy: https://www.etsy.com/listing/916016663/patagonia-austral-poster-chile-thick
 price: 26.50
 sku: 020017
-slug: map-austral-poster
 stock: 1
+slug: map-austral-poster
 ref: map-austral-poster
 category:
 - art-print

@@ -1,8 +1,6 @@
 ---
 title: Tierra del Fuego, Chile Part 4 - Pampa Guanaco to Caleta Maria
 description: Logistical guide for planning your road trip to the Chilean side of Tierra del Fuego. Details of the route between Pampa Guanaco and Caleta Maria via Lago Fagnano.
-author: Sóijen
-layout: post
 latitude: -54.476871
 longitude: -68.969569
 permalink: /tierra-del-fuego-part-4-pampa-guanaco-caleta-maria/

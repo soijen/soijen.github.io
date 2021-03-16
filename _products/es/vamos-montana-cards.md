@@ -1,21 +1,19 @@
 ---
 title: Montaña Ilustración a Mano | Set de 6 tarjetas de saludo
-description: Las tarjetas de saludo “Vamos a la montaña” destacan un diseño de trazos de color negro en un fondo blanco que dan la forma de una montaña. La técnica ocupada es el dibujo de ilustración lineal. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
 name: Montaña Ilustración a Mano | Set de 6 tarjetas de saludo
-image: \assets\images\products\cards\vamosmontana\1.jpg
-image2: \assets\images\products\cards\vamosmontana\2.jpg
-image3: \assets\images\products\cards\vamosmontana\3.jpg
-imageThumb: \assets\images\products\cards\vamosmontana\1.jpg
-image2Thumb: \assets\images\products\cards\vamosmontana\2.jpg
-image3Thumb: \assets\images\products\cards\vamosmontana\3.jpg
-dimensions_es: A2 - 4.25" x 5.5" (108mm x 140mm)
-materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
+description: Las tarjetas de saludo “Vamos a la montaña” destacan un diseño de trazos de color negro en un fondo blanco que dan la forma de una montaña. La técnica ocupada es el dibujo de ilustración lineal. La ilustración está hecha originalmente a mano con tinta, y reimpresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
+imagePath: \assets\images\products\cards\vamosmontana
+image: 1
+image2: 1
+image3: 1
+dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
+materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/891218134/vamos-a-la-montana-blank-note-card-set-5
 price: 14.50
 sku: 040003
-slug: vamos-montana-cards
 stock: 1
+slug: vamos-montana-cards
 ref: vamos-montana-cards
 category:
 - cards

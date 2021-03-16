@@ -1,12 +1,17 @@
 ---
-title: Nuestros Diseños | Sóijen
-description: Nuestros diseños
+title: Nuestros Productos | Sóijen
+description: Ver nuestros diseños.
 layout: products
 permalink: /es/store/
 ref: store
 ---
 <div class="page">
-  <h1>Nuestros Diseños</h1>
+  <h1>Nuestros Productos</h1>
+    <h4>
+      <a href="#art-prints"> Impresión Artística y Posters </a>--<a href="#postcards"> Postales </a>--<a href="#tote-bags"> Bolsas Reutilizables y Estuches </a>--<a href="#note-cards"> Tarjetas de Saludo </a>--<a href="#woodworking"> Madera </a>
+    </h4>
+    <h4>o <a href="/es/maps-collection" title="buscar por colección">BUSCAR POR COLECCIÓN</a></h4>
+    <a name="art-prints" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Impresión Artística y Posters</h2>
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
@@ -24,7 +29,23 @@ ref: store
       {% if product.category contains "art-print" %}
         {% if product.category contains "patagonia" %}{% else %}
           {% if product.category contains "states" %}{% else %}
+          {% if product.category contains "vermont" %}
             {% include product.html %}
+          {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "art-print" %}
+        {% if product.category contains "patagonia" %}{% else %}
+          {% if product.category contains "states" %}{% else %}
+          {% if product.category contains "vermont" %}{% else %}
+            {% include product.html %}
+          {% endif %}
           {% endif %}
         {% endif %}
       {% endif %}
@@ -56,6 +77,7 @@ ref: store
       {% endif %}
     {% endfor %}
     </div>
+    <a name="postcards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Postales</h2>
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
@@ -65,6 +87,7 @@ ref: store
       {% endif %}
     {% endfor %}
     </div>
+    <a name="tote-bags" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Bolsas Reutilizables y Estuches</h2>
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
@@ -84,6 +107,7 @@ ref: store
       {% endif %}
     {% endfor %}
     </div>
+    <a name="note-cards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Tarjetas de Saludo</h2>
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
@@ -91,7 +115,23 @@ ref: store
       {% if product.category contains "cards" %}
         {% if product.category contains "states" %}{% else %}
           {% if product.category contains "adventure-pup" %}{% else %}
+          {% if product.category contains "vermont" %}
             {% include product.html %}
+          {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "cards" %}
+        {% if product.category contains "states" %}{% else %}
+          {% if product.category contains "adventure-pup" %}{% else %}
+          {% if product.category contains "vermont" %}{% else %}
+            {% include product.html %}
+          {% endif %}
           {% endif %}
         {% endif %}
       {% endif %}
@@ -113,32 +153,14 @@ ref: store
       {% endif %}
     {% endfor %}
     </div>
+    <a name="woodworking" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Madera</h2>
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
-      {% if product.category contains "wood" %}
+      {% if product.category contains "wood"%}
         {% include product.html %}
       {% endif %}
     {% endfor %}
     </div>
-  <h2><i class="fa fa-pagelines"></i></h2>
-  <a name="partners" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-  <div class="columns">
-    <div class="small-col">
-      <img src="/assets/images/products/instore.jpg" alt="Sóijen in stores">
-    </div>
-    <div class="large-col">
-      <h1>Encuéntranos en Tiendas</h1>
-      <p>Estamos orguillosos de trabajor con negocios locales en la Patagonia. Encuentra nuestros diseños y productos en las tiendas abajo.</p>
-      <h3>Puerto Natales, Chile</h3>
-        <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> <strong>Mandala Andino</strong> Manuel Bulnes 301</p>
-        <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> <strong>Day Zero</strong> Baquedano 955</p>
-      <h3>Punta Arenas, Chile</h3>
-        <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> <strong>Casa La Porfía</strong> Pdte. Federico Errázuriz 928</p>
-        <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> <strong>La Galería</strong> Avenida Colón 511</p>
-      </br>
-      <p>¿Tienes una tienda y quieres ofrecer nuestros productos? <a href="/es/wholesale/" title="Distribuidores">Visita nuestra página para distribuidores</a>.</p>
-    </div>
-  </div>
 </div>

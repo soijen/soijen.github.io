@@ -1,21 +1,19 @@
 ---
 title: Hand Illustrated Torres del Paine National Park | Art Print | Patagonia Chile
-description: Take yourself back to your adventures in Patagonia with this print of the iconic granite towers in Torres del Paine National Park. This black-and-white illustration was originally hand drawn with ink and reprinted with care on thick, archival, environmentally friendly paper.
 name: Hand Illustrated Torres del Paine National Park | Art Print | Patagonia Chile
-image: \assets\images\products\prints\torrespaine5x7\1.jpg
-image2: \assets\images\products\prints\torrespaine5x7\2.jpg
-image3: \assets\images\products\prints\torrespaine5x7\3.jpg
-imageThumb: \assets\images\products\prints\torrespaine5x7\1.jpg
-image2Thumb: \assets\images\products\prints\torrespaine5x7\2.jpg
-image3Thumb: \assets\images\products\prints\torrespaine5x7\3.jpg
+description: Take yourself back to your adventures in Patagonia with this print of the iconic granite towers in Torres del Paine National Park. This black-and-white illustration was originally hand drawn with ink and reprinted with care on thick, archival, environmentally friendly paper.
+imagePath: \assets\images\products\prints\torrespaine5x7
+image: 1
+image2: 1
+image3: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/891229178/torres-del-paine-art-print-hand
 price: 9.50
 sku: 020008
-slug: torrespaine5x7
 stock: 1
+slug: torrespaine5x7
 ref: torrespaine5x7
 category:
 - art-print

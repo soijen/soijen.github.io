@@ -8,58 +8,58 @@ head:
   <div class="columns gallery">
     <div class="small-col gallery-thumbs" id="gallery-thumbs">
       <div class="current">
-        <img src="{{ page.imageThumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image }}"/>
+        <img src="{{ page.imagePath }}/1.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/1.jpg"/>
       </div>
       <div>
-        <img src="{{ page.image2Thumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image2 }}"/>
+        <img src="{{ page.imagePath }}/2.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/2.jpg"/>
       </div>
       {% if page.image3 %}
       <div>
-        <img src="{{ page.image3Thumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image3 }}"/>
+        <img src="{{ page.imagePath }}/3.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/3.jpg"/>
       </div>
       {% endif %}
       {% if page.image4 %}
       <div>
-        <img src="{{ page.image4Thumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image4 }}"/>
+        <img src="{{ page.imagePath }}/4.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/4.jpg"/>
       </div>
       {% endif %}
       {% if page.image5 %}
       <div>
-        <img src="{{ page.image5Thumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image5 }}"/>
+        <img src="{{ page.imagePath }}/5.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/5.jpg"/>
       </div>
       {% endif %}
       {% if page.image6 %}
       <div>
-        <img src="{{ page.image6Thumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image6 }}"/>
+        <img src="{{ page.imagePath }}/6.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/6.jpg"/>
       </div>
       {% endif %}
       {% if page.image7 %}
       <div>
-        <img src="{{ page.image7Thumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image7 }}"/>
+        <img src="{{ page.imagePath }}/7.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/7.jpg"/>
       </div>
       {% endif %}
       {% if page.image8 %}
       <div>
-        <img src="{{ page.image8Thumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image8 }}"/>
+        <img src="{{ page.imagePath }}/8.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/8.jpg"/>
       </div>
       {% endif %}
       {% if page.image9 %}
       <div>
-        <img src="{{ page.image9Thumb }}" alt="{{ page.name }}" class="thumbnail"
-        data-large-version="{{ page.image9 }}"/>
+        <img src="{{ page.imagePath }}/9.jpg" alt="{{ page.name }}" class="thumbnail"
+        data-large-version="{{ page.imagePath }}/9.jpg"/>
       </div>
       {% endif %}
     </div>
     <div class="large-col gallery-photo" id="gallery-photo">
-      <img src="{{ page.image }}" alt="{{ page.name }}" class="thumbnail"/>
+      <img src="{{ page.imagePath }}/1.jpg" alt="{{ page.name }}" class="thumbnail"/>
     </div>
   </div>
   <div class="product-description">
@@ -85,15 +85,13 @@ head:
             <strong>
               {{site.t[page.lang].dimensions}}:
             </strong>
-              {% if page.lang == 'en' %}{{ page.dimensions}}{% endif %}
-              {% if page.lang == 'es' %}{{ page.dimensions_es}}{% endif %}
+              {{ page.dimensions}}
           </p>
           <p>
             <strong>
               {{site.t[page.lang].materials}}:
             </strong>
-              {% if page.lang == 'en' %}{{ page.materials}}{% endif %}
-              {% if page.lang == 'es' %}{{ page.materials_es}}{% endif %}
+              {{ page.materials}}
           </p>
           <div class="action-button"><a href="{{ page.etsy }}" title="{{ page.name }}">{{site.t[page.lang].buy}}</a></div>
         </div>

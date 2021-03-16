@@ -1,10 +1,6 @@
 ---
-layout: post
-author: Sóijen
 title: 'Tierra del Fuego, Chile en Van - un Resumen'
-description: >-
-  Guía logística para organizar tu viaje por tierra, en el lado Chileno de
-  Tierra del Fuego.
+description: Guía logística para organizar tu viaje por tierra, en el lado Chileno de Tierra del Fuego. 
 latitude: '-53.8671117'
 longitude: '-69.2972139'
 permalink: /es/tierra-del-fuego-van-overview/

@@ -1,12 +1,10 @@
 ---
 title: A Visit to Glaciar Bernal in Fiordo de las Montañas
 description: A short trek to Glaciar Bernal in the Reserva Nacional Kawésqar, together with our friends at Patagonian Fjord Expeditions.
-author: Sóijen
-layout: post
 latitude: -51.868201
 longitude: -73.316845
-permalink: /visit-glaciar-bernal-fiordo-montanas/
 postHero: /assets/images/puerto-natales/fiordo-montanas/glaciar-bernal-cover.jpg
+permalink: /visit-glaciar-bernal-fiordo-montanas/
 ref: visit-glaciar-bernal-fiordo-montanas
 region: Ultima-Esperanza
 tags:

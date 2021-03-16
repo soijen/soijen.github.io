@@ -1,19 +1,18 @@
 ---
 title: Patagonia Jumbo Tote Bag | Tierra del Fuego | Chile
-description: Get inspired for your next adventure in the province of Tierra del Fuego with this jumbo tote bag, made 100% of recycled material.
 name: Patagonia Jumbo Tote Bag | Tierra del Fuego | Chile
-image: \assets\images\products\totes\tdf-jumbo\2.jpg
-image2: \assets\images\products\totes\tdf-jumbo\1.jpg
-imageThumb: \assets\images\products\totes\tdf-jumbo\2.jpg
-image2Thumb: \assets\images\products\totes\tdf-jumbo\1.jpg
+description: Get inspired for your next adventure in the province of Tierra del Fuego with this jumbo tote bag, made 100% of recycled material.
+imagePath: \assets\images\products\totes\tdf-jumbo
+image: 1
+image2: 1
 dimensions: 19" x 16" x 4" with 25" handle (48.2cm x 40.6cm x 10.2cm with 63.5cm handle)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 0
 etsy: http://etsy.com/shop/soijen
 price: 26
 sku: 010001
-slug: tdf-jumbo-tote
 stock: 0
+slug: tdf-jumbo-tote
 ref: tdf-jumbo-tote
 category:
 - maps

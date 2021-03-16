@@ -1,8 +1,6 @@
 ---
 title: Tierra del Fuego, Chile by Van - An Overview
 description: Logistical guide for planning your road trip to the Chilean side of Tierra del Fuego.
-author: Sóijen
-layout: post
 latitude: -53.8671117
 longitude: -69.2972139
 permalink: /tierra-del-fuego-van-overview/

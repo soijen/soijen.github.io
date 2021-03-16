@@ -1,6 +1,7 @@
 ---
 title: Corriendo al Sur del Mundo - Los Dientes De Navarino
 description: Dientes de Navarino - Nuestra aventura en el sendero más austral del mundo, junto a recomendaciones para terminar el circuito en un día.
+featured: 1
 author: Sóijen
 layout: post
 latitude: -54.9402407
@@ -31,6 +32,7 @@ La duración está descrita con un signo de interrogación debido a que el tiemp
   <li><strong>Barro:</strong> La famosa turba Patagónica, especialmente en la segunda mitad del circuito.</li>
   <li><strong>Clima:</strong> Esto es Patagonia. Tu puedes experimentar las cuatro estaciones durante todo el día.</li>
 </ol>
+
 
 {% include youtubePlayer.html id="DiRtfEN9dm0" %}
 

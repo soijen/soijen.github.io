@@ -2,7 +2,6 @@
   <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
   <label for="mobile-menu" class="show-mobile-menu"><i class="fa fa-bars"></i></label>
   <ul class="header-nav">
-    <li><span class="langselect">{% include langselect.html %}</span></li>
     {% for menu in site.m[page.lang] %}
       <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
     {% endfor %}
@@ -24,6 +23,7 @@
         {% endfor %}
       </ul>
     </li>
+    <li><span class="langselect">{% include langselect.html %}</span></li>
     <!--<li class="store-link">
       <a class="cart snipcart-checkout" href="#"><i class="fa fa-shopping-cart"></i> {{site.t[page.lang].cart}}</a>
     </li>

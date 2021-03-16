@@ -12,14 +12,11 @@ ref: index
   </ul>
 </div>
 <div class="full-hero hero-home">
+    <h1>INSPIRADO POR LA AVENTURA</h1>
 </div>
+
 <div class="full-hero">
-  <h2 style="text-decoration: underline;">BIENVENIDO A SÓIJEN</h2>
-  <h3>En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura, desde la Patagonia a New England y más allá.</h3>
-  <h2><i class="fa fa-pagelines"></i></h2>
-</div>
-<div class="full-hero">
-  <h2>NUESTROS NUEVOS DISEÑOS</h2>
+  <h2>-NUEVO-</h2>
   <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
@@ -28,45 +25,86 @@ ref: index
       {% endif %}
     {% endfor %}
   </div>
-  <h4><a href="/es/store/" title="Todos los productos">ver más...</a></h4>
+  <div class="action-button">
+    <a href="/es/store/" title="Todos nuestros productos">VER TODOS</a>
+  </div>
 </div>
-
+<div class="full-hero hero-description">
+  <div class="home-description">
+    <h3>En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura, desde la Patagonia a New England y más allá.</h3>
+    <h2><i class="fa fa-pagelines"></i></h2>
+  </div>
+</div>
 <div class="full-hero hero-collection">
-<h2>Ver por Colección</h2>
+  <h2>-COLECCIÓNES DESTACADAS-</h2>
   <div class="columns">
     <div class="blog-column">
-      <a href="/es/maps-collection#adventure-pup" title="Ver la Colección El Mundo a Pata">
+      <a href="/es/maps-collection#patagonia" title="Ver la Colección de la Patagonia">
         <div class ="home-image">
-          <img src="/assets/images/home-collections/adventure-pup.jpg" alt="Colección El Mundo a Pata"/>
-          <div class="image-tag">
-            <h3>El Mundo a Pata</h3>
+          <img src="/assets/images/home-collections/patagonia.jpg" alt="Colección de la Patagonia"/>
+          <div class="image-title">
+            <h3>La Patagonia</h3>
           </div>
         </div>
       </a>
     </div>
     <div class="blog-column">
+      <a href="/es/maps-collection#adventure-pup" title="Ver la Colección El Mundo a Pata">
+        <div class ="home-image">
+          <img src="/assets/images/home-collections/adventure-pup.jpg" alt="Colección El Mundo a Pata"/>
+          <div class="image-title">
+            <h3>El Mundo a Pata</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="columns">
+    <div class="blog-column">
       <a href="/es/maps-collection#line-art" title="Ver la Colección Arte de Rallas">
         <div class ="home-image">
           <img src="/assets/images/home-collections/line.jpg" alt="Colección Arte de Rallas"/>
-          <div class="image-tag">
+          <div class="image-title">
             <h3>Dibujo a Lineas</h3>
           </div>
         </div>
       </a>
     </div>
     <div class="blog-column">
-      <a href="/es/maps-collection#patagonia" title="Ver la Colección de la Patagonia">
+      <a href="/es/maps-collection#vermont" title="Browse the Vermont Collection">
         <div class ="home-image">
-          <img src="/assets/images/home-collections/patagonia.jpg" alt="Colección de la Patagonia"/>
-          <div class="image-tag">
-            <h3>La Patagonia</h3>
+          <img src="/assets/images/home-collections/vermont.jpg" alt="Colección Vermont"/>
+          <div class="image-title">
+            <h3>Vermont</h3>
           </div>
         </div>
       </a>
     </div>
   </div>
 </div>
-
+<div class="full-hero hero-donate">
+    <h2>Juntos estamos defendiendo los lugares salvajes de la Patagonia.</h2>
+    <div class="action-button"><a href="/about/#green">Aprende más</a></div>
+</div>
+<div class="full-hero">
+  <div class="columns">
+    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts %}
+    {% if post.featured == 1 %}
+    <div class="small-col">
+      <h2>Blog Destacado</h2>
+      <h3>{{ post.title }}</h3>
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">leer más...</a>
+    </div>
+    <div class="large-col">
+      <a href="{{ post.url }}"><img src="{{ post.postHero }}" alt="{{ post.title }}"></a>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+<!--
 <div class="full-hero">
   <div class="columns">
     <div class="small-col">
@@ -82,24 +120,4 @@ ref: index
 <div class="videohome">
   {% include youtubePlayer.html id="DiRtfEN9dm0" %}
 </div>
-<div class="full-hero hero-donate">
-    <h1>Inspírate. Disfruta. Y Contribuye.</h1>
-    <h2>Juntos estamos plantando arboles en Chile y Patagonia.</h2>
-    <div class="action-button"><a href="/es/about/#green">Aprende más</a></div>
-</div>
-<div class="full-hero">
-  <h2>PUBLICACIONES RECIENTES</h2>
-  <div class="columns">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts limit:3 %}
-    <div class="blog-column">
-      <a href="{{ post.url }}">
-        <div class="posts-image" style="background-image:url({{ post.postHero }})">
-          <h3>{{ post.title }}</h3>
-        </div>
-      </a>
-    </div>
-    {% endfor %}
-  </div>
-  <h4><a href="/es/blog/" title="Blog">ver más publicaciones...</a></h4>
-</div>
+-->

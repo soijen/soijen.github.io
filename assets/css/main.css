@@ -378,14 +378,13 @@ textarea {
   font-size: 1.3rem;
   padding-bottom: 1.1rem;
 }
-.hero-donate h2, .hero-home h2 {
-  text-shadow: 1px 1px 2px #222;
-}
-.hero-donate h1, .hero-donate h2 {
-  text-shadow: 1px 1px 2px #000;
-}
-.hero-donate h1, .hero-donate h2, .hero-home h1, .hero-home2 h1, .hero-home h2, .hero-contact h1, .hero-about h1, .hero-blog h1, .hero-blog h2, .hero-wholesale h1 {
+.hero-contact h1, .hero-about h1, .hero-blog h1, .hero-blog h2, .hero-wholesale h1 {
   color: #fff;
+}
+.hero-home h1 {
+  color: #fff;
+  font-size: 4rem;
+  text-shadow: 4px 4px 4px #000;
 }
 .hero-about {
   background-image: url(/assets/images/about-us-square.jpg);
@@ -396,8 +395,19 @@ textarea {
   background-color: #222;
   height: 40vh;
 }
-.hero-collection {
-  background-color: #E1C699;
+.hero-description {
+  background-color: #057D9F;
+  opacity: 90%;
+}
+.home-description {
+  width: 60%;
+  margin: auto;
+}
+.home-description h3, .home-description h2 {
+  color: #fff;
+  letter-spacing: 0.3em;
+  line-height: 2em;
+  padding-bottom: 0;
 }
 .hero-contact {
   background-image: url(/assets/images/sophia/benitez.jpg);
@@ -405,20 +415,22 @@ textarea {
   height: 71vh;
 }
 .hero-donate {
-  background-image: url(/assets/images/bosque.jpg);
-  background-position: top right;
-  height: 90vh;
+  background-image: url(/assets/images/home-collections/protect.jpg);
+  background-position: center center;
+  height: 80vh;
+  opacity: 85%;
   margin-top: 10vh;
 }
-.hero-home {
-  background-image: url(/assets/images/heros/hero-home.jpg);
-  background-position: center;
-  height: 70vh;
+.hero-donate h2 {
+  color: #fff;
+  padding-top: 8vh;
+  text-shadow: 2px 2px 2px #222;
 }
-.hero-home2 {
-  background-image: url(/assets/images/isla-navarino/dientes/j-paso-snow.jpg);
-  background-position: center center;
-  height: 90vh;
+.hero-home {
+  background-attachment: fixed;
+  background-image: url(/assets/images/home-collections/banner.jpg);
+  background-position: center;
+  height: 80vh;
 }
 .hero-posts {
   background-position: center center;
@@ -428,6 +440,9 @@ textarea {
   background-image: url(/assets/images/products/instore.jpg);
   background-position: 50% 70%;
   height: 71vh;
+}
+.hero-portfolio {
+  height: 50vh;
 }
 .rlogo img {
   width: 16vh;
@@ -476,12 +491,50 @@ textarea {
 .small-col {
   box-sizing: border-box;
   flex: 1 1 auto;
-  max-width: 350px;
+  max-width: 300px;
   vertical-align: middle;
 }
 .small-col img {
   padding: 0;
   margin: 0;
+}
+.home-image {
+  box-sizing: border-box;
+  position: relative;
+}
+.home-image img {
+  border-radius: 10px;
+  height: 60vh;
+  object-fit: cover;
+  padding: 0;
+  margin: 0;
+}
+.image-title {
+  height: auto;
+  background-color: #000;
+  opacity: 80%;
+  position: absolute;
+  bottom: 2vh;
+  width: 100%;
+}
+.image-title h3 {
+  color: #fff;
+  padding-bottom: 2vh;
+  padding-top: 2vh;
+  text-transform: capitalize;
+}
+.portfolio-tag {
+    margin: 3vh 0;
+}
+.tag {
+  background-color: #FFB300;
+  border-radius: 10px;
+  color: #fff;
+  margin: 10vh 1vh;
+  padding: .5vh;
+}
+.home-image:hover {
+  opacity: 80%;
 }
 .product a {
   opacity: 1;
@@ -686,6 +739,7 @@ textarea {
 }
 .page h4 {
   margin: 1em 0;
+  text-align: center;
 }
 
 
@@ -1119,7 +1173,7 @@ textarea {
     letter-spacing: 0;
   }
   .hero-home {
-    background-image: url(/assets/images/heros/hero-home-mobile.jpg);
+    background-image: url(/assets/images/home-collections/banner.jpg);
     height: 60vh;
   }
 }

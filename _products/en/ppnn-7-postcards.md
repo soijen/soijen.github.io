@@ -1,23 +1,20 @@
 ---
 title: National Parks of Patagonia Austral | Chile | Set of 7 Illustrated Postcards
-description: This set of 7 illustrated postcards highlights the National Parks of southern Patagonia, Chile. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
 name: National Parks of Patagonia Austral | Chile | Set of 7 Illustrated Postcards
-image: \assets\images\products\postcards\ppnn-set-7\1.jpg
-image2: \assets\images\products\postcards\ppnn-set-7\2.jpg
-image3: \assets\images\products\postcards\ppnn-set-7\3.jpg
-image4: \assets\images\products\postcards\ppnn-set-7\4.jpg
-imageThumb: \assets\images\products\postcards\ppnn-set-7\1.jpg
-image2Thumb: \assets\images\products\postcards\ppnn-set-7\2.jpg
-image3Thumb: \assets\images\products\postcards\ppnn-set-7\3.jpg
-image4Thumb: \assets\images\products\postcards\ppnn-set-7\4.jpg
+description: This set of 7 illustrated postcards highlights the National Parks of southern Patagonia, Chile. Originally hand drawn with ink, reprinted with care on thick, archival, environmentally friendly paper.
+imagePath: \assets\images\products\postcards\ppnn-set-7
+image: 1
+image2: 1
+image3: 1
+image4: 1
 dimensions: 4" x 6" (100mm x 150mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/904392327/national-parks-of-patagonia-austral
 price: 10.50
 sku: 030002
-slug: ppnn-set-7
 stock: 1
+slug: ppnn-set-7
 ref: pppnn-set-7
 category:
 - postcard

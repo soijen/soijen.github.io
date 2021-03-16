@@ -1,23 +1,20 @@
 ---
 title: Circuitos de Trekking Patagonia Austral | Chile | Poster
-description: Regresa a las montañas con este poster 11x17" de los circuitos de trekking de la Patagonia austral, impreso con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
 name: Circuitos de Trekking Patagonia Austral | Chile | Poster
-image: \assets\images\products\posters\circuitostrekking11x17\1.jpg
-image2: \assets\images\products\posters\circuitostrekking11x17\2.jpg
-image3: \assets\images\products\posters\circuitostrekking11x17\3.jpg
-image4: \assets\images\products\posters\circuitostrekking11x17\4.jpg
-imageThumb: \assets\images\products\posters\circuitostrekking11x17\1.jpg
-image2Thumb: \assets\images\products\posters\circuitostrekking11x17\2.jpg
-image3Thumb: \assets\images\products\posters\circuitostrekking11x17\3.jpg
-image4Thumb: \assets\images\products\posters\circuitostrekking11x17\4.jpg
-dimensions_es: 11" x 17" (280mm x 430mm)
-materials_es: 100% papel reciclado de desechos postconsumos. Certificado FSC.
+description: Regresa a las montañas con este poster 11x17" de los circuitos de trekking de la Patagonia austral, impreso con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
+imagePath: \assets\images\products\posters\circuitostrekking11x17
+image: 1
+image2: 1
+image3: 1
+image4: 1
+dimensions: 11" x 17" (280mm x 430mm)
+materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/902789382/trekking-circuits-of-southern-patagonia
 price: 26.50
 sku: 020001
-slug: circuitos-poster
 stock: 1
+slug: circuitos-poster
 ref: circuitos-poster
 category:
 - art-print
