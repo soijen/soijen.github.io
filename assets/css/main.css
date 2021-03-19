@@ -997,7 +997,7 @@ textarea {
     background-color: rgba(255,255,255,0.1);
   }
   .header-nav .dropdown:hover .drop-menu,
-  .header-nav .drop-trigger:after, .post-aside, .top-shortcut, .cc-text {
+  .header-nav .drop-trigger:after, .post-aside, .top-shortcut, .cc-text, .home-blog-hero {
     display: none;
   }
   .page {

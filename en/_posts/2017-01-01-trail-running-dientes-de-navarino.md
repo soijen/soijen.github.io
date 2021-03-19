@@ -1,7 +1,7 @@
 ---
 title: Trail Running at the End of the World - Dientes de Navarino
 description: Dientes de Navarino - the southernmost trail in the world and must-do in Patagonia. Our experience and recommendations to complete the circuit in one day.
-featured: 1
+featured: 0
 author: Sóijen
 layout: post
 latitude: -54.9402407

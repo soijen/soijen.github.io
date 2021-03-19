@@ -1,7 +1,6 @@
 ---
 title: Corriendo al Sur del Mundo - Los Dientes De Navarino
 description: Dientes de Navarino - Nuestra aventura en el sendero más austral del mundo, junto a recomendaciones para terminar el circuito en un día.
-featured: 1
 author: Sóijen
 layout: post
 latitude: -54.9402407

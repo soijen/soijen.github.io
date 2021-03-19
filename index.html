@@ -60,21 +60,21 @@ ref: index
   </div>
   <div class="columns">
     <div class="blog-column">
-      <a href="/maps-collection#vermont" title="Browse the Vermont Collection">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/vermont.jpg" alt="Vermont Collection"/>
-          <div class="image-title">
-            <h3>Vermont</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="blog-column">
       <a href="/maps-collection#line-art" title="Browse the Line Art Collection">
         <div class ="home-image">
           <img src="/assets/images/home-collections/line.jpg" alt="Line Art Collection"/>
           <div class="image-title">
             <h3>Line Art</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="blog-column">
+      <a href="/maps-collection#vermont" title="Browse the Vermont Collection">
+        <div class ="home-image">
+          <img src="/assets/images/home-collections/vermont.jpg" alt="Vermont Collection"/>
+          <div class="image-title">
+            <h3>Vermont</h3>
           </div>
         </div>
       </a>
@@ -97,7 +97,7 @@ ref: index
       {{ post.excerpt }}
       <a href="{{ post.url }}">read more...</a>
     </div>
-    <div class="large-col">
+    <div class="large-col home-blog-hero">
       <a href="{{ post.url }}"><img src="{{ post.postHero }}" alt="{{ post.title }}"></a>
     </div>
     {% endif %}
