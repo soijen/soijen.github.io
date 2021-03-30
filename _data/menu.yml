@@ -89,9 +89,12 @@ m:
         recent-posts:
           name: Posts Recientes
           url: /es/blog/
+          mobile-display: false
         browse-by-tags:
           name: Buscar por Etiqueta
           url: /es/blog/tags/
+          mobile-display: false
         browse-by-regions:
           name: Buscar por Región
           url: /es/blog/regions/
+          mobile-display: false
