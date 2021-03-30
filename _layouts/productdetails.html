@@ -83,17 +83,17 @@ head:
           </p>-->
           <p>
             <strong>
-              {{site.t[page.lang].dimensions}}:
+              {{site.data.translations.t[page.lang].dimensions}}:
             </strong>
               {{ page.dimensions}}
           </p>
           <p>
             <strong>
-              {{site.t[page.lang].materials}}:
+              {{site.data.translations.t[page.lang].materials}}:
             </strong>
               {{ page.materials}}
           </p>
-          <div class="action-button"><a href="{{ page.etsy }}" title="{{ page.name }}">{{site.t[page.lang].buy}}</a></div>
+          <div class="action-button"><a href="{{ page.etsy }}" title="{{ page.name }}">{{site.data.translations.t[page.lang].buy}}</a></div>
         </div>
         <div class="large-col">
           {{ page.content }}
@@ -114,8 +114,8 @@ head:
         30 días para devoluciones y cambios en bolsas no ocupadas. Ventas de posters son todas finales.</br>
         {% endif %}
       </div>-->
-      {% if page.lang == 'en' %}<a href="/store/" title="Our Products"><i class="fa fa-arrow-left" aria-hidden="true"></i> Return to our designs</a>{% endif %}
-      {% if page.lang == 'es' %}<a href="/es/store/" title="Nuestros Productos"><i class="fa fa-arrow-left" aria-hidden="true"></i> Volver a nuestros diseños</a>{% endif %}
+      {% if page.lang == 'en' %}<a href="/store/" title="Our Products"><i class="fa fa-arrow-left" aria-hidden="true"></i> Return to our products</a>{% endif %}
+      {% if page.lang == 'es' %}<a href="/es/store/" title="Nuestros Productos"><i class="fa fa-arrow-left" aria-hidden="true"></i> Volver a nuestros productos</a>{% endif %}
     </div>
   </div>
   </div>

@@ -1,0 +1,97 @@
+# Site menu links and translations
+m:
+  en:
+    store:
+      name: SHOP
+      url: /store/
+      subitems:
+        all-products:
+          name: All Products
+          url: /store/
+        collections:
+          name: Browse Collections
+          url: /store/collections/
+    about:
+      name: About
+      url: /about/
+      subitems:
+        our-story:
+          name: Our Story
+          url: /about/
+        sustainability:
+          name: Sustainability
+          url: /about/sustainability/
+        custom-designs:
+          name: Custom Designs
+          url: /about/design-portfolio/
+        #media:
+          #name: Talks & Media
+          #url: /about/media/
+    contact:
+      name: Contact
+      url: /contact/
+    wholesale:
+      name: Retailers
+      url: /wholesale/
+    blog:
+      name: Blog
+      url: /blog/
+      subitems:
+        recent-posts:
+          name: Recent Posts
+          url: /blog/
+          mobile-display: false
+        browse-by-tags:
+          name: Browse by Tags
+          url: /blog/tags/
+          mobile-display: false
+        browse-by-regions:
+          name: Browse by Region
+          url: /blog/regions/
+          mobile-display: false
+  es:
+    store:
+      name: TIENDA
+      url: /es/store/
+      subitems:
+        all-products:
+          name: Todos los Productos
+          url: /es/store/
+        collections:
+          name: Ver Colecciones
+          url: /es/store/collections/
+    about:
+      name: Sobre Nosotros
+      url: /es/about/
+      subitems:
+        our-story:
+          name: Nuestra Historia
+          url: /es/about/
+        sustainability:
+          name: Sostenibilidad
+          url: /es/about/sustainability/
+        custom-designs:
+          name: Diseño Personalizados
+          url: /es/about/design-portfolio/
+        #media:
+          #name: Charlas
+          #url: /es/about/media/
+    contact:
+      name: Contacto
+      url: /es/contact/
+    wholesale:
+      name: Distribuidores
+      url: /es/wholesale/
+    blog:
+      name: Blog
+      url: /es/blog/
+      subitems:
+        recent-posts:
+          name: Posts Recientes
+          url: /es/blog/
+        browse-by-tags:
+          name: Buscar por Etiqueta
+          url: /es/blog/tags/
+        browse-by-regions:
+          name: Buscar por Región
+          url: /es/blog/regions/

@@ -1,12 +1,12 @@
 <div class="banner">
   {% if page.lang == 'en' %}
-    Now taking online orders through our <a href="https://www.etsy.com/shop/Soijen" title="Etsy Shop">Etsy Shop</a>!
+    Tote bag sale! 25% off April 5-11! <a href="https://www.etsy.com/shop/Soijen" title="Etsy Shop">SHOP NOW</a>
   {% endif %}
   {% if page.lang == 'es' %}
-    ¡Ahora aceptamos pedidos por <a href="https://www.etsy.com/shop/Soijen" title="Tienda de Etsy">Etsy</a>!
+    ¡25% descuento en bolsas reutilzables (desde el 5 al 11 de abril)! <a href="https://www.etsy.com/shop/Soijen" title="Tienda de Etsy">COMPRA AHORA</a>
   {% endif %}
 </div>
 <header class="header" id="header">
   {% include logo.html %}
-  {% include menu.html %}
+  {% include menu.html menusource=site.data.menu %}
 </header>

@@ -1,0 +1,37 @@
+---
+title: Talks & Media | Soijen
+description: Talks & Media.
+layout: default
+permalink: /about/media/
+ref: media
+---
+<div class="fixed-social">
+  <ul class="social-list">
+    {% include social-links.html %}
+  </ul>
+</div>
+<div class="full-hero">
+  <h1>Talks and Media</h1>
+</div>
+<a name="custom-design" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+<div class="full-hero">
+{% assign portfolio=site.portfolio | where:"lang", page.lang %}
+{% for item in portfolio %}
+  {% if item.category contains "talk" %}
+  <div class="columns">
+    <div class="small-col">
+        <h3>{{ item.title }}</h3>
+        <div class="portfolio-tag">
+          {% for tag in item.tags %}
+            <span class="tag">{{ tag }} </span>
+          {% endfor %}
+        </div>
+        <div>{{ item.description }}</div>
+    </div>
+    <div class="large-col">
+      <img src="{{ item.image }}" alt="{{ item.title }}" class="thumbnail prod-image"/>
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}
+</div>

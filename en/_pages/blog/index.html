@@ -8,7 +8,7 @@ ref: blog
 <div class="page">
   <h1>Blog</h1>
   <h2>Browse by recent posts below.</h2>
-  <h2>Or <a href="/tags/" title="browse by topic">browse by tag <i class="fa fa-tag"></i></a>, <a href="/patagonia-unexplored/" title="browse by region">browse by region <i class="fa fa-map"></i></a>.</h2>
+  <h2>Or <a href="/blog/tags/" title="browse by topic">browse by tag <i class="fa fa-tag"></i></a>, <a href="/blog/regions/" title="browse by region">browse by region <i class="fa fa-map"></i></a>.</h2>
   <div class="blog-previews">
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}

@@ -15,7 +15,7 @@ ref: index
 </div>
 
 <div class="full-hero">
-  <h2>-NEW-</h2>
+  <h2>NEW</h2>
   <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
@@ -35,55 +35,12 @@ ref: index
   </div>
 </div>
 <div class="full-hero hero-collection">
-  <h2>-FEATURED COLLECTIONS-</h2>
-  <div class="columns">
-    <div class="blog-column">
-      <a href="/maps-collection#patagonia" title="Browse the Patagonia Collection">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/patagonia.jpg" alt="Patagonia Collection"/>
-          <div class="image-title">
-            <h3>Patagonia</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="blog-column">
-      <a href="/maps-collection#adventure-pup" title="Browse the Adventure Pup Collection">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/adventure-pup.jpg" alt="Adventure Pup Collection"/>
-          <div class="image-title">
-            <h3>The World by Paw</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="columns">
-    <div class="blog-column">
-      <a href="/maps-collection#line-art" title="Browse the Line Art Collection">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/line.jpg" alt="Line Art Collection"/>
-          <div class="image-title">
-            <h3>Line Art</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="blog-column">
-      <a href="/maps-collection#vermont" title="Browse the Vermont Collection">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/vermont.jpg" alt="Vermont Collection"/>
-          <div class="image-title">
-            <h3>Vermont</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
+  <h2>FEATURED COLLECTIONS</h2>
+  {% include collections.html %}
 </div>
 <div class="full-hero hero-donate">
     <h2>Together we are defending the wild places of Patagonia.</h2>
-    <div class="action-button"><a href="/about/#green">Learn more</a></div>
+    <div class="action-button"><a href="/about/sustainability/">Learn more</a></div>
 </div>
 
 <div class="full-hero">

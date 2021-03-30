@@ -2,27 +2,59 @@
   <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
   <label for="mobile-menu" class="show-mobile-menu"><i class="fa fa-bars"></i></label>
   <ul class="header-nav">
-    {% for menu in site.m[page.lang] %}
-      <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
-    {% endfor %}
-    <li class="dropdown">
-      {% if page.lang == 'en' %}
-        <a class="drop-trigger" href="/blog/">Blog</a>
-      {% endif %}
-      {% if page.lang == 'es' %}
-        <a class="drop-trigger" href="/es/blog/">Blog</a>
-      {% endif %}
-      <ul class="drop-menu">
-        <li>
-          {% if page.lang == 'en' %}Recent Posts{% endif %}
-          {% if page.lang == 'es' %}Publicaciones Recientes{% endif %}
+
+    {% assign navurl = page.url %}
+    {% for item in include.menusource.m[page.lang] %}
+      {% if item[1].subitems %}
+        <li class="dropdown parent-menu">
+          <a class="drop-trigger menu-link" href="{{ item[1].url }}">
+            {% if navurl contains item[1].url %}
+              <span class="active-menu">{{ item[1].name }}</span>
+            {% else %}
+              {{ item[1].name }}
+            {% endif %}
+          </a>
+          <ul class="drop-menu">
+            {% if item[1].subitems %}
+              {% for subitem in item[1].subitems %}
+              {% if subitem[1].mobile-display == false %}
+              <li class="child-menu mobile-off">
+                <a class="menu-link" href="{{ subitem[1].url }}">
+                  {% if subitem[1].url == navurl %}
+                    <span class="active-menu">{{ subitem[1].name }}</span>
+                  {% else %}
+                    {{ subitem[1].name }}
+                  {% endif %}
+                </a>
+              </li>
+              {% else %}
+              <li class="child-menu">
+                <a class="menu-link" href="{{ subitem[1].url }}">
+                  {% if subitem[1].url == navurl %}
+                    <span class="active-menu">{{ subitem[1].name }}</span>
+                  {% else %}
+                    {{ subitem[1].name }}
+                  {% endif %}
+                </a>
+              </li>
+              {% endif %}
+              {% endfor %}
+            {% endif %}
+          </ul>
         </li>
-        {% assign posts=site.posts | where:"lang", page.lang %}
-        {% for post in posts limit:5 %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </li>
+      {% else %}
+        <li class="single-menu">
+          <a class="menu-link" href="{{ item[1].url }}">
+            {% if item[1].url == navurl %}
+              <span class="active-menu">{{ item[1].name }}</span>
+            {% else %}
+              {{ item[1].name }}
+            {% endif %}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+
     <li><span class="langselect">{% include langselect.html %}</span></li>
     <!--<li class="store-link">
       <a class="cart snipcart-checkout" href="#"><i class="fa fa-shopping-cart"></i> {{site.t[page.lang].cart}}</a>

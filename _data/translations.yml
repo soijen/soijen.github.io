@@ -1,0 +1,17 @@
+t:
+  en:
+    cart: Cart
+    login: Login
+    logout: Logout
+    buy: SHOP NOW
+    dimensions: Dimensions
+    price: Price
+    materials: Materials
+  es:
+    cart: Carro
+    login: Ingresar
+    logout: Salir
+    buy: COMPRA AHORA
+    dimensions: Medidas
+    price: Precio
+    materials: Materiales

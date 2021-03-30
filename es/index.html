@@ -12,11 +12,11 @@ ref: index
   </ul>
 </div>
 <div class="full-hero hero-home">
-    <h1>INSPIRADO POR LA AVENTURA</h1>
+    <h1>INSPIRADOS POR LA AVENTURA</h1>
 </div>
 
 <div class="full-hero">
-  <h2>-NUEVO-</h2>
+  <h2>NUEVO</h2>
   <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
@@ -36,55 +36,12 @@ ref: index
   </div>
 </div>
 <div class="full-hero hero-collection">
-  <h2>-COLECCIÓNES DESTACADAS-</h2>
-  <div class="columns">
-    <div class="blog-column">
-      <a href="/es/maps-collection#patagonia" title="Ver la Colección de la Patagonia">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/patagonia.jpg" alt="Colección de la Patagonia"/>
-          <div class="image-title">
-            <h3>La Patagonia</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="blog-column">
-      <a href="/es/maps-collection#adventure-pup" title="Ver la Colección El Mundo a Pata">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/adventure-pup.jpg" alt="Colección El Mundo a Pata"/>
-          <div class="image-title">
-            <h3>El Mundo a Pata</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="columns">
-    <div class="blog-column">
-      <a href="/es/maps-collection#line-art" title="Ver la Colección Arte de Rallas">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/line.jpg" alt="Colección Arte de Rallas"/>
-          <div class="image-title">
-            <h3>Dibujo a Lineas</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="blog-column">
-      <a href="/es/maps-collection#vermont" title="Browse the Vermont Collection">
-        <div class ="home-image">
-          <img src="/assets/images/home-collections/vermont.jpg" alt="Colección Vermont"/>
-          <div class="image-title">
-            <h3>Vermont</h3>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
+  <h2>COLECCIÓNES DESTACADAS</h2>
+  {% include collections.html %}
 </div>
 <div class="full-hero hero-donate">
     <h2>Juntos estamos defendiendo los lugares salvajes de la Patagonia.</h2>
-    <div class="action-button"><a href="/about/#green">Aprende más</a></div>
+    <div class="action-button"><a href="/es/about/sustainability/">Aprende más</a></div>
 </div>
 <div class="full-hero">
   <div class="columns">
