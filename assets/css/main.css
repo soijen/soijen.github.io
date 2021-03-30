@@ -1145,6 +1145,12 @@ textarea {
   .full-hero h1, .full-hero h2 {
     letter-spacing: 0.25em;
   }
+  .hero-home {
+    background-attachment: fixed;
+    background-image: url(/assets/images/home-collections/banner-mobile.jpg);
+    background-position: center;
+    height: 90vh;
+  }
   /* PRODUCT STYLES */
   .columns {
     padding-top: 1vh;
