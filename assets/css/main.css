@@ -1146,10 +1146,13 @@ textarea {
     letter-spacing: 0.25em;
   }
   .hero-home {
-    background-attachment: fixed;
     background-image: url(/assets/images/home-collections/banner-mobile.jpg);
-    background-position: center;
     height: 90vh;
+  }
+  .hero-donate {
+    background-image: url(/assets/images/home-collections/protect-mobile.jpg);
+    height: 80vh;
+    opacity: 85%;
   }
   /* PRODUCT STYLES */
   .columns {
@@ -1204,10 +1207,6 @@ textarea {
   .full-hero h3 {
     font-size: 1.4rem;
     letter-spacing: 0;
-  }
-  .hero-home {
-    background-image: url(/assets/images/home-collections/banner.jpg);
-    height: 60vh;
   }
 }
 @media (max-width: 420px) {
