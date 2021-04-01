@@ -677,6 +677,9 @@ textarea {
   padding-left: 0.5em;
   padding-right: 0.5em;
 }
+.footer .langselect {
+  display: none;
+}
 #mc_embed_signup {
   display: block;
   margin-top: 0;
@@ -1085,9 +1088,6 @@ textarea {
   .header-nav a:hover, .header-nav a:active {
     background-color: white;
     color: #555;
-  }
-  .menu-link {
-
   }
   .mobile-off {
     display: none;

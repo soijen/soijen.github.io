@@ -24,12 +24,12 @@ m:
         custom-designs:
           name: Custom Designs
           url: /about/design-portfolio/
+        contact:
+          name: Contact
+          url: /about/contact/
         #media:
           #name: Talks & Media
           #url: /about/media/
-    contact:
-      name: Contact
-      url: /contact/
     wholesale:
       name: Retailers
       url: /wholesale/
@@ -73,12 +73,12 @@ m:
         custom-designs:
           name: Diseño Personalizados
           url: /es/about/design-portfolio/
+        contact:
+          name: Contacto
+          url: /es/about/contact/
         #media:
           #name: Charlas
           #url: /es/about/media/
-    contact:
-      name: Contacto
-      url: /es/contact/
     wholesale:
       name: Distribuidores
       url: /es/wholesale/
