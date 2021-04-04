@@ -2,8 +2,8 @@
 title: Soijen
 email: info@soijen.com
 description:
-  en: At Sóijen we create outdoor inspired designs to get you excited for your next adventure, from Patagonia to New England and beyond.
-  es: En Sóijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura - desde la Patagonia a New England y más allá..
+  en: Outdoor inspired designs, born in Patagonia.
+  es: Diseños inspirados por el aire libre, nacidos en la Patagonia.
 index:
   en:
   es: /es/
@@ -88,12 +88,12 @@ defaults:
       path: "es/_posts"
     values:
       layout: post
-      author: Sóijen
+      author: Soijen
       featured: 0
   -
     scope:
       path: "en/_posts"
     values:
       layout: post
-      author: Sóijen
+      author: Soijen
       featured: 0
