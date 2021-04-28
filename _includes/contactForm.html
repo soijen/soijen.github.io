@@ -1,7 +1,7 @@
-<form method="POST" action="https://formspree.io/info@soijen.com">
+<form method="POST" action="https://formspree.io/f/mbjqdlnq">
   {% if page.lang == 'en' %}
   <div class="contact">
-    <input type="email" name="email" placeholder="Your email" class="input-form">
+    <input type="email" name="_replyto" placeholder="Your email" class="input-form">
     <textarea name="message" placeholder="Your message" class="input-form"></textarea>
     <button type="submit" class="submit-button">send</button>
     <input type="hidden" name="_next" value="/thanks" />
@@ -9,7 +9,7 @@
   {% endif %}
   {% if page.lang == 'es' %}
   <div class="contact">
-    <input type="email" name="email" placeholder="Tu correo" class="input-form">
+    <input type="email" name="_replyto" placeholder="Tu correo" class="input-form">
     <textarea name="message" placeholder="Tu mensaje" class="input-form"></textarea>
     <button type="submit" class="submit-button">enviar</button>
     <input type="hidden" name="_next" value="/es/thanks" />
