@@ -12,7 +12,7 @@ materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certific
 featured: 1
 etsy: https://www.etsy.com/listing/905314295/el-mundo-a-pata-market-tote-bag
 price: 24
-sku: 010003
+sku: 
 stock: 1
 slug: snowshoe-market-tote
 ref: snowshoe-market-tote

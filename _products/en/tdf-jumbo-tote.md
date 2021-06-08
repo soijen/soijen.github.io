@@ -10,7 +10,7 @@ materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 0
 etsy: http://etsy.com/shop/soijen
 price: 26
-sku: 010001
+sku: 
 stock: 0
 slug: tdf-jumbo-tote
 ref: tdf-jumbo-tote

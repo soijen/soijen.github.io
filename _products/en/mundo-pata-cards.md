@@ -11,8 +11,8 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/905048413/el-mundo-a-pata-blank-note-card-set
-price: 14.50
-sku: 040001
+price: 18
+sku:
 stock: 1
 slug: mundo-pata-cards
 ref: mundo-pata-cards

@@ -10,7 +10,7 @@ materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certific
 featured: 0
 etsy: https://www.etsy.com/listing/885568610/ultima-esperanza-jumbo-tote-bag
 price: 26
-sku: 010002
+sku: 
 stock: 1
 slug: ue-jumbo-tote
 ref: ue-jumbo-tote

@@ -10,7 +10,7 @@ materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certific
 featured: 0
 etsy: http://etsy.com/shop/soijen
 price: 26
-sku: 010001
+sku: 
 stock: 0
 slug: tdf-jumbo-tote
 ref: tdf-jumbo-tote

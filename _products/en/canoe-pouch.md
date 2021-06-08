@@ -12,7 +12,7 @@ materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 1
 etsy: https://www.etsy.com/listing/905321365/el-mundo-a-pata-zippered-pouch-adventure
 price: 15
-sku: 010004
+sku: 
 stock: 1
 slug: canoe-pouch
 ref: canoe-pouch

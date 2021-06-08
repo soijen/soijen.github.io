@@ -11,8 +11,8 @@ dimensions: 18" x 12" x 6" with 25" handle (45.7cm x 30.5cm x 15.2cm with 63.5cm
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 1
 etsy: https://www.etsy.com/listing/905314295/el-mundo-a-pata-market-tote-bag
-price: 24
-sku: 010003
+price: 25
+sku:
 stock: 1
 slug: snowshoe-market-tote
 ref: snowshoe-market-tote

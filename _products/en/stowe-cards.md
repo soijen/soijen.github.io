@@ -11,8 +11,8 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/980780933/stowe-vermont-cityscape-blank-note-card
-price: 14.50
-sku: 040008
+price: 18
+sku: 
 stock: 1
 slug: stowe-cards
 ref: stowe-cards

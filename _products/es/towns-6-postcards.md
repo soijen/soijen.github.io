@@ -12,7 +12,7 @@ materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/904923495/towns-of-patagonia-austral-chile-set-of
 price: 10
-sku: 030003
+sku: 
 stock: 1
 slug: towns-set-6
 ref: towns-set-6

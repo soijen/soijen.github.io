@@ -12,7 +12,7 @@ materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/904392327/national-parks-of-patagonia-austral
 price: 10.50
-sku: 030002
+sku: 
 stock: 1
 slug: ppnn-set-7
 ref: pppnn-set-7

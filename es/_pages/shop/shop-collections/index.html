@@ -42,12 +42,12 @@ ref: collections
   {% endfor %}
   </div>
 
-  <a name="line-art" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-  <h2>COLECCIÓN DIBUJO A LINEAS</h2>
+  <a name="la-aventura" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <h2>COLECCIÓN LA AVENTURA NOS LLAMA</h2>
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
-    {% if product.category contains "art-print" and product.category contains "line-art" %}
+    {% if product.category contains "art-print" and product.category contains "la-aventura" and product.category contains "illustration" %}
       {% if product.category contains "states" %}{% else %}
         {% include product.html %}
       {% endif %}
@@ -57,7 +57,19 @@ ref: collections
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
-    {% if product.category contains "art-print" and product.category contains "line-art" and product.category contains "states" %}
+    {% if product.category contains "art-print" and product.category contains "la-aventura" %}
+      {% if product.category contains "states" %}{% else %}
+      {% if product.category contains "illustration" %}{% else %}
+        {% include product.html %}
+      {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "la-aventura" and product.category contains "states" %}
       {% include product.html %}
     {% endif %}
   {% endfor %}
@@ -65,7 +77,7 @@ ref: collections
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
-    {% if product.category contains "cards" and product.category contains "line-art" %}
+    {% if product.category contains "cards" and product.category contains "la-aventura" %}
       {% if product.category contains "states" %}{% else %}
         {% include product.html %}
       {% endif %}
@@ -75,7 +87,7 @@ ref: collections
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
-    {% if product.category contains "cards" and product.category contains "line-art" and product.category contains "states" %}
+    {% if product.category contains "cards" and product.category contains "la-aventura" and product.category contains "states" %}
       {% include product.html %}
     {% endif %}
   {% endfor %}
@@ -83,14 +95,14 @@ ref: collections
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
-    {% if product.category contains "wood" and product.category contains "line-art" %}
+    {% if product.category contains "wood" and product.category contains "la-aventura" %}
       {% include product.html %}
     {% endif %}
   {% endfor %}
   </div>
 
   <a name="patagonia" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-  <h2>COLECCIÓN DE LA PATAGONIA</h2>
+  <h2>COLECCIÓN PASAPORE A PATAGONIA</h2>
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
@@ -153,7 +165,7 @@ ref: collections
   </div>
 
   <a name="vermont" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-  <h2>COLECCIÓN VERMONT</h2>
+  <h2>COLECCIÓN CIUDADES DE VERMONT</h2>
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}

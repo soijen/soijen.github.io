@@ -7,12 +7,13 @@ image: 1
 image2: 1
 image3: 1
 image4: 1
+image5: 1
 dimensions: 4" x 6" (100mm x 150mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/904392327/national-parks-of-patagonia-austral
 price: 10.50
-sku: 030002
+sku:
 stock: 1
 slug: ppnn-set-7
 ref: ppnn-set-7

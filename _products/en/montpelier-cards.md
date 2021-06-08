@@ -1,7 +1,7 @@
 ---
 title: Montpelier Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
 name: Montpelier Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-description: This Montpelier cityscape blank notecard set highlights the iconic buildings and monuments in Montpelier - the state capital of Vermont.  Reprinted with care on thick, archival, environmentally friendly paper.
+description: This Montpelier cityscape blank notecard set highlights the iconic buildings and monuments in Montpelier - the state capital of Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
 imagePath: \assets\images\products\cards\montpelier
 image: 1
 image2: 1
@@ -10,8 +10,8 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 1
 etsy: https://www.etsy.com/listing/980783195/montpelier-vermont-cityscape-blank-note
-price: 14.50
-sku: 040007
+price: 18
+sku:
 stock: 1
 slug: montpelier-cards
 ref: montpelier-cards
