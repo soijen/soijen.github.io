@@ -47,9 +47,9 @@ ref: collections
   <div class="columns product-column">
   {% assign products=site.products | where:"lang", page.lang %}
   {% for product in products %}
-    {% if product.category contains "art-print" and product.category contains "la-aventura" and product.category contains "illustration" %}
+    {% if product.category contains "art-print" and product.category contains "la-aventura" %}
       {% if product.category contains "states" %}{% else %}
-      {% if product.category contains "illustration" %}{% else %}
+      {% if product.category contains "illustration" %}
         {% include product.html %}
       {% endif %}
       {% endif %}
@@ -61,6 +61,18 @@ ref: collections
   {% for product in products %}
     {% if product.category contains "art-print" and product.category contains "la-aventura" and product.category contains "states" %}
       {% include product.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "art-print" and product.category contains "la-aventura" %}
+      {% if product.category contains "states" %}{% else %}
+      {% if product.category contains "illustration" %}{% else %}
+        {% include product.html %}
+      {% endif %}
+      {% endif %}
     {% endif %}
   {% endfor %}
   </div>
