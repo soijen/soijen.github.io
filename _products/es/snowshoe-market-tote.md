@@ -9,10 +9,10 @@ image3: 1
 image4: 1
 dimensions: 18" x 12" x 6" con asa de 25" (45.7cm x 30.5cm x 15.2cm con asa de 63.5cm)
 materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certificado
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/905314295/el-mundo-a-pata-market-tote-bag
 price: 24
-sku: 
+sku:
 stock: 1
 slug: snowshoe-market-tote
 ref: snowshoe-market-tote

@@ -74,7 +74,7 @@ head:
         {{site.t[page.lang].buy}}
       </button>-->
       <div class="columns">
-        <div class="small-col">
+        <div class="small-col prod-attr">
           <!--<p>
             <strong>
               {{site.t[page.lang].price}}:
@@ -83,7 +83,9 @@ head:
           </p>-->
           <p>
             <strong>
-              {{site.data.translations.t[page.lang].dimensions}}:
+              {% if page.dimensions %}
+                {{site.data.translations.t[page.lang].dimensions}}:
+              {% endif %}
             </strong>
               {{ page.dimensions}}
           </p>
@@ -95,7 +97,7 @@ head:
           </p>
           <div class="action-button"><a href="{{ page.etsy }}" title="{{ page.name }}">{{site.data.translations.t[page.lang].buy}}</a></div>
         </div>
-        <div class="large-col">
+        <div class="large-col prod-descr">
           {{ page.content }}
         </div>
       </div>

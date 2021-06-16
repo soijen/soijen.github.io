@@ -15,7 +15,7 @@ ref: index
 </div>
 
 <div class="full-hero">
-  <h2>NEW</h2>
+  <h2>FEATURED</h2>
   <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
@@ -28,6 +28,21 @@ ref: index
     <a href="/store/" title="All products">VIEW ALL PRODUCTS</a>
   </div>
 </div>
+
+<div class="full-hero">
+  <div class="columns">
+    <div class="large-col">
+      <a href="/products/nowake-tshirt-g"><img src="\assets\images\products\tshirts\nowake\g\4.jpg" alt="No Wake Zone | 100% Organic Cotton T-shirt | Grey"></a>
+    </div>
+    <div class="small-col">
+      <h2>BRAND NEW!!</h2>
+      <h3>No Wake Zone T-shirts</h3>
+      Our popular No Wake Zone design is now available as a t-shirt! These ultra soft screenprinted t-shirts are made of high quality combed ringspun organic cotton and Made in the USA.
+      <div class="action-button"><a href="/products/nowake-tshirt-g">SHOP NOW</a></div>
+    </div>
+  </div>
+</div>
+
 <div class="full-hero hero-description">
   <div class="home-description">
     <h3>At Soijen we design outdoor inspired goods and gifts that celebrate adventure.</h3>
@@ -35,7 +50,7 @@ ref: index
   </div>
 </div>
 <div class="full-hero hero-collection">
-  <h2>FEATURED COLLECTIONS</h2>
+  <h2>COLLECTIONS</h2>
   {% include collections.html %}
 </div>
 <div class="full-hero hero-donate">
@@ -48,15 +63,15 @@ ref: index
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
     {% if post.featured == 1 %}
-    <div class="small-col">
-      <h2>Featured Blog Post</h2>
-      <h3>{{ post.title }}</h3>
-      {{ post.excerpt }}
-      <a href="{{ post.url }}">read more...</a>
-    </div>
-    <div class="large-col home-blog-hero">
-      <a href="{{ post.url }}"><img src="{{ post.postHero }}" alt="{{ post.title }}"></a>
-    </div>
+      <div class="large-col home-blog-hero">
+        <a href="{{ post.url }}"><img src="{{ post.postHero }}" alt="{{ post.title }}"></a>
+      </div>
+      <div class="small-col">
+        <h2>Featured Blog Post</h2>
+        <h3>{{ post.title }}</h3>
+        {{ post.excerpt }}
+        <a href="{{ post.url }}">read more...</a>
+      </div>
     {% endif %}
     {% endfor %}
   </div>

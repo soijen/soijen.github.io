@@ -16,7 +16,7 @@ ref: index
 </div>
 
 <div class="full-hero">
-  <h2>NUEVO</h2>
+  <h2>DESTACADOS</h2>
   <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
@@ -29,6 +29,21 @@ ref: index
     <a href="/es/store/" title="Todos nuestros productos">VER TODOS</a>
   </div>
 </div>
+
+<div class="full-hero">
+  <div class="columns">
+    <div class="large-col">
+      <a href="/es/products/nowake-tshirt-g"><img src="\assets\images\products\tshirts\nowake\g\4.jpg" alt="No Wake Zone | Polera 100% de Algodón Orgánico | Gris"></a>
+    </div>
+    <div class="small-col">
+      <h2>¡NUEVO!</h2>
+      <h3>Polera No Wake Zone</h3>
+      Nuestro popular diseño de "No Wake Zone" se encuentra disponible en poleras. Estas cómodas poleras son hechas de algodón orgánico de alta calidad en los EEUU.
+      <div class="action-button"><a href="/es/products/nowake-tshirt-g">COMPRA AHORA</a></div>
+    </div>
+  </div>
+</div>
+
 <div class="full-hero hero-description">
   <div class="home-description">
     <h3>En Soijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura.</h3>
@@ -36,7 +51,7 @@ ref: index
   </div>
 </div>
 <div class="full-hero hero-collection">
-  <h2>COLECCIÓNES DESTACADAS</h2>
+  <h2>COLECCIÓNES</h2>
   {% include collections.html %}
 </div>
 <div class="full-hero hero-donate">
@@ -48,15 +63,15 @@ ref: index
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
     {% if post.featured == 1 %}
-    <div class="small-col">
-      <h2>Blog Destacado</h2>
-      <h3>{{ post.title }}</h3>
-      {{ post.excerpt }}
-      <a href="{{ post.url }}">leer más...</a>
-    </div>
-    <div class="large-col home-blog-hero">
-      <a href="{{ post.url }}"><img src="{{ post.postHero }}" alt="{{ post.title }}"></a>
-    </div>
+      <div class="large-col home-blog-hero">
+        <a href="{{ post.url }}"><img src="{{ post.postHero }}" alt="{{ post.title }}"></a>
+      </div>
+      <div class="small-col">
+        <h2>Blog Destacado</h2>
+        <h3>{{ post.title }}</h3>
+        {{ post.excerpt }}
+        <a href="{{ post.url }}">leer más...</a>
+      </div>
     {% endif %}
     {% endfor %}
   </div>

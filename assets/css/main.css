@@ -477,19 +477,25 @@ textarea {
 }
 .large-col {
   box-sizing: border-box;
-  flex: 1 1 60%;
-  padding-left: 10vh;
+  flex: 1 1 50%;
   vertical-align: middle;
 }
 .small-col {
   box-sizing: border-box;
   flex: 1 1 auto;
-  max-width: 300px;
+  max-width: 400px;
+  padding: 5vh;
   vertical-align: middle;
 }
 .small-col img {
   padding: 0;
   margin: 0;
+}
+.prod-attr {
+  max-width: 300px;
+}
+.prod-descr {
+  flex: 1 1 60%;
 }
 .home-image {
   box-sizing: border-box;
@@ -947,11 +953,13 @@ textarea {
     align-items: center;
   }
   .large-col {
-    padding-left: 0;
     padding-top: 2em;
   }
   .small-col {
+    padding-left: 0;
+    padding-right: 0;
     padding-top: 1vh;
+    padding-bottom: 1vh;
   }
   .blog-column {
     width: 80vw;
