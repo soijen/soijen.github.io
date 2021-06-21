@@ -10,7 +10,7 @@ image4: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
-etsy: https://www.etsy.com/listing/970186814/hand-illustrated-coigue-tree-o-art-print
+etsy: https://www.etsy.com/listing/1039723795/hand-illustrated-coigue-tree-o-art-print
 price: 13
 sku: PR-LA-05
 stock: 1

@@ -10,7 +10,7 @@ image4: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/904938239/bienvenido-a-casa-art-print-hand
+etsy: https://www.etsy.com/listing/1025754706/hand-illustrated-cabin-art-print-thick
 price: 13
 sku: PR-LA-01
 stock: 1

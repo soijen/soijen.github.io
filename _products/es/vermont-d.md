@@ -10,7 +10,7 @@ image4: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/891016092/querido-vermont-art-print-hand
+etsy: https://www.etsy.com/listing/1039730775/hand-illustrated-vermont-long-trail-art
 price: 13
 sku: PR-LA-09
 stock: 1

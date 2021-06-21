@@ -9,7 +9,7 @@ image3: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
-etsy:
+etsy: https://www.etsy.com/listing/1039738497/canoe-portage-art-print-thick-recycled
 price: 13
 sku: PR-LA-13
 stock: 1

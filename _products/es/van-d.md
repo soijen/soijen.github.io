@@ -10,7 +10,7 @@ image4: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/891018372/la-aventura-nos-llama-art-print-hand
+etsy: https://www.etsy.com/listing/1039732233/adventure-van-art-print-thick-recycled
 price: 13
 sku: PR-LA-08
 stock: 1

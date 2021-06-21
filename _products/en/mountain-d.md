@@ -10,7 +10,7 @@ image4: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
-etsy: https://www.etsy.com/listing/904941373/vamos-a-la-montana-art-print-hand
+etsy: https://www.etsy.com/listing/1025777060/mountain-art-print-thick-recycled
 price: 13
 sku: PR-LA-07
 stock: 1
