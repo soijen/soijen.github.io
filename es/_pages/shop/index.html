@@ -36,7 +36,7 @@ ref: store
     <div class="columns product-column">
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
-      {% if product.category contains "art-print" and product.category contains "illustration" %}
+      {% if product.category contains "art-print" %}
         {% if product.category contains "patagonia" %}{% else %}
           {% if product.category contains "states" %}{% else %}
           {% if product.category contains "vermont" %}
