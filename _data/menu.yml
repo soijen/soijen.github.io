@@ -27,6 +27,9 @@ m:
         contact:
           name: Contact
           url: /about/contact/
+        events:
+          name: Events
+          url: /about/events/
         #media:
           #name: Talks & Media
           #url: /about/media/
@@ -76,6 +79,9 @@ m:
         contact:
           name: Contacto
           url: /es/about/contact/
+        events:
+          name: Eventos
+          url: /es/about/events/
         #media:
           #name: Charlas
           #url: /es/about/media/

@@ -419,7 +419,7 @@ textarea {
   text-shadow: 2px 2px 2px #222;
 }
 .hero-home {
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-image: url(/assets/images/home-collections/banner.jpg);
   background-position: center;
   height: 80vh;
