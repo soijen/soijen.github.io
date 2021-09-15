@@ -8,7 +8,7 @@ ref: store
 <div class="page">
   <h1>Shop Our Products</h1>
     <h4>
-      <a href="#t-shirts"> T-shirts </a>-<a href="#art-prints"> Art Prints and Posters </a>-<a href="#postcards"> Postcard Sets </a>-<a href="#tote-bags"> Tote Bags and Pouches </a>-<a href="#note-cards"> Blank Note Cards </a>-<a href="#woodworking"> Woodworking </a>
+      <a href="#t-shirts"> T-shirts </a>-<a href="#art-prints"> Art Prints and Posters </a>-<a href="#postcards"> Postcard Sets </a>-<a href="#tote-bags"> Tote Bags and Pouches </a>-<a href="#note-cards"> Blank Note Cards </a>-<a href="#stickers"> Stickers </a>-<a href="#woodworking"> Woodworking </a>
     </h4>
     <h4>or <a href="/store/collections" title="Browse by Collection">BROWSE BY COLLECTION</a></h4>
     <a name="t-shirts" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
@@ -175,6 +175,16 @@ ref: store
     {% assign products=site.products | where:"lang", page.lang %}
     {% for product in products %}
       {% if product.category contains "cards" and product.category contains "states" %}
+        {% include product.html %}
+      {% endif %}
+    {% endfor %}
+    </div>
+    <a name="stickers" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+    <h2>Stickers</h2>
+    <div class="columns product-column">
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+      {% if product.category contains "sticker"%}
         {% include product.html %}
       {% endif %}
     {% endfor %}

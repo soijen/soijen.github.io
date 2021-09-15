@@ -194,4 +194,12 @@ ref: collections
     {% endif %}
   {% endfor %}
   </div>
+  <div class="columns product-column">
+  {% assign products=site.products | where:"lang", page.lang %}
+  {% for product in products %}
+    {% if product.category contains "sticker" and product.category contains "vermont" %}
+        {% include product.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
 </div>
