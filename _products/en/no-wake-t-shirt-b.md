@@ -9,7 +9,7 @@ image3: 3
 image4: 4
 image5: 5
 materials: 100% organic combed cotton. Made in USA.
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/1036683903/no-wake-zone-100-organic-cotton-unisex-t
 price: 39
 sku: TS-EM-01

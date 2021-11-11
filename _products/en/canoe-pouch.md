@@ -9,10 +9,10 @@ image3: 1
 image4: 1
 dimensions: 7.5" x 4" (19cm x 10.2cm)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/905321365/el-mundo-a-pata-zippered-pouch-adventure
 price: 15
-sku: 
+sku:
 stock: 1
 slug: canoe-pouch
 ref: canoe-pouch

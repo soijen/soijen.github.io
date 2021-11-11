@@ -1,7 +1,7 @@
 ---
-title: El Mundo a Pata | Perro de Aventura | Set de 6 tarjetas de saludo
-name: El Mundo a Pata | Perro de Aventura | Set de 6 tarjetas de saludo
-description: Las tarjetas de saludo “El Mundo a Pata” destacan las aventuras al aire libre de una cachorra. Este set consta de 5 tarjetas, vacías en su interior e impresas en papel de calidad de archivo, amigable con el medio ambiente.
+title: El Mundo a Pata | Perro de Aventura | Set de 6 tarjetas de saludo + sobres + stickers
+name: El Mundo a Pata | Perro de Aventura | Set de 6 tarjetas de saludo + sobres + stickers
+description: Las tarjetas de saludo “El Mundo a Pata” destacan las aventuras al aire libre de una cachorra. Este set consta de 6 tarjetas, vacías en su interior e impresas en papel de calidad de archivo, amigable con el medio ambiente.
 imagePath: \assets\images\products\cards\mundopata
 image: 1
 image2: 1
