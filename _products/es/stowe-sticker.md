@@ -10,7 +10,7 @@ materials: Vínilo
 featured: 0
 etsy: https://www.etsy.com/listing/1085108189/stowe-vermont-cityscape-sticker
 price: 5
-sku: ST-QV-02
+sku: ST-QV-03
 stock: 1
 slug: stowe-sticker
 ref: stowe-sticker

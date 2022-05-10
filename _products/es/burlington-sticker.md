@@ -10,7 +10,7 @@ materials: Vínilo
 featured: 1
 etsy: https://www.etsy.com/listing/1085097559/burlington-vermont-cityscape-sticker
 price: 5
-sku: ST-QV-03
+sku: ST-QV-04
 stock: 1
 slug: Burlington-sticker
 ref: Burlington-sticker

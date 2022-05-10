@@ -18,7 +18,7 @@ slug: photostand-mountains
 ref: photostand-mountains
 category:
 - wood
-- la-aventura
+- aventura
 ---
 Esta base de madera, hecha a mano  es ideal para tus fotografía o ilustraciones. Destacamos una montaña geométrica grabada en un bloque de madera de cerezo. La madera fue cortada a mano, cepillada y grabada con cuidado, además ha sido ligeramente cubierta con Aceite Danés para su protección.
 

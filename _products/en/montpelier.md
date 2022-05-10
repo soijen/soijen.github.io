@@ -12,7 +12,7 @@ materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/954020534/montpelier-vermont-cityscape-art-print
 price: 13
-sku:
+sku: PR-QV-02-5x7
 stock: 1
 slug: montpelier5x7
 ref: montpelier5x7

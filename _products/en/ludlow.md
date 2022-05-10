@@ -11,7 +11,7 @@ materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/1070170766/ludlow-vermont-cityscape-art-print-thick
 price: 13
-sku: PR-QV-06
+sku: PR-QV-06-5x7
 stock: 1
 slug: ludlow5x7
 ref: ludlow5x7

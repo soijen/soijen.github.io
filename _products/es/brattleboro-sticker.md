@@ -10,7 +10,7 @@ materials: Vínilo
 featured: 0
 etsy: https://www.etsy.com/listing/1085100215/brattleboro-vermont-cityscape-sticker
 price: 5
-sku: ST-QV-04
+sku: ST-QV-05
 stock: 1
 slug: brattleboro-sticker
 ref: brattleboro-sticker

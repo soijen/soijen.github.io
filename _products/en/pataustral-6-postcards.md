@@ -12,7 +12,7 @@ materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/904925567/trekking-patagonia-austral-chile-set-of
 price: 10
-sku: 
+sku:
 stock: 1
 slug: pataustral-set-6
 ref: pataustral-set-6

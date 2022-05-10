@@ -16,13 +16,15 @@ ref: index
 
 <div class="full-hero">
   <h2>FEATURED</h2>
-  <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.featured != 0 %}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
+  <div class="columns">
+    <div class="product-column">
+      {% assign products=site.products | where:"lang", page.lang %}
+      {% for product in products %}
+        {% if product.featured != 0 %}
+          {% include product.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
   <div class="action-button">
     <a href="/store/" title="All products">VIEW ALL PRODUCTS</a>
@@ -35,7 +37,7 @@ ref: index
       <a href="/products/nowake-tshirt-g"><img src="\assets\images\products\tshirts\nowake\g\4.jpg" alt="No Wake Zone | 100% Organic Cotton T-shirt | Grey"></a>
     </div>
     <div class="small-col">
-      <h2>BRAND NEW!!</h2>
+      <h2>Hola summer!</h2>
       <h3>No Wake Zone T-shirts</h3>
       Our popular No Wake Zone design is now available as a t-shirt! These ultra soft screenprinted t-shirts are made of high quality combed ringspun organic cotton and Made in the USA.
       <div class="action-button"><a href="/products/nowake-tshirt-g">SHOP NOW</a></div>
@@ -57,7 +59,7 @@ ref: index
     <h2>Together we are defending the wild places of Patagonia.</h2>
     <div class="action-button"><a href="/about/sustainability/">Learn more</a></div>
 </div>
-
+<!--
 <div class="full-hero">
   <div class="columns">
     {% assign posts=site.posts | where:"lang", page.lang %}
@@ -76,7 +78,7 @@ ref: index
     {% endfor %}
   </div>
 </div>
-<!--
+
 <div class="full-hero">
   <div class="columns">
     <div class="small-col">

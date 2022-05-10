@@ -12,7 +12,7 @@ materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/1025734650/hand-illustrated-vermont-long-trail-art
 price: 13
-sku: PR-LA-04
+sku: PR-QV-01-5x7
 stock: 1
 slug: vermont-c
 ref: vermont-c
@@ -20,7 +20,6 @@ category:
 - art-print
 - illustration
 - states
-- la-aventura
 - vermont
 - new-england
 ---

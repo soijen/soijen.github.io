@@ -11,13 +11,13 @@ materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/909698707/canoeing-adventure-dog-no-wake-zone-art
 price: 13
-sku:
+sku: PR-LA-21-5x7
 stock: 1
 slug: nowake5x7
 ref: nowake5x7
 category:
 - art-print
-- adventure-pup
+- aventura
 - flat-design
 ---
 Esta impresión juguetona destaca un perro dormiendo en una canoa con el texto "No Wake Zone" (Zona sin estela). Impresa con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.

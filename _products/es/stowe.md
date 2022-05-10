@@ -11,7 +11,7 @@ materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/980773513/stowe-vermont-cityscape-art-print-thick
 price: 13
-sku:
+sku: PR-QV-03-5x7
 stock: 1
 slug: stowe5x7
 ref: stowe5x7

@@ -11,15 +11,15 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/905048413/el-mundo-a-pata-blank-note-card-set
-price: 18
-sku:
+price: 19
+sku: GC-LA-01
 stock: 1
 slug: mundo-pata-cards
 ref: mundo-pata-cards
 category:
 - cards
 - flat-design
-- adventure-pup
+- aventura
 ---
 The “El Mundo a Pata” note card collection features adventure-pup inspired designs, perfect to keep in touch with friends and family. This set of 6 A2 cards, blank inside, is printed on archival, environmentally friendly paper and comes with 6 white envelopes.
 

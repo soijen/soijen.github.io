@@ -13,190 +13,96 @@ ref: store
     <h4>o <a href="/es/store/collections" title="buscar por colección">BUSCAR POR COLECCIÓN</a></h4>
     <a name="t-shirts" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Poleras</h2>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "t-shirt" %}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "t-shirt" %}
+            {% include product.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </div>
     <a name="art-prints" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Impresión Artística y Posters</h2>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "art-print" and product.category contains "states" %}
-        {% if product.category contains "patagonia" %}{% else %}
-          {% include product.html %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "art-print" %}
-        {% if product.category contains "patagonia" %}{% else %}
-          {% if product.category contains "states" %}{% else %}
-          {% if product.category contains "vermont" %}
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "art-print" %}
             {% include product.html %}
           {% endif %}
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "art-print" %}
-        {% if product.category contains "patagonia" %}{% else %}
-          {% if product.category contains "states" %}{% else %}
-          {% if product.category contains "vermont" %}{% else %}
-          {% if product.category contains "illustration" %}{% else %}
-            {% include product.html %}
-          {% endif %}
-          {% endif %}
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "art-print" and product.category contains "illustration" %}
-        {% if product.category contains "patagonia" %}{% else %}
-          {% if product.category contains "states" %}{% else %}
-          {% if product.category contains "vermont" %}{% else %}
-            {% include product.html %}
-          {% endif %}
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "art-print" and product.category contains "patagonia" and product.category contains "illustration" %}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "art-print" and product.category contains "patagonia" and product.category contains "flat-design" and product.category contains "maps" %}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "art-print" and product.category contains "patagonia" and product.category contains "flat-design" %}
-        {% if product.category contains "maps" %}{% else %}
-          {% include product.html %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+        {% endfor %}
+      </div>
     </div>
     <a name="postcards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Postales</h2>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "postcard" %}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "postcard" %}
+            {% include product.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </div>
     <a name="tote-bags" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Bolsas Reutilizables y Estuches</h2>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "tote" and product.category contains "adventure-pup" %}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "tote" %}
+            {% include product.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "tote" %}
-        {% if product.category contains "adventure-pup" %}{% else %}
-          {% include product.html %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "pouch" %}
+            {% include product.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </div>
     <a name="note-cards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Tarjetas de Saludo</h2>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "cards" %}
-        {% if product.category contains "states" %}{% else %}
-          {% if product.category contains "adventure-pup" %}{% else %}
-          {% if product.category contains "vermont" %}
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "cards" %}
             {% include product.html %}
           {% endif %}
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "cards" %}
-        {% if product.category contains "states" %}{% else %}
-          {% if product.category contains "adventure-pup" %}{% else %}
-          {% if product.category contains "vermont" %}{% else %}
-            {% include product.html %}
-          {% endif %}
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "cards" and product.category contains "adventure-pup"%}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "cards" and product.category contains "states" %}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
+        {% endfor %}
+      </div>
     </div>
     <a name="stickers" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Adhesivos</h2>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "sticker"%}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "sticker"%}
+            {% include product.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </div>
     <a name="woodworking" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Madera</h2>
-    <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.category contains "wood"%}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "wood"%}
+            {% include product.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </div>
 </div>

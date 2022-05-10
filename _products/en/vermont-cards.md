@@ -10,15 +10,14 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/891219942/querido-vermont-blank-note-card-set-5-a2
-price: 18
-sku: GC-LA-04
+price: 19
+sku: GC-QV-01
 stock: 1
 slug: vermont-cards
 ref: vermont-cards
 category:
 - cards
 - states
-- la-aventura
 - vermont
 - new-england
 ---

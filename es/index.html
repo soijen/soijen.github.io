@@ -17,13 +17,15 @@ ref: index
 
 <div class="full-hero">
   <h2>DESTACADOS</h2>
-  <div class="columns product-column">
-    {% assign products=site.products | where:"lang", page.lang %}
-    {% for product in products %}
-      {% if product.featured != 0 %}
-        {% include product.html %}
-      {% endif %}
-    {% endfor %}
+  <div class="columns">
+    <div class="product-column">
+      {% assign products=site.products | where:"lang", page.lang %}
+      {% for product in products %}
+        {% if product.featured != 0 %}
+          {% include product.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
   <div class="action-button">
     <a href="/es/store/" title="Todos nuestros productos">VER TODOS</a>
@@ -36,7 +38,7 @@ ref: index
       <a href="/es/products/nowake-tshirt-g"><img src="\assets\images\products\tshirts\nowake\g\4.jpg" alt="No Wake Zone | Polera 100% de Algodón Orgánico | Gris"></a>
     </div>
     <div class="small-col">
-      <h2>¡NUEVO!</h2>
+      <h2>¡Hola verano!</h2>
       <h3>Polera No Wake Zone</h3>
       Nuestro popular diseño de "No Wake Zone" se encuentra disponible en poleras. Estas cómodas poleras son hechas de algodón orgánico de alta calidad en los EEUU.
       <div class="action-button"><a href="/es/products/nowake-tshirt-g">COMPRA AHORA</a></div>
@@ -51,13 +53,14 @@ ref: index
   </div>
 </div>
 <div class="full-hero hero-collection">
-  <h2>COLECCIÓNES</h2>
+  <h2>COLECCIONES</h2>
   {% include collections.html %}
 </div>
 <div class="full-hero hero-donate">
     <h2>Juntos estamos defendiendo los lugares salvajes de la Patagonia.</h2>
     <div class="action-button"><a href="/es/about/sustainability/">Aprende más</a></div>
 </div>
+<!--
 <div class="full-hero">
   <div class="columns">
     {% assign posts=site.posts | where:"lang", page.lang %}
@@ -76,7 +79,7 @@ ref: index
     {% endfor %}
   </div>
 </div>
-<!--
+
 <div class="full-hero">
   <div class="columns">
     <div class="small-col">

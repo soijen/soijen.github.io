@@ -12,7 +12,7 @@ materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/966823682/burlington-vermont-cityscape-art-print
 price: 13
-sku:
+sku: PR-QV-04-5x7
 stock: 1
 slug: burlington5x7
 ref: burlington5x7

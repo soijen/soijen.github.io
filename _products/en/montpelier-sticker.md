@@ -10,7 +10,7 @@ materials: Weatherproof Vinyl
 featured: 0
 etsy: https://www.etsy.com/listing/1071166198/montpelier-vermont-cityscape-sticker
 price: 5
-sku: ST-QV-01
+sku: ST-QV-02
 stock: 1
 slug: Montpelier-sticker
 ref: Montpelier-sticker

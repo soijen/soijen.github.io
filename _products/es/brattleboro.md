@@ -12,7 +12,7 @@ materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/1050440711/brattleboro-vermont-cityscape-art-print
 price: 13
-sku: PR-QV-05
+sku: PR-QV-05-5x7
 stock: 1
 slug: brattleboro5x7
 ref: brattleboro5x7
