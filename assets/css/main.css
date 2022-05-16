@@ -368,9 +368,15 @@ textarea {
 .hero-contact h1, .hero-about h1, .hero-blog h1, .hero-blog h2, .hero-wholesale h1 {
   color: #fff;
 }
+.hero-home {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
 .hero-home h1 {
   color: #fff;
   font-size: 4rem;
+  padding: 0;
   text-shadow: 4px 4px 4px #000;
 }
 .hero-about {
@@ -462,6 +468,16 @@ textarea {
   padding: 1vh;
   vertical-align: top;
 }
+.product-type {
+  border: 2px dotted #222;
+  border-radius: 10px;
+  margin: 1vh 0.5vh;
+  padding: 2vh 1vh;
+  vertical-align: center;
+}
+.product-type:last-child {
+  border-color: #FFB300;
+}
 .blog-column {
   box-sizing: border-box;
   flex: 1 1 25%;
@@ -503,9 +519,11 @@ textarea {
 }
 .home-image {
   box-sizing: border-box;
+  margin: 0 2vw;
   position: relative;
 }
 .home-image img {
+  background-position: center;
   border-radius: 10px;
   height: 60vh;
   object-fit: cover;

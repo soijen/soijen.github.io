@@ -7,10 +7,19 @@ ref: store
 ---
 <div class="page">
   <h1>Nuestros Productos</h1>
-    <h4>
-      <a href="#t-shirts"> Poleras </a>-<a href="#art-prints"> Impresión Artística y Posters </a>-<a href="#postcards"> Postales </a>-<a href="#tote-bags"> Bolsas Reutilizables y Estuches </a>-<a href="#note-cards"> Tarjetas de Saludo </a>-<a href="#stickers"> Adhesivos </a>-<a href="#woodworking"> Madera </a>
-    </h4>
-    <h4>o <a href="/es/store/collections" title="buscar por colección">BUSCAR POR COLECCIÓN</a></h4>
+    <div class="columns">
+      <div class="product-column">
+        <div class="product product-type"><a href="#t-shirts">Poleras</a></div>
+        <div class="product product-type"><a href="#art-prints">Impresiones + Posters</a></div>
+        <div class="product product-type"><a href="#postcards">Postales</a></div>
+        <div class="product product-type"><a href="#tote-bags">Bolsas Reutilizables + Estuches</a></div>
+        <div class="product product-type"><a href="#stationary">Set Esquelas</a></div>
+        <div class="product product-type"><a href="#greeting-cards">Tarjetas de Saludo</a></div>
+        <div class="product product-type"><a href="#stickers">Adhesivos</a></div>
+        <div class="product product-type"><a href="#woodworking">Madera</a></div>
+        <div class="product product-type">o <a href="/es/store/collections" title="buscar por colección">BUSCAR POR COLECCIÓN</a></div>
+      </div>
+    </div>
     <a name="t-shirts" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Poleras</h2>
     <div class="columns">
@@ -64,6 +73,18 @@ ref: store
         {% assign products=site.products | where:"lang", page.lang %}
         {% for product in products %}
           {% if product.category contains "pouch" %}
+            {% include product.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    <a name="stationary" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+    <h2>Set Esquelas</h2>
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "stationary" %}
             {% include product.html %}
           {% endif %}
         {% endfor %}

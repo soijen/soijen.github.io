@@ -10,7 +10,7 @@ image4: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/1039730775/hand-illustrated-vermont-long-trail-art
+etsy: https://www.etsy.com/listing/1039730775/vermont-long-trail-art-print-thick
 price: 13
 sku: PR-QV-08-5x7
 stock: 1

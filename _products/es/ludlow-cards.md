@@ -7,8 +7,8 @@ image: 1
 dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/shop/Soijen
-price: 19
+etsy: https://www.etsy.com/listing/1234297003/ludlow-vermont-cityscape-blank-note-card
+price: 18
 sku: GC-QV-06
 stock: 1
 slug: ludlow-cards
