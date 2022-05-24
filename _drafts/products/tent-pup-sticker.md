@@ -4,7 +4,7 @@ name: Tent Pup | Sticker
 description: This tent pup die-cut matte sticker is printed on durable weatherproof vinyl.
 imagePath: \assets\images\products\stickers\tentpup
 image: 1
-dimensions:
+dimensions: 4" x 2.4"
 materials: Weatherproof Vinyl
 featured: 0
 etsy: https://www.etsy.com/shop/Soijen
