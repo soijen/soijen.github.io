@@ -16,6 +16,7 @@ ref: store
       <div class="product product-type"><a href="#stationary">Stationary Sets</a></div>
       <div class="product product-type"><a href="#greeting-cards">Greeting Card Sets</a></div>
       <div class="product product-type"><a href="#stickers">Stickers</a></div>
+      <div class="product product-type"><a href="#wall-hangings">Wall Hangings</a></div>
       <div class="product product-type"><a href="#woodworking">Woodworking</a></div>
       <div class="product product-type">or <a href="/store/collections" title="browse by collection">BROWSE BY COLLECTION</a></div>
     </div>
@@ -90,7 +91,7 @@ ref: store
         {% endfor %}
       </div>
     </div>
-    <a name="note-cards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+    <a name="greeting-cards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
     <h2>Blank Greeting Card Sets</h2>
     <div class="columns">
       <div class="product-column">
@@ -109,6 +110,18 @@ ref: store
         {% assign products=site.products | where:"lang", page.lang %}
         {% for product in products %}
           {% if product.category contains "sticker"%}
+            {% include product.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    <a name="wall-hangings" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+    <h2>Wall Hangings</h2>
+    <div class="columns">
+      <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+          {% if product.category contains "wall-hanging"%}
             {% include product.html %}
           {% endif %}
         {% endfor %}

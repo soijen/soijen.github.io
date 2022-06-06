@@ -9,7 +9,7 @@ image3: 1
 image4: 1
 dimensions: 7.5" x 4" (19cm x 10.2cm)
 materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certificado
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/905321365/el-mundo-a-pata-zippered-pouch-adventure
 price: 18
 sku: PO-LA-01
