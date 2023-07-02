@@ -864,7 +864,7 @@ textarea {
 .post-content,
 .post-footer {
   margin: auto;
-  max-width: 40em;
+  max-width: 50em;
   width: 85vw;
 }
 .post-content {
