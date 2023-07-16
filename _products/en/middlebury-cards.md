@@ -2,7 +2,7 @@
 title: Middlebury Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
 name: Middlebury Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
 description: This Middlebury cityscape blank note card set highlights the iconic buildings and monuments in Middlebury, Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
-imagePath: \assets\images\products\cards\waterbury
+imagePath: \assets\images\products\cards\middlebury
 image: 1
 image2: 1
 image3: 1

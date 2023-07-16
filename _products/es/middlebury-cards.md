@@ -2,7 +2,7 @@
 title: Middlebury Vermont Cityscape | Set de tarjetas de saludo | 6 Tarjetas A2 y Sobres y Stickers
 name: Middlebury Vermont Cityscape | Set de tarjetas de saludo | 6 Tarjetas A2 y Sobres y Stickers
 description: Este set de tarjetas de saludo destaca un diseño minimalista plano de lugares de interés en Middlebury, Vermont. Impresos con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente. 
-imagePath: \assets\images\products\cards\waterbury
+imagePath: \assets\images\products\cards\middlebury
 image: 1
 image2: 1
 image3: 1

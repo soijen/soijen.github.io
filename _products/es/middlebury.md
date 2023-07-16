@@ -2,10 +2,10 @@
 title: Middlebury Vermont Cityscape | Impresión Artística
 name: Middlebury Vermont Cityscape | Impresión Artística
 description: Esta impresión destaca un diseño minimalista plano de lugares de interés en Middlebury, Vermont. Impresos con cuidado en un papel de calidad de archivo que a la vez es amigable con el medio ambiente.
-imagePath: \assets\images\products\prints\Middlebury
+imagePath: \assets\images\products\prints\middlebury
 image: 1
-image2: 1
-image3: 1
+image2: 2
+image3: 3
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0

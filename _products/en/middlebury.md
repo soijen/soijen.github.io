@@ -2,10 +2,10 @@
 title: Middlebury Vermont Cityscape | Art Print
 name: Middlebury Vermont Cityscape | Art Print
 description: This Middlebury cityscape art print highlights the iconic buildings and monuments in Middlebury, Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
-imagePath: \assets\images\products\prints\Middlebury
+imagePath: \assets\images\products\prints\middlebury
 image: 1
-image2: 1
-image3: 1
+image2: 2
+image3: 3
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
