@@ -1,7 +1,7 @@
 ---
 title: Waterbury Vermont Cityscape | Art Print
 name: Waterbury Vermont Cityscape | Art Print
-description: This Waterbury cityscape art print highlights the iconic buildings and monuments in Stowe, Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
+description: This Waterbury cityscape art print highlights the iconic buildings and monuments in Waterbury, Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
 imagePath: \assets\images\products\prints\waterbury
 image: 1
 image2: 1

@@ -9,9 +9,9 @@ image3: 1
 image4: 1
 dimensions: A1 - 5" x 7" (127mm x 178mm)
 materials: Papel 30% materiales reciclados
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/1234312281/casa-stationary-set-12-sheets-paper-6
-price: 17
+price: 18
 sku: SS-LA-02
 stock: 1
 slug: casa-stationary

@@ -21,4 +21,4 @@ category:
 - flat-design
 - aventura
 ---
-BRAND NEW! And the perfect gift for the holidays! This whimsical tote bag, from our "El Mundo a Pata" (The world by paw) collection, features a snowshoeing adventure pup. This sturdy and spacious 10 oz cotton canvas bag is perfect for a trip to the farmer's market with its 6" wide bottom gusset. Made in USA of 100% recycled materials.
+Perfect gift for the holidays! This whimsical tote bag, from our "El Mundo a Pata" (The world by paw) collection, features a snowshoeing adventure pup. This sturdy and spacious 10 oz cotton canvas bag is perfect for a trip to the farmer's market with its 6" wide bottom gusset. Made in USA of 100% recycled materials.
