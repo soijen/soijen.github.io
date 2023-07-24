@@ -7,7 +7,7 @@ image: 1
 image2: 1
 dimensions: 17" x 6" (43cm x 15cm)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
-featured: 1
+featured: 0
 etsy: https://www.etsy.com/listing/1231966876/tiny-house-wall-hanging-recycled-cotton
 price: 22
 sku: WH-LA-01

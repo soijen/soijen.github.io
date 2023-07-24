@@ -7,7 +7,7 @@ image: 1
 image2: 2
 dimensions: 5"x 2.1"
 materials: Vínilo
-featured: 0
+featured: 1
 etsy: https://www.etsy.com/listing/1524199247/bikepacker-mochiclista-sticker
 price: 5
 sku: ST-LA-05

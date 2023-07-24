@@ -1,5 +1,5 @@
 ---
-title: Viaje sin Rumbo | Sticker
+title: Viaje sin Rumbo | Van Life | Sticker
 name: Viaje sin Rumbo | Sticker
 description: This van life design featuring a camping van in the mountains with text "Viaje sin rumbo" on a die-cut matte sticker. Printed on durable weatherproof vinyl.
 imagePath: \assets\images\products\stickers\viajesinrumbo\

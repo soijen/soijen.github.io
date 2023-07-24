@@ -21,4 +21,4 @@ category:
 - aventura
 - flat-design
 ---
-Nuestro popular diseño de "No Wake Zone" se encuentra disponible en poleras. Estas cómodas poleras son hechas de algodón orgánico de alta calidad en los EEUU. Destacando un perro dormiendo en una canoa con el texto "No Wake Zone" (Zona sin estela). La talla es unisex. Polera también disponible en <a href="/es/products/nowake-tshirt-b" title="No Wake Zone | Polera 100% de Algodón Orgánico | Azúl">azúl</a>.
+Nuestro popular diseño de "No Wake Zone" se encuentra disponible en poleras. Estas cómodas poleras son hechas de algodón orgánico de alta calidad en los EEUU. Destacando un perro dormiendo en una canoa con el texto "No Wake Zone" (Zona sin estela). La talla es unisex. Polera también disponible en <a href="/es/products/nowake-tshirt-b" title="No Wake Zone | Polera 100% de Algodón Orgánico | Azúl">azúl</a>, <a href="/es/products/nowake-tshirt-berry" title="No Wake Zone | Polera 100% de Algodón Orgánico | Frambuesa">frambuesa</a>, y <a href="/es/products/nowake-tshirt-moss" title="No Wake Zone | Polera 100% de Algodón Orgánico | Verde">verde</a>.

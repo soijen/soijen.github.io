@@ -7,7 +7,7 @@ image: 1
 image2: 1
 dimensions: 3.5" x 2.8"
 materials: Vínilo
-featured: 0
+featured: 1
 etsy: https://www.etsy.com/listing/1509973106/fall-foliage-dog-sticker-weatherproof
 price: 5
 sku: ST-LA-04
