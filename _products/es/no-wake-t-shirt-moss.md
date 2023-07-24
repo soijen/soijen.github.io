@@ -6,6 +6,7 @@ imagePath: \assets\images\products\tshirts\nowake\moss
 image: 1
 image2: 2
 image3: 3
+image4: 4
 materials: 100% algodón orgánico. Hecho en EEUU.
 featured: 0
 etsy: https://www.etsy.com/listing/1036683903/no-wake-zone-100-organic-cotton-unisex-t
