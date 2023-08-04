@@ -6,6 +6,7 @@ imagePath: \assets\images\products\prints\viaje-sin-rumbo
 image: 1
 image2: 1
 image3: 1
+image4: 1
 dimensions: 5" x 7"
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 1
