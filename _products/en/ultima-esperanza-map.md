@@ -9,7 +9,7 @@ image3: 1
 dimensions: 6" x 9" (150mm x 230mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
-etsy: https://www.etsy.com/listing/904931843/ultima-esperanza-map-mini-poster
+etsy: http://etsy.com/shop/soijen
 price: 5
 sku:
 stock: 1

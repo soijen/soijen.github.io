@@ -9,7 +9,7 @@ image3: 1
 dimensions: 18" x 12" x 6" with 25" handle (45.7cm x 30.5cm x 15.2cm with 63.5cm handle)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 1
-etsy: https://www.etsy.com/listing/1524146631/bike-adventure-dog-market-tote-bag
+etsy: https://soijen.etsy.com/listing/1524146631/bike-adventure-dog-market-tote-bag?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695258529859
 price: 26
 sku: TB-LA-02
 stock: 1

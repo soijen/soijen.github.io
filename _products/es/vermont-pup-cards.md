@@ -9,7 +9,7 @@ image3: 1
 dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 1
-etsy: https://www.etsy.com/listing/1524142217/vermont-pup-blank-note-card-set-6-a2
+etsy: https://soijen.etsy.com/listing/1524142217/vermont-pup-blank-note-card-set-6-a2?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262143570
 price: 18
 sku: GC-LA-08
 stock: 1

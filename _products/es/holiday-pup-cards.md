@@ -10,7 +10,7 @@ image4: 1
 dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: hhttps://www.etsy.com/listing/1118791813/adventure-dog-holiday-cards-blank-note
+etsy: https://soijen.etsy.com/listing/1118791813/holiday-pup-blank-note-card-set-6-a2?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259992854
 price: 18
 sku: GC-LA-02
 stock: 1

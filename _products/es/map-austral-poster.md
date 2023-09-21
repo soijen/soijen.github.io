@@ -11,9 +11,9 @@ image5: 1
 dimensions: 11" x 17" (280mm x 430mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 1
-etsy: https://www.etsy.com/listing/916016663/patagonia-austral-poster-chile-thick
-price: 26.50
-sku:
+etsy: https://soijen.etsy.com/listing/916016663/patagonia-austral-map-poster-chile-thick?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695260270002
+price: 28
+sku: PR-PA-07
 stock: 1
 slug: map-austral-poster
 ref: map-austral-poster

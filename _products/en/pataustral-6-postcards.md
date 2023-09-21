@@ -10,9 +10,9 @@ image4: 1
 dimensions: 4" x 6" (100mm x 150mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
-etsy: https://www.etsy.com/listing/904925567/trekking-patagonia-austral-chile-set-of
+etsy: https://soijen.etsy.com/listing/904925567/trekking-patagonia-austral-chile-set-of?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261294110
 price: 10
-sku:
+sku: PC-PA-01
 stock: 1
 slug: pataustral-set-6
 ref: pataustral-set-6

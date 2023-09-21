@@ -8,7 +8,7 @@ image2: 1
 dimensions: 5" x 2.5" (130mm x 60mm)
 materials: Weatherproof Vinyl
 featured: 0
-etsy: https://www.etsy.com/listing/1232602803/dientes-de-navarino-trek-chilean
+etsy: https://soijen.etsy.com/listing/1232602803/dientes-de-navarino-trek-chilean?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259868789
 price: 5
 sku: ST-PA-03
 stock: 1

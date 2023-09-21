@@ -7,8 +7,8 @@ image: 1
 dimensions: 7.5" x 4" (19cm x 10.2cm)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 0
-etsy: https://www.etsy.com/listing/1231957706/tiny-house-adventure-dog-zippered-pouch
-price: 18
+etsy: https://soijen.etsy.com/listing/1231957706/tiny-house-adventure-dog-zippered-pouch?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259504465
+price: 15
 sku: PO-LA-02
 stock: 1
 slug: casita-pouch

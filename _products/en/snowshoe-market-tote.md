@@ -10,8 +10,8 @@ image4: 1
 dimensions: 18" x 12" x 6" with 25" handle (45.7cm x 30.5cm x 15.2cm with 63.5cm handle)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 0
-etsy: https://www.etsy.com/listing/905314295/el-mundo-a-pata-market-tote-bag
-price: 25
+etsy: https://soijen.etsy.com/listing/905314295/snowshoeing-adventure-dog-market-tote?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261485047
+price: 26
 sku: TB-LA-01
 stock: 1
 slug: snowshoe-market-tote

@@ -10,9 +10,9 @@ image4: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/1039730775/vermont-long-trail-art-print-thick
+etsy: https://soijen.etsy.com/listing/1039730775/vermont-long-trail-art-print-thick?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695260501966
 price: 13
-sku: PR-QV-08-5x7
+sku: PR-QV-00-5x7
 stock: 1
 slug: vermont-d
 ref: vermont-d

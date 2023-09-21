@@ -10,7 +10,7 @@ image4: 1
 dimensions: 5" x 7"
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 1
-etsy: https://www.etsy.com/listing/1526453155/viaje-sin-rumbo-van-life-print-thick
+etsy: https://soijen.etsy.com/listing/1526453155/viaje-sin-rumbo-van-life-print-thick?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262045331
 price: 13
 sku: PR-LA-24
 stock: 1

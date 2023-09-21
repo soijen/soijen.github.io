@@ -10,8 +10,8 @@ image4: 1
 dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/1050436983/brattleboro-vermont-cityscape-blank-note
-price: 19
+etsy: https://soijen.etsy.com/listing/1557090860/brattleboro-vermont-cityscape-blank-note?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695258984647
+price: 18
 sku: GC-QV-05
 stock: 1
 slug: brattleboro-cards

@@ -8,7 +8,7 @@ image2: 1
 dimensions: 5" x 2.25" (127mm x 57mm)
 materials: Vínilo
 featured: 0
-etsy: https://www.etsy.com/listing/1232689446/ludlow-vermont-cityscape-sticker
+etsy: https://soijen.etsy.com/listing/1232689446/ludlow-vermont-cityscape-sticker?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695260128767
 price: 5
 sku: ST-QV-06
 stock: 1

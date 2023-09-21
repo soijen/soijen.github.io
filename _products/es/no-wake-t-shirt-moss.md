@@ -9,7 +9,7 @@ image3: 3
 image4: 4
 materials: 100% algodón orgánico. Hecho en EEUU.
 featured: 0
-etsy: https://www.etsy.com/listing/1036683903/no-wake-zone-100-organic-cotton-unisex-t
+etsy: https://soijen.etsy.com/listing/1036683903/new-colors-no-wake-zone-100-organic?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261131537
 price: 32
 sku: TS-LA-03
 stock: 1

@@ -8,7 +8,7 @@ image2: 1
 dimensions: 18" x 16" x 4" con asa de 25" (45.7cm x 40.6cm x 10.2cm con asa de 63.5cm)
 materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certificado
 featured: 0
-etsy: https://www.etsy.com/listing/885568610/ultima-esperanza-jumbo-tote-bag
+etsy: http://etsy.com/shop/soijen
 price: 26
 sku: 
 stock: 1

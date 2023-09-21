@@ -8,7 +8,7 @@ image2: 1
 dimensions: 18" x 16" x 4" with 25" handle (45.7cm x 40.6cm x 10.2cm with 63.5cm handle)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 0
-etsy: https://www.etsy.com/listing/885568610/ultima-esperanza-jumbo-tote-bag
+etsy: http://etsy.com/shop/soijen
 price: 26
 sku: 
 stock: 1

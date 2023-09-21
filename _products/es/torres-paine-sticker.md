@@ -8,7 +8,7 @@ image2: 1
 dimensions: 4" x 3" (100mm x 75mm)
 materials: Vínilo
 featured: 1
-etsy: https://www.etsy.com/listing/1232589877/torres-del-paine-national-park-chilean
+etsy: https://soijen.etsy.com/listing/1232589877/torres-del-paine-national-park-chilean?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262435334
 price: 5
 sku: ST-PA-02
 stock: 1

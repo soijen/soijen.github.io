@@ -10,9 +10,9 @@ image4: 1
 dimensions: Approximately 3" x 1.3" x 1.3" with 0.04" wide slit (76mm x 33mm x 33mm with a 10mm wide slit)
 materials: Cherry wood, pyrography
 featured: 0
-etsy: https://www.etsy.com/listing/899058454/wood-picture-holder-mountain-la-aventura
-price:
-sku:
+etsy: https://soijen.etsy.com/listing/899058454/cherry-wood-block-photo-stand-mountain?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261345960
+price: 22
+sku: WW-LA-01
 stock: 1
 slug: photostand-mountains
 ref: photostand-mountains

@@ -10,9 +10,9 @@ image4: 1
 dimensions: 11" x 17" (280mm x 430mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/955753947/national-parks-of-patagonia-austral-map?ref=listing_published_alert
-price: 28.50
-sku:
+etsy: https://soijen.etsy.com/listing/955753947/national-parks-of-patagonia-austral-map?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261437142
+price: 28
+sku: PR-PA-09
 stock: 1
 slug: PPNN-map-austral-poster
 ref: PPNN-map-austral-poster

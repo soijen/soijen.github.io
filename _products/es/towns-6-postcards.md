@@ -10,9 +10,9 @@ image4: 1
 dimensions: 4" x 6" (100mm x 150mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/904923495/towns-of-patagonia-austral-chile-set-of
+etsy: https://soijen.etsy.com/listing/904923495/towns-of-patagonia-austral-chile-set-of?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262380869
 price: 10
-sku: 
+sku: PC-PA-03
 stock: 1
 slug: towns-set-6
 ref: towns-set-6

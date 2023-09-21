@@ -9,9 +9,9 @@ image3: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
-etsy: https://www.etsy.com/listing/891229178/torres-del-paine-art-print-hand
+etsy: https://soijen.etsy.com/listing/891229178/hand-illustrated-torres-del-paine?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262458742
 price: 13
-sku:
+sku: PR-PA-04-5x7
 stock: 1
 slug: torrespaine5x7
 ref: torrespaine5x7

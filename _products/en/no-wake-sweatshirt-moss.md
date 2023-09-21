@@ -7,8 +7,8 @@ image: 1
 image2: 2
 image3: 3
 materials: 100% organic combed cotton. Made in USA.
-featured: 0
-etsy: https://www.etsy.com/listing/1510025558/no-wake-zone-100-organic-cotton-unisex
+featured: 1
+etsy: https://soijen.etsy.com/listing/1510025558/no-wake-zone-100-organic-cotton-unisex?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261099604
 price: 59
 sku: SW-LA-01
 stock: 1

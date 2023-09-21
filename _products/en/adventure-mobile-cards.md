@@ -10,7 +10,7 @@ image4: 1
 dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
-etsy: https://www.etsy.com/listing/1218628744/adventure-mobile-blank-note-card-set-6
+etsy: https://soijen.etsy.com/listing/1218628744/adventure-mobile-blank-note-card-set-6?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695258393586
 price: 18
 sku: GC-LA-04
 stock: 1

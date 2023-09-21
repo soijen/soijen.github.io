@@ -9,7 +9,7 @@ image3: 1
 dimensions: 6" x 9" (150mm x 230mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
-etsy: https://www.etsy.com/listing/904933359/magallanes-map-mini-poster-patagonia
+etsy: http://etsy.com/shop/soijen
 price: 5
 sku:
 stock: 1

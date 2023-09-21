@@ -8,7 +8,7 @@ image2: 1
 dimensions: A1 - 5" x 7" (127mm x 178mm)
 materials: 30% recycled text paper with felt finish
 featured: 0
-etsy: https://www.etsy.com/listing/1524158805/vermont-pup-stationary-set-12-sheets
+etsy: https://soijen.etsy.com/listing/1524158805/vermont-pup-stationary-set-12-sheets?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262121346
 price: 18
 sku: SS-LA-04
 stock: 1

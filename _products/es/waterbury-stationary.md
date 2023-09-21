@@ -8,7 +8,7 @@ image2: 1
 dimensions: A1 - 5" x 7" (127mm x 178mm)
 materials: Papel 30% materiales reciclados
 featured: 0
-etsy: https://www.etsy.com/listing/1509984798/waterbury-vermont-cityscape-stationary
+etsy: https://soijen.etsy.com/listing/1509984798/waterbury-vermont-cityscape-stationary?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261883561
 price: 18
 sku: SS-QV-07
 stock: 1

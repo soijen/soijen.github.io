@@ -8,7 +8,7 @@ image2: 2
 dimensions: 5"x 2.1"
 materials: Vínilo
 featured: 0
-etsy: https://www.etsy.com/listing/1524195611/van-life-viaje-sin-rumbo-sticker
+etsy: https://soijen.etsy.com/listing/1524195611/van-life-viaje-sin-rumbo-sticker?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262016911
 price: 5
 sku: ST-LA-06
 stock: 1

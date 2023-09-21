@@ -10,7 +10,7 @@ image4: 1
 dimensions: 5" x 7"
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
-etsy: https://www.etsy.com/listing/1526459025/mochiclista-bikepacker-print-thick
+etsy: https://soijen.etsy.com/listing/1526459025/mochiclista-bikepacker-print-thick?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695260428694
 price: 13
 sku: PR-LA-23
 stock: 1
