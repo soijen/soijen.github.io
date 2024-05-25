@@ -7,6 +7,7 @@ t:
     dimensions: Dimensions
     price: Price
     materials: Materials
+    search: Search products...
   es:
     cart: Carro
     login: Ingresar
@@ -15,3 +16,4 @@ t:
     dimensions: Medidas
     price: Precio
     materials: Materiales
+    search: Buscar productos...

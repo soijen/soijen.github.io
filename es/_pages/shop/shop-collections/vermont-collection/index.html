@@ -1,0 +1,20 @@
+---
+title: Nuestra Colección Explora Vermont | Soijen
+description: Nuestra Colección Explora Vermont
+layout: products
+permalink: /es/store/collections/vermont/
+ref: store-collections-vermont
+---
+<div class="page">
+    <h1>Nuestra Colección Explora Vermont</h1>
+    <div class="columns">
+        <div class="product-column">
+            {% assign products=site.products | where:"lang", page.lang %}
+            {% for product in products %}
+            {% if product.category contains "vermont" %}
+                {% include product.html %}
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

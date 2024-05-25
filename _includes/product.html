@@ -1,9 +1,9 @@
 
   <div class="product">
     <a class="product" href="{{ product.url }}">
-      <img src="{{ product.imagePath }}/1.jpg" alt="{{ product.name }}" class="thumbnail prod-image"/>
-      <h4>{{ product.name }}</h4>
-      <!--<h3>
+      <img src="{{ product.imagePath }}/1.jpg" alt="{{ product.title }}" class="thumbnail prod-image"/>
+      <h4>{{ product.title }}</h4>
+      <h3>
         {% if product.stock == 0 %}
           {% if page.lang == 'en' %}
             SOLD OUT
@@ -12,9 +12,9 @@
             AGOTADO
           {% endif %}
         {% else %}
-        ${{ product.price }} USD
+        ${{ product.price }}
         {% endif %}
-      </h3>-->
+      </h3>
     </a>
     <!--<button class="snipcart-add-item"
       data-item-name="{{ product.name }}"

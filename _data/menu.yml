@@ -4,103 +4,215 @@ m:
     store:
       name: SHOP
       url: /store/
+      hover: SHOP
       subitems:
-        all-products:
-          name: All Products
+        shop-cards:
+          name: Cards + Letters
+          url: /store/cards-letters/
+          hover: Cards + Letters
+        shop-notes:
+          name: Notebooks + Notepads
+          url: /store/notebooks-notepads/
+          hover: Notebooks + Notepads
+        shop-stickers:
+          name: Stickers
+          url: /store/stickers/
+          hover: Stickers
+        shop-prints:
+          name: Prints + Posters
+          url: /store/prints-posters/
+          hover: Prints + Posters
+        shop-apparel:
+          name: Apparel
+          url: /store/apparel/
+          hover: Apparel
+        shop-bags:
+          name: Bags + Pouches
+          url: /store/bags-pouches/
+          hover: Bags + Pouches
+        shop-other:
+          name: Other Goods
+          url: /store/other-goods/
+          hover: Other Goods
+        shop-all:
+          name: Shop All
           url: /store/
-        collections:
-          name: Browse Collections
-          url: /store/collections/
+          hover: Shop All
+    collections:
+      name: Region Collections
+      url: /store/collections/
+      hover: Shop Region Collections
+      subitems:
+        shop-patagonia:
+          name: Explore Patagonia
+          url: /store/collections/patagonia/
+          hover: Shop Patagonia Collection
+          mobile-display: false
+        shop-vermont:
+          name: Explore Vermont
+          url: /store/collections/vermont/
+          hover: Shop Vermont Collection
+          mobile-display: false
+    wholesale:
+      name: Wholesale
+      url: /wholesale/
+      hover: Wholesale
+      subitems:
+        wholesale-inquries:
+          name: Wholesale Inquiries
+          url: /wholesale/
+          hover: Wholesale Inquiries
+          mobile-display: false
+        stockists:
+          name: Stockists
+          url: /stockists/ 
+          hover: Stockists
+          mobile-display: false
     about:
       name: About
       url: /about/
+      hover: About
       subitems:
         our-story:
           name: Our Story
           url: /about/
-        sustainability:
-          name: Sustainability
-          url: /about/sustainability/
-        custom-designs:
-          name: Custom Designs
-          url: /about/design-portfolio/
-        contact:
-          name: Contact
-          url: /about/contact/
+          hover: Our Story
+          mobile-display: false
         events:
           name: Events
           url: /about/events/
-        #media:
-          #name: Talks & Media
-          #url: /about/media/
-    wholesale:
-      name: Retailers
-      url: /wholesale/
-    blog:
-      name: Blog
-      url: /blog/
-      subitems:
-        recent-posts:
-          name: Recent Posts
+          hover: Events
+          mobile-display: false
+        contact:
+          name: Contact
+          url: /about/contact/
+          hover: Contact
+          mobile-display: false
+        blog:
+          name: Blog
           url: /blog/
+          hover: Blog
           mobile-display: false
-        browse-by-tags:
-          name: Browse by Tags
-          url: /blog/tags/
-          mobile-display: false
-        browse-by-regions:
-          name: Browse by Region
-          url: /blog/regions/
-          mobile-display: false
+    search:
+      name: fa fa-search
+      url: /search/
+      hover: Search
+      quick: true
+    cart:
+      name: fa fa-shopping-cart
+      url: /coming-soon/
+      hover: Shopping Cart
+      quick: true
+    account:
+      name: fa fa-user
+      url: /coming-soon/
+      hover: My Account
+      quick: true
   es:
     store:
       name: TIENDA
       url: /es/store/
+      hover: TIENDA
       subitems:
-        all-products:
+        shop-cards:
+          name: Tarjetas + Papelería
+          url: /es/store/cards-letters/
+          hover: Tarjetas + Papelería
+        shop-notes:
+          name: Cuadernos + Blocs
+          url: /es/store/notebooks-notepads/
+          hover: Cuadernos + Blocs
+        shop-stickers:
+          name: Stickers
+          url: /es/store/stickers/
+          hover: Stickers
+        shop-prints:
+          name: Posters + Impresiones
+          url: /es/store/prints-posters/
+          hover: Posters + Impresiones
+        shop-apparel:
+          name: Ropa
+          url: /es/store/apparel/
+          hover: Ropa
+        shop-bags:
+          name: Bolsas + Estuches
+          url: /es/store/bags-pouches/
+          hover: Bolsas + Estuches
+        shop-other:
+          name: Otros Productos
+          url: /es/store/other-goods/
+          hover: Otros Productos
+        shop-all:
           name: Todos los Productos
           url: /es/store/
-        collections:
-          name: Ver Colecciones
-          url: /es/store/collections/
+          hover: Todos los Productos
+    collections:
+      name: Colecciones Regionales
+      url: /es/store/collections/
+      hover: Colecciones Regionales
+      subitems:
+        shop-patagonia:
+          name: Explora Patagonia
+          url: /es/store/collections/patagonia/
+          hover: Colección La Patagonia
+          mobile-display: false
+        shop-vermont:
+          name: Explora Vermont
+          url: /es/store/collections/vermont/
+          hover: Colección Vermont
+          mobile-display: false
+    wholesale:
+      name: Ventas al por Mayor
+      url: /es/wholesale/
+      hover: Ventas al por Mayor
+      subitems:
+        wholesale-inquries:
+          name: Ventas al por Mayor
+          url: /es/wholesale/
+          hover: Ventas al por Mayor
+          mobile-display: false
+        stockists:
+          name: Puntos de Venta
+          url: /es/stockists/ 
+          hover: Puntos de Venta
+          mobile-display: false
     about:
-      name: Sobre Nosotros
+      name: Nosotros
       url: /es/about/
+      hover: Nosotros
       subitems:
         our-story:
           name: Nuestra Historia
           url: /es/about/
-        sustainability:
-          name: Sostenibilidad
-          url: /es/about/sustainability/
-        custom-designs:
-          name: Diseño Personalizados
-          url: /es/about/design-portfolio/
-        contact:
-          name: Contacto
-          url: /es/about/contact/
+          hover: Nuestra Historia
+          mobile-display: false
         events:
           name: Eventos
           url: /es/about/events/
-        #media:
-          #name: Charlas
-          #url: /es/about/media/
-    wholesale:
-      name: Distribuidores
-      url: /es/wholesale/
-    blog:
-      name: Blog
-      url: /es/blog/
-      subitems:
-        recent-posts:
-          name: Posts Recientes
+          hover: Eventos
+          mobile-display: false
+        contact:
+          name: Contacto
+          url: /es/about/contact/
+          hover: Contacto
+          mobile-display: false
+        blog:
+          name: Blog
           url: /es/blog/
+          hover: Blog
           mobile-display: false
-        browse-by-tags:
-          name: Buscar por Etiqueta
-          url: /es/blog/tags/
-          mobile-display: false
-        browse-by-regions:
-          name: Buscar por Región
-          url: /es/blog/regions/
-          mobile-display: false
+    search:
+      name: fa fa-search
+      url: /es/search/
+      hover: Búsqueda
+      quick: true
+    cart:
+      name: fa fa-shopping-cart
+      url: /es/coming-soon/
+      hover: Carrito
+      quick: true
+    account:
+      name: fa fa-user
+      url: /es/coming-soon/
+      hover: Iniciar Sesión
+      quick: true

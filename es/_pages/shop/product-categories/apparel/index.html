@@ -1,0 +1,22 @@
+---
+title: Ropa | Soijen
+description: Ropa
+layout: products
+permalink: /es/store/apparel/
+ref: store-apparel
+---
+<div class="page">
+  <h1>Ropa</h1>
+  {% include shop-return.html %}
+    
+  <div class="columns">
+    <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+            {% if product.category contains "apparel" and product.category contains "aventura" %}
+                {% include product.html %}
+            {% endif %}
+        {% endfor %}
+    </div>  
+  </div>
+</div>

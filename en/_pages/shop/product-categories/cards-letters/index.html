@@ -1,0 +1,22 @@
+---
+title: Shop Our Card + Letter Sets | Soijen
+description: Shop our selection of adventure inspired card + letter sets.
+layout: products
+permalink: /store/cards-letters/
+ref: store-cards-letters
+---
+<div class="page">
+  <h1>Shop Our Card + Letter Sets</h1>
+  {% include shop-return.html %}
+    
+  <div class="columns">
+    <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+            {% if product.category contains "cards-letters" and product.category contains "aventura"  %}
+                {% include product.html %}
+            {% endif %}
+        {% endfor %}
+    </div>  
+  </div>
+</div>

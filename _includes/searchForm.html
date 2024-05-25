@@ -1,0 +1,29 @@
+<!-- HTML search field -->
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="Search products..." autofocus>
+    <ul id="results-container"></ul>
+    </div>
+    
+    <!-- Grab search-script.js -->
+    <script src="/assets/js/search-script.js" type="text/javascript"></script>
+    
+    <!-- Configuration, search json by language -->
+    {% if page.lang == "en" %}
+      <script>
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a class="product search" href="{url}"><img src="{imagePath}{image}" alt="{description}" class="thumbnail prod-image"/><h4>{title}</h4></a></li>'
+      })
+      </script>
+    {% elsif page.lang == "es" %}
+      <script>
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '/search-es.json',
+          searchResultTemplate: '<li><a class="product search" href="{url}"><img src="{imagePath}{image}" alt="{description}" class="thumbnail prod-image"/><h4>{title}</h4></a></li>'
+        })
+        </script>
+    {% endif %}

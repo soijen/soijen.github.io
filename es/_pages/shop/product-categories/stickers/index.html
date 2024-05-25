@@ -1,0 +1,22 @@
+---
+title: Stickers | Soijen
+description: Stickers
+layout: products
+permalink: /es/store/stickers/
+ref: store-stickers
+---
+<div class="page">
+  <h1>Stickers</h1>
+  {% include shop-return.html %}
+    
+  <div class="columns">
+    <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+            {% if product.category contains "stickers" and product.category contains "aventura" %}
+                {% include product.html %}
+            {% endif %}
+        {% endfor %}
+    </div>  
+  </div>
+</div>

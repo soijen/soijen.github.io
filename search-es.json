@@ -1,0 +1,20 @@
+---
+layout: none
+---
+[
+    {% assign products=site.products | where:"lang", page.lang %}
+    {% for product in products %}
+    
+    {
+        {% if product.lang == "es" %}
+      "title"    : "{{ product.title }}",
+      "category" : "{{ product.category }}",
+      "url"      : "{{ site.baseurl }}/products/{{ product.slug }}",
+      "imagePath"    : {{ product.imagePath | jsonify }},
+      "image" : "/1.jpg",
+      "sku"  : "{{ product.sku }}",
+      "description" : "{{ product.description | strip_html | strip_newlines | escape }}"
+        {% endif %}
+      } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

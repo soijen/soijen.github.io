@@ -1,0 +1,9 @@
+<li class="shop-nav">
+  {% for item in include.menusource.m[page.lang] %}
+  {% if item[1].quick == true %}
+  <a class="menu-link" href="{{ item[1].url }}" title="{{ item[1].hover }}">
+    <i class="{{ item[1].name }}"></i>
+  </a> 
+  {% endif %}
+  {% endfor %}
+</li>

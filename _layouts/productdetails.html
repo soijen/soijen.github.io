@@ -8,65 +8,65 @@ head:
   <div class="columns gallery">
     <div class="small-col gallery-thumbs" id="gallery-thumbs">
       <div class="current">
-        <img src="{{ page.imagePath }}/1.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/1.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/1.jpg"/>
       </div>
       <div>
-        <img src="{{ page.imagePath }}/2.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/2.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/2.jpg"/>
       </div>
       {% if page.image3 %}
       <div>
-        <img src="{{ page.imagePath }}/3.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/3.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/3.jpg"/>
       </div>
       {% endif %}
       {% if page.image4 %}
       <div>
-        <img src="{{ page.imagePath }}/4.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/4.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/4.jpg"/>
       </div>
       {% endif %}
       {% if page.image5 %}
       <div>
-        <img src="{{ page.imagePath }}/5.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/5.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/5.jpg"/>
       </div>
       {% endif %}
       {% if page.image6 %}
       <div>
-        <img src="{{ page.imagePath }}/6.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/6.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/6.jpg"/>
       </div>
       {% endif %}
       {% if page.image7 %}
       <div>
-        <img src="{{ page.imagePath }}/7.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/7.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/7.jpg"/>
       </div>
       {% endif %}
       {% if page.image8 %}
       <div>
-        <img src="{{ page.imagePath }}/8.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/8.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/8.jpg"/>
       </div>
       {% endif %}
       {% if page.image9 %}
       <div>
-        <img src="{{ page.imagePath }}/9.jpg" alt="{{ page.name }}" class="thumbnail"
+        <img src="{{ page.imagePath }}/9.jpg" alt="{{ page.title }}" class="thumbnail"
         data-large-version="{{ page.imagePath }}/9.jpg"/>
       </div>
       {% endif %}
     </div>
     <div class="large-col gallery-photo" id="gallery-photo">
-      <img src="{{ page.imagePath }}/1.jpg" alt="{{ page.name }}" class="thumbnail"/>
+      <img src="{{ page.imagePath }}/1.jpg" alt="{{ page.title }}" class="thumbnail"/>
     </div>
   </div>
   <div class="product-description">
     <div class="full-hero">
-      <h2>{{ page.name }}</h2>
+      <h2>{{ page.title }}</h2>
       <!--<button class="snipcart-add-item"
-        data-item-name="{{ page.name }}"
+        data-item-name="{{ page.title }}"
         data-item-id="{{ page.sku }}"
         data-item-image="{{ page.image }}"
         data-item-url="{{ page.url }}"
@@ -95,7 +95,7 @@ head:
             </strong>
               {{ page.materials}}
           </p>
-          <div class="action-button"><a href="{{ page.etsy }}" title="{{ page.name }}">{{site.data.translations.t[page.lang].buy}}</a></div>
+          <div class="action-button"><a href="{{ page.etsy }}" title="{{ page.title }}">{{site.data.translations.t[page.lang].buy}}</a></div>
         </div>
         <div class="large-col prod-descr">
           {{ page.content }}

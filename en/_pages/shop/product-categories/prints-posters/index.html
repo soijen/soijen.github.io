@@ -1,0 +1,22 @@
+---
+title: Shop Our Prints + Posters | Soijen
+description: Shop our selection of adventure inspired prints + posters.
+layout: products
+permalink: /store/prints-posters/
+ref: store-prints-posters
+---
+<div class="page">
+  <h1>Shop Our Prints + Posters</h1>
+  {% include shop-return.html %}
+    
+  <div class="columns">
+    <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+            {% if product.category contains "prints-posters" and product.category contains "aventura" %}
+                {% include product.html %}
+            {% endif %}
+        {% endfor %}
+    </div>  
+  </div>
+</div>

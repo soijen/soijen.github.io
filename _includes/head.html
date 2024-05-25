@@ -9,14 +9,18 @@
   <link href="{{site.url}}/assets/favicon.ico" rel="apple-touch-icon">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet"
-        href="/assets/fonts/font-awesome-4.7.0/css/font-awesome.css">
   <link rel="stylesheet" href="/assets/css/main.css?v=4.1">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link href='{{ site.url }}/feed.xml' rel='alternate' type='application/atom+xml'>
 
-  <!-- External Integrations -->
+  <!--Fonts-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Karla:wght@500" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/fonts/font-awesome-4.7.0/css/font-awesome.css">
+  
+  <!-- External Integrations -->
   <meta name="google-site-verification" content="{{  site.google_site_verification }}" />
   {% include analytics.html %}
   {% include twitter-card.html %}
@@ -25,11 +29,5 @@
   {% for script in layout.head %}
     {% include {{ script }} %}
   {% endfor %}
-
-  <!-- Snipcart
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-  <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="{{ site.snipcart_api_key }}"></script>
-  <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
-  -->
 
 </head>

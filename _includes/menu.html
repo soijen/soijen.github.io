@@ -1,13 +1,12 @@
-<nav>
+<nav class="nav">
   <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
   <label for="mobile-menu" class="show-mobile-menu"><i class="fa fa-bars"></i></label>
-  <ul class="header-nav">
-
+  <ul class="menu">
     {% assign navurl = page.url %}
     {% for item in include.menusource.m[page.lang] %}
       {% if item[1].subitems %}
         <li class="dropdown parent-menu">
-          <a class="drop-trigger menu-link" href="{{ item[1].url }}">
+          <a class="drop-trigger menu-link" href="{{ item[1].url }}" title="{{ item[1].hover }}">
             {% if navurl contains item[1].url %}
               <span class="active-menu">{{ item[1].name }}</span>
             {% else %}
@@ -18,7 +17,8 @@
             {% if item[1].subitems %}
               {% for subitem in item[1].subitems %}
               {% if subitem[1].mobile-display == false %}
-              <li class="child-menu mobile-off">
+              <div class = "mobile-off">
+              <li class="child-menu">
                 <a class="menu-link" href="{{ subitem[1].url }}">
                   {% if subitem[1].url == navurl %}
                     <span class="active-menu">{{ subitem[1].name }}</span>
@@ -27,6 +27,7 @@
                   {% endif %}
                 </a>
               </li>
+              </div>
               {% else %}
               <li class="child-menu">
                 <a class="menu-link" href="{{ subitem[1].url }}">
@@ -43,8 +44,9 @@
           </ul>
         </li>
       {% else %}
+        {% if item[1].quick == false %}
         <li class="single-menu">
-          <a class="menu-link" href="{{ item[1].url }}">
+          <a class="menu-link" href="{{ item[1].url }}" title="{{ item[1].hover }}">
             {% if item[1].url == navurl %}
               <span class="active-menu">{{ item[1].name }}</span>
             {% else %}
@@ -52,22 +54,11 @@
             {% endif %}
           </a>
         </li>
+        {% endif %}
       {% endif %}
     {% endfor %}
-
+    {% include shop-nav.html %}
     <li><span class="langselect">{% include langselect.html %}</span></li>
-    <!--<li class="store-link">
-      <a class="cart snipcart-checkout" href="#"><i class="fa fa-shopping-cart"></i> {{site.t[page.lang].cart}}</a>
-    </li>
-    <li class="store-link">
-        <a href="#" class="snipcart-user-profile"><i class="fa fa-user"> </i>
-          <span class="snipcart-user-email"> {{site.t[page.lang].login}}</span>
-        </a>
-    </li>
-    <li class="store-link">
-        <a href="#" class="snipcart-user-logout">
-          {{site.t[page.lang].logout}}
-        </a>
-    </li>-->
   </ul>
 </nav>
+</div>

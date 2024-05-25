@@ -8,6 +8,12 @@
             "type": "shell",
             "command": "bundle exec jekyll serve",
             "problemMatcher": []
+        },
+        {
+            "label": "Local Server Incremental",
+            "type": "shell",
+            "command": "bundle exec jekyll serve --incremental",
+            "problemMatcher": []
         }
     ]
 }

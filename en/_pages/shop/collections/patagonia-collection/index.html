@@ -1,0 +1,20 @@
+---
+title: Shop Our Explore Patagonia Collection | Soijen
+description: Shop our selection of products inspired by the region of Patagonia.
+layout: products
+permalink: /store/collections/patagonia/
+ref: store-collections-patagonia
+---
+<div class="page">
+    <h1>Shop our Patagonia Collection</h1>
+    <div class="columns">
+        <div class="product-column">
+            {% assign products=site.products | where:"lang", page.lang %}
+            {% for product in products %}
+            {% if product.category contains "patagonia" %}
+                {% include product.html %}
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

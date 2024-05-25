@@ -12,4 +12,11 @@
     <a href="{{ page.url }}" class="{{ page.lang }}">{{ site.data.languages[page.lang].label }}</a>
   </li>
 {% endfor %}
+
+{% assign products=site.products | where:"ref", page.ref | sort: 'lang' %}
+{% for product in products %}
+  <li>
+    <a href="{{ product.url }}" class="{{ product.lang }}">{{ site.data.languages[product.lang].label }}</a>
+  </li>
+{% endfor %}
 </ul>

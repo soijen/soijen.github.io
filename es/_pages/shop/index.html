@@ -7,136 +7,26 @@ ref: store
 ---
 <div class="page">
   <h1>Nuestros Productos</h1>
-    <div class="columns">
-      <div class="product-column">
-        <div class="product product-type"><a href="#t-shirts">Poleras</a></div>
-        <div class="product product-type"><a href="#art-prints">Impresiones + Posters</a></div>
-        <div class="product product-type"><a href="#postcards">Postales</a></div>
-        <div class="product product-type"><a href="#tote-bags">Bolsas Reutilizables + Estuches</a></div>
-        <div class="product product-type"><a href="#stationary">Set Esquelas</a></div>
-        <div class="product product-type"><a href="#greeting-cards">Tarjetas de Saludo</a></div>
-        <div class="product product-type"><a href="#stickers">Adhesivos</a></div>
-        <div class="product product-type"><a href="#wall-hangings">Colgantes de Tela</a></div>
-        <div class="product product-type"><a href="#woodworking">Madera</a></div>
-        <div class="product product-type">o <a href="/es/store/collections" title="buscar por colección">BUSCAR POR COLECCIÓN</a></div>
-      </div>
+  <div class="columns">
+    <div class="product-column">
+      <div class="product product-type"><a href="/store/cards-letters/">Tarjetas + Papelería</a></div>
+      <div class="product product-type"><a href="/store/notebooks-notepads/">Cuardernos + Blocs</a></div>
+      <div class="product product-type"><a href="/store/stickers/">Stickers</a></div>
+      <div class="product product-type"><a href="/store/prints-posters/">Posteres + Impresiones</a></div>
+      <div class="product product-type"><a href="/store/apparel/">Ropa</a></div>
+      <div class="product product-type"><a href="/store/bags-pouches/">Bolsas + Estuches</a></div>
+      <div class="product product-type"><a href="/store/other-goods/">Otros Productos</a></div>
+      <div class="product product-type">o <a href="/store/collections" title="explore region collections">EXPLORAR LAS COLECCIÓNES REGIONALES</a></div>
     </div>
-    <a name="t-shirts" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Poleras</h2>
-    <div class="columns">
-      <div class="product-column">
+  </div>
+  <div class="columns">
+    <div class="product-column">
         {% assign products=site.products | where:"lang", page.lang %}
         {% for product in products %}
-          {% if product.category contains "t-shirt" %}
-            {% include product.html %}
-          {% endif %}
+            {% if product.category contains "aventura" %}
+                {% include product.html %}
+            {% endif %}
         {% endfor %}
-      </div>
-    </div>
-    <a name="art-prints" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Impresión Artística y Posters</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "art-print" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="postcards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Postales</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "postcard" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="tote-bags" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Bolsas Reutilizables y Estuches</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "tote" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "pouch" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="stationary" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Set Esquelas</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "stationary" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="greeting-cards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Tarjetas de Saludo</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "cards" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="stickers" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Adhesivos</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "sticker"%}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="wall-hangings" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Colgantes de Tela</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "wall-hanging"%}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="woodworking" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Madera</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "wood"%}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
+    </div>  
+  </div>
 </div>

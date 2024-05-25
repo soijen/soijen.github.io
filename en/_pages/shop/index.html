@@ -1,6 +1,6 @@
 ---
 title: Shop Our Products | Soijen
-description: Shop our selection of outdoor inspired products.
+description: Shop our selection of adventure inspired products.
 layout: products
 permalink: /store/
 ref: store
@@ -9,134 +9,24 @@ ref: store
   <h1>Shop Our Products</h1>
   <div class="columns">
     <div class="product-column">
-      <div class="product product-type"><a href="#t-shirts">T-shirts</a></div>
-      <div class="product product-type"><a href="#art-prints">Prints + Posters</a></div>
-      <div class="product product-type"><a href="#postcards">Post Card Sets</a></div>
-      <div class="product product-type"><a href="#tote-bags">Totes + Pouches</a></div>
-      <div class="product product-type"><a href="#stationary">Stationary Sets</a></div>
-      <div class="product product-type"><a href="#greeting-cards">Greeting Card Sets</a></div>
-      <div class="product product-type"><a href="#stickers">Stickers</a></div>
-      <div class="product product-type"><a href="#wall-hangings">Wall Hangings</a></div>
-      <div class="product product-type"><a href="#woodworking">Woodworking</a></div>
-      <div class="product product-type">or <a href="/store/collections" title="browse by collection">BROWSE BY COLLECTION</a></div>
+      <div class="product product-type"><a href="/store/cards-letters/">Cards + Letters</a></div>
+      <div class="product product-type"><a href="/store/notebooks-notepads/">Notebooks + Notepads</a></div>
+      <div class="product product-type"><a href="/store/stickers/">Stickers</a></div>
+      <div class="product product-type"><a href="/store/prints-posters/">Prints + Posters</a></div>
+      <div class="product product-type"><a href="/store/apparel/">Apparel</a></div>
+      <div class="product product-type"><a href="/store/bags-pouches/">Bags + Pouches</a></div>
+      <div class="product product-type"><a href="/store/other-goods/">Other Goods</a></div>
+      <div class="product product-type">or <a href="/store/collections" title="explore region collections">EXPLORE REGION COLLECTIONS</a></div>
     </div>
   </div>
-    <a name="t-shirts" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>T-shirts</h2>
-    <div class="columns">
-      <div class="product-column">
+  <div class="columns">
+    <div class="product-column">
         {% assign products=site.products | where:"lang", page.lang %}
         {% for product in products %}
-          {% if product.category contains "t-shirt" %}
-            {% include product.html %}
-          {% endif %}
+            {% if product.category contains "aventura" %}
+                {% include product.html %}
+            {% endif %}
         {% endfor %}
-      </div>
-    </div>
-    <a name="art-prints" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Art Prints and Posters</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "art-print" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="postcards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Postcard Sets</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "postcard" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="tote-bags" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Tote bags and Pouches</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "tote" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "pouch" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="stationary" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Stationary Sets</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "stationary" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="greeting-cards" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Blank Greeting Card Sets</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "cards" %}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="stickers" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Stickers</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "sticker"%}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="wall-hangings" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Wall Hangings</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "wall-hanging"%}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-    <a name="woodworking" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
-    <h2>Woodworking</h2>
-    <div class="columns">
-      <div class="product-column">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          {% if product.category contains "wood"%}
-            {% include product.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
+    </div>  
+  </div>
 </div>

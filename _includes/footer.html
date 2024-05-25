@@ -1,51 +1,25 @@
 <footer class="footer">
   <div class="equal-col">
     <div class="social-list">
-      {% if page.lang == 'en' %}
-        <span class="social-label">find us on</span>
-      {% endif %}
-      {% if page.lang == 'es' %}
-        <span class="social-label">búscanos en</span>
-      {% endif %}
       {% include social-links.html %}
     </div>
-    {% include menu.html %}
+  </div>
+  <div class="equal-col">
     <div class="subscribe">
       {% include subscribeForm.html %}
     </div>
   </div>
-  <div class="equal-col footer-contact">
-    {% if page.lang == 'en' %}
-      <h3><strong>Contact Us</strong></h3>
-    {% endif %}
-    {% if page.lang == 'es' %}
-      <h3><strong>Contactános</h3></strong>
-    {% endif %}
-    <p><i class="fa fa-envelope" aria-hidden="true"></i> info<i class="fa fa-at" aria-hidden="true"></i>soijen.com</p>
-    {% include phone.html %}
-    <!--{% include address.html %}-->
-  </div>
   <div class="equal-col">
     {% if page.lang == 'en' %}
-    <a href="/" class="header-logo">
-      <img src="/assets/images/logo-white-crop.png" alt="Soijen Logo">
-    </a>
+      Made with <i class="fa fa-heart" aria-hidden="true"></i> in Chile & Vermont
     {% endif %}
     {% if page.lang == 'es' %}
-    <a href="/es/" class="header-logo">
-      <img src="/assets/images/logo-white-crop.png" alt="Soijen Logo">
-    </a>
-    {% endif %}
-    {% if page.lang == 'en' %}
-      made with <i class="fa fa-heart" aria-hidden="true"></i> and <i class="fa fa-coffee" aria-hidden="true"></i> in Chile and USA
-    {% endif %}
-    {% if page.lang == 'es' %}
-      hecho con <i class="fa fa-heart" aria-hidden="true"></i> y <i class="fa fa-coffee" aria-hidden="true"></i> en Chile y EEUU
+      Hecho con <i class="fa fa-heart" aria-hidden="true"></i> en Chile y Vermont
     {% endif %}
     <div class="cc">
-      <br /><div class="cc-text"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Soijen</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</div></br>
-      <i class="fa fa-copyright"></i> 2018-2022 Soijen SpA</br>
-      <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+      <br /><!--<div class="cc-text"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Soijen</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</div></br>-->
+      <i class="fa fa-copyright"></i> 2024 Soijen</br>
+      <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>-->
     </div>
   </div>
 </footer>

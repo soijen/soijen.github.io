@@ -1,0 +1,22 @@
+---
+title: Shop Our Bags + Pouches | Soijen
+description: Shop our selection of adventure inspired bags + pouches.
+layout: products
+permalink: /store/bags-pouches/
+ref: store-bags-pouches
+---
+<div class="page">
+  <h1>Shop Our Bags + Pouches</h1>
+  {% include shop-return.html %}
+    
+  <div class="columns">
+    <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+            {% if product.category contains "bags-pouches" and product.category contains "aventura" %}
+                {% include product.html %}
+            {% endif %}
+        {% endfor %}
+    </div>  
+  </div>
+</div>

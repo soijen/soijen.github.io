@@ -5,13 +5,7 @@ lang: en
 layout: default
 ref: index
 ---
-<div class="fixed-social">
-  <ul class="social-list">
-    {% include social-links.html %}
-  </ul>
-</div>
 <div class="full-hero hero-home">
-  <h1>CELEBRATING ADVENTURE</h1>
 </div>
 
 <div class="full-hero">
@@ -26,72 +20,50 @@ ref: index
       {% endfor %}
     </div>
   </div>
-  <div class="action-button">
-    <a href="/store/" title="All products">VIEW ALL PRODUCTS</a>
-  </div>
-</div>
-
-<div class="full-hero">
-  <div class="columns">
-    <div class="large-col">
-      <a href="/products/nowake-sweatshirt-moss"><img src="\assets\images\products\sweatshirts\nowake\moss\2.jpg" alt="No Wake Zone | 100% Organic Cotton Sweatshirt | Moss"></a>
-    </div>
-    <div class="small-col">
-      <h2>Bienvenido fall!</h2>
-      <h3>No Wake Zone Sweatshirts</h3>
-      Our popular No Wake Zone design is now available as a sweatshirt! These ultra soft screenprinted sweatshirts are made of high quality combed ringspun organic cotton and Made in the USA.
-      <div class="action-button"><a href="/products/nowake-sweatshirt-moss">SHOP NOW</a></div>
-    </div>
-  </div>
+  <a href="/store/" title="All products"> View all products</a>
 </div>
 
 <div class="full-hero hero-description">
   <div class="home-description">
-    <h3>At Soijen we create goods and gifts that celebrate adventure and the outdoors.</h3>
-    <h2><i class="fa fa-pagelines"></i></h2>
-  </div>
-</div>
-<div class="full-hero hero-collection">
-  <h2>COLLECTIONS</h2>
-  {% include collections.html %}
-</div>
-<div class="full-hero hero-donate">
-    <h2>Together we are defending the wild places of Patagonia.</h2>
-    <div class="action-button"><a href="/about/sustainability/">Learn more</a></div>
-</div>
-<!--
-<div class="full-hero">
-  <div class="columns">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-    {% if post.featured == 1 %}
-      <div class="large-col home-blog-hero">
-        <a href="{{ post.url }}"><img src="{{ post.postHero }}" alt="{{ post.title }}"></a>
-      </div>
-      <div class="small-col">
-        <h2>Featured Blog Post</h2>
-        <h3>{{ post.title }}</h3>
-        {{ post.excerpt }}
-        <a href="{{ post.url }}">read more...</a>
-      </div>
-    {% endif %}
-    {% endfor %}
+    <h2>Paper goods + gifts for the adventurer at heart</h2>
   </div>
 </div>
 
+
 <div class="full-hero">
   <div class="columns">
-    <div class="small-col">
-      <img src="/assets/images/trfflaurel.png" alt="laurel">
-    </div>
     <div class="large-col">
-      <h3>Check out our short film about the southernmost trekking circuit in the world - Los Dientes de Navarino.</h3>
-      <h3>Winner of Best Amateur Short in the 2018 Trail Running Film Festival.</h3>
-      <h2><i class="fa fa-chevron-down"></i></h2>
+      <img src="assets/images/home-collections/mar-de-montanas.jpeg" alt="illustration mountains with a red sun and tent">
+    </div>
+    <div class="small-col">
+      <p>
+        At Soijen we are a creative duo that loves the outdoors. In the studio we play with a mix of hand + digital illustration techniques to make fun and bright designs that celebrate nature and wanderlust.
+      </p>
+      <p>
+        Through our designs we hope to bring you a smile - from nostalgia of a favorite paddling trip to inspiration for your next trail adventure.
+      </p>
+      <p>
+        To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud to partner with manufacturers that use sustainable production methods & responsibly sourced materials to create our products.
+      </p>
+      <i class="fa fa-tree"></i>
     </div>
   </div>
 </div>
-<div class="videohome">
-  {% include youtubePlayer.html id="DiRtfEN9dm0" %}
+
+<div class="full-hero hero-stores-events">
+  <div class="quick-links">
+    <div class="equal-col">
+      <a title="Find us in stores" href="/stockists">
+        <img src="assets/images/home-collections/in-store.jpeg" alt="Photo of products in store"/>
+        <h2 class="label">Find us in stores</h2>
+      </a>
+    </div>
+    <div class="equal-col">
+      <a title="Find us at events" href="/about/events">
+        <img src="assets/images/home-collections/at-event.jpeg" alt="Photo of booth and owners Eduardo + Jess"/>
+        <h2 class="label">Find us at events</h2>
+      </a>
+    </div>
+  </div>
 </div>
--->
+</div>

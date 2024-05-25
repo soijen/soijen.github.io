@@ -1,0 +1,22 @@
+---
+title: Shop Our Apparel | Soijen
+description: Shop our selection of adventure inspired apparel.
+layout: products
+permalink: /store/apparel/
+ref: store-apparel
+---
+<div class="page">
+  <h1>Shop Our Apparel</h1>
+  {% include shop-return.html %}
+    
+  <div class="columns">
+    <div class="product-column">
+        {% assign products=site.products | where:"lang", page.lang %}
+        {% for product in products %}
+            {% if product.category contains "apparel" and product.category contains "aventura" %}
+                {% include product.html %}
+            {% endif %}
+        {% endfor %}
+    </div>  
+  </div>
+</div>

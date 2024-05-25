@@ -6,13 +6,7 @@ lang: es
 permalink: /es/
 ref: index
 ---
-<div class="fixed-social">
-  <ul class="social-list">
-    {% include social-links.html %}
-  </ul>
-</div>
 <div class="full-hero hero-home">
-    <h1>CELEBRANDO LA AVENTURA</h1>
 </div>
 
 <div class="full-hero">
@@ -27,72 +21,49 @@ ref: index
       {% endfor %}
     </div>
   </div>
-  <div class="action-button">
-    <a href="/es/store/" title="Todos nuestros productos">VER TODOS</a>
-  </div>
-</div>
-
-<div class="full-hero">
-  <div class="columns">
-    <div class="large-col">
-      <a href="/es/products/nowake-sweatshirt-moss"><img src="\assets\images\products\sweatshirts\nowake\moss\2.jpg" alt="No Wake Zone | Polerón 100% de Algodón Orgánico | Verde"></a>
-    </div>
-    <div class="small-col">
-      <h2>¡Bienvenido otoño!</h2>
-      <h3>Polerón No Wake Zone</h3>
-      Nuestro popular diseño de "No Wake Zone" se encuentra disponible en polerones. Estos cómodos polerones son hechos de algodón orgánico de alta calidad en los EEUU.
-      <div class="action-button"><a href="/es/products/nowake-sweatshirt-moss">COMPRA AHORA</a></div>
-    </div>
-  </div>
+  <a href="/es/store/" title="Todos los productos"> Ver todos los productos</a>
 </div>
 
 <div class="full-hero hero-description">
   <div class="home-description">
-    <h3>En Soijen creamos diseños inspirados por el aire libre para motivarte en tu próxima aventura.</h3>
-    <h2><i class="fa fa-pagelines"></i></h2>
-  </div>
-</div>
-<div class="full-hero hero-collection">
-  <h2>COLECCIONES</h2>
-  {% include collections.html %}
-</div>
-<div class="full-hero hero-donate">
-    <h2>Juntos estamos defendiendo los lugares salvajes de la Patagonia.</h2>
-    <div class="action-button"><a href="/es/about/sustainability/">Aprende más</a></div>
-</div>
-<!--
-<div class="full-hero">
-  <div class="columns">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-    {% if post.featured == 1 %}
-      <div class="large-col home-blog-hero">
-        <a href="{{ post.url }}"><img src="{{ post.postHero }}" alt="{{ post.title }}"></a>
-      </div>
-      <div class="small-col">
-        <h2>Blog Destacado</h2>
-        <h3>{{ post.title }}</h3>
-        {{ post.excerpt }}
-        <a href="{{ post.url }}">leer más...</a>
-      </div>
-    {% endif %}
-    {% endfor %}
+    <h2>Papelería + regalos para aventureros de corazón</h2>
   </div>
 </div>
 
+
 <div class="full-hero">
   <div class="columns">
-    <div class="small-col">
-      <img src="/assets/images/trfflaurel.png" alt="laurel">
-    </div>
     <div class="large-col">
-      <h3>Motívate con nuestro video en el trekking más austral del mundo - Los Dientes de Navarino.</h3>
-      <h3>Ganador de Mejor Filme Amateur en El Festival de Filmes Trail Running 2018.</h3>
-      <h2><i class="fa fa-chevron-down"></i></h2>
+      <img src="/assets/images/home-collections/mar-de-montanas.jpeg" alt="ilustración de una montaña con sol rojo y una carpa">
+    </div>
+    <div class="small-col">
+      <p>
+        En Soijen somos una pareja creativa que ama el aire libre. En el taller experimentamos con una combinación de ilustración a mano y digital para crear diseños alegres y coloridos que celebran la naturaleza y la pasión por los viajes.
+      </p>
+      <p>
+        A través de nuestros diseños esperamos invitarte a sentir nostalgia por una excursión de remo o inspirarte para que decidas ir por tu próxima aventura en los senderos.
+      </p>
+      <p>
+        Por lo menos el 1% de cada compra es donado a iniciativas medioambientales de organizaciones sin fines de lucros en Chile. Colaboramos con proveedores que priorizan el medioambiente y maximizamos el uso de materiales reciclados en nuestros productos.
+      </p>
+      <i class="fa fa-tree"></i>
     </div>
   </div>
 </div>
-<div class="videohome">
-  {% include youtubePlayer.html id="DiRtfEN9dm0" %}
+
+<div class="full-hero hero-stores-events">
+  <div class="quick-links">
+    <div class="equal-col">
+      <a title="Encuéntranos en tiendas" href="/es/stockists">
+        <img src="/assets/images/home-collections/in-store.jpeg" alt="Foto de productos en una tienda"/>
+        <h2 class="label">Encuéntranos en tiendas</h2>
+      </a>
+    </div>
+    <div class="equal-col">
+      <a title="Encuéntranos en eventos" href="/es/about/events">
+        <img src="/assets/images/home-collections/at-event.jpeg" alt="Photo de Soijen en un evento"/>
+        <h2 class="label">Encuéntranos en eventos</h2>
+      </a>
+    </div>
+  </div>
 </div>
--->
