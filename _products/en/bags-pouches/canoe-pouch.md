@@ -1,7 +1,7 @@
 ---
-title: Canoeing Adventure Dog | Zippered Pouch
-name: Canoeing Adventure Dog | Zippered Pouch
-description: BRAND NEW! And the perfect gift for the holidays! This zippered pouch, from our "El Mundo a Pata" (The world by paw) collection, features a canoeing adventure pup. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need.
+title: Canoe Pup | Zippered Pouch
+name: Canoe Pup | Zippered Pouch
+description: This small zippered pouch features a canoeing adventure dog. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need.
 imagePath: \assets\images\products\totes\canoe-pouch
 image: 1
 image2: 1
@@ -21,4 +21,4 @@ category:
 - pouch
 - aventura
 ---
-BRAND NEW! And the perfect gift for the holidays! This zippered pouch, from our "El Mundo a Pata" (The world by paw) collection, features a canoeing adventure pup. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need. Made in USA of 100% recycled materials.
+This small zippered pouch features a canoeing adventure dog. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need.
