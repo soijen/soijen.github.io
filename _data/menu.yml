@@ -93,21 +93,6 @@ m:
           url: /blog/
           hover: Blog
           mobile-display: false
-    search:
-      name: fa fa-search
-      url: /search/
-      hover: Search
-      quick: true
-    cart:
-      name: fa fa-shopping-cart
-      url: /coming-soon/
-      hover: Shopping Cart
-      quick: true
-    account:
-      name: fa fa-user
-      url: /coming-soon/
-      hover: My Account
-      quick: true
   es:
     store:
       name: TIENDA
@@ -201,18 +186,3 @@ m:
           url: /es/blog/
           hover: Blog
           mobile-display: false
-    search:
-      name: fa fa-search
-      url: /es/search/
-      hover: Búsqueda
-      quick: true
-    cart:
-      name: fa fa-shopping-cart
-      url: /es/coming-soon/
-      hover: Carrito
-      quick: true
-    account:
-      name: fa fa-user
-      url: /es/coming-soon/
-      hover: Iniciar Sesión
-      quick: true
