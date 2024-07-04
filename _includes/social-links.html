@@ -1,32 +1,34 @@
-<li>
-  <a href="http://etsy.com/shop/{{ site.etsy_username }}" target="_blank" title="Check us out on Etsy" class="social-link">
-    <i class="fa fa-etsy"></i>
-  </a>
-</li>
-<li>
-  <a href="http://instagram.com/{{ site.instagram_username }}" target="_blank" title="Check us out on Instagram" class="social-link">
-    <i class="fa fa-instagram"></i>
-  </a>
-</li>
-<li>
-  <a href="http://facebook.com/{{ site.facebook_username }}" target="_blank" title="Check us out on Facebook" class="social-link">
-    <i class="fa fa-facebook"></i>
-  </a>
-</li>
-<li>
-  <a href="https://www.youtube.com/channel/{{ site.youtube_username }}" target="_blank" title="Check us out on Youtube" class="social-link">
-    <i class="fa fa-youtube"></i>
-  </a>
-</li>
-<li>
-  {% if page.lang == 'en' %}
-    <a href="/feed.xml" target="_blank" title="Subscribe to RSS" class="social-link">
-      <i class="fa fa-rss"></i>
+<ul>
+  <li>
+    <a href="http://etsy.com/shop/{{ site.etsy_username }}" target="_blank" title="Check us out on Etsy" class="social-link">
+      <i class="fa fa-etsy"></i>
     </a>
-  {% endif %}
-  {% if page.lang == 'es' %}
-    <a href="/es/feed.xml" target="_blank" title="Subscribe to RSS" class="social-link">
-      <i class="fa fa-rss"></i>
+  </li>
+  <li>
+    <a href="http://instagram.com/{{ site.instagram_username }}" target="_blank" title="Check us out on Instagram" class="social-link">
+      <i class="fa fa-instagram"></i>
     </a>
-  {% endif %}
-</li>
+  </li>
+  <li>
+    <a href="http://facebook.com/{{ site.facebook_username }}" target="_blank" title="Check us out on Facebook" class="social-link">
+      <i class="fa fa-facebook"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/channel/{{ site.youtube_username }}" target="_blank" title="Check us out on Youtube" class="social-link">
+      <i class="fa fa-youtube"></i>
+    </a>
+  </li>
+  <li>
+    {% if page.lang == 'en' %}
+      <a href="/feed.xml" target="_blank" title="Subscribe to RSS" class="social-link">
+        <i class="fa fa-rss"></i>
+      </a>
+    {% endif %}
+    {% if page.lang == 'es' %}
+      <a href="/es/feed.xml" target="_blank" title="Subscribe to RSS" class="social-link">
+        <i class="fa fa-rss"></i>
+      </a>
+    {% endif %}
+  </li>
+</ul>

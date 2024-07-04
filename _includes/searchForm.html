@@ -14,7 +14,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        searchResultTemplate: '<li><a class="product search" href="{url}"><img src="{imagePath}{image}" alt="{description}" class="thumbnail prod-image"/><h4>{title}</h4></a></li>'
+        searchResultTemplate: '<a class="product search" href="{url}"><img src="{imagePath}{image}" alt="{description}" class="thumbnail prod-image"/>{title}</a>'
       })
       </script>
     {% elsif page.lang == "es" %}
@@ -23,7 +23,7 @@
           searchInput: document.getElementById('search-input'),
           resultsContainer: document.getElementById('results-container'),
           json: '/search-es.json',
-          searchResultTemplate: '<li><a class="product search" href="{url}"><img src="{imagePath}{image}" alt="{description}" class="thumbnail prod-image"/><h4>{title}</h4></a></li>'
+          searchResultTemplate: '<a class="product search" href="{url}"><img src="{imagePath}{image}" alt="{description}" class="thumbnail prod-image"/>{title}</a>'
         })
         </script>
     {% endif %}
