@@ -60,7 +60,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }
-h1,h2 {
+h1,h2,.tagline {
   color: #555;
   font-family: 'Patrick Hand SC', helvetica, sans;
   font-weight: 400;
@@ -77,7 +77,7 @@ h1 {
   letter-spacing: 0.2em;
   margin-bottom: 1rem;
 }
-h2 {
+h2, .tagline {
   letter-spacing: 0.2em;
 }
 h3 {
@@ -200,9 +200,10 @@ textarea {
 
 /* HEADER STYLES */
 .banner {
-  color: #555;
+  color: #333;
   background-color: #EBB72F;
   box-sizing: border-box;
+  font-size: .8em;
   padding: 1vh 1vh;
   text-align: center;
   z-index: 10;
@@ -368,7 +369,7 @@ span.post-meta {
   padding-top: 15vh;
   text-shadow: 2px 2px 2px #222;
 }
-.full-hero h2 {
+h2, .tagline {
   font-size: 2rem;
   padding-bottom: 1.1rem;
 }
@@ -415,7 +416,7 @@ span.post-meta {
   letter-spacing: 0.2em;
   padding: 1em;
 }
-.home-description h3, .home-description h2 {
+.home-description h3, .tagline  {
   color: #fff;
   letter-spacing: 0.3em;
   line-height: 2em;
@@ -468,9 +469,6 @@ span.post-meta {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-}
-.label {
-  color: #eee;
 }
 
 /* COLUMNS */
@@ -1176,7 +1174,7 @@ span.post-meta {
   .full-hero h1 {
     padding-top: 10vh;
   }
-  .full-hero h1, .full-hero h2 {
+  .full-hero h1, .full-hero h2, .tagline {
     letter-spacing: 0.25em;
   }
   .hero-home {
@@ -1231,7 +1229,7 @@ span.post-meta {
     letter-spacing: .1em;
     padding-top: 5vh;
   }
-  .full-hero h2 {
+  .full-hero h2, .tagline {
     padding-bottom: 1rem;
   }
   .full-hero h3 {
@@ -1243,7 +1241,7 @@ span.post-meta {
   .full-hero h1 {
     font-size: 2rem;
   }
-  .full-hero h2 {
+  .full-hero h2, .tagline {
     font-size: 1.5rem;
   }
 }
