@@ -10,6 +10,7 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://soijen.etsy.com/listing/980793139/burlington-vermont-cityscape-blank-note?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259168738
+shopify: https://soijen.myshopify.com/products/burlington-cityscape-blank-greeting-card-set
 price: 18
 sku: GC-QV-04
 stock: 1

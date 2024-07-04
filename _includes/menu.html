@@ -44,7 +44,6 @@
           </ul>
         </li>
       {% else %}
-        {% if item[1].quick == false %}
         <li class="single-menu">
           <a class="menu-link" href="{{ item[1].url }}" title="{{ item[1].hover }}">
             {% if item[1].url == navurl %}
@@ -54,10 +53,8 @@
             {% endif %}
           </a>
         </li>
-        {% endif %}
       {% endif %}
     {% endfor %}
-    {% include shop-nav.html %}
     <li><span class="langselect">{% include langselect.html %}</span></li>
   </ul>
 </nav>

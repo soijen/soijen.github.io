@@ -9,6 +9,7 @@ dimensions: 5"x 2.1"
 materials: Vínilo
 featured: 1
 etsy: https://soijen.etsy.com/listing/1524199247/bikepacker-mochiclista-sticker?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695260403330
+shopify: https://soijen.myshopify.com/products/mochiclista-sticker
 price: 5
 sku: ST-LA-05
 stock: 1

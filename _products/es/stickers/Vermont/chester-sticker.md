@@ -9,6 +9,7 @@ dimensions: 5.1" x 1.8" (129mm x 46mm)
 materials: Vínilo
 featured: 0
 etsy: https://soijen.etsy.com/listing/1557075310/chester-vermont-cityscape-sticker?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695301783270
+shopify: https://soijen.myshopify.com/products/chester-cityscape-sticker
 price: 5
 sku: ST-QV-10
 stock: 1

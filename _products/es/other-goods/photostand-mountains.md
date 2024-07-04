@@ -11,6 +11,7 @@ dimensions_es: Approximada 3" x 1.3" x 1.3" y el ancho de la ranura es 0.04" (76
 materials_es: Madera de cerezo, pirografia
 featured: 0
 etsy: https://soijen.etsy.com/listing/899058454/cherry-wood-block-photo-stand-mountain?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261345960
+shopify: https://soijen.myshopify.com/products/cherry-wood-block-photo-stand
 price: 22
 sku: WW-LA-01
 stock: 1

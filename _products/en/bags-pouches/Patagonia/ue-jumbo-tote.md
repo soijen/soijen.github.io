@@ -9,6 +9,7 @@ dimensions: 18" x 16" x 4" with 25" handle (45.7cm x 40.6cm x 10.2cm with 63.5cm
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 0
 etsy: http://etsy.com/shop/soijen
+shopify: 
 price: 26
 sku: TB-PA-02
 stock: 0

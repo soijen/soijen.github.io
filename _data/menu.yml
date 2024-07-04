@@ -2,42 +2,9 @@
 m:
   en:
     store:
-      name: SHOP
-      url: /store/
-      hover: SHOP
-      subitems:
-        shop-cards:
-          name: Cards + Letters
-          url: /store/cards-letters/
-          hover: Cards + Letters
-        shop-notes:
-          name: Notebooks + Notepads
-          url: /store/notebooks-notepads/
-          hover: Notebooks + Notepads
-        shop-stickers:
-          name: Stickers
-          url: /store/stickers/
-          hover: Stickers
-        shop-prints:
-          name: Prints + Posters
-          url: /store/prints-posters/
-          hover: Prints + Posters
-        shop-apparel:
-          name: Apparel
-          url: /store/apparel/
-          hover: Apparel
-        shop-bags:
-          name: Bags + Pouches
-          url: /store/bags-pouches/
-          hover: Bags + Pouches
-        shop-other:
-          name: Other Goods
-          url: /store/other-goods/
-          hover: Other Goods
-        shop-all:
-          name: Shop All
-          url: /store/
-          hover: Shop All
+      name: SHOP ONLINE
+      url: https://soijen.myshopify.com/
+      hover: SHOP ONLINE
     collections:
       name: Region Collections
       url: /store/collections/
@@ -95,9 +62,9 @@ m:
           mobile-display: false
   es:
     store:
-      name: TIENDA
-      url: /es/store/
-      hover: TIENDA
+      name: TIENDA ONLINE
+      url: https://soijen.myshopify.com/
+      hover: TIENDA ONLINE
       subitems:
         shop-cards:
           name: Tarjetas + Papelería

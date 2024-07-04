@@ -10,9 +10,10 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: http://etsy.com/shop/soijen
+shopify: 
 price: 18
 sku: GC-QV-01
-stock: 1
+stock: 0
 slug: vermont-cards
 ref: vermont-cards
 category:

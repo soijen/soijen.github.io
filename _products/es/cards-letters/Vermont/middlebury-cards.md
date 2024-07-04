@@ -10,6 +10,7 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://soijen.etsy.com/listing/1509998706/middlebury-vermont-cityscape-blank-note?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695260320975
+shopify: https://soijen.myshopify.com/products/middlebury-cityscape-blank-greeting-card-set
 price: 18
 sku: GC-QV-08
 stock: 1

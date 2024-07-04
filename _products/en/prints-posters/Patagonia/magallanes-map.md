@@ -10,9 +10,10 @@ dimensions: 6" x 9" (150mm x 230mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: http://etsy.com/shop/soijen
+shopify: 
 price: 5
 sku:
-stock: 1
+stock: 0
 slug: mag6x9
 ref: mag6x9
 category:

@@ -9,6 +9,7 @@ dimensions: 4" x 3" (100mm x 75mm)
 materials: Weatherproof Vinyl
 featured: 0
 etsy: https://soijen.etsy.com/listing/1232589877/torres-del-paine-national-park-chilean?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262435334
+shopify: https://soijen.myshopify.com/products/torres-del-paine-sticker
 price: 5
 sku: ST-PA-02
 stock: 1

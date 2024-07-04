@@ -11,6 +11,7 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://soijen.etsy.com/listing/905048413/adventure-dog-blank-note-card-set-6-a2?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261073250
+shopify: https://soijen.myshopify.com/products/adventure-pup-blank-greeting-card-set
 price: 18
 sku: GC-LA-01
 stock: 1

@@ -11,6 +11,7 @@ dimensions: 7.5" x 4" (19cm x 10.2cm)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
 featured: 0
 etsy: https://soijen.etsy.com/listing/905321365/canoeing-adventure-dog-zippered-pouch?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259373188
+shopify: https://soijen.myshopify.com/products/canoe-pup-zipper-pouch
 price: 17
 sku: PO-LA-01
 stock: 1

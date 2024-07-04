@@ -9,6 +9,7 @@ dimensions: 5" x 2.25" (127mm x 57mm)
 materials: Vínilo
 featured: 0
 etsy: https://soijen.etsy.com/listing/1071166198/montpelier-vermont-cityscape-sticker?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261017442
+shopify: https://soijen.myshopify.com/products/montpelier-cityscape-sticker
 price: 5
 sku: ST-QV-02
 stock: 1

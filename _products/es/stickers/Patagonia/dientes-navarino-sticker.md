@@ -9,6 +9,7 @@ dimensions: 5" x 2.5" (130mm x 60mm)
 materials: Vínilo
 featured: 0
 etsy: https://soijen.etsy.com/listing/1232602803/dientes-de-navarino-trek-chilean?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259868789
+shopify: https://soijen.myshopify.com/products/dientes-de-navarino-trekking-sticker
 price: 5
 sku: ST-PA-03
 stock: 1

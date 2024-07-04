@@ -11,7 +11,8 @@ dimensions: 4" x 6" (100mm x 150mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://soijen.etsy.com/listing/904925567/trekking-patagonia-austral-chile-set-of?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261294110
-price: 10
+shopify: https://soijen.myshopify.com/products/trekking-patagonia-austral-set-of-6-postcards
+price: 12
 sku: PC-PA-01
 stock: 1
 slug: pataustral-set-6

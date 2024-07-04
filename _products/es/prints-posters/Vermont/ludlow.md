@@ -10,6 +10,7 @@ dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://soijen.etsy.com/listing/1070170766/ludlow-vermont-cityscape-art-print-thick?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695260152456
+shopify: https://soijen.myshopify.com/products/ludlow-cityscape-print
 price: 13
 sku: PR-QV-06-5x7
 stock: 1

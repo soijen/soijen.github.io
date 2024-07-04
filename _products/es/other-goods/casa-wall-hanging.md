@@ -9,6 +9,7 @@ dimensions: 17" x 6" (43cm x 15cm)
 materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certificad
 featured: 0
 etsy: https://soijen.etsy.com/listing/1231966876/tiny-house-wall-hanging-recycled-cotton?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259460286
+shopify: https://soijen.myshopify.com/products/casa-wall-hanging
 price: 22
 sku: WH-LA-01
 stock: 1

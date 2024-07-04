@@ -10,6 +10,7 @@ dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://soijen.etsy.com/listing/909698707/canoeing-adventure-dog-no-wake-zone-art?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261182329
+shopify: https://soijen.myshopify.com/products/no-wake-zone-pup-print
 price: 13
 sku: PR-LA-21-5x7
 stock: 1

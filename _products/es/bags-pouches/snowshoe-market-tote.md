@@ -11,7 +11,8 @@ dimensions: 18" x 12" x 6" con asa de 25" (45.7cm x 30.5cm x 15.2cm con asa de 6
 materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certificado
 featured: 0
 etsy: https://soijen.etsy.com/listing/905314295/snowshoeing-adventure-dog-market-tote?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261485047
-price: 26
+shopify: https://soijen.myshopify.com/products/snowshoe-pup-tote-bag
+price: 28
 sku: TB-LA-01
 stock: 1
 slug: snowshoe-market-tote

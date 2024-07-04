@@ -11,6 +11,7 @@ dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://soijen.etsy.com/listing/954020534/montpelier-vermont-cityscape-art-print?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261043336
+shopify: https://soijen.myshopify.com/products/montpelier-cityscape-print
 price: 13
 sku: PR-QV-02-5x7
 stock: 1

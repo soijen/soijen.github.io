@@ -9,6 +9,7 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://soijen.etsy.com/listing/1610033668/winooski-vermont-cityscape-blank-note
+shopify: https://soijen.myshopify.com/products/winooski-cityscape-blank-greeting-card-set
 price: 18
 sku: GC-QV-15
 stock: 1

@@ -8,6 +8,8 @@ t:
     price: Price
     materials: Materials
     search: Search products...
+    sold-out: Sold Out
+    shop-all: Shop All Products
   es:
     cart: Carro
     login: Ingresar
@@ -17,3 +19,5 @@ t:
     price: Precio
     materials: Materiales
     search: Buscar productos...
+    sold-out: Agotado
+    shop-all: Ver Todos Los Productos

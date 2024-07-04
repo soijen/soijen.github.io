@@ -13,6 +13,7 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://www.etsy.com/listing/1218628744/bicicleta-bike-adventure-assorted
+shopify: https://soijen.myshopify.com/products/bicicleta-blank-greeting-card-set
 price: 18
 sku: GC-LA-09
 stock: 1

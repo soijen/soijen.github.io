@@ -11,6 +11,7 @@ dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://soijen.etsy.com/listing/1610032636/winooski-vermont-cityscape-art-print
+shopify: https://soijen.myshopify.com/products/winooski-cityscape-print
 price: 13
 sku: PR-QV-15-5x7
 stock: 1

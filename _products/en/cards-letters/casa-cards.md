@@ -11,9 +11,10 @@ dimensions: A2 - 4.25" x 5.5" (108mm x 140mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://soijen.etsy.com/listing/1218621752/casa-blank-note-card-set-6-a2-cards?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259407658
+shopify: 
 price: 18
 sku: GC-LA-03
-stock: 1
+stock: 0
 slug: casa-cards
 ref: casa-cards
 category:

@@ -1,6 +1,6 @@
 
   <div class="product">
-    <a class="product" href="{{ product.url }}">
+    <a class="product" href="{{ product.shopify }}">
       <img src="{{ product.imagePath }}/1.jpg" alt="{{ product.title }}" class="thumbnail prod-image"/>
       <h4>{{ product.title }}</h4>
       <h3>
@@ -16,14 +16,4 @@
         {% endif %}
       </h3>
     </a>
-    <!--<button class="snipcart-add-item"
-      data-item-name="{{ product.name }}"
-      data-item-id="{{ product.sku }}"
-      data-item-image="{{ product.image }}"
-      data-item-url="{{ product.url }}"
-      data-item-price="{{ product.price }}">
-      {{site.t[page.lang].buy}}
-    </button>
-
--->
   </div>

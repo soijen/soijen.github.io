@@ -11,6 +11,7 @@ dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://www.etsy.com/listing/891016092/vermont-long-trail-print-hand
+shopify: https://soijen.myshopify.com/products/vermont-illustrated-print
 price: 13
 sku: PR-QV-01-5x7
 stock: 1

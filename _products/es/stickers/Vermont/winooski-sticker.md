@@ -9,6 +9,7 @@ dimensions: 5" x 2" (127mm x 51mm)
 materials: Vínilo
 featured: 0
 etsy: https://soijen.etsy.com/listing/1624202069/winooski-vermont-cityscape-sticker
+shopify: https://soijen.myshopify.com/products/winooski-cityscape-sticker
 price: 5
 sku: ST-QV-15
 stock: 1

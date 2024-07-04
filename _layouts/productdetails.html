@@ -95,7 +95,11 @@ head:
             </strong>
               {{ page.materials}}
           </p>
-          <div class="action-button"><a href="{{ page.etsy }}" title="{{ page.title }}">{{site.data.translations.t[page.lang].buy}}</a></div>
+          {% if page.shopify %}
+            <div class="action-button"><a href="{{ page.shopify }}" title="{{ page.title }}">{{site.data.translations.t[page.lang].buy}}</a></div>
+          {% else %}
+            <div class="action-button">{{site.data.translations.t[page.lang].sold-out}}</div>
+          {% endif %}
         </div>
         <div class="large-col prod-descr">
           {{ page.content }}

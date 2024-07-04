@@ -9,6 +9,7 @@ image3: 1
 dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 etsy: https://soijen.etsy.com/listing/891229178/hand-illustrated-torres-del-paine?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262458742
+shopify: https://soijen.myshopify.com/products/cuernos-del-paine-print
 featured: 0
 price: 13
 sku: PR-PA-04-5x7

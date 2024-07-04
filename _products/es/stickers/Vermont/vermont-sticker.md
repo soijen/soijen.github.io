@@ -9,9 +9,10 @@ dimensions: 3"x 4.1"
 materials: Vínilo
 featured: 0
 etsy: https://soijen.etsy.com/listing/1246629123/vermont-long-trail-sticker-weatherproof?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262090869
+shopify: 
 price: 5
 sku: ST-QV-01
-stock: 1
+stock: 0
 slug: vermont-sticker
 ref: vermont-sticker
 category:

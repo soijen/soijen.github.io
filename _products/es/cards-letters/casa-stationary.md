@@ -11,9 +11,10 @@ dimensions: A1 - 5" x 7" (127mm x 178mm)
 materials: Papel 30% materiales reciclados
 featured: 0
 etsy: https://soijen.etsy.com/listing/1234312281/casa-stationery-set-12-sheets-paper-6?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259432541
+shopify: 
 price: 18
 sku: SS-LA-02
-stock: 1
+stock: 0
 slug: casa-stationery
 ref: casa-stationery
 category:

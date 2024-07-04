@@ -9,6 +9,7 @@ image3: 3
 materials: 100% algodón orgánico. Hecho en EEUU.
 featured: 0
 etsy: https://soijen.etsy.com/listing/1510025558/no-wake-zone-100-organic-cotton-unisex?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261099604
+shopify: https://soijen.myshopify.com/products/no-wake-zone-sweatshirt
 price: 59
 sku: SW-LA-02
 stock: 1

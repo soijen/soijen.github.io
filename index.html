@@ -10,17 +10,7 @@ ref: index
 
 <div class="full-hero">
   <h2>FEATURED</h2>
-  <div class="columns">
-    <div class="product-column">
-      {% assign products=site.products | where:"lang", page.lang %}
-      {% for product in products %}
-        {% if product.featured != 0 %}
-          {% include product.html %}
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-  <a href="/store/" title="All products"> View all products</a>
+  {% include featured-products.html %}
 </div>
 
 <div class="full-hero hero-description">

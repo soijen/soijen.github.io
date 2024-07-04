@@ -9,6 +9,7 @@ dimensions: 4.9" x 2.3" (124mm x 58mm)
 materials: Weatherproof Vinyl
 featured: 0
 etsy: https://soijen.etsy.com/listing/1557076194/middlebury-vermont-cityscape-sticker?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695302002743
+shopify: https://soijen.myshopify.com/products/middlebury-cityscape-sticker
 price: 5
 sku: ST-QV-08
 stock: 1

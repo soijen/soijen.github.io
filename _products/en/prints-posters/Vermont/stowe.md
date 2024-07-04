@@ -10,6 +10,7 @@ dimensions: 5" x 7" (127mm x 178mm)
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://soijen.etsy.com/listing/980773513/stowe-vermont-cityscape-art-print-thick?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261527820
+shopify: https://soijen.myshopify.com/products/stowe-cityscape-print
 price: 13
 sku: PR-QV-03-5x7
 stock: 1

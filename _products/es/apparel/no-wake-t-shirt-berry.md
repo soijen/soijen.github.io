@@ -8,6 +8,7 @@ image2: 2
 materials: 100% algodón orgánico. Hecho en EEUU.
 featured: 0
 etsy: https://soijen.etsy.com/listing/1036683903/new-colors-no-wake-zone-100-organic?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261131537
+Shopify: https://soijen.myshopify.com/products/no-wake-zone-100-organic-cotton-t-shirt
 price: 32
 sku: TS-LA-04
 stock: 1

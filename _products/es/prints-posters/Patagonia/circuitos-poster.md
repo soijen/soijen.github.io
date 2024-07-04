@@ -11,7 +11,8 @@ dimensions: 11" x 17" (280mm x 430mm)
 materials: 100% papel reciclado de desechos postconsumos. Certificado FSC.
 featured: 0
 etsy: https://soijen.etsy.com/listing/902789382/trekking-circuits-of-southern-patagonia?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259629232
-price: 28
+shopify: https://soijen.myshopify.com/products/trekking-patagonia-austral-poster
+price: 30
 sku: PR-PA-01
 stock: 1
 slug: circuitos-poster

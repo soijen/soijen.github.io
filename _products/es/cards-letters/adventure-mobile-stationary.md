@@ -11,9 +11,10 @@ dimensions: A1 - 5" x 7" (127mm x 178mm)
 materials: Papel 30% materiales reciclados
 featured: 0
 etsy: https://soijen.etsy.com/listing/1220382092/adventure-mobile-stationery-set-12?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695258442537
+shopify: 
 price: 18
 sku: SS-LA-03
-stock: 1
+stock: 0
 slug: adventure-mobile-stationery
 ref: adventure-mobile-stationery
 category:

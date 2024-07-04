@@ -9,6 +9,7 @@ dimensions: 6" x 1.5" (150mm x 50mm)
 materials: Weatherproof Vinyl
 featured: 0
 etsy: https://soijen.etsy.com/listing/1232599045/patagonia-austral-magallanes-chile?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261265120
+shopify: https://soijen.myshopify.com/products/mapa-patagonia-austral-sticker
 price: 5
 sku: ST-PA-01
 stock: 1

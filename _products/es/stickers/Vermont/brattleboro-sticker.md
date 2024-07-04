@@ -9,6 +9,7 @@ dimensions: 5" x 2.25" (127mm x 57mm)
 materials: Vínilo
 featured: 0
 etsy: https://soijen.etsy.com/listing/1085100215/brattleboro-vermont-cityscape-sticker?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695258569651
+shopify: https://soijen.myshopify.com/products/brattleboro-cityscape-sticker
 price: 5
 sku: ST-QV-05
 stock: 1

@@ -9,6 +9,7 @@ dimensions: 18" x 16" x 4" con asa de 25" (45.7cm x 40.6cm x 10.2cm con asa de 6
 materials: 65% algodón reciclado, 35% poliéster reciclado postconsumo certificado
 featured: 0
 etsy: http://etsy.com/shop/soijen
+shopify: 
 price: 26
 sku: TB-PA-02
 stock: 1
