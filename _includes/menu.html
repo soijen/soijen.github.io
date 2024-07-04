@@ -6,7 +6,7 @@
     {% for item in include.menusource.m[page.lang] %}
       {% if item[1].subitems %}
         <li class="dropdown parent-menu">
-          <a class="drop-trigger menu-link" href="{{ item[1].url }}" title="{{ item[1].hover }}">
+          <a class="drop-trigger menu-link" href="{{ item[1].url }}" title="{{ item[1].hover }}" aria-haspopup="true">
             {% if navurl contains item[1].url %}
               <span class="active-menu">{{ item[1].name }}</span>
             {% else %}
