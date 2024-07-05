@@ -65,39 +65,6 @@ m:
       name: TIENDA ONLINE
       url: https://soijen.myshopify.com/
       hover: TIENDA ONLINE
-      subitems:
-        shop-cards:
-          name: Tarjetas + Papelería
-          url: /es/store/cards-letters/
-          hover: Tarjetas + Papelería
-        shop-notes:
-          name: Cuadernos + Blocs
-          url: /es/store/notebooks-notepads/
-          hover: Cuadernos + Blocs
-        shop-stickers:
-          name: Stickers
-          url: /es/store/stickers/
-          hover: Stickers
-        shop-prints:
-          name: Posters + Impresiones
-          url: /es/store/prints-posters/
-          hover: Posters + Impresiones
-        shop-apparel:
-          name: Ropa
-          url: /es/store/apparel/
-          hover: Ropa
-        shop-bags:
-          name: Bolsas + Estuches
-          url: /es/store/bags-pouches/
-          hover: Bolsas + Estuches
-        shop-other:
-          name: Otros Productos
-          url: /es/store/other-goods/
-          hover: Otros Productos
-        shop-all:
-          name: Todos los Productos
-          url: /es/store/
-          hover: Todos los Productos
     collections:
       name: Colecciones Regionales
       url: /es/store/collections/
