@@ -21,3 +21,5 @@ category:
 - usa
 ---
 Our popular No Wake Zone design is now available as a sweatshirt! These ultra soft screenprinted sweatshirts are made of high quality combed ringspun organic cotton and Made in the USA. Features a dog sleeping in a canoe, with the text "No Wake Zone". Note: Sizing is unisex. Sweatshirt is also available in <a href="/products/nowake-sweatshirt-moss" title="No Wake Zone | 100% Organic Cotton T-shirt | Moss">Moss</a>.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.

@@ -1,7 +1,7 @@
 ---
-title: Canoe Pup | Zippered Pouch
-name: Canoe Pup | Zippered Pouch
-description: This small zippered pouch features a canoeing adventure dog. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need.
+title: Canoe Pup Zipper Pouch
+name: Canoe Pup Zipper Pouch
+description: This zippered pouch features an adventure dog paddling in a canoe. This sturdy recycled cotton pouch measures 7.5 x 4.25 inches and is a convenient size to fit pens, pencils and other small trinkets. Made in USA.
 imagePath: \assets\images\products\totes\canoe-pouch
 image: 1
 image2: 1
@@ -22,4 +22,8 @@ category:
 - pouch
 - aventura
 ---
-This small zippered pouch features a canoeing adventure dog. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need.
+This zippered pouch features an adventure dog paddling in a canoe. This sturdy recycled cotton pouch measures 7.5 x 4.25 inches and is a convenient size to fit pens, pencils and other small trinkets.
+
+The design is screen printed on thick recycled cotton canvas fabric. The fabric is a blend of 65% recycled cotton and 35% recycled post consumer poly. The recycled cotton is recuperated from fabric waste generated during the manufacturing process of new clothes, traditionally sent to landfills. The recycled poly is derived from 100% recycled PET plastic bottles.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.

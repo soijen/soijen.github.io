@@ -1,13 +1,13 @@
 ---
-title: Fall Foliage Pup | Sticker
-name: Fall Foliage | Sticker
-description: This Vermonty, fall foliagge loving adventure pup die-cut matte sticker features a black dog among colorful fall foliage. Printed on durable weatherproof vinyl.
+title: Fall Foliage Pup Waterproof Sticker
+name: Fall Foliage Pup Waterproof Sticker
+description: This durable, weatherproof sticker features an adventure dog hiking among colorful fall foliage in the mountains. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Sticker measures approximately 3.5 x 3 inches. Made in USA.
 imagePath: \assets\images\products\stickers\fallfoliagepup
 image: 1
 image2: 1
-dimensions: 3.5" x 2.8"
+dimensions: 3.5" x 3"
 materials: Weatherproof Vinyl
-featured: 1
+featured: 0
 etsy: https://soijen.etsy.com/listing/1509973106/fall-foliage-dog-sticker-weatherproof?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259902900
 shopify: https://soijen.myshopify.com/products/fall-foliage-pup-sticker
 price: 5
@@ -20,4 +20,6 @@ category:
 - aventura
 - vermont
 ---
-This Vermonty, fall foliage loving adventure pup die-cut matte sticker features a black dog among colorful fall foliage. Printed on durable weatherproof vinyl.
+This durable, weatherproof sticker features an adventure dog hiking among colorful fall foliage in the mountains. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Sticker measures approximately 3.5 x 3 inches.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.

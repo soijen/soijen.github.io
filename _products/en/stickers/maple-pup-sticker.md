@@ -1,7 +1,7 @@
 ---
-title: Maple Pup | Sticker
-name: Maple Pup | Sticker
-description: This Vermonty, maple syrup loving adventure pup die-cut matte sticker features a black dog at a maple syrup tap. Printed on durable weatherproof vinyl.
+title: Maple Pup Waterproof Sticker
+name: Maple Pup Waterproof Sticker
+description: This durable, weatherproof sticker features a maple syrup loving adventure pup sugaring in the forest. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Sticker measures approximately 3.5 x 3.5 inches. Made in USA.
 imagePath: \assets\images\products\stickers\maplepup
 image: 1
 image2: 1
@@ -20,4 +20,6 @@ category:
 - aventura
 - vermont
 ---
-This Vermonty, maple syrup loving adventure pup die-cut matte sticker features a black dog at a maple syrup tap. Printed on durable weatherproof vinyl.
+This durable, weatherproof sticker features a maple syrup loving adventure pup sugaring in the forest. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Sticker measures approximately 3.5 x 3.5 inches.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.

@@ -2,7 +2,7 @@
 title: Middlebury | stationery Set | 12 Sheets Paper + 6 Envelopes + Stickers
 name: Middlebury | stationery Set | 12 Sheets Paper + 6 Envelopes + Stickers
 description: This Middlebury stationery highlights the iconic buildings and monuments in Middlebury, Vermont. This set of 12 sheets of lined paper (5x7"), 6 A1-sized envelopes (3.6x5.1"), and 6 mini stickers. 
-imagePath: \assets\images\products\stationery\middlebury
+imagePath: \assets\images\products\letter-set\middlebury
 image: 1
 image2: 1
 dimensions: A1 - 5" x 7" (127mm x 178mm)

@@ -1,14 +1,14 @@
 ---
-title: Bike Adventure Dog | Market Tote Bag
-name: Bike Adventure Dog | Market Tote Bag
-description: This whimsical tote bag, from our "El Mundo a Pata" (The world by paw) collection, features a cycling adventure pup. This sturdy and spacious 10 oz cotton canvas bag with black handle is perfect for a trip to the farmer's market with its 6" wide bottom gusset.
+title: Bike Pup Tote Bag
+name: Bike Pup Tote Bag
+description: This whimsical tote bag features a cycling adventure pup taking a nap at a Rest Area. This sturdy and spacious tote is perfect for a trip to the farmer's market measuring 18 x 12 inches with a 6 inch wide bottom gusset and a 25 inch black handle. Made in USA.
 imagePath: \assets\images\products\totes\bike-market
 image: 1
 image2: 1
 image3: 1
 dimensions: 18" x 12" x 6" with 25" handle (45.7cm x 30.5cm x 15.2cm with 63.5cm handle)
 materials: 65% recycled cotton, 35% recycled post consumer poly certified
-featured: 1
+featured: 0
 etsy: https://soijen.etsy.com/listing/1524146631/bike-adventure-dog-market-tote-bag?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695258529859
 shopify: https://soijen.myshopify.com/products/bike-pup-tote-bag
 price: 28
@@ -21,4 +21,8 @@ category:
 - tote
 - aventura
 ---
-This whimsical tote bag features a pup-cyclist taking a nap at a Rest Area. This sturdy and spacious 10 oz cotton canvas bag with black handle is perfect for a trip to the farmer's market with its 6" wide bottom gusset. Made in USA of 100% recycled materials.
+This whimsical tote bag features a cycling adventure pup taking a nap at a Rest Area. This sturdy and spacious tote is perfect for a trip to the farmer's market measuring 18 x 12 inches with a 6 inch wide bottom gusset and a 25 inch black handle.
+
+The colorful design is screen printed on thick recycled cotton canvas fabric. The fabric is a blend of 65% recycled cotton and 35% recycled post consumer poly. The recycled cotton is recuperated from fabric waste generated during the manufacturing process of new clothes, traditionally sent to landfills. The recycled poly is derived from 100% recycled PET plastic bottles.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.

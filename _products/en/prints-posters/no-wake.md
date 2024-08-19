@@ -1,7 +1,7 @@
 ---
-title: Canoeing Adventure Dog | No Wake Zone | Art Print
-name: Canoeing Adventure Dog | No Wake Zone | Art Print
-description: This playful art print would make a special addition to your home or a fun gift for a paddle-loving friend. Features a dog sleeping in a canoe, with the text "No Wake Zone". Printed with care on thick, archival, environmentally friendly paper.
+title: No Wake Zone Print | Canoeing Adventure Dog
+name: No Wake Zone Print | Canoeing Adventure Dog
+description: This playful art print features an adventure dog sleeping in a canoe, with the text "No Wake Zone". This print would make a special addition to your home or a fun gift for a paddle-loving friend. Printed with care on thick, archival, responsily sourced paper. Made in USA.
 imagePath: \assets\images\products\prints\nowake
 image: 1
 image2: 1
@@ -20,4 +20,11 @@ category:
 - prints-posters
 - aventura
 ---
-This playful art print would make a special addition to your home or a fun gift for a paddle-loving friend. Features a dog sleeping in a canoe, with the text "No Wake Zone". Printed with care on thick, archival, environmentally friendly paper.
+This playful art print features an adventure dog sleeping in a canoe, with the text "No Wake Zone". This print would make a special addition to your home or a fun gift for a paddle-loving friend. Printed with care on thick, archival, responsily sourced paper.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.
+
+Materials and Packaging:
+5 x 7”, 8 x 10” and 11 x 14” sizes are printed on thick 130lb recycled, FSC-certified cardstock. This archival paper is acid-free, lignin-free. Prints are packaged with rigid chipboard backing to prevent bending and protected by an Eco Clear plant-based PLA sleeve that is certified compostable.
+
+11x17 size is printed on 100lb recycled, FSC-certified cardstock. This archival paper is acid-free, lignin-free. Packaged rolled and shipped in a rigid square poster tube.

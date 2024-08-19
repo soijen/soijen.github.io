@@ -9,6 +9,7 @@ dimensions: A1 - 5" x 7" (127mm x 178mm)
 materials: Papel 30% materiales reciclados
 featured: 0
 etsy: https://soijen.etsy.com/listing/980783195/montpelier-vermont-cityscape-stationery?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695260996045
+shopify: https://soijen.myshopify.com/products/montpelier-cityscape-letter-set
 price: 18
 sku: SS-QV-02
 stock: 1

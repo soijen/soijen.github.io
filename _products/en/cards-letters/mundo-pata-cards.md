@@ -1,7 +1,7 @@
 ---
-title: Adventure Pup | Blank Note Card Set | 6 A2 Cards + Envelopes + Stickers
-name: Adventure Pup | Blank Note Card Set | 6 A2 Cards + Envelopes + Stickers
-description: The “El Mundo a Pata” note card collection features adventure-pup inspired designs, perfect to keep in touch with friends and family. This set of 6 A2 cards, blank inside, is printed on archival, environmentally friendly paper and comes with 6 white envelopes.
+title: Adventure Dog | Assorted Greeting Card Set
+name: Adventure Dog | Assorted Greeting Card Set
+description: This assorted greeting card set features an adventurous pup doing 6 outdoor activities - hiking, canoeing, snowshoeing, camping, van-living and creating a campfire. Perfect to write a fun note to friends and family or as a special gift to someone with their own adventure dog. Made in USA.
 imagePath: \assets\images\products\cards\mundopata
 image: 1
 image2: 1
@@ -22,6 +22,10 @@ category:
 - card-set
 - aventura
 ---
-The “El Mundo a Pata” note card collection features adventure-pup inspired designs, perfect to keep in touch with friends and family. This set of 6 A2 cards, blank inside, is printed on archival, environmentally friendly paper and comes with 6 white envelopes.
+This assorted greeting card set features an adventurous pup doing 6 outdoor activities: hiking, canoeing, snowshoeing, camping, van-living and creating a campfire. Perfect to write a fun note to friends and family or as a special gift to someone with their own adventure dog.
 
-Featured designs: Snowshoe pup, camping pup, paddling pup, backpacking pup, campfire pup and adventure-mobile pup.
+This set includes 6 A2 cards, one of each design. Cards are blank inside and printed on thick, responsibly sourced paper. Set comes with 6 white envelopes and 6 mini stickers.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products.
+
+Greeting card sets are packaged plastic free in kraft paper box.

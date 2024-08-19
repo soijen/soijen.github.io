@@ -1,7 +1,7 @@
 ---
-title: Viaje sin Rumbo | Van Life | Sticker
-name: Viaje sin Rumbo | Sticker
-description: This van life design featuring a camping van in the mountains with text "Viaje sin rumbo" on a die-cut matte sticker. Printed on durable weatherproof vinyl.
+title: Viaje sin Rumbo Waterproof Sticker | Journey without Destination
+name: Viaje sin Rumbo Waterproof Sticker | Journey without Destination
+description: This durable, weatherproof sticker features a colorful camper van among mountains with the text "Viaje sin rumbo", which is Spanish for journey without a destination. Perfect to add some style to a laptop, water bottle, van, helmet, etc. Sticker measures approximately 5 x 2 inches.
 imagePath: \assets\images\products\stickers\viajesinrumbo\
 image: 1
 image2: 2
@@ -19,4 +19,6 @@ category:
 - stickers
 - aventura
 ---
-This van life design featuring a camping van in the mountains with text "Viaje sin rumbo" on a die-cut matte sticker. Printed on durable weatherproof vinyl.
+This durable, weatherproof sticker features a colorful camper van among mountains with the text "Viaje sin rumbo", which is Spanish for journey without a destination. Perfect to add some style to a laptop, water bottle, van, helmet, etc. Sticker measures approximately 5 x 2 inches.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.

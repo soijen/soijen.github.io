@@ -1,7 +1,7 @@
 ---
-title: Montpelier Vermont Cityscape | Sticker
-name: Montpelier Vermont Cityscape | Sticker
-description: This Montpelier cityscape die-cut matte sticker highlights the iconic buildings and monuments in Montpelier, Vermont. Printed on durable weatherproof vinyl.
+title: Montpelier Vermont Cityscape Waterproof Sticker
+name: Montpelier Vermont Cityscape Waterproof Sticker
+description: This durable, weatherproof sticker highlights the iconic buildings and monuments in Montpelier, the state capital of Vermont, arranged like a city skyline. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Features the State House, Hubbarb Park, City Hall, Vermont Historical Society Museum, the Capital City Farmer's Market and more. Sticker measures approximately 5 x 2 inches. Made in USA.
 imagePath: \assets\images\products\stickers\montpelier
 image: 1
 image2: 1
@@ -20,4 +20,6 @@ category:
 - cityscape
 - vermont
 ---
-This Montpelier cityscape die-cut matte sticker highlights the iconic buildings and monuments in Montpelier, Vermont. Printed on durable weatherproof vinyl.
+This durable, weatherproof sticker highlights the iconic buildings and monuments in Montpelier, the state capital of Vermont, arranged like a city skyline. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Features the State House, Hubbarb Park, City Hall, Vermont Historical Society Museum, the Capital City Farmer's Market and more. Sticker measures approximately 5 x 2 inches.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.

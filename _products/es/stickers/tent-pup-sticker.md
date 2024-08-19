@@ -7,7 +7,7 @@ image: 1
 image2: 1
 dimensions: 4" x 2.4"
 materials: Vínilo
-featured: 0
+featured: 1
 etsy: https://soijen.etsy.com/listing/1557133224/tent-pup-sticker-weatherproof-vinyl?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695262782962
 shopify: https://soijen.myshopify.com/products/tent-pup-sticker
 price: 5

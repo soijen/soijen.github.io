@@ -1,7 +1,7 @@
 ---
-title: Snowshoeing Adventure Dog | Market Tote Bag
-name: Snowshoeing Adventure Dog | Market Tote Bag
-description: This whimsical tote bag, from our "El Mundo a Pata" (The world by paw) collection, features a snowshoeing adventure pup. This sturdy and spacious 10 oz cotton canvas bag is perfect for a trip to the farmer's market with its 6" wide bottom gusset.
+title: Snowshoe Pup Tote Bag
+name: Snowshoe Pup Tote Bag
+description: This playful tote bag features an adventure pup with snowshoes, hiking through a wintry forest. This sturdy and spacious tote is perfect for a trip to the farmer's market measuring 18 x 12 inches with a 6 inch wide bottom gusset and a 25 inch black handle. Made in USA.
 imagePath: \assets\images\products\totes\snowshoe-market
 image: 1
 image2: 1
@@ -14,7 +14,7 @@ etsy: https://soijen.etsy.com/listing/905314295/snowshoeing-adventure-dog-market
 shopify: https://soijen.myshopify.com/products/snowshoe-pup-tote-bag
 price: 28
 sku: TB-LA-01
-stock: 0
+stock: 1
 slug: snowshoe-market-tote
 ref: snowshoe-market-tote
 category:
@@ -22,4 +22,10 @@ category:
 - tote
 - aventura
 ---
-Perfect gift for the holidays! This whimsical tote bag, from our "El Mundo a Pata" (The world by paw) collection, features a snowshoeing adventure pup. This sturdy and spacious 10 oz cotton canvas bag is perfect for a trip to the farmer's market with its 6" wide bottom gusset. Made in USA of 100% recycled materials.
+This playful tote bag features an adventure pup with snowshoes, hiking through a wintry forest. This sturdy and spacious tote is perfect for a trip to the farmer's market measuring 18 x 12 inches with a 6 inch wide bottom gusset and a 25 inch black handle.
+
+The design is screen printed on thick recycled cotton canvas fabric. The fabric is a blend of 65% recycled cotton and 35% recycled post consumer poly. The recycled cotton is recuperated from fabric waste generated during the manufacturing process of new clothes, traditionally sent to landfills. The recycled poly is derived from 100% recycled PET plastic bottles.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.
+
+

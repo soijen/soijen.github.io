@@ -1,7 +1,7 @@
 ---
-title: La Casita Tiny House | Zippered Pouch
-name: La Casita Tiny House | Zippered Pouch
-description: BRAND NEW! This zippered pouch features a tiny house. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need.
+title: Casita Pup Zipper Pouch | Tiny House
+name: Casita Pup Zipper Pouch | Tiny House
+description: This zippered pouch features an adventure dog with a tiny house on wheels and the text "la casita" which in Spanish translates to tiny house. This sturdy recycled cotton pouch measures 7.5 x 4.25 inches and is a convenient size to fit pens, pencils and other small trinkets. Made in USA
 imagePath: \assets\images\products\totes\casita-pouch
 image: 1
 dimensions: 7.5" x 4" (19cm x 10.2cm)
@@ -19,4 +19,8 @@ category:
 - pouch
 - aventura
 ---
-BRAND NEW! This zippered pouch features a tiny house. This sturdy 10 oz cotton canvas pouch is a convenient size to fit pens, pencils, envelopes and whatever else you need. Made in USA of 100% recycled materials.
+This zippered pouch features an adventure dog with a tiny house on wheels and the text "la casita" which in Spanish translates to tiny house. This sturdy recycled cotton pouch measures 7.5 x 4.25 inches and is a convenient size to fit pens, pencils and other small trinkets.
+
+The design is screen printed on thick recycled cotton canvas fabric. The fabric is a blend of 65% recycled cotton and 35% recycled post consumer poly. The recycled cotton is recuperated from fabric waste generated during the manufacturing process of new clothes, traditionally sent to landfills. The recycled poly is derived from 100% recycled PET plastic bottles.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.
