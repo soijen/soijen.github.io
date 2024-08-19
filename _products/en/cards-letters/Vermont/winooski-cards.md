@@ -1,7 +1,7 @@
 ---
-title: Winooski Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-name: Winooski Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-description: This Winooski cityscape blank note card set highlights the iconic buildings and monuments in Winooski, Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
+title: Winooski Vermont Cityscape | Blank Greeting Card Set
+name: Winooski Vermont Cityscape | Blank Greeting Card Set
+description: This Winooski greeting card set highlights the iconic buildings and monuments in Winooski, Vermont. A great all-purpose card to keep in touch with friends and family. Features the Winooski Block, the Champlain Mill, Winooski Falls Park, Rotary Park, United Methodist Church, the Farmers Market and more. Made in USA.
 imagePath: \assets\images\products\cards\winooski
 image: 1
 image2: 1
@@ -21,4 +21,10 @@ category:
 - cityscape
 - vermont
 ---
-This Winooski cityscape blank note card set highlights the iconic buildings and monuments in Winooski, Vermont. Reprinted with care on thick, archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set contains 6 A2 cards and 6 white envelopes.
+This Winooski greeting card set highlights the iconic buildings and monuments in Winooski, Vermont. A great all-purpose card to keep in touch with friends and family. Features the Winooski Block, the Champlain Mill, Winooski Falls Park, Rotary Park, United Methodist Church, the Farmers Market and more.
+
+This set includes 6 identical A2 cards. Cards are blank inside and printed on thick, responsibly sourced paper. Set comes with 6 white envelopes and 6 mini stickers of different buildings from the cityscape.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products.
+
+Greeting card sets are packaged plastic free in kraft paper box.

@@ -1,7 +1,7 @@
 ---
-title: Stowe Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-name: Stowe Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-description: This Stowe cityscape blank note card set highlights the iconic buildings and monuments in Stowe, Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
+title: Stowe Vermont Cityscape | Blank Greeting Card Set
+name: Stowe Vermont Cityscape | Blank Greeting Card Set
+description: This Stowe greeting card set highlights the iconic buildings and monuments in Stowe, Vermont. A great all-purpose card to keep in touch with friends and family. Features Stowe Mountain Resort and Gondola, Mt. Mansfield, scenic Route 108, the Stowe Theatre Guild, the Stowe Community Church, the Vermont Ski and Snowboard Museum, and more. Made in USA.
 imagePath: \assets\images\products\cards\stowe
 image: 1
 image2: 1
@@ -23,4 +23,10 @@ category:
 - cityscape
 - vermont
 ---
-This Stowe cityscape blank note card set highlights the iconic buildings and monuments in Stowe, Vermont. Reprinted with care on thick, archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set contains 6 A2 cards and 6 white envelopes.
+This Stowe greeting card set highlights the iconic buildings and monuments in Stowe, Vermont. A great all-purpose card to keep in touch with friends and family. Features Stowe Mountain Resort and Gondola, Mt. Mansfield, scenic Route 108, the Stowe Theatre Guild, the Stowe Community Church, the Vermont Ski and Snowboard Museum, and more.
+
+This set includes 6 identical A2 cards. Cards are blank inside and printed on thick, responsibly sourced paper. Set comes with 6 white envelopes and 6 mini stickers of different buildings from the cityscape.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products.
+
+Greeting card sets are packaged plastic free in kraft paper box.

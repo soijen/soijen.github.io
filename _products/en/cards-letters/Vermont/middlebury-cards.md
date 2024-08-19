@@ -1,7 +1,7 @@
 ---
-title: Middlebury Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-name: Middlebury Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-description: This Middlebury cityscape blank note card set highlights the iconic buildings and monuments in Middlebury, Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
+title: Middlebury Vermont Cityscape | Blank Greeting Card Set
+name: Middlebury Vermont Cityscape | Blank Greeting Card Set
+description: This Middlebury greeting card set highlights the iconic buildings and monuments in Middlebury, Vermont. A great all-purpose card to keep in touch with friends and family. Features Middlebury College, the Town Hall Theater, the Henry Sheldon Museum, Middlebury Falls, the Historic Marble Works, the Congregational Church, and more. Made in USA.
 imagePath: \assets\images\products\cards\middlebury
 image: 1
 image2: 1
@@ -22,4 +22,10 @@ category:
 - cityscape
 - vermont
 ---
-This Middlebury cityscape blank note card set highlights the iconic buildings and monuments in Middlebury, Vermont. Reprinted with care on thick, archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set contains 6 A2 cards and 6 white envelopes.
+This Middlebury greeting card set highlights the iconic buildings and monuments in Middlebury, Vermont. A great all-purpose card to keep in touch with friends and family. Features Middlebury College, the Town Hall Theater, the Henry Sheldon Museum, Middlebury Falls, the Historic Marble Works, the Congregational Church, and more.
+
+This set includes 6 identical A2 cards. Cards are blank inside and printed on thick, responsibly sourced paper. Set comes with 6 white envelopes and 6 mini stickers of different buildings from the cityscape.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products.
+
+Greeting card sets are packaged plastic free in kraft paper box.
