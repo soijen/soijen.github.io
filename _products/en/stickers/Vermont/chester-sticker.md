@@ -1,7 +1,7 @@
 ---
-title: Chester Vermont Cityscape | Sticker
-name: Chester Vermont Cityscape | Sticker
-description: This Chester cityscape die-cut matte sticker highlights the iconic buildings and monuments in Chester, Vermont. Printed on durable weatherproof vinyl.
+title: Chester Vermont Cityscape Waterproof Sticker
+name: Chester Vermont Cityscape Waterproof Sticker
+description: This durable, weatherproof sticker highlights the iconic buildings and monuments in Chester, Vermont, arranged like a city skyline. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Features the Chester Village Green and Common, the Historical Society, Whiting Library, Hearse House, Stone Village Historic Distric, and more. Made in USA.
 imagePath: \assets\images\products\stickers\chester
 image: 1
 image2: 1
@@ -20,4 +20,6 @@ category:
 - cityscape
 - vermont
 ---
-This Chester cityscape die-cut matte sticker highlights the iconic buildings and monuments in Chester, Vermont. Printed on durable weatherproof vinyl.
+This durable, weatherproof sticker highlights the iconic buildings and monuments in Chester, Vermont, arranged like a city skyline. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Features the Chester Village Green and Common, the Historical Society, Whiting Library, Hearse House, Stone Village Historic Distric, and more.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.

@@ -1,7 +1,7 @@
 ---
-title: Brattleboro Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-name: Brattleboro Vermont Cityscape | Blank Note Card Set | 6 A2 Cards + Envelopes
-description: This Brattleboro cityscape blank note card set highlights the iconic buildings and monuments in Brattleboro, Vermont. Reprinted with care on thick, archival, environmentally friendly paper.
+title: Brattleboro Vermont Cityscape | Blank Greeting Card Set
+name: Brattleboro Vermont Cityscape | Blank Greeting Card Set
+description: This Brattleboro greeting card set highlights the iconic buildings and monuments in Brattleboro, Vermont. A great all-purpose card to keep in touch with friends and family. Features Brattleboro Museum and Art Center, Creamery Covered Bridge, the Latchis Theatre, the Brooks House, Pliny Park, Harris Hill Ski Jump, Retreat Tower, and more. Made in USA.
 imagePath: \assets\images\products\cards\brattleboro
 image: 1
 image2: 1
@@ -23,4 +23,10 @@ category:
 - cityscape
 - vermont
 ---
-This Brattleboro cityscape blank note card set highlights the iconic buildings and monuments in Brattleboro, Vermont. Reprinted with care on thick, archival, environmentally friendly paper. These blank cards are perfect to keep in touch with friends and family. This set contains 6 A2 cards and 6 white envelopes.
+This Brattleboro greeting card set highlights the iconic buildings and monuments in Brattleboro, Vermont. A great all-purpose card to keep in touch with friends and family. Features Brattleboro Museum and Art Center, Creamery Covered Bridge, the Latchis Theatre, the Brooks House, Pliny Park, Harris Hill Ski Jump, Retreat Tower, and more.
+
+This set includes 6 identical A2 cards. Cards are blank inside and printed on thick, responsibly sourced paper. Set comes with 6 white envelopes and 6 mini stickers of different buildings from the cityscape.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products.
+
+Greeting card sets are packaged plastic free in kraft paper box.

@@ -10,7 +10,7 @@ dimensions: 11" x 14"
 materials: 100% recycled paper, post consumer waste. FSC Certified.
 featured: 0
 etsy: https://soijen.etsy.com/listing/1750809443
-shopify: https://soijen.myshopify.com/products/middlebury-cityscape-print
+shopify: https://soijen.myshopify.com/products/middlebury-vermont-travel-poster
 price: 30
 sku: PR-QV-26-11x14
 stock: 1

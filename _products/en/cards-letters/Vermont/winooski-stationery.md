@@ -11,7 +11,7 @@ featured: 0
 etsy: https://soijen.etsy.com/listing/1624205979/winooski-vermont-cityscape-stationery
 price: 18
 sku: SS-QV-15
-stock: 1
+stock: 0
 slug: winooski-stationery
 ref: winooski-stationery
 category:

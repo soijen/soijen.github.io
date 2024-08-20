@@ -11,7 +11,7 @@ featured: 0
 etsy: https://soijen.etsy.com/listing/1509981452/burlington-vermont-cityscape-stationery?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695259139752
 price: 18
 sku: SS-QV-04
-stock: 1
+stock: 0
 slug: burlington-stationery
 ref: burlington-stationery
 category:

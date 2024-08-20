@@ -11,7 +11,7 @@ featured: 0
 etsy: https://soijen.etsy.com/listing/1509989498/stowe-vermont-cityscape-stationery-set?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261612138
 price: 18
 sku: SS-QV-03
-stock: 1
+stock: 0
 slug: stowe-stationery
 ref: stowe-stationery
 category:

@@ -11,7 +11,7 @@ featured: 0
 etsy: https://soijen.etsy.com/listing/1509984798/waterbury-vermont-cityscape-stationery?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695261883561
 price: 18
 sku: SS-QV-07
-stock: 1
+stock: 0
 slug: waterbury-stationery
 ref: waterbury-stationery
 category:

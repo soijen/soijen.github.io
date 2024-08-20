@@ -11,7 +11,7 @@ featured: 0
 etsy: https://soijen.etsy.com/listing/1050436983/brattleboro-vermont-cityscape-stationery?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1695258708682
 price: 18
 sku: SS-QV-05 
-stock: 1
+stock: 0
 slug: brattleboro-stationery
 ref: brattleboro-stationery
 category:

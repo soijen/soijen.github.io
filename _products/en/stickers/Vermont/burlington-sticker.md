@@ -1,6 +1,6 @@
 ---
-title: Burlington Vermont Cityscape | Sticker
-description: This Burlington cityscape die-cut matte sticker highlights the iconic buildings and monuments in Burlington, Vermont. Printed on durable weatherproof vinyl.
+title: Burlington Vermont Cityscape Waterproof Sticker
+description: This durable, weatherproof sticker highlights the iconic buildings and monuments in Burlington, Vermont, arranged like a city skyline. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Features Church Street Marketplace, University of Vermont, ECHO Leahy Center for Lake Champlain, City Hall, Amtrack Ethan Allen Express, Main Street Landing, Spirit of Ethan Allen, and more. Made in USA.
 imagePath: \assets\images\products\stickers\burlington
 image: 1
 image2: 1
@@ -18,4 +18,6 @@ category:
 - cityscape
 - vermont
 ---
-This Burlington cityscape die-cut matte sticker highlights the iconic buildings and monuments in Burlington, Vermont. Printed on durable weatherproof vinyl.
+This durable, weatherproof sticker highlights the iconic buildings and monuments in Burlington, Vermont, arranged like a city skyline. Perfect to add some style to a laptop, water bottle, van, paddle, etc. Features Church Street Marketplace, University of Vermont, ECHO Leahy Center for Lake Champlain, City Hall, Amtrack Ethan Allen Express, Main Street Landing, Spirit of Ethan Allen, and more.
+
+To give back to the wild places we love, we donate at least 1% of our sales to organizations dedicated to environmental conservation. We are proud use recycled and responsibly sourced materials to create our products. Made in USA.
