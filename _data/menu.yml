@@ -5,36 +5,6 @@ m:
       name: SHOP ONLINE
       url: https://soijen.myshopify.com/
       hover: SHOP ONLINE
-    collections:
-      name: Region Collections
-      url: /store/collections/
-      hover: Shop Region Collections
-      subitems:
-        shop-patagonia:
-          name: Explore Patagonia
-          url: /store/collections/patagonia/
-          hover: Shop Patagonia Collection
-          mobile-display: false
-        shop-vermont:
-          name: Explore Vermont
-          url: /store/collections/vermont/
-          hover: Shop Vermont Collection
-          mobile-display: false
-    wholesale:
-      name: Wholesale
-      url: /wholesale/
-      hover: Wholesale
-      subitems:
-        wholesale-inquries:
-          name: Wholesale Inquiries
-          url: /wholesale/
-          hover: Wholesale Inquiries
-          mobile-display: false
-        stockists:
-          name: Stockists
-          url: /stockists/ 
-          hover: Stockists
-          mobile-display: false
     about:
       name: About
       url: /about/
@@ -60,41 +30,19 @@ m:
           url: /blog/
           hover: Blog
           mobile-display: false
+    stockists:
+      name: Stockists
+      url: /stockists/
+      hover: Stockists
+    wholesale-inquries:
+      name: Wholesale Inquiries
+      url: /wholesale/
+      hover: Wholesale Inquiries
   es:
     store:
       name: TIENDA ONLINE
       url: https://soijen.myshopify.com/
       hover: TIENDA ONLINE
-    collections:
-      name: Colecciones Regionales
-      url: /es/store/collections/
-      hover: Colecciones Regionales
-      subitems:
-        shop-patagonia:
-          name: Explora Patagonia
-          url: /es/store/collections/patagonia/
-          hover: Colección La Patagonia
-          mobile-display: false
-        shop-vermont:
-          name: Explora Vermont
-          url: /es/store/collections/vermont/
-          hover: Colección Vermont
-          mobile-display: false
-    wholesale:
-      name: Ventas al por Mayor
-      url: /es/wholesale/
-      hover: Ventas al por Mayor
-      subitems:
-        wholesale-inquries:
-          name: Ventas al por Mayor
-          url: /es/wholesale/
-          hover: Ventas al por Mayor
-          mobile-display: false
-        stockists:
-          name: Puntos de Venta
-          url: /es/stockists/ 
-          hover: Puntos de Venta
-          mobile-display: false
     about:
       name: Nosotros
       url: /es/about/
@@ -120,3 +68,12 @@ m:
           url: /es/blog/
           hover: Blog
           mobile-display: false
+    stockists:
+      name: Puntos de Venta
+      url: /es/stockists/ 
+      hover: Puntos de Venta
+    wholesale:
+      name: Ventas al por Mayor
+      url: /es/wholesale/
+      hover: Ventas al por Mayor
+    

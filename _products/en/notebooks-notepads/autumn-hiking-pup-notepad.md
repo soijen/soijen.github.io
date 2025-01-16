@@ -9,7 +9,7 @@ image3: 1
 image4: 1
 dimensions: 4.25" x 5.5"
 materials: 100 sheets 70# text paper, FSC Certified.
-featured: 0
+featured: 1
 etsy: https://www.etsy.com/listing/1749373155/autumn-hiking-pup-notepad-adventure-dog
 shopify: https://soijen.myshopify.com/products/autumn-notepad
 price: 14
