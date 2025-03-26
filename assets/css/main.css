@@ -203,7 +203,7 @@ textarea {
 
 /* HEADER STYLES */
 .banner {
-  display: block;
+  display: none;
   color: #333;
   background-color: #EBB72F;
   box-sizing: border-box;
