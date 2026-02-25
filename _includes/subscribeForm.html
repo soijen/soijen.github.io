@@ -1,19 +1,103 @@
-<!-- Begin MailChimp Signup Form-->
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-<div id="mc_embed_signup">
-  <form action="https://soijen.us18.list-manage.com/subscribe/post?u=acd10f4d40a2efc897030ebf1&amp;id=c51adca5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-      {% if page.lang == 'en' %}
-    	  Subscribe to our monthly mailing list
-      {% endif %}
-      {% if page.lang == 'es' %}
-        Suscríbete a nuestras noticias mensuales
-      {% endif %}
-    	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" aria-label="email" aria-required="true" placeholder="Email" required>
-       <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_acd10f4d40a2efc897030ebf1_c51adca5f0" tabindex="-1" value=""></div>
-      <div class="clear"><button type="submit" name="subscribe" id="mc-embedded-subscribe" class="submit-button">Subscribe <i class="fa fa-paper-plane" role="none"></i></div>
-    </div>
-  </form>
-</div>
-<!-- End mc_embed_signup-->
+<form id="newsletterForm">
+  <div class="contact">
+    {% if page.lang == 'en' %}
+    Get updates on new designs, behind-the-scenes stories, and exclusive offers
+    {% endif %}
+    {% if page.lang == 'es' %}
+    Recibe actualizaciones sobre nuevos diseños, historias detrás de escena y ofertas exclusivas
+    {% endif %}
+    <input 
+      type="email" 
+      id="email" 
+      name="email" 
+      placeholder="Your email" 
+      class="input-form" 
+      required
+      >
+    <button type="submit" class="submit-button submit-button-news" id="submitBtn">subscribe <i class="fa fa-paper-plane"></i></button>
+  </div>
+        
+  <div id="message"></div>
+  <div class="cc">
+    {% if page.lang == 'en' %}
+    By subscribing, you agree to our <a href="/privacy-policy/" target="_blank">Privacy Policy</a>
+    {% endif %}
+    {% if page.lang == 'es' %}
+    Al suscribirte, aceptas nuestra <a href="/es/privacy-policy" target="_blank">Política de Privacidad</a>
+    {% endif %}
+  </div>
+</form>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const form = document.getElementById('newsletterForm');
+
+    if (!form) {
+      console.error("newsletterForm not found in DOM");
+      return;
+    }
+
+    form.addEventListener('submit', async function(e) {
+      e.preventDefault();
+
+      const submitBtn = document.getElementById('submitBtn');
+      const messageDiv = document.getElementById('message');
+      const email = document.getElementById('email').value;
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'subscribing...';
+      messageDiv.innerHTML = '';
+
+      try {
+        const response = await fetch(
+          'https://a.klaviyo.com/client/subscriptions/?company_id={{ site.klaviyo_id }}',
+          {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/vnd.api+json',
+              'revision': '2025-10-15'
+            },
+            body: JSON.stringify({
+              data: {
+                type: 'subscription',
+                attributes: {
+                  profile: {
+                    data: {
+                      type: 'profile',
+                      attributes: {
+                        email: email
+                      }
+                    }
+                  },
+                  custom_source: 'newsletter_form'
+                },
+                relationships: {
+                  list: {
+                    data: {
+                      type: 'list',
+                      id: 'R8wzQE'
+                    }
+                  }
+                }
+              }
+            })
+          }
+        );
+
+        if (response.ok || response.status === 202) {
+          messageDiv.innerHTML = '<div class="message success">Thanks for subscribing! Check your email for confirmation.</div>';
+          form.reset();
+        } else {
+          const bodyText = await response.text();
+          console.error('Klaviyo subscription error:', response.status, bodyText);
+          throw new Error('Subscription failed');
+        }
+      } catch (error) {
+        console.error('Error subscribing:', error);
+        messageDiv.innerHTML = '<div class="message error">Oops! Something went wrong. Try again or email us at hello@soijen.com and we can add you manually.</div>';
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'subscribe';
+      }
+    });
+  });
+</script>

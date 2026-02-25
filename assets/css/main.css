@@ -123,6 +123,10 @@ li:before {
   flex: 1 1 auto;
   width: 100%;
 }
+.phone::before { content: attr(data-part1); }
+.phone::after  { content: attr(data-part2); }
+.email::before { content: attr(data-user); }
+.email::after  { content: attr(data-domain); }
 
 /* FORM STYLES */
 input {
@@ -155,7 +159,7 @@ textarea {
   box-sizing: border-box;
   display: block;
   font-family: inherit;
-  margin: 4vh auto;
+  margin: 2vh auto;
   max-width: 600px;
   padding: 1vh 1vh;
   text-align: left;
@@ -178,9 +182,35 @@ textarea {
   padding: .4em .5em;
   opacity: 0.8;
 }
+
+.submit-button-news {
+  width: 100%;
+}
+
 .submit-button:active, .submit-button:hover {
   opacity: 1;
 }
+.message {
+  margin: 2em auto;
+  padding: 1em;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 1rem;
+  max-width: 600px;
+}
+        
+.success {
+  background-color: rgb(29, 66, 86);;
+  color: #EBB72F;
+  border: 2px solid #c3e6cb;
+}
+        
+.error {
+  background-color: #f8d7da;
+  color: #C74F35;
+  border: 2px solid #f5c6cb;
+}
+
 .videoWrapper {
   overflow: hidden;
   position: relative;
@@ -208,6 +238,7 @@ textarea {
   background-color: #EBB72F;
   box-sizing: border-box;
   font-size: .8em;
+  font-weight: bold;
   padding: 1vh 1vh;
   text-align: center;
   z-index: 10;
@@ -412,6 +443,11 @@ h2, .tagline {
   background-position: center 35%;
   height: 75vh;
 }
+.hero-studio {
+  background-image: url(/assets/images/home-collections/soijen-team-studio.jpg);
+  background-position: top center;
+  height: 95vh;
+}
 .hero-blog {
   background-color: #222;
   height: 40vh;
@@ -449,9 +485,9 @@ h2, .tagline {
 }
 .hero-home {
   background-attachment: scroll;
-  background-image: url(/assets/images/home-collections/banner.jpg);
+  background-image: url(/assets/images/home-collections/banner-2026-website.jpg);
   background-position: center;
-  height: 80vh;
+  height: 90vh;
 }
 .hero-posts {
   background-position: center center;
@@ -472,6 +508,10 @@ h2, .tagline {
 .hero-stores-events img, .large-col img {
   padding-top: 0;
   border-radius: 10px;
+}
+.home-img {
+  max-width: 70%;
+  padding-top: 0;
 }
 .rlogo img {
   width: 16vh;
@@ -539,6 +579,13 @@ h2, .tagline {
   box-sizing: border-box;
   flex: 1 1 50%;
   vertical-align: middle;
+}
+.newsletter-signup {
+  max-width: 60%;
+}
+.large-col-event {
+  max-width: 70%;
+  vertical-align: top;
 }
 .small-col {
   box-sizing: border-box;
@@ -728,6 +775,9 @@ h2, .tagline {
 }
 .footer .subscribe {
   display: block;
+}
+.subscribe {
+  margin-top: 2vh;
 }
 .top-shortcut {
   background-color: #EBB72F;
@@ -1193,8 +1243,9 @@ h2, .tagline {
     font-size: 2.5em;
   }
   .hero-home {
-    background-image: url(/assets/images/home-collections/banner-mobile.jpg);
-    height: 90vh;
+    background-image: url(/assets/images/home-collections/banner-2026-website.jpg);
+    background-position: center;
+    background-size: auto 100%;
   }
   .hero-donate {
     background-image: url(/assets/images/home-collections/protect-mobile.jpg);

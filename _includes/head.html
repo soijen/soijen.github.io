@@ -15,7 +15,7 @@
   <link href="{{site.url}}/assets/favicon.ico" rel="apple-touch-icon">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/css/main.css?v=5.0">
+  <link rel="stylesheet" href="/assets/css/main.css?v=5.2">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link href='{{ site.url }}/feed.xml' rel='alternate' type='application/atom+xml'>
 
@@ -31,7 +31,7 @@
   {% include analytics.html %}
   {% include twitter-card.html %}
   {% include openGraph.html %}
-
+  <!--{% include klaviyo.html %}-->
   {% for script in layout.head %}
     {% include {{ script }} %}
   {% endfor %}
