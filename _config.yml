@@ -27,6 +27,9 @@ image: "/1.jpg"
 include: ["_pages"]
 exclude:
   - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
 keep_files: [images]
 
 collections:
