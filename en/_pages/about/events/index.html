@@ -6,33 +6,37 @@ permalink: /about/events/
 ref: events
 ---
 <div class="page">
-  <h2>EVENTS</h2>
   <h2>Come say hello in person!</h2>
-  <h3>2026 Events (More coming soon!)</h3>
-  <ul class="stockists">
-    <li> <strong>New England Made (Wholesale Trade Show)</strong> Portland, ME <em>March 14-16, 2026</em></li>
-    <li> <strong>Kingdom Maple Festival</strong> St. Johnsbury, VT <em>April 18, 2026</em></li>
-    <li> <strong>Illuminate Vermont</strong> South Burlington, VT <em>April 24-25, 2026</em></li>
-    <li> <strong>Markets for Makers</strong> Boston, MA <em>May 2-3, 2026</em></li>
-    <li> <strong>Stowe Balloon Festival</strong> Stowe, VT <em>June 26-28, 2026</em></li>
-    <li> <strong>Stowe Art on Park</strong> Stowe, VT <em>July 4 and August 20, 2026</em></li>
-    <li> <strong>Waterbury Arts Fest</strong> Waterbury, VT <em>July 11, 2026</em></li>
-    <li> <strong>Mad River Valley Craft Fair</strong> Waitsfield, VT <em>Sept 5-6, 2026</em></li>
-    <li> <strong>SEABA Art Hop</strong> Burlington, VT <em>Sept 12-13, 2026</em></li>
-    <li> <strong>Chester Fall Festival</strong> Chester, VT <em>Sept 19-20, 2026</em></li>
-    <li> <strong>Bristol Harvet Festival</strong> Bristol, VT <em>Sept 26, 2026</em></li> 
-    <li> <strong>Richmond Art Crawl</strong> Richmond, VT <em>Sept 27, 2026</em></li>  
-    <li> <strong>Freeport Fall Festival</strong> Freeport, ME <em>Oct 3-5, 2026</em></li>
-    <li> <strong>Markets for Makers</strong> Boston, MA <em>Oct 10-11, 2026</em></li>
-    <li> <strong>Newfane Heritage Festival</strong> Newfane, VT <em>Oct 10-11, 2026</em></li>
-    <li> <strong>Woodstock Apples and Crafts and Food Truck Festival</strong> Woodstock, VT <em>Oct 10-11, 2026</em></li>
-    <li> <strong>Markets for Makers</strong> Chicago, IL <em>Oct 24-25, 2026</em></li>
-    <li> <strong>The Good Trade Makers Market PVD</strong> Providence, RI <em>Nov 21-22, 2026</em></li>
-    <li> <strong>The Good Trade Makers Market BTV</strong> Burlington, VT <em>Dec 5-6, 2026</em></li>
-  </ul>
+  <h2>2026 Events</h2>
+    {% assign today = "now" | date: "%s" %}
+    {% assign grouped = site.data.events | group_by: "month" %}
+
+    {% for group in grouped %}
+      <h3>{{ group.name }}</h3>
+      <ul class="event-list">
+        {% for event in group.items %}
+          {% assign event_ts = event.end_date | date: "%s" %}
+          {% assign is_past = false %}
+          {% if event_ts < today %}
+            {% assign is_past = true %}
+          {% endif %}
+          <li class="event-item{% if is_past %} event-past{% endif %}">
+            <span class="event-date">{{ event.display_date }}</span>
+            <span class="event-name">{{ event.name }}</span>
+            <span class="event-location">{{ event.location }}</span>
+            {% if is_past %}<span class="event-badge">Past</span>{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  <div class="columns">
+    <div class="home-img">
+      <img src="/assets/images/home-collections/at-event-square.jpg" alt="Photo of Soijen at market"/>
+    </div>
+  </div>
   </br>
   <h3>Past Events:</h3>
-  <ul class="stockists">
+  <ul class="stockists event-past">
       <li> <strong>Market on Main Holiday Pop-up</strong> Brattleboro, Vermont <em>Dec 19-21, 2025</em></li>
       <li> <strong>Confetti Holiday Bazaar</strong> Biddeford, Maine <em>Dec 13-14, 2025</em></li>
       <li> <strong>The Good Trade Makers Market BTV</strong> Burlington, Vermont <em>Dec 6-7, 2025</em></li>

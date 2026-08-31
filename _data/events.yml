@@ -1,0 +1,100 @@
+- name: New England Made (Wholesale Trade Show)
+  display_date: March 14–16
+  end_date: 2026-03-16
+  location: Portland, ME
+  month: March
+- name: Kingdom Maple Festival
+  display_date: April 18
+  end_date: 2026-04-18
+  location: St. Johnsbury, VT
+  month: April
+- name: Illuminate Vermont
+  display_date: April 24–25
+  end_date: 2026-04-25
+  location: South Burlington, VT
+  month: April
+- name: Markets for Makers
+  display_date: May 2–3
+  end_date: 2026-05-03
+  location: Boston, MA
+  month: May
+- name: Stowe Balloon Festival
+  display_date: June 26–28
+  end_date: 2026-06-28
+  location: Stowe, VT
+  month: June
+- name: Stowe Art on Park
+  display_date: July 4
+  end_date: 2026-07-04
+  location: Stowe, VT
+  month: July
+- name: Waterbury Arts Fest
+  display_date: July 11
+  end_date: 2026-07-11
+  location: Waterbury, VT
+  month: July
+- name: Stowe Art on Park
+  display_date: August 20
+  end_date: 2026-08-20
+  location: Stowe, VT
+  month: August
+- name: Mad River Valley Craft Fair
+  display_date: Sept 5–6
+  end_date: 2026-09-06
+  location: Waitsfield, VT
+  month: September
+- name: SEABA Art Hop
+  display_date: Sept 12–13
+  end_date: 2026-09-13
+  location: Burlington, VT
+  month: September
+- name: Chester Fall Festival
+  display_date: Sept 19–20
+  end_date: 2026-09-20
+  location: Chester, VT
+  month: September
+- name: Bristol Harvest Festival
+  display_date: Sept 26
+  end_date: 2026-09-26
+  location: Bristol, VT
+  month: September
+- name: Richmond Art Crawl
+  display_date: Sept 27
+  end_date: 2026-09-27
+  location: Richmond, VT
+  month: September
+- name: Freeport Fall Festival
+  display_date: Oct 3–5
+  end_date: 2026-10-05
+  location: Freeport, ME
+  month: October
+- name: Market for Makers
+  display_date: Oct 10–11
+  end_date: 2026-10-11
+  location: Boston, MA
+  month: October
+- name: Newfane Heritage Festival
+  display_date: Oct 10–11
+  end_date: 2026-10-11
+  location: Newfane, VT
+  month: October
+- name: Woodstock Apples, Crafts and Food Truck Festival
+  display_date: Oct 10–11
+  end_date: 2026-10-11
+  location: Woodstock, VT
+  month: October
+- name: Market for Makers
+  display_date: Oct 24–25
+  end_date: 2026-10-25
+  location: Chicago, IL
+  month: October
+- name: The Good Trade Makers Market PVD
+  display_date: Nov 21–22
+  end_date: 2026-11-22
+  location: Providence, RI
+  month: November
+- name: The Good Trade Makers Market BTV
+  display_date: Dec 5–6
+  end_date: 2026-12-06
+  location: Burlington, VT
+  month: December
