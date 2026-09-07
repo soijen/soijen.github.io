@@ -68,7 +68,7 @@
   end_date: 2026-10-05
   location: Freeport, ME
   month: October
-- name: Market for Makers
+- name: Market for Makers Boston Fall Market
   display_date: Oct 10–11
   end_date: 2026-10-11
   location: Boston, MA
@@ -78,12 +78,7 @@
   end_date: 2026-10-11
   location: Newfane, VT
   month: October
-- name: Woodstock Apples, Crafts and Food Truck Festival
-  display_date: Oct 10–11
-  end_date: 2026-10-11
-  location: Woodstock, VT
-  month: October
-- name: Market for Makers
+- name: Market for Makers Chicago Fall Market
   display_date: Oct 24–25
   end_date: 2026-10-25
   location: Chicago, IL
